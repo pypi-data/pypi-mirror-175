@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/magic_test/__init__.py
+src/magic_test/magic_test.py
+src/magic_test/py.typed
+src/magic_test.egg-info/PKG-INFO
+src/magic_test.egg-info/SOURCES.txt
+src/magic_test.egg-info/dependency_links.txt
+src/magic_test.egg-info/top_level.txt
