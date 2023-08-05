@@ -1,0 +1,10 @@
+simpleschema/__init__.py,sha256=prcMm3CH82NjRRtyAnUMXD_MJerLow93N1mN-D7Ummc,127
+simpleschema/__version__.py,sha256=I7spPUo-JCCVF0LxFjyD1km0ENKLPwxpnJByB_RQNsQ,64
+simpleschema/exceptions.py,sha256=0sIWKF5-XeQj3ohciUwEAyjQfG7LT6HOXQ5GPiu1Iek,1361
+simpleschema/helper_classes.py,sha256=ovvGlYvas7DPtAGyoMvnHR_HLo2zkEIjSSYMKqamE10,1128
+simpleschema/validate.py,sha256=WJm5LCMQJEjIozwS1Avs-J4g2khqMOLK3hbmaBlrSsA,5541
+simpleschema-0.6.1.dist-info/LICENSE,sha256=H6xvvkzKYauNhM4zGJX2m4SX2JXWV0BVecR2lyxmxZo,1064
+simpleschema-0.6.1.dist-info/METADATA,sha256=QTs0OtU35G2AQo-VfISamDjtj8D4AObtKt-BLumtmeM,3522
+simpleschema-0.6.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+simpleschema-0.6.1.dist-info/top_level.txt,sha256=JGnpJUXJ-abnjEhMcka4T6lASKk6rQ8hGm2x0yNoC5w,13
+simpleschema-0.6.1.dist-info/RECORD,,
