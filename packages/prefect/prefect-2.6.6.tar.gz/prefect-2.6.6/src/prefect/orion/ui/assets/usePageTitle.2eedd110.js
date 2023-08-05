@@ -1,0 +1,1 @@
+import{b as n,i as r,H as u}from"./index.52801128.js";function c(...e){const o=[...e,"Prefect Orion"],i=n(()=>o.map(t=>r(t)).filter(t=>t!==null).join(" \u2022 "));u(()=>document.title=i.value)}export{c as u};
