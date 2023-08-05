@@ -1,0 +1,2 @@
+[console_scripts]
+ocpm = ocpm.main:run
