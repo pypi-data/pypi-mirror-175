@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "pcapprox"
+version = "0.3.0"
+description = "A Python package for parameterized convex approximators"
+authors = ["JinraeKim <kjl950403@gmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = ">=3.8, <3.9"
+numpy = "^1.23.4"
+cvxpy = "^1.2.1"
+cvxpylayers = "^0.1.5"
+pathlib = "^1.0.1"
+tqdm = "^4.64.1"
+torch = "^1.12.0"  # for pypi publish
+# torch = {url = "https://download.pytorch.org/whl/cu113/torch-1.12.0%2Bcu113-cp38-cp38-linux_x86_64.whl"}  # for linux
+# torch = {url = "https://download.pytorch.org/whl/cpu/torch-1.12.0-cp38-none-macosx_10_9_x86_64.whl"}  # for mac
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+flake8 = "^5.0.4"
+matplotlib = "^3.6.2"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
