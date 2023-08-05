@@ -1,0 +1,8 @@
+setup.py
+datacalc/__init__.py
+datacalc/bearing.py
+datacalc.egg-info/PKG-INFO
+datacalc.egg-info/SOURCES.txt
+datacalc.egg-info/dependency_links.txt
+datacalc.egg-info/requires.txt
+datacalc.egg-info/top_level.txt
