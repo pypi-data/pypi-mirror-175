@@ -1,0 +1,2 @@
+[console_scripts]
+sdm_modbus_zmq = sdm_modbus_zmq.app:entry_point
