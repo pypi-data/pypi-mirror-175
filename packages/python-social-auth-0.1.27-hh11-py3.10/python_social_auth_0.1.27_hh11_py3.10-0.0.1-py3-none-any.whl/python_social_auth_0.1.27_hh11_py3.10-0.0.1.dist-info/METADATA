@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: python-social-auth-0.1.27-hh11-py3.10
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/pypa/sampleproject
+Author: Stepan Greenberg
+Author-email: stepan.greenberg@ya.ru
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+hh oauth
