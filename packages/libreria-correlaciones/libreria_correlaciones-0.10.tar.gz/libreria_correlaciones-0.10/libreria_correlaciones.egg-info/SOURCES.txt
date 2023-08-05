@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+libreria_correlaciones/libreria_correlaciones.py
+libreria_correlaciones.egg-info/PKG-INFO
+libreria_correlaciones.egg-info/SOURCES.txt
+libreria_correlaciones.egg-info/dependency_links.txt
+libreria_correlaciones.egg-info/requires.txt
+libreria_correlaciones.egg-info/top_level.txt
