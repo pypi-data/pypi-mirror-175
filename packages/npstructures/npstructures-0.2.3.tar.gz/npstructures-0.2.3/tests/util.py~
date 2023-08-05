@@ -1,0 +1,8 @@
+
+
+def assert_npdataclass_equal(a, b):
+    for s, o in zip(a.shallow_tuple(), b.shallow_tuple()):
+        if not s.shape == o.shape:
+            assert False
+        if not np.all(np.equal(s, o)):
+            assert False
