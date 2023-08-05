@@ -1,0 +1,78 @@
+## Description
+
+`PSimPy` (Predictive and probabilistic simulation with Python) implements
+a Gaussian process emulation-based framework that enables systematically and
+efficiently inverstigating uncertainties associated with physics-based models
+(i.e. simulators).
+
+## Installation
+
+`PSimPy` is a pure Python package and can be easily installed using `pip`. All
+Python-related dependencies are automatically taken care of. It should be noted
+that some modules of `PSimPy` rely on / take advantage of non-Python package and
+software. More specifically, the emulator module `robustgasp.py` relies on the R
+package `RobustGaSP`; the simulator module `ravaflow.py` relies on the open
+source software `r.avaflow 2.4`. If you want to use these modules or any other
+modules relying on these modules, corresponding non-Python dependencies need to
+be installed.
+
+You can find how to install `r.avaflow 2.4` following its official documentation
+under https://www.landslidemodels.org/r.avaflow/.
+
+We recommond you to install `PSimPy` in a virtual environment such as a `conda`
+environment. You may want to first install `Anaconda` or `Miniconda` if you
+haven't. The steps afterwards are as follows:
+
+1. Create a conda environment with Python 3.9:
+
+```bash
+conda create --name your_env_name python=3.9
+```
+
+2. Install `R` if you don't have it on your machine
+(if you have `R`, you can skip this step; alternatively, you can follow this step
+to install `R` in the conda environment):
+```bash
+conda activate your_env_name
+conda install -c conda-forge r-base=3.6
+```
+
+3. Install the R package `RobustGaSP` in the R terminal:
+```bash
+R
+install.packages("RobustGaSP",repos="https://cran.r-project.org",version="0.6.4")
+q()
+```
+
+4. Configure the environment variable `R_HOME` so that `rpy2` knows where to find
+`R` packages. You can find the value of your `R_HOME` by typing the following
+command in the R terminal:
+```bash
+R.home()
+```
+Then set `R_HOME` in your conda environment by
+```bash
+conda env config vars set R_HOME=your_R_HOME_value
+```
+
+5. Install `PSimPy` using `pip` in your conda environment by
+```bash
+pip install psimpy
+```
+
+Now you should have `PSimPy` and its dependencies successfully installed.
+
+## Usage
+Examples are currently in preparation and will be available soon in coming
+versions. You may want to have a look at the tests which are currently available
+at https://git-ce.rwth-aachen.de/mbd/psimpy. They give a glimpse of how `PSimpy`
+can be used.
+
+## Documentation
+Documentation is currently in preparation and will be available soon.
+
+## License
+
+`PSimPy` was created by Hu Zhao at the Chair of Methods for Model-based
+Development in Computational Engineering. It is licensed under the terms of
+the MIT license.
