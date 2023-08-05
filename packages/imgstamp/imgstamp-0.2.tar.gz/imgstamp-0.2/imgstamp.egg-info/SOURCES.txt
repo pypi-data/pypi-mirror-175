@@ -1,0 +1,9 @@
+setup.py
+imgstamp/__init__.py
+imgstamp/img_stamp.py
+imgstamp/text_stamp.py
+imgstamp.egg-info/PKG-INFO
+imgstamp.egg-info/SOURCES.txt
+imgstamp.egg-info/dependency_links.txt
+imgstamp.egg-info/requires.txt
+imgstamp.egg-info/top_level.txt
