@@ -1,0 +1,10 @@
+wpcsys/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wpcsys/libusb-1.0.dll,sha256=PDwfR8gEDYQalAIYh0vPiKR-JPWKEVprr_CGnSUy-44,1292959
+wpcsys/pywpc.cp310-win_amd64.pyd,sha256=206Ir3J3zvmb2yuEZZ3-2ifBU7nMjuKd9yIiZ7vhdG8,1841152
+wpcsys/pywpc.cp38-win_amd64.pyd,sha256=saa7bLr4q0lqqTBljzIzuNGDI0luBP7dtQVEtlroIks,1991168
+wpcsys/pywpc.cp39-win_amd64.pyd,sha256=6dzfHXiBe_DwOb_j48DdmJ22t-j2Sax8Fm_XyWv3Am0,1996800
+wpcsys-1.0.9.1.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+wpcsys-1.0.9.1.dist-info/METADATA,sha256=o43ZzyHJyQ6k5JkUz4ZR5M6I22pzHQK-XwihmIFvULA,9023
+wpcsys-1.0.9.1.dist-info/WHEEL,sha256=M2GQ3lde8oJhlQPj2wbRvnqE3cuovPJasri5X5aCmck,100
+wpcsys-1.0.9.1.dist-info/top_level.txt,sha256=0_MMgzXCFieTV8Cugw10SqWzdlq5d7HLRWNRKTxB33w,7
+wpcsys-1.0.9.1.dist-info/RECORD,,
