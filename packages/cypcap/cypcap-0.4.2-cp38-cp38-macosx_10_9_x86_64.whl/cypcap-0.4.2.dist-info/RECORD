@@ -1,0 +1,9 @@
+cypcap/__init__.py,sha256=Tfyf_vfiqH6TOEbLS1sa07McZ_8UuUybd9FnbADnrlA,115
+cypcap/_cypcap.cpython-38-darwin.so,sha256=p2EPK8k3NM3Uza6u9hjwK4Sm1qJxkDLdXGtxbW7-h-k,723352
+cypcap/bpf.cpython-38-darwin.so,sha256=8oMO_DwfZKrByGZWpDGnCkXnM_2V11dIlalLW5O7IN0,72016
+cypcap-0.4.2.dist-info/LICENSE,sha256=7Rf1K-4rb7jgmpa0f5MpGemyVHypA-rlCHlaYZd6CIY,1519
+cypcap-0.4.2.dist-info/METADATA,sha256=8rm1EFT5rl4Ldun3uRdIRpBvcO5wBfUEG6Qk9BW8gcc,3117
+cypcap-0.4.2.dist-info/NOTICE,sha256=s4W2i-JhzOZAijRPJ9M8UWw_nbLUehPAx6J50V0CaiQ,30042
+cypcap-0.4.2.dist-info/WHEEL,sha256=pXLpj1wTvqlD6RVUEKOuGQGeFX0NOPyDrsC-9xVDmYU,109
+cypcap-0.4.2.dist-info/top_level.txt,sha256=FqIcokTzoEXDlVTptMMsjtTJq6-pwj4-5QRGpNdhGbQ,7
+cypcap-0.4.2.dist-info/RECORD,,
