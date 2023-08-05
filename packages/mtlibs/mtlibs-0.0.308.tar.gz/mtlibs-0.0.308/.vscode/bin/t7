@@ -1,0 +1,28 @@
+#!/bin/bash
+
+
+echo "重启测试容器"
+# set -e
+# . .venv/bin/activate
+
+
+# dc build mtpylib_dev
+
+# set +e
+
+# echo "停止旧容器"
+# dc kill mtpylib_dev
+# dc rm --force mtpylib_dev
+
+
+# set -e
+# echo "启动容器"
+# dc up -d mtpylib_dev
+
+DOCKER_COMPOSE_ARGS=" -f compose.yml"
+
+set +e
+docker-compose ${DOCKER_COMPOSE_ARGS} kill mtpylib_dev
+docker-compose ${DOCKER_COMPOSE_ARGS} rm --force mtpylib_dev
+set -e
+docker-compose ${DOCKER_COMPOSE_ARGS} up -d mtpylib_dev

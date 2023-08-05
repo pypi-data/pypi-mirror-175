@@ -1,0 +1,51 @@
+{
+    "editor.fontFamily": "Meslo LG s for PowerLine",
+    // "python.testing.pytestArgs": [
+    //     // "--ignore gallery",
+    //     "."
+    // ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#25320e",
+        "activityBar.activeBackground": "#bef029",
+        "activityBar.background": "#eadafb",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#e67c19",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#eadafb",
+        "statusBar.background": "#d0abf7",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#2a0d49",
+        "statusBarItem.remoteBackground": "#d0abf7",
+        "statusBarItem.remoteForeground": "#041323",
+        "titleBar.activeBackground": "#ee1f98",
+        "titleBar.activeForeground": "#2b77c3",
+        "titleBar.inactiveBackground": "#d0abf799",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.remoteColor": "#d0abf7",
+    "editor.tabSize": 4,
+    //启用括号匹配插件
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.egg-info":true,
+        "**/.pytest_cache":true,
+        "**/__pycache__":true,
+    },
+    "peacock.color": "#6f3f57"
+}

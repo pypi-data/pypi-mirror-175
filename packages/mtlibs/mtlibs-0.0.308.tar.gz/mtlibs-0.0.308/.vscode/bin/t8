@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+echo "重启测试容器"
+set -e
+. .venv/bin/activate
+
+
+dc build mtpylib_test
+
+set +e
+
+echo "停止旧容器"
+# dc stop --yes mtpylib_test
+# dc rm --force mtpylib_test
+
+dc kill mtpylib_test
+dc rm --force mtpylib_test
+
+
+set -e
+echo "启动容器"
+dc up -d mtpylib_test

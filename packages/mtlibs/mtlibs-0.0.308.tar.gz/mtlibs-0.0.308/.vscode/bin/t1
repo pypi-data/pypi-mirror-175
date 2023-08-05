@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "测试，成功后本地安装"
+. .venv/bin/activate
+
+python3 setup_cli.py develop
+python3 setup_mtxp.py develop
+# python3 setup_zm.py develop
