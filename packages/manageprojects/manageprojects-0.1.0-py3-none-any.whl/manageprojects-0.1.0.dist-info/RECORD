@@ -1,0 +1,16 @@
+manageprojects/__init__.py,sha256=9qjLdgKnNfbGlaC2Wke1pXTohFPhf-t83PpusuErzqM,166
+manageprojects/__main__.py,sha256=VQBShQ03Sg3mjrlzPk7ZEKtU-MdTHG1-gK4HWhO6U00,165
+manageprojects/cli.py,sha256=4T5pKMIerbZM6l8CX3N25DuzeFCYsOoxthg9qY0EvPY,8120
+manageprojects/constants.py,sha256=wSPH3jKkhsXas0M3u_8Z4BHH1V1PDbJfoKLBvtDMntU,254
+manageprojects/cookiecutter_api.py,sha256=HT1ivj1aFq9e6O8MF37C3B3JrC2-rYSLiuRyp6h13Mc,3766
+manageprojects/cookiecutter_templates.py,sha256=fiOrRDpgGwAXhjdNkApfVE1ybfXQISe5_sX-mUBmUYA,4614
+manageprojects/data_classes.py,sha256=v8VJxVXI6Ofi86rTXQd7Chvh9bD3X2Be1BlAGDufcKs,1417
+manageprojects/exceptions.py,sha256=wz2M5X8HyIzTwUwCIe_CyT1i-h1kGRtQwc-MszluKVQ,201
+manageprojects/git.py,sha256=jD5nNX88RL9kf_4PZE_yZ6fslUqsECkmKPhNTr4CMbk,6040
+manageprojects/patching.py,sha256=S79F_VV1RfwtkIqASX36atDk9zGVo1JLCWz3HIWUSy8,5101
+manageprojects-0.1.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+manageprojects-0.1.0.dist-info/METADATA,sha256=2BIhjMBaWiO_VSudaPtzkRJ8JjtoQj5ymTgOaVzSF8U,5117
+manageprojects-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+manageprojects-0.1.0.dist-info/entry_points.txt,sha256=o-4KqLJttsxzx6-sJm5mVg8gv1W5OQW0SPC2VENiIf8,59
+manageprojects-0.1.0.dist-info/top_level.txt,sha256=tWLQYB3evV4bujPXzRAYJMKB4V1fBcbtnlJbU-WzhdI,15
+manageprojects-0.1.0.dist-info/RECORD,,
