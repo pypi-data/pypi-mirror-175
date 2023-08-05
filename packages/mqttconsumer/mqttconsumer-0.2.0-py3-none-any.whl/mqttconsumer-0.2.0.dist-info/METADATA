@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: mqttconsumer
+Version: 0.2.0
+Summary: Framework for MQTT-Consuming Analytics Applications
+Home-page: https://github.com/m-martin-j/mqttconsumer
+License: MIT
+Author: Martin Trat
+Author-email: martin.trat@gmail.com
+Requires-Python: >=3.7
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Dist: paho-mqtt (>=1.6.0,<2.0.0)
+Description-Content-Type: text/markdown
+
+This code facilitates the use of the MQTT protocol in analytics-related applications.
+It is based on [Eclipse Paho™ MQTT Python Client](https://github.com/eclipse/paho.mqtt.python).
+
