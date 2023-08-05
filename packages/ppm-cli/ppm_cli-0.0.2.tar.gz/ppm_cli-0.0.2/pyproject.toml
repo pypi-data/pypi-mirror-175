@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ppm-cli"
+version = "0.0.2"
+description = ""
+authors = ["markus <datamastery87@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "src" }]
+
+[tool.poetry.scripts]
+ppm = "src.main:app"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+typer = {extras = ["all"], version = "^0.6.0"}
+cookiecutter = "^2.1.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+black = "^22.10.0"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
