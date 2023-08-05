@@ -1,0 +1,8 @@
+setup.py
+algoands.egg-info/PKG-INFO
+algoands.egg-info/SOURCES.txt
+algoands.egg-info/dependency_links.txt
+algoands.egg-info/requires.txt
+algoands.egg-info/top_level.txt
+datacalc/__init__.py
+datacalc/bearing.py
