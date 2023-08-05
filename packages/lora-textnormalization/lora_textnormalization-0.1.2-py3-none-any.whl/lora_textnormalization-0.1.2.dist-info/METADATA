@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: lora-textnormalization
+Version: 0.1.2
+Summary: A text normalization package for general English NLP tasks.
+License: MIT
+Author: Adrian-Wong
+Author-email: adrian@asklora.ai
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: spacy (>=3.4.2,<4.0.0)
+Description-Content-Type: text/markdown
+
+# import
+
+`from lora_textnormalization import spacy_process`
+
+# Usage
+
+`normalized = spacy_process("Markov's long text")`
+
+# Output
+
+`list['Markov', 'long', 'text']`
+
