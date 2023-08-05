@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "jefer"
+version = "0.1.0"
+description = "A simple dotfiles manager written in asynchronous Python code."
+authors = ["Somraj Saha <somraj.mle@gmail.com>"]
+license = "MIT"
+readme = 'README.md'
+
+[tool.poetry.scripts]
+jefer = "jefer.main:app"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+typer = {extras = ["all"], version = "^0.6.1"}
+
+[tool.poetry.dev-dependencies]
+pydocstyle = "^6.1.1"
+black = "^22.10.0"
+mypy = "^0.982"
+flake8 = "^5.0.4"
+isort = "^5.10.1"
+pytest = "^7.2.0"
+mkdocs-material = "^8.5.7"
+Pillow = "^9.3.0"
+CairoSVG = "^2.5.2"
+toml = "^0.10.2"
+
+[tools.isort]
+profile = "black"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
