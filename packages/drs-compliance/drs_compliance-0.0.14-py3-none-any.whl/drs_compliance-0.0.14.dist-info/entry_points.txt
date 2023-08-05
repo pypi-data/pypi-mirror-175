@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        drs-compliance=compliance_suite.report_runner:main
+    
