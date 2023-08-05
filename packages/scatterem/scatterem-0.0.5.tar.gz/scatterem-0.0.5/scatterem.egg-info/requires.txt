@@ -1,0 +1,10 @@
+torchvision
+pytorch>=1.8.0
+fastcore
+pytorch-lightning
+matplotlib_scalebar
+sigpy
+ncempy
+GPUtil
+
+[dev]
