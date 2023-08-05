@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: sendwave-pants-docker
+Version: 1.1.2
+Summary: Pants Plugin to automatically generate docker images from pants targets
+Home-page: https://github.com/waveremit/pants-docker
+Author: Nathan Rosenbloom, Jean Cochrane
+Author-email: engineering@sendwave.com
+Requires-Python: >=3.8
