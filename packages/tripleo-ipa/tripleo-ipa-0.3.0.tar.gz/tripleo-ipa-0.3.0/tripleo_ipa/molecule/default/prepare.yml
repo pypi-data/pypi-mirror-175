@@ -1,0 +1,108 @@
+---
+# Copyright 2020 Red Hat, Inc.
+# All Rights Reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License"); you may
+# not use this file except in compliance with the License. You may obtain
+# a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+# License for the specific language governing permissions and limitations
+# under the License.
+
+- hosts: localhost
+  connection: local
+  tasks:
+    - name: set facts for domains
+      set_fact:
+        domain: example.test
+        ipa_password: password123
+
+    - name: Download FreeIPA Container
+      containers.podman.podman_image:
+        name: docker.io/freeipa/freeipa-server:fedora-28
+        pull: true
+      become: true
+
+    - name: Make IPA data dir
+      ansible.builtin.file:
+        path: /tmp/ipa-data
+        state: directory
+
+    - name: Toggle SELinux boolean
+      ansible.posix.seboolean:
+        name: container_manage_cgroup
+        state: true
+        persistent: true
+      become: true
+
+    - name: Remove any old IPA container
+      containers.podman.podman_container:
+        name: freeipa-server-container
+        state: absent
+      become: true
+
+    - name: Get configuration from NetworkManager
+      command: nmcli device show
+      register: nmcli_device_show
+
+    - name: Configure FreeIPA
+      shell: >
+        sudo podman run -d --name freeipa-server-container
+        --sysctl net.ipv6.conf.lo.disable_ipv6=0
+        --security-opt seccomp=unconfined
+        --ip 10.88.0.22
+        -e IPA_SERVER_IP={{ ansible_default_ipv4.address | default('127.0.0.1') }}
+        -e PASSWORD={{ ipa_password }}
+        -h ipa.{{ domain }}
+        --read-only --tmpfs /run --tmpfs /tmp
+        -v /sys/fs/cgroup:/sys/fs/cgroup:ro
+        -v /tmp/ipa-data:/data:Z freeipa/freeipa-server:fedora-28 no-exit
+        -U -r {{ domain | upper }} --setup-dns --no-reverse --no-ntp
+        --forwarder={{ nameservers[0] | default('8.8.8.8') }}
+      vars:
+        nameservers: "{{ nmcli_device_show.stdout | regex_findall('\\s*IP4.DNS\\[.\\]:\\s*(.*)') }}"
+
+    - block:
+        - name: Wait for FreeIPA server install
+          wait_for:
+            path: "/tmp/ipa-data/var/log/ipaserver-install.log"
+            search_regex: "(INFO The ipa-server-install command was successful|ERROR The ipa-server-install command failed)"
+            timeout: 900
+          become: true
+      rescue:
+        - name: Get the last lines from IPA install
+          command: tail -50 /tmp/ipa-data/var/log/ipaserver-install.log
+          become: true
+          register: file_log
+
+        - name: Print info
+          debug:
+            msg: "{{ file_log.stdout }}"
+
+        - name: Fail task if timeout reached
+          fail:
+            msg: "Timeout of IPA server installation has been reached"
+
+    - name: Wait for FreeIPA LDAP port to open
+      wait_for:
+        host=10.88.0.22
+        port=389
+        delay=1
+        timeout=300
+      ignore_errors: true
+
+    - name: Check the status of ipactl to make sure all services are started
+      command: "sudo podman exec freeipa-server-container ipactl status"
+      retries: 10
+      delay: 3
+      register: result
+      until: result.rc == 0
+
+    - name: Print ipactl status
+      debug:
+        msg: "{{ result.stdout }}"

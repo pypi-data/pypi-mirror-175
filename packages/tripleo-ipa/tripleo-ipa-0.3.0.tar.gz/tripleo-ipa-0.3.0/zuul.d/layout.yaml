@@ -1,0 +1,15 @@
+---
+- project:
+    templates:
+      - check-requirements
+      - openstack-python3-wallaby-jobs
+      - publish-to-pypi
+      - tripleo-standalone-multinode-ipa-pipeline
+    check:
+      jobs:
+      - openstack-tox-linters-centos
+      - tripleo-ipa-centos-9-molecule
+    gate:
+      jobs:
+      - openstack-tox-linters-centos
+      - tripleo-ipa-centos-9-molecule

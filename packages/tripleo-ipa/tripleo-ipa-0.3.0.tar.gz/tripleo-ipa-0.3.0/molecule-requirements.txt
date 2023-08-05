@@ -1,0 +1,5 @@
+ansible-core>=2.11,<2.12.0
+docker
+molecule
+molecule-podman
+testinfra

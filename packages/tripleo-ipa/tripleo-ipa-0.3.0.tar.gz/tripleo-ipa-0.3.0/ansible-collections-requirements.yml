@@ -1,0 +1,6 @@
+collections:
+  - containers.podman
+  - community.general
+  - ansible.posix
+  - ansible.netcommon
+  - openstack.cloud

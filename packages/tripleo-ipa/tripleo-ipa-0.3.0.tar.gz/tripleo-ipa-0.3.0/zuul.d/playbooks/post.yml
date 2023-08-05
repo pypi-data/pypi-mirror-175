@@ -1,0 +1,44 @@
+---
+# Copyright 2020 Red Hat, Inc.
+# All Rights Reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License"); you may
+# not use this file except in compliance with the License. You may obtain
+# a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+# License for the specific language governing permissions and limitations
+# under the License.
+
+- name: TripleO IPA Post
+  hosts: all
+  tasks:
+
+    - name: Make ipaserver logs readable
+      file:
+        path: "/tmp/ipa-data/var/log"
+        mode: u=rwX,g=rX,o=rX
+        recurse: true
+        state: directory
+      become: true
+      failed_when: false
+
+    - name: Create local directory for ipaserver logs
+      file:
+        path: "{{ zuul.executor.log_root }}/ipa-logs"
+        state: directory
+        mode: u=rwX,g=rX,o=rX
+      failed_when: false
+      become: true
+
+    - name: Collect ipaserver-install logs
+      synchronize:
+        dest: "{{ zuul.executor.log_root }}/ipa-logs"
+        mode: pull
+        src: "/tmp/ipa-data/var/log/"
+        verify_host: true
+      failed_when: false

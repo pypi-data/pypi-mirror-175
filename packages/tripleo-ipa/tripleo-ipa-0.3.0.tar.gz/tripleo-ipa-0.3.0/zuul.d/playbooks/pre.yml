@@ -1,0 +1,65 @@
+---
+
+- hosts: all
+  pre_tasks:
+    - name: Set project path fact
+      set_fact:
+        tripleo_ipa_project_path: "{{ ansible_user_dir }}/{{ zuul.projects['opendev.org/x/tripleo-ipa'].src_dir }}"
+
+    - name: Ensure output dirs
+      file:
+        path: "{{ ansible_user_dir }}/zuul-output/logs"
+        state: directory
+
+    - name: Ensure pip is available
+      include_role:
+        name: ensure-pip
+
+    - name: Setup bindep
+      pip:
+        name: "bindep"
+        virtualenv: "{{ ansible_user_dir }}/test-python"
+        virtualenv_command: "{{ ensure_pip_virtualenv_command }}"
+        virtualenv_site_packages: true
+
+    - name: Run bindep
+      shell: |-
+        . {{ ansible_user_dir }}/test-python/bin/activate
+        {{ tripleo_ipa_project_path }}/scripts/bindep-install
+      become: true
+
+    - name: Ensure a recent version of pip is installed in virtualenv
+      pip:
+        name: "pip>=19.1.1"
+        virtualenv: "{{ ansible_user_dir }}/test-python"
+        virtualenv_command: "{{ ensure_pip_virtualenv_command }}"
+
+    - name: Setup test-python
+      pip:
+        requirements: "{{ tripleo_ipa_project_path }}/molecule-requirements.txt"
+        virtualenv: "{{ ansible_user_dir }}/test-python"
+        virtualenv_command: "{{ ensure_pip_virtualenv_command }}"
+        virtualenv_site_packages: true
+
+    - name: Make sure tox is installed in test-python virtualenv
+      pip:
+        name: tox
+        virtualenv: "{{ ansible_user_dir }}/test-python"
+
+    - name: Display test-python virtualenv package versions
+      shell: |-
+        . {{ ansible_user_dir }}/test-python/bin/activate
+        pip freeze
+
+    - name: Set containers module to 3.0
+      become: true
+      shell: |
+        dnf module disable container-tools:rhel8 -y
+        dnf module enable container-tools:3.0 -y
+        dnf clean metadata
+      when:
+        - (ansible_distribution_major_version | int) == 8
+
+  roles:
+    # docker is needed by multiple molecule scenarios
+    - role: ensure-podman
