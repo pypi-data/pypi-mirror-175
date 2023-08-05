@@ -1,0 +1,10 @@
+setup.py
+imgStampTools/__init__.py
+imgStampTools/img_stamp.py
+imgStampTools/text_stamp.py
+imgStampTools.egg-info/PKG-INFO
+imgStampTools.egg-info/SOURCES.txt
+imgStampTools.egg-info/dependency_links.txt
+imgStampTools.egg-info/requires.txt
+imgStampTools.egg-info/top_level.txt
+imgStampTools/font/simhei.ttf
