@@ -1,0 +1,9 @@
+Jinja2
+click>=8.1
+fastapi
+nbconvert
+python-multipart
+slowapi
+types-requests
+types-ujson
+uvicorn[standard]
