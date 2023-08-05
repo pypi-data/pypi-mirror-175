@@ -1,0 +1,34 @@
+version: "3.9"
+
+networks:
+  net:
+    name: net091
+    driver: bridge
+    enable_ipv6: false
+    ipam:
+      driver: default
+
+volumes:
+  vscode-server:
+    name: vscode-server
+
+x-networks: &network
+  networks:
+    - net
+services:
+  mtlibs_test:
+    image: gitgit188/mtlibs_test
+    <<: *network
+    build:
+      context: .
+      # target: prod
+      args:
+        - MTX_BUNDLER_PASS=123123123
+
+  # 解密测试
+  mtlibs_test_up:
+    image: gitgit188/mtlibs_test
+    <<: *network
+    environment:
+      - MTX_BUNDLER_PASS=123123123
+    # entrypoint: sleep 9999d

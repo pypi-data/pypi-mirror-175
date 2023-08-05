@@ -1,0 +1,11 @@
+version-parser
+python-dotenv
+docker
+requests
+paramiko
+stem
+
+build
+twine
+
+pytest

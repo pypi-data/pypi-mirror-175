@@ -1,0 +1,27 @@
+#!/bin/bash
+set -e
+
+
+. .venv/bin/activate
+echo "清理dist目录"
+rm -rdf dist
+
+echo "构建"
+python3 setup_cli.py bdist_wheel
+python3 setup_mtxp.py bdist_wheel
+# python3 setup_zm.py bdist_wheel
+# python3 setup_sm.py bdist_wheel
+
+# (cd dc && python3 setup_dc.py bdist_wheel)
+# python3 setup_dc.py bdist_wheel
+echo "构建完成"
+# python3 setup.py bdist_egg --exclude-source-files
+
+# pyinstaller main.py
+
+echo "发布"
+twine upload -u mattwin -p "xIl1*yingzi606" dist/*
+
+echo "安装"
+python3 setup.py develop
+

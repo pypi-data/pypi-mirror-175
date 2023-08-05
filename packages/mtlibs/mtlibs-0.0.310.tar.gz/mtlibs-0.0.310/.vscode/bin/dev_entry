@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "开发容器入口"
+
+# nginx
+. .venv/bin/activate
+# python3 setup.py install 
+# mtnginx &
+# ./manage.py runserver 0.0.0.0:8000 & 
+# python3 -m ptvsd --host 0.0.0.0 --port 5679 --wait main.py
+# python3 -m ptvsd --host 0.0.0.0 --port 5679 main.py
+
+# python setup.py develop
+set -e
+dockerdev
+echo "finished"
+sleep 99d
