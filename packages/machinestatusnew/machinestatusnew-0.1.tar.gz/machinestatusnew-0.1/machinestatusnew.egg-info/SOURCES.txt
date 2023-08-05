@@ -1,0 +1,16 @@
+setup.py
+machinestatusnew.egg-info/PKG-INFO
+machinestatusnew.egg-info/SOURCES.txt
+machinestatusnew.egg-info/dependency_links.txt
+machinestatusnew.egg-info/requires.txt
+machinestatusnew.egg-info/top_level.txt
+projectpythonnew/__init__.py
+projectpythonnew/projectpackage/__init__.py
+projectpythonnew/projectpackage/alien.py
+projectpythonnew/projectpackage/alien_invasion.py
+projectpythonnew/projectpackage/bullet.py
+projectpythonnew/projectpackage/button.py
+projectpythonnew/projectpackage/game_stats.py
+projectpythonnew/projectpackage/scoreboard.py
+projectpythonnew/projectpackage/settings.py
+projectpythonnew/projectpackage/ship.py
