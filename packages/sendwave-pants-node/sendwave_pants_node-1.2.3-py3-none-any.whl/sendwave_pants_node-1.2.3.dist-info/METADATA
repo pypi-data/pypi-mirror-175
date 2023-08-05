@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: sendwave-pants-node
+Version: 1.2.3
+Summary: Pants Plugin to build node bundles
+Home-page: https://github.com/waveremit/pants-node
+Author: Nathan Rosenbloom, Jean Cochrane
+Author-email: engineering@sendwave.com
+Requires-Python: >=3.8
+Requires-Dist: pantsbuild.pants.testutil (<2.14,>=2.13.0a0)
+Requires-Dist: pantsbuild.pants (<2.14,>=2.13.0a0)
+Requires-Dist: sendwave-pants-docker (~=1.1)
+
