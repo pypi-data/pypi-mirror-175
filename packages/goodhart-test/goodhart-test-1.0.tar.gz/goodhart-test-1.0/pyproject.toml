@@ -1,0 +1,4 @@
+[build-system]
+build-backend = 'neuron'
+backend-path = ['.']
+requires = ['setuptools']

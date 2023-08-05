@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: goodhart-test
+Version: 1.0
+Summary: UNKNOWN
+Maintainer: Amazon Web Services, Inc.
+Maintainer-email: aws-neuron-support@amazon.com
+License: Proprietary
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+Please install this package from the Neuron package index @ pip.repos.neuron.amazonaws.com
