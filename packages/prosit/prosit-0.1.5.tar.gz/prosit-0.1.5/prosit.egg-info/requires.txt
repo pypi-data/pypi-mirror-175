@@ -1,0 +1,14 @@
+pip==21.0.1
+wheel==0.37.1
+twine==3.3.0
+scipy
+pandas
+numpy
+sklearn
+scipy
+torch
+gensim
+contextualized_topic_models
+matplotlib
+seaborn
+imageio
