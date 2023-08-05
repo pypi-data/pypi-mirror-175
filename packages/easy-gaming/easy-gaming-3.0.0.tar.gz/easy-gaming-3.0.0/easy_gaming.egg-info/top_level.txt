@@ -1,0 +1,4 @@
+autoChat
+autoClicker
+autoPos
+mBind
