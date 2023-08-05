@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: kck-utils
+Version: 1.0.0
+Summary: Collection of utilities to be used primarily for Korckyjals-CODE python Telegram bots.
+Home-page: https://www.korckyjals-code.com
+Author: Jorge López
+Author-email: jorge.lopez@korckyjals-code.com
+Project-URL: Docs, https://www.korckyjals-code.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# kck_utils
+Utilities to be used in kck python projects
