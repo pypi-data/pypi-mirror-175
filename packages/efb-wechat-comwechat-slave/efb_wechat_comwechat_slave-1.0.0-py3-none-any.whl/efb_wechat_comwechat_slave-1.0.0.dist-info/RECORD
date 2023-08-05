@@ -1,0 +1,13 @@
+efb_wechat_comwechat_slave/ChatMgr.py,sha256=0KnGxSQC2QQehptjrtHSiFIeh2EUfC9JbESDqXQ1RJk,2459
+efb_wechat_comwechat_slave/ComWechat.py,sha256=5NvL4c3LJUyJBuc65H2A3V5ROe0C5-_RuxOO5MLDRYs,23563
+efb_wechat_comwechat_slave/CustomTypes.py,sha256=tIjQexBPQtH58IA7ZTfjmpy-lv2KxrGzJ-vFs1hS6L8,335
+efb_wechat_comwechat_slave/MsgDeco.py,sha256=KXxYMe5maNjSPrmc51EN7-aI_8XldnIkEeozWy25qfs,22650
+efb_wechat_comwechat_slave/MsgProcess.py,sha256=23mWpBt-6W7BplW8oNwjw9Is9glLCBOF0Ykczj09Q3Q,3992
+efb_wechat_comwechat_slave/Utils.py,sha256=oD3xy41WKUEuDDhJ20CUcsc7A0AbpCSjbxmUs_AhUQA,8994
+efb_wechat_comwechat_slave/__init__.py,sha256=kcHnwTZeugRHSmmggw63of2kQkpYSzH4TzHBL-9kCzs,39
+efb_wechat_comwechat_slave/__version__.py,sha256=J-j-u0itpEFT6irdmWmixQqYMadNl1X91TxUmoiLHMI,22
+efb_wechat_comwechat_slave-1.0.0.dist-info/METADATA,sha256=Y-ov6KwrNQJGuFeup3QurI9P6Kvcs_v6SQvV-WQE7jY,1196
+efb_wechat_comwechat_slave-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+efb_wechat_comwechat_slave-1.0.0.dist-info/entry_points.txt,sha256=s2T3rHPLZHMO1mZtTGflOekrD8TKiXfaEhuvcF7SJ4I,85
+efb_wechat_comwechat_slave-1.0.0.dist-info/top_level.txt,sha256=36_thGVeUVu9uvmT63Ge4K3mKx9d2msi-Sf4vffOtbc,27
+efb_wechat_comwechat_slave-1.0.0.dist-info/RECORD,,
