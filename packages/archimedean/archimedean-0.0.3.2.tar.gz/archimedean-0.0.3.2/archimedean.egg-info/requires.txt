@@ -1,0 +1,5 @@
+click
+requests
+bs4
+os
+json
