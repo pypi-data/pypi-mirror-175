@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/Tewl_vn.egg-info/PKG-INFO
+src/Tewl_vn.egg-info/SOURCES.txt
+src/Tewl_vn.egg-info/dependency_links.txt
+src/Tewl_vn.egg-info/not-zip-safe
+src/Tewl_vn.egg-info/top_level.txt
