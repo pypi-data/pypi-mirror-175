@@ -1,0 +1,8 @@
+clouddrift/__init__.py,sha256=F2sCjH-6Ye7fK62gE3XTUfZxZBxKoYLSJWBoLNzBVhU,36
+clouddrift/dataformat.py,sha256=Dcy3I3Crq2cCFsN0NQIz0DM0udXHeE8BbseStLddo0I,11812
+clouddrift/select.py,sha256=3yzViP3ZtrDiHYLIeFAP5QOjXTCJsDJNNnCQdfuu3k4,2902
+clouddrift/timeseries.py,sha256=w7iDhUSh1rnfAuvGVdOowVhTSdKxcjIsv6Ysy_ttdUM,361
+clouddrift-0.2.1.dist-info/METADATA,sha256=FN1nWgSwB4_Z-4tYRGwWd42Pcwyb3PXyv8LFtwa4fwI,3152
+clouddrift-0.2.1.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+clouddrift-0.2.1.dist-info/licenses/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+clouddrift-0.2.1.dist-info/RECORD,,
