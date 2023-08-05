@@ -1,0 +1,11 @@
+timeless/__init__.py,sha256=JFfKQeD_80CdFSs-S7pjWRcvHfeP8EiDjYTXN00wJfY,900
+timeless/converters/__init__.py,sha256=5LXjwXoPa_OWpR-FYXrH9X3fovY_mxQJjOTke14ctDk,515
+timeless/converters/dt_conv.py,sha256=YXW9IFHGzPVCh56L9bGiaiaoxSyUR82MdnD9A8gksiE,1425
+timeless/converters/np_conv.py,sha256=SN7k1ge4Iwgi41O6AXj6-9tTs2G5AmG90i7ENSw4R90,1112
+timeless/converters/pd_conv.py,sha256=5Xb51W-kRZas9GaMOziVQATUjveky6cUuy5-JdDH1uM,3945
+timeless/datetime.py,sha256=jCym6JAb8i_sfv9hlcf8EW7l14CdMi-L7mbneI9q5T8,14004
+timeless/period.py,sha256=9WYWRDfnvBkTptBFJOg-s5C_Ca-dRYIU_xaobTIDYyw,6200
+timeless/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+timeless-0.2.4.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+timeless-0.2.4.dist-info/METADATA,sha256=HP2KwgqlCaMKlStR5K5cSs7NbOSbHZK_jKR64SSkpdI,2811
+timeless-0.2.4.dist-info/RECORD,,
