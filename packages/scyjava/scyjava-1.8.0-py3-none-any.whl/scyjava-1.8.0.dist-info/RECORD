@@ -1,0 +1,10 @@
+scyjava/__init__.py,sha256=4jYxzUHbg-ekE67cVFFO3y3okE3rMv04Q08TZA1r8yo,5542
+scyjava/_arrays.py,sha256=3yuFiBIeaRyT-BeRUaLe0DUsLEeoY2FnYx9LuRhzp6Y,1401
+scyjava/_convert.py,sha256=RUqNvcbKe-t6cTCAOZBXjBa1GbYtA_RSxcibVIim0zE,29709
+scyjava/_java.py,sha256=uAGCS6HMJJ5FGf_-ZReuuFto4_3gwXwPcFcmAakfbHs,15582
+scyjava/_versions.py,sha256=-ekVe4dJavp9G7zc8fU3Z8OUW_oy1HyYFJG0W_O68hU,2527
+scyjava/config.py,sha256=M9lmp-6mqNRfgC5a_2V0bN53sw3dpkuw2v4wSbDu7SY,4523
+scyjava-1.8.0.dist-info/METADATA,sha256=A9MCQBmiDVCnOTGyIyjl0vDxYdYQa6lBlDVkoBvvZ1M,20252
+scyjava-1.8.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+scyjava-1.8.0.dist-info/top_level.txt,sha256=whE_AyF4nbh4L3h2ZdYTmKKr8cYoxXdjgAIufBuErQ0,8
+scyjava-1.8.0.dist-info/RECORD,,
