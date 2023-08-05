@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e
+. .venv/bin/activate
+python -m pytest
+
+rm -rdf ./dist
+python3 -m build
+
+python3 -m twine upload dist/*
+# python3 -m twine upload --repository testpypi dist/*
