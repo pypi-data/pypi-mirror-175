@@ -1,0 +1,8 @@
+programlib/__init__.py,sha256=2v4Vqdi9gzUnoBjyGrBwBt7q8ZvtqjDarw6pJrGizlI,80
+programlib/language.py,sha256=2ZpEKLlfN0PYl3mkGMX5wp_EupNebeVCdYgBml1zu-E,4305
+programlib/program.py,sha256=9x_dgsrxIjPh4wYcxN7FuiIcWaJoxO5QbCw-6LyEO9I,2871
+programlib/programs/.gitkeep,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+programlib-2.2.2.dist-info/LICENSE,sha256=3avSlXi2ys7VyzuwvG8-9U3YV-__qD1XYXQuhqjO1k8,1082
+programlib-2.2.2.dist-info/WHEEL,sha256=gSF7fibx4crkLz_A-IKR6kcuq0jJ64KNCkG8_bcaEao,88
+programlib-2.2.2.dist-info/METADATA,sha256=VgvDCn9NROZUx3ZaWVC-UtUXcbo0_VvpUzEYaRxK4ak,4043
+programlib-2.2.2.dist-info/RECORD,,
