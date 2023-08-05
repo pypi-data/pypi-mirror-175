@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+      - '*.x'
+    tags:
+      - '*'
+  pull_request:
+  schedule:
+    # Weekly Monday 7AM build
+    - cron: "0 7 * * 1"
+
+env:
+  CODECOV: $(codecov)
+
+jobs:
+  test:
+    name: run tests (Python ${{ matrix.python }}, numpy ${{ matrix.numpy }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        python: [ '3.8', '3.9', '3.10' ]
+        os: [ ubuntu-latest, macos-latest ]
+        numpy: [ '1.20.*', '1.21.*', '1.*' ]
+        exclude:
+          - python: '3.10'
+            numpy: '1.20.*'
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python }}
+      - uses: actions/cache@v3
+        with:
+          path: ${{ env.pythonLocation }}
+          key: test-${{ runner.os }}-${{ env.pythonLocation }}-${{ hashFiles('**/pyproject.toml', '**/setup.*') }}
+      - run: pip install -e ".[test]" "numpy==${{ matrix.numpy }}"
+      - run: |
+          python get_waf.py
+          python waf configure build
+      - run: pip freeze
+      - run: pytest -rsv
+  test_with_coverage:
+    name: run tests with coverage
+    needs: [ test ]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v3
+        with:
+          path: ${{ env.pythonLocation }}
+          key: test-${{ runner.os }}-${{ env.pythonLocation }}-${{ hashFiles('**/pyproject.toml', '**/setup.*') }}
+      - run: pip install -e ".[test]"
+      - run: |
+          python get_waf.py
+          python waf configure build
+      - run: pip freeze
+      - run: pytest -rsv --cov=./ --cov-report=xml --cov-report term-missing
+      - uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          fail_ci_if_error: true
