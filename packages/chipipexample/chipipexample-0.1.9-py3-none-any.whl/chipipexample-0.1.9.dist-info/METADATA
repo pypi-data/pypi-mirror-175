@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: chipipexample
+Version: 0.1.9
+Summary: A simple example of a Python package
+Author: Nathan Park
+Author-email: <nathanschool2000@gmail.com>
+License: UNKNOWN
+Keywords: example,education
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Education
+Requires-Dist: numpy
+Requires-Dist: lmfit
+Requires-Dist: uncertainties
+
+UNKNOWN
+
