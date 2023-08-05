@@ -1,0 +1,73 @@
+Metadata-Version: 2.1
+Name: image_processing-ghf-package
+Version: 0.0.1
+Summary: Test version - Image processing. Projeto criado pela Karina Kato para o bootcamp de ciência de dados da Unimed-BH.
+Home-page: https://github.com/GeraldoHenriqueFonseca/Processador_de_imagens_Dio_Unimed_BH
+Author: Geraldo Henrique Fonseca
+Author-email: ghenfon@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Desafio Unimed BH: Pacote de Processamento de Imagens
+
+## DescriÃ§Ã£o
+- Esse projeto consiste na criaÃ§Ã£o de um pacote para python, com base no curso ministrado por Karina Kato no bootcamp de ciÃªncia de dados da Unimed-BH.
+- Pacote de exemplo, baseado no [scikit-image](https://scikit-image.org)
+---
+
+## Passos para a hospedagem no Pypi
+- Primeiro se realiza uma instalaÃ§Ã£o ou upgrade do `pip`, `twine`, `setuptools` e `wheel`
+
+python -m pip install --upgrade pip
+python -m pip install --user twine
+python -m pip install --user setuptools
+python -m pip install --user wheel
+
+- Cria-se as distribuiÃ§Ãµes
+
+python setup.py sdist bdist_wheel
+
+- SerÃ£o criadas 3 pastas no projeto: 
+  - build
+  - dist
+  - image_processing_package.egg-info
+
+- O prÃ³ximo passo Ã© o upload no Test Pypi.
+
+python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+
+- O comando para upload no Pypi Ã©:
+
+python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+
+## InstalaÃ§Ã£o
+- Para a instalaÃ§Ã£o local, Ã© necessÃ¡rio instalar os requerimentos primeiro.
+
+pip install -r requirements.txt
+
+
+Para a instalaÃ§Ã£o do pacote, basta usar o [pip](https://pip.pypa.io/en/stable/) direcionando para o image-processing-ghf-package
+
+```bash
+pip install image-processing-ghf-package==0.0.1
+```
+---
+## Uso
+- Basta importar os mÃ³dulos de acordo com o que deseja
+
+```python
+from image-processing-ghf-package.processing import transformation
+transformation.resize_image(image_test, 0.5)
+```
+---
+## Autor
+Geraldo Henrique Fonseca
+
+## LicenÃ§a
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
