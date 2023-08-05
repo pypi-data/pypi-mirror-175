@@ -1,0 +1,3 @@
+[console_scripts]
+sphinx-emf-cli=sphinx_emf.cli:run
+
