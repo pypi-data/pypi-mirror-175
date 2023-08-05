@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "nfenarede_api"
+version = "2022.1000"
+description = "NFe na rede - API"
+authors = ["Bruno Souza <bruno@komu.com.br>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.85.0"
+mangum = "^0.15.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
