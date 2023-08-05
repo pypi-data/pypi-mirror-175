@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+setup.py
+.github/workflows/pypi.yml
+QuantumArtLibrary/QuantumArtLibrary.py
+QuantumArtLibrary/__init__.py
+QuantumArtLibrary/_version.py
+QuantumArtLibrary/gl_util.py
+QuantumArtLibrary/shader.frag
+QuantumArtLibrary/shader.vert
+QuantumArtLibrary.egg-info/PKG-INFO
+QuantumArtLibrary.egg-info/SOURCES.txt
+QuantumArtLibrary.egg-info/dependency_links.txt
+QuantumArtLibrary.egg-info/requires.txt
+QuantumArtLibrary.egg-info/top_level.txt
