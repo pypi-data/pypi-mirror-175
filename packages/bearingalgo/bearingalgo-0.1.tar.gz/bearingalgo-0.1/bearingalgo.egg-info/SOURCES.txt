@@ -1,0 +1,8 @@
+setup.py
+bearingalgo/__init__.py
+bearingalgo/bearing.py
+bearingalgo.egg-info/PKG-INFO
+bearingalgo.egg-info/SOURCES.txt
+bearingalgo.egg-info/dependency_links.txt
+bearingalgo.egg-info/requires.txt
+bearingalgo.egg-info/top_level.txt
