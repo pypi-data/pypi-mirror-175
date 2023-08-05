@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "lora-textnormalization"
+version = "0.1.4"
+description = "A text normalization package for general English NLP tasks."
+authors = ["Adrian-Wong <adrian@asklora.ai>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "lora_textnormalization"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+spacy = "^3.4.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
