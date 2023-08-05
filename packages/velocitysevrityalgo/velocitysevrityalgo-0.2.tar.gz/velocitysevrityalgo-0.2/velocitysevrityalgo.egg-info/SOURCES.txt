@@ -1,0 +1,8 @@
+setup.py
+velocitysevrityalgo/__init__.py
+velocitysevrityalgo/machine_condition.py
+velocitysevrityalgo.egg-info/PKG-INFO
+velocitysevrityalgo.egg-info/SOURCES.txt
+velocitysevrityalgo.egg-info/dependency_links.txt
+velocitysevrityalgo.egg-info/requires.txt
+velocitysevrityalgo.egg-info/top_level.txt
