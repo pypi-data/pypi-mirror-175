@@ -1,0 +1,11 @@
+wechatrobot
+ehforwarderbot
+PyYaml>=5.3
+cachetools
+requests
+python-magic
+lxml
+pilk
+pydub
+lottie
+cairosvg
