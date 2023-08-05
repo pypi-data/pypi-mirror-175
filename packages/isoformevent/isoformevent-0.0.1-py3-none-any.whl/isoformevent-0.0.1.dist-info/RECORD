@@ -1,0 +1,11 @@
+isoformevent/__init__.py,sha256=um-rxXBOIFWClWxXLkexhVZ5iH2E05EElLJWAPEYAVw,204
+isoformevent/creategenes.py,sha256=XqOiMlV6tGbwHhljTNK7c_LD46ziKbFkDbudMCiZFLY,1582
+isoformevent/drawgene.py,sha256=h9Ct3MclvOHZPnf4eSu7aS6V5KcPh9gl5DFO3is2Bl8,1536
+isoformevent/gene.py,sha256=ZRLzzpX4bJlKbGGCMsFF8HcEYl-oFGheEmAZmZRTUOY,243
+isoformevent/readgene.py,sha256=Lf20oVccx4ir2K_F8XIeueC-mklNYkciECQVx8akd2c,153
+isoformevent/savegene.py,sha256=88KqvpQ3NIZF5FMCFQz8kvdSE7p_TyFmjDG66Q_o_PM,253
+isoformevent/transcript.py,sha256=s7aV91wBPzNKejJbxZl9GeQqpfzl9NYb4OrlXrh0xZM,1273
+isoformevent-0.0.1.dist-info/METADATA,sha256=bMM8HenZNppodhl4DlcUjbRGb3DPeloatAcYKWQT9Q4,690
+isoformevent-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+isoformevent-0.0.1.dist-info/top_level.txt,sha256=pLhkMQFlWZmoKmY3Brg68vB5z21cIOopydJXQ9baEFw,13
+isoformevent-0.0.1.dist-info/RECORD,,
