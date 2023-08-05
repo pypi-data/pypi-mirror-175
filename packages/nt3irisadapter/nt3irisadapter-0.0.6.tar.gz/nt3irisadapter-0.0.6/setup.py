@@ -1,0 +1,40 @@
+""" Setup instructions for nt3irisadapter """
+from setuptools import find_packages, setup
+
+install_requires = ["pyyaml",
+                    "bleach",
+                    "certifi",
+                    "charset-normalizer",
+                    "commonmark",
+                    "docutils",
+                    "googleapis-common-protos",
+                    "grpcio-tools",
+                    "grpcio",
+                    "idna",
+                    "importlib-metadata",
+                    "jaraco.classes",
+                    "keyring",
+                    "more-itertools",
+                    "protobuf",
+                    "pydantic",
+                    "pygments",
+                    "pywin32-ctypes",
+                    "readme-renderer",
+                    "requests",
+                    "rfc3986",
+                    "rich",
+                    "setuptools",
+                    "typing-extensions",
+                    "webencodings",
+                    "zipp",
+                    "nt3core"]
+
+setup(
+    name="nt3irisadapter",
+    description="IRIS Adapter for NovaTouch 3",
+    author="novacom software GmbH",
+    version="0.0.6",
+    packages=find_packages(where="src"),
+    package_dir={"": "src"},
+    install_requires=install_requires,
+)
