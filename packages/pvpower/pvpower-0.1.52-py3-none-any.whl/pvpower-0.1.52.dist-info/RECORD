@@ -1,0 +1,13 @@
+pvpower/estimator.py,sha256=JZpmujqEMNR0V5nJgW4mOHptxRX0BPKBQwOHByCYGx0,12376
+pvpower/forecast.py,sha256=hFEi4OlbuUlSiMtuJo1TdUTaAogcgfwYzvAVJgwBo_Y,7008
+pvpower/forecast_24h.py,sha256=q2-wkaGG2xPHRfvo6X-O9uUaTZOHVQEI1Om5_nONROs,6558
+pvpower/mosmix.py,sha256=a5imQsTY7-6zl1xpLFPl2xAg8bHq0ZrKC27joTiVYHA,11883
+pvpower/test_mosmix.py,sha256=-ryMgHax5JnXp25XuC92E_HHc3KxETODvwzWc6yWr-o,2140
+pvpower/test_weather_forecast.py,sha256=Rk3Xq_k0_axG-HrEhnVVHUJ5M19hnGNOghHU_kkzguc,952
+pvpower/traindata.py,sha256=wrPFITx_hFT3KoefacdkJC6FqVetINsn3SXzzsm_BW8,7293
+pvpower/weather_forecast.py,sha256=-VXM2vibKob03d4TJybRgI8nVXxTY9ret1IxtNHLwnk,3493
+pvpower-0.1.52.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pvpower-0.1.52.dist-info/METADATA,sha256=Dt2RqspkvJg_-ANpTFpeFcj-n67rNGfwWnNFhVwqg34,4181
+pvpower-0.1.52.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pvpower-0.1.52.dist-info/top_level.txt,sha256=nunGUZplscyuP4wh-2Mx9XHTnShTxKb_-2ceaeFhLEY,8
+pvpower-0.1.52.dist-info/RECORD,,
