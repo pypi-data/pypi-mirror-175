@@ -1,0 +1,12 @@
+wechatrobot/Api.py,sha256=eKiQO7IT6Umcehc1F4h_i74f7rX-oPrhCts-zlLPehA,10567
+wechatrobot/Bus.py,sha256=cVRtrkxHj_sqjvek_JednOmLKwGjHtXzNYdTVagZ2Fc,462
+wechatrobot/ChatRoomData_pb2.py,sha256=B_yMMOuZiwqBf-yF4HpTwXwyUuC71R8Vu6vIqIpAGjY,7926
+wechatrobot/Modles.py,sha256=iO17ZNOch2ES0vQZHWKUcd_F8BizY4rT9XgwmH9P2jA,6571
+wechatrobot/Utils.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+wechatrobot/WeChatRobot.py,sha256=tNe_dua9MeVxltrQo7JmdiTl9kWyq6Uj66U2IIvgT5g,4908
+wechatrobot/__init__.py,sha256=1fI4noMfLbBy2dl46Q3xSx8ggVfZqzjBFSnpV2KO0EE,117
+wechatrobot/__version__.py,sha256=x7SWnx8ho-VaDHLtK75ItIuboJ9SpcR_vy2GvXNmU4A,21
+python_comwechatrobot_http-1.0.1.dist-info/METADATA,sha256=yTvhm7TkcHRxURmlYJPUcQ7FoApLnsJQnNtwDKV44bI,970
+python_comwechatrobot_http-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+python_comwechatrobot_http-1.0.1.dist-info/top_level.txt,sha256=WF1VECWdoeJVNy0BfCG_TsZQUAgDzPSlX6_0z3Wz9U4,12
+python_comwechatrobot_http-1.0.1.dist-info/RECORD,,
