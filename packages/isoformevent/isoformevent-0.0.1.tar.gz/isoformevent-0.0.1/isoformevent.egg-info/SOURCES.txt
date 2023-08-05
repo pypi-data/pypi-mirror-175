@@ -1,0 +1,13 @@
+setup.py
+isoformevent/__init__.py
+isoformevent/creategenes.py
+isoformevent/drawgene.py
+isoformevent/gene.py
+isoformevent/readgene.py
+isoformevent/savegene.py
+isoformevent/transcript.py
+isoformevent.egg-info/PKG-INFO
+isoformevent.egg-info/SOURCES.txt
+isoformevent.egg-info/dependency_links.txt
+isoformevent.egg-info/requires.txt
+isoformevent.egg-info/top_level.txt
