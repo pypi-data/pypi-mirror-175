@@ -1,0 +1,6 @@
+pylabml/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pylabml/label.py,sha256=cwAUOghT9FEC_3Xn4JJo2P6Ds6gO_xNuSmYFulyWNGA,240
+pylabml/labeller.py,sha256=mFtP7p2P783WFQcrPFA6OGDAUuuLWANcSb-SgolupEo,989
+pylabml-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pylabml-0.1.0.dist-info/METADATA,sha256=upfYAEwcBmdaqgD9jJ6extVWE0TDV-SotATFVMPx5fA,548
+pylabml-0.1.0.dist-info/RECORD,,
