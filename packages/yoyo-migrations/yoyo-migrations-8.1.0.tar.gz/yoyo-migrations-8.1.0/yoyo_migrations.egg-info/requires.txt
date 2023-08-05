@@ -1,0 +1,12 @@
+sqlparse
+tabulate
+importlib_metadata
+
+[mysql]
+PyMySQL
+
+[postgres]
+psycopg2
+
+[pyodbc]
+pyodbc
