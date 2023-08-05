@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: BubbleTask
+Version: 0.0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author-email: AndrewSpangler@users.noreply.github.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+# BubbleTask 0.0.4<a name="mark0"></a>
+
+***Configurable, visual task-planning tool that lives on your desktop background.***
+
+- [About](#mark1)
+	- [Installation](#mark2)
+	- [Credits](#mark3)
+- [Changelog](#mark4)
+	- [0.0.4](#mark5)
+	- [0.0.3](#mark6)
+	- [0.0.2](#mark7)
+	- [0.0.1](#mark8)
+
+---
+
+![BubbleTask](https://raw.githubusercontent.com/AndrewSpangler/BubbleTask/main/example.png)
+
+## About<a name="mark1"></a>[^](#mark0)
+
+A task deadline visualization tool written in python / tkinter
+
+## Installation<a name="mark2"></a>[^](#mark1)
+
+Available on pip - `pip install bubble_task`
+
+## Credits<a name="mark3"></a>[^](#mark1)
+
+Original concept and UI consultation by Greg Frederick
+
+1. Windows only due to \*nix systems being inconsistent.1. Install [Python 3.10+](https://www.python.org/downloads/) and make sure to include `IDLE, pip, tcl/tk, and check "Add python 3.* to PATH"`
+1. Reboot your computer
+1. Open a command prompt
+1. Type the following command to install with pip: `pip install bubble_task`
+1. Create a folder where you want the application to run
+1. Create a text file in the (In Explorer: "right-click->new->Text Document")
+1. Rename that file to "BubbleTask.bat" (Without quotes)
+1. Edit the batch file in notepad (or other plaintext editor) to contain the following text : `python -m BubbleTask`
+1. Double-Click the bat file to launch the program
+1. You can make another folder + bat file to create a new instance of the program (Eg for a separate set of projects like work vs home etc.)
+# Changelog<a name="mark4"></a>[^](#mark0)
+
+## 0.0.4<a name="mark5"></a>[^](#mark4)
+
+Fix readme
+
+## 0.0.3<a name="mark6"></a>[^](#mark4)
+
+Fix issue with generated config file.
+
+## 0.0.2<a name="mark7"></a>[^](#mark4)
+
+Fix bug with redraw timing value being passed to renderer as a string on new profiles / first launches.
+
+## 0.0.1<a name="mark8"></a>[^](#mark4)
+
+Push
+
+
+
+Generated with [py_simple_readme](https://github.com/AndrewSpangler/py_simple_readme)
+
