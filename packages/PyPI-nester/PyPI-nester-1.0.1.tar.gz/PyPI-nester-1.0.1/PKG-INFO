@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: PyPI-nester
+Version: 1.0.1
+Summary: Printing each items in list (nested or not nested) on new line
+Home-page: 
+Author: SonaM
+Author-email: sonalimetkar1@gmail.com
+License-File: LICENSE.txt
+
+This module also prints the nested items with required tab spaces
