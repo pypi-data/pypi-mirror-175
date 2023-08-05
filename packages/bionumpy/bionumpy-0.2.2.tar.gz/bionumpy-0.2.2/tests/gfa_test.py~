@@ -1,0 +1,5 @@
+from bionumpy.gfa import GfaPathBuffer
+import bionumpy as bnp
+
+def test():
+    f = bnp.open("/home/knut/Data/small_path_gfa.gfa", buffer_type=GfaPathBuffer)

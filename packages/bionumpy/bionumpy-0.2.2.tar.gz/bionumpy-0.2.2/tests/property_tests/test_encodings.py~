@@ -1,0 +1,4 @@
+import bionumpy.encodings.alphabet_encoding as ae
+
+objs = (getattr(ae, name) for name in dir(ae) if not name.startswith("_"))
+encodings = [obj for obj in objs if isinstance(obj, AlphabetEncoding)

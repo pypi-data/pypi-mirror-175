@@ -1,0 +1,4 @@
+import hypothesis.strategies as st
+
+def ascii_text():
+    return st.text(alphabet=st.characters(min_codepoint=0, max_codepoint=127))
