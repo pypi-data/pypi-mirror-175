@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+src/pytest_trytond/__init__.py
+src/pytest_trytond/plugin.py
+src/pytest_trytond/tools.py
+src/pytest_trytond.egg-info/PKG-INFO
+src/pytest_trytond.egg-info/SOURCES.txt
+src/pytest_trytond.egg-info/dependency_links.txt
+src/pytest_trytond.egg-info/entry_points.txt
+src/pytest_trytond.egg-info/requires.txt
+src/pytest_trytond.egg-info/top_level.txt
