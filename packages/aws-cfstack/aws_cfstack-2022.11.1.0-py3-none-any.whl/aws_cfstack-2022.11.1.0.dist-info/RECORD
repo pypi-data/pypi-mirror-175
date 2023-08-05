@@ -1,0 +1,5 @@
+aws_cfstack/__init__.py,sha256=T6SQS3hxz4hax1rALueJIdbiYq9BX3YNgDl9H3iDNo4,5425
+aws_cfstack/__main__.py,sha256=Ae-K5CXeaym16lsyQ3Uuh6BF3krxYKOR938el1cHezw,124
+aws_cfstack-2022.11.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+aws_cfstack-2022.11.1.0.dist-info/METADATA,sha256=aJYkueduIf5ASGNxTC0mqAp7MPvLjTAaCdLOKEWTHc0,2148
+aws_cfstack-2022.11.1.0.dist-info/RECORD,,
