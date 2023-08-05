@@ -1,0 +1,6 @@
+setup.py
+src/face_detec.egg-info/PKG-INFO
+src/face_detec.egg-info/SOURCES.txt
+src/face_detec.egg-info/dependency_links.txt
+src/face_detec.egg-info/requires.txt
+src/face_detec.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+scikit-learn
+opencv
+mediapipe
+numpy
