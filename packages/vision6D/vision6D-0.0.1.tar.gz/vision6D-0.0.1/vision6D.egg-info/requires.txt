@@ -1,0 +1,13 @@
+pyvista
+numpy
+matplotlib
+trimesh
+easydict
+pillow
+scipy
+pytest
+pre-commit
+opencv-python
+
+[test]
+pytest
