@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: vitextaug
+Version: 0.0.1
+Summary: Text data augmentation for Vietnamese
+Home-page: UNKNOWN
+Author: longnt
+Author-email: long.itptit@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+Text data augmentation using Lexical Replacement, Back Translation, Text Generation, ... for Vietnamese
+
