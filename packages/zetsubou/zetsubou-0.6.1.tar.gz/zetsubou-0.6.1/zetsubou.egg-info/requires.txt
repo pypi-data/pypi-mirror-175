@@ -1,0 +1,20 @@
+colorama
+conan
+fs
+platformdirs
+Pygments
+typing-inspect
+typing_extensions
+bentoudev.dataclass
+importlib-resources
+
+[:python_version < "3.11"]
+tomli
+
+[dev]
+pyinstaller>=5.0
+bumpver
+pip-tools
+pytest
+build
+twine
