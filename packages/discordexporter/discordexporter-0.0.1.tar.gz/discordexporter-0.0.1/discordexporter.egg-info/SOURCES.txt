@@ -1,0 +1,5 @@
+setup.py
+discordexporter.egg-info/PKG-INFO
+discordexporter.egg-info/SOURCES.txt
+discordexporter.egg-info/dependency_links.txt
+discordexporter.egg-info/top_level.txt
