@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+scatterem/__init__.py
+scatterem/_modidx.py
+scatterem/core.py
+scatterem.egg-info/PKG-INFO
+scatterem.egg-info/SOURCES.txt
+scatterem.egg-info/dependency_links.txt
+scatterem.egg-info/entry_points.txt
+scatterem.egg-info/not-zip-safe
+scatterem.egg-info/requires.txt
+scatterem.egg-info/top_level.txt
