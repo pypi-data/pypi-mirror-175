@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: trumpet-client
+Version: 0.0.1
+Summary: trumpet.ai
+Author: trumpet.ai
+Project-URL: HOMEPAGE, https://stag.trumpet.ai/
+Project-URL: DOCUMENTATION, https://trumpet-ai.gitbook.io/product-docs/
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6.5
+Description-Content-Type: text/markdown
+Requires-Dist: coverage
+Requires-Dist: requests
+Requires-Dist: flake8
+Requires-Dist: psutil
+Requires-Dist: requests-toolbelt
+Requires-Dist: ipykernel
+Requires-Dist: jupyter
+Requires-Dist: pynvml
+Requires-Dist: h5py
+Requires-Dist: pandas
+
+# Installation
+1. Sign up at trumpet.ai (https://stag.trumpet.ai)
+2. get API KEY
+3. create Team at https://stag.trumpet.ai
+4. create Workspace at https://stag.trumpet.ai
+5. create Project at https://stag.trumpet.ai
+6. install python SDK
+> pip install trumpetAi
+
+# Start
+1. Create experiment
+~~~python
+import trumpet_client
+
+# create experiment
+run = trumpet_client.init(
+    workspace_id={workspace_id}, #optional
+    project_id={project_id}, #optional
+    user_id={user_id},
+    api_key={api_key},
+    exp_name={exp_name} #optional
+)
+~~~
+2. Upload with hyperparameter
+~~~python
+run.set_hyperparam({
+    "learning_rate": {learning_rate},
+    "batch_size": {batch_size},
+    "epochs": {epochs}
+})
+~~~
+3. Upload with learning metric log
+~~~python
+for i in range({epochs}):
+    run.log({target_metric}, i)
+~~~
+
+# License
+- Copyright (C) 2022- OKESTRO INC.
+- This package can not be copied and/or distributed without the express permission of OKESTRO Inc.
