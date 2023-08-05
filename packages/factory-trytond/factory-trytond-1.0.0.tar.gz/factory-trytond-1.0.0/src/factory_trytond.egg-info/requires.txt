@@ -1,0 +1,5 @@
+factory-boy
+trytond
+
+[tests]
+pytest-trytond

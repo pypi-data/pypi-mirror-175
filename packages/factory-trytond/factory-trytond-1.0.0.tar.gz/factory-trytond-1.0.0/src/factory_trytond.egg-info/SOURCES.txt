@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/factory_trytond/__init__.py
+src/factory_trytond.egg-info/PKG-INFO
+src/factory_trytond.egg-info/SOURCES.txt
+src/factory_trytond.egg-info/dependency_links.txt
+src/factory_trytond.egg-info/requires.txt
+src/factory_trytond.egg-info/top_level.txt
