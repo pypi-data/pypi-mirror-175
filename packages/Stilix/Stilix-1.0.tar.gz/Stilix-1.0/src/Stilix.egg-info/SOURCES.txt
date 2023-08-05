@@ -1,0 +1,13 @@
+MANIFEST.in
+MIT_LICENSE
+pyproject.toml
+src/Stilix.py
+src/Stilix_data_change.py
+src/__init__.py
+src/d_tool.py
+src/extra_layer.py
+src/ladder_hewn.py
+src/Stilix.egg-info/PKG-INFO
+src/Stilix.egg-info/SOURCES.txt
+src/Stilix.egg-info/dependency_links.txt
+src/Stilix.egg-info/top_level.txt

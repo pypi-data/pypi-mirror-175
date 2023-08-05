@@ -1,0 +1,4 @@
+
+include MIT_LICENSE
+include pyproject.toml
+include the stilix badge.png

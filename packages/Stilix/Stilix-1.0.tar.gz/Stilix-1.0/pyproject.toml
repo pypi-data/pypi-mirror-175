@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Stilix"
+version = "1.0"
+authors = [
+          {name="100percentcyan",email="100percentcyan6@gmail.com"}
+]
+
+description = "Stilix allows you to perform basic operations on arrays.README-https://github.com/100percentcyan/Stilix/blob/main/README.md"
+classifiers = [
+          "Programming Language :: Python :: 3",
+          "License :: OSI Approved :: MIT License",
+          "Operating System :: OS Independent"
+]
+
+[project.urls]
+"github" = "https://github.com/100percentcyan/Stilix"
+
