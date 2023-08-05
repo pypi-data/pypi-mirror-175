@@ -1,0 +1,9 @@
+flask_MailboxValidator/SingleValidation.py,sha256=VNy25fizxrMCDsPtC_JCbUpxG39AtIh2DGTmm9zoCbU,8208
+flask_MailboxValidator/__init__.py,sha256=2TW8UQpQQ3fRgaJByU1yz8B1PXlzMuyFwvEzFyGp3cY,69
+test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+test/test_mbv.py,sha256=aPIc3ur2fRRm8xtbY2eizW9nFod8wuVCTNHzAgRVGbM,1333
+flask_MailboxValidator-1.2.0.dist-info/LICENSE.txt,sha256=_jRUgox0A1w-y4qemvTie5JmR2DXYHdX0_ER1Jat7Ug,1077
+flask_MailboxValidator-1.2.0.dist-info/METADATA,sha256=GVYFZJD9g90V8fwlCp0S9XpGlAEYHNG1TPscFzGKRug,9846
+flask_MailboxValidator-1.2.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+flask_MailboxValidator-1.2.0.dist-info/top_level.txt,sha256=KDfv5BvZqXQpIYcCpCjg_xnKjtgNJ860l1fyZ4_efGg,28
+flask_MailboxValidator-1.2.0.dist-info/RECORD,,
