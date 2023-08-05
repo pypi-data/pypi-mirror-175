@@ -1,0 +1,9 @@
+distkv_ext/inv/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+distkv_ext/inv/client.py,sha256=x3lIToKkqKc28m-nnoMZjCK6_chsrQ8sRoyDRO50_Qo,18170
+distkv_ext/inv/config.py,sha256=tH0r4BaeAhl3OK9ru4Abzpu1rs_OKQs5ByFBaM-xaX0,171
+distkv_ext/inv/model.py,sha256=J8sD2XyElcx4PHHsp-9PTaYTDTtnmmO3kdrZ_YSiGHg,37557
+distkv_inv-0.22.0.dist-info/METADATA,sha256=UfIUk1sFQkAyTLyWmQ5bXTCL3HaW9TBG1-if0ukbne8,1634
+distkv_inv-0.22.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+distkv_inv-0.22.0.dist-info/top_level.txt,sha256=ShoEI2BVeROA0C05-6zL3D5TO6x4NFM1mmseokgRjdM,11
+distkv_inv-0.22.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+distkv_inv-0.22.0.dist-info/RECORD,,
