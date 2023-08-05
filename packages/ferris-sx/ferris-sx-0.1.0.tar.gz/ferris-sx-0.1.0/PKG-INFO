@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: ferris-sx
+Version: 0.1.0
+Summary: Library for creating Stream Processors on top of Kafka and running them inside Ferris platform
+Home-page: https://github.com/Ferris-Labs/ferris-sx/tree/main
+Author: Murat Dacić
+Author-email: murat@ferrislabs.net
+License: Apache2.0
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: System :: Logging
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
+
+Library for creating Stream Processors on top of Kafka and running them inside Ferris platform
