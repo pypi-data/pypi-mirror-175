@@ -1,0 +1,10 @@
+PyYAML>=6.0
+fire>=0.4.0
+
+[:python_version < "3.8"]
+importlib-metadata
+
+[testing]
+setuptools
+pytest
+pytest-cov
