@@ -1,0 +1,73 @@
+Repos:
+  AirPortBrcm4360_Injector: https://github.com/acidanthera/AirportBrcmFixup
+  AirportBrcmFixup: https://github.com/acidanthera/AirportBrcmFixup
+  AirPortBrcmNIC_Injector: https://github.com/acidanthera/AirportBrcmFixup
+  AirportItlwm-BigSur:
+    Artifact: .*BigSur.*
+    Repo: &itlwm https://github.com/OpenIntelWireless/itlwm
+  AirportItlwm-Catalina:
+    Artifact: .*Catalina.*
+    Repo: *itlwm
+  AirportItlwm-HighSierra:
+    Artifact: .*HighSierra.*
+    Repo: *itlwm
+  AirportItlwm-Mojave:
+    Artifact: .*Mojave.*
+    Repo: *itlwm
+  AirportItlwm-Monterey:
+    Artifact: .*Monterey.*
+    Repo: *itlwm
+  AppleALC: https://github.com/acidanthera/AppleALC
+  BlueToolFixup: &brcm https://github.com/acidanthera/BrcmPatchRAM
+  BrcmBluetoothInjector: *brcm
+  BrcmBluetoothInjectorLegacy: *brcm
+  BrcmFirmwareData: *brcm
+  BrcmFirmwareRepo: *brcm
+  BrcmNonPatchRAM2: *brcm
+  BrcmNonPatchRAM: *brcm
+  BrcmPatchRAM2: *brcm
+  BrcmPatchRAM3: *brcm
+  BrcmPatchRAM: *brcm
+  BrightnessKeys: https://github.com/acidanthera/BrightnessKeys
+  CPUFriend: https://github.com/acidanthera/CPUFriend
+  CpuTscSync: https://github.com/acidanthera/CpuTscSync
+  CryptexFixup.kext: https://github.com/acidanthera/CryptexFixup
+  DebugEnhancer: https://github.com/acidanthera/DebugEnhancer
+  FeatureUnlock.kext: https://github.com/acidanthera/FeatureUnlock
+  HibernationFixup: https://github.com/acidanthera/HibernationFixup
+  IntelBluetoothFirmware: &itlbf https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+  IntelBluetoothInjector: *itlbf
+  IntelBTPatcher: *itlbf
+  IntelMausi: &imausi https://github.com/acidanthera/IntelMausi
+  IntelSnowMausi: *imausi
+  Lilu: https://github.com/acidanthera/Lilu
+  MacHyperVSupport: https://github.com/acidanthera/MacHyperVSupport
+  MacHyperVSupportMonterey: https://github.com/acidanthera/MacHyperVSupport
+  NVMeFix: https://github.com/acidanthera/NVMeFix
+  RealtekCardReader: https://github.com/0xFireWolf/RealtekCardReader
+  RealtekCardReaderFriend: https://github.com/0xFireWolf/RealtekCardReaderFriend
+  RealtekRTL8111: https://github.com/Mieze/RTL8111_driver_for_OS_X
+  RestrictEvents: https://github.com/acidanthera/RestrictEvents
+  RTCMemoryFixup: https://github.com/acidanthera/RTCMemoryFixup
+  SMCBatteryManager: &smc https://github.com/acidanthera/VirtualSMC
+  SMCDellSensors: *smc
+  SMCLightSensor: *smc
+  SMCProcessor: *smc
+  SMCSuperIO: *smc
+  UEFIGraphicsFB: https://github.com/acidanthera/UEFIGraphicsFB
+  USBInjectAll: https://github.com/Sniki/OS-X-USB-Inject-All
+  USBToolBox: &utb https://github.com/USBToolBox/kext
+  UTBDefault: *utb
+  VirtualSMC: *smc
+  VoodooI2C: &i2c https://github.com/VoodooI2C/VoodooI2C
+  VoodooI2CAtmelMXT: *i2c
+  VoodooI2CELANL: *i2c
+  VoodooI2CFTE: *i2c
+  VoodooI2CHID: *i2c
+  VoodooI2CSynaptics: *i2c
+  VoodooInput: &ps2 https://github.com/acidanthera/VoodooPS2
+  VoodooPS2Controller: *ps2
+  VoodooPS2Keyboard: *ps2
+  VoodooPS2Mouse: *ps2
+  VoodooPS2Trackpad: *ps2
+  WhateverGreen: https://github.com/acidanthera/WhateverGreen
