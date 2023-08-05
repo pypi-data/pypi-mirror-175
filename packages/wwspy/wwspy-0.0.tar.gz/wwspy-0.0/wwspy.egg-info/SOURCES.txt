@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+setup.py
+wwspy/main.py
+wwspy.egg-info/PKG-INFO
+wwspy.egg-info/SOURCES.txt
+wwspy.egg-info/dependency_links.txt
+wwspy.egg-info/not-zip-safe
+wwspy.egg-info/top_level.txt
