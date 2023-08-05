@@ -1,0 +1,8 @@
+setup.py
+datacalc/__init__.py
+datacalc/bearing.py
+simplealgorithm.egg-info/PKG-INFO
+simplealgorithm.egg-info/SOURCES.txt
+simplealgorithm.egg-info/dependency_links.txt
+simplealgorithm.egg-info/requires.txt
+simplealgorithm.egg-info/top_level.txt
