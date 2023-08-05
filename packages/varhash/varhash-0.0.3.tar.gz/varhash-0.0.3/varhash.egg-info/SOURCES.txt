@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+varhash/__init__.py
+varhash.egg-info/PKG-INFO
+varhash.egg-info/SOURCES.txt
+varhash.egg-info/dependency_links.txt
+varhash.egg-info/top_level.txt

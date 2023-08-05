@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: varhash
+Version: 0.0.3
+Summary: Implementation of VAR Hash in Python
+Home-page: https://github.com/rishabhc9
+Author: Rishabh Chopda
+Author-email: aaditchopda2@gmail.com
+License: MIT
+Keywords: varhash,hash,hashing,cryptography
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# VARhash
+
+## Description 
+This is an implementation of VAR Hash in Python
+
+## Installation
+
+```
+pip install varhash
+```
+
+As usual with Pip, you might need to use `sudo` or the `--user` flag
+with the command above, depending on how you installed Python on your
+system.
+
+## Usage
+* Importing
+
+```
+import varhash
+```
+
+* Hashing
+
+```
+hashed_data = varhash.hash(data)
+```
+
+Change Log
+==========
+0.0.3 (04/11/2022)
+-------------------
+-Updated hash function
+
+0.0.2 (04/11/2022)
+-------------------
+-Updated hash function
+
+0.0.1 (04/11/2022)
+-------------------
+-First Release
+
