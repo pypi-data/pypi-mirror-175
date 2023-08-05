@@ -1,0 +1,255 @@
+Metadata-Version: 2.1
+Name: image-processing-bymacrosann
+Version: 0.0.1
+Summary: Test version - Image processing. This project belongs to Karina Tiemi Kato, Tech Lead, Machine Learning Engineer, Data Scientist Specialist at Take. This package is a demo for simulation of upload on the Test Pypi website, and it's from class of the Bootcamp Generation Tech Unimed-BH. E-mail:karinatkato@gmail.com.
+Home-page: https://github.com/MACROSANN/package-template/tree/main
+Author: João Santana
+Author-email: joao.santana@macrosann.com.br
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Projeto: Pacote de Processamento de Imagens
+
+<br />
+<br />
+
+Esse projeto Ã© parte integrante de:
+- **[Bootcamp GeraÃ§Ã£o Tech Unimed-BH - CiÃªncia de Dados]
+
+<br />
+<br />
+
+## Instutor(a):
+
+<br />
+<br />
+
+**Autor(a) do Projeto / Instrutor(a):** [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/) - [Digital Innovation One](https://dio.me/sign-up?ref=M87RWQPGJO).
+
+<br />
+
+**Aula:** Descomplicando a criaÃ§Ã£o de pacotes de processamento de imagens em Python
+
+<br />
+
+**Tecnologia(s):** Python
+
+<br />
+
+---
+
+<br />
+
+## DescriÃ§Ã£o:
+
+<br />
+<br />
+
+O pacote "image_processing" Ã© usado para:
+
+- MÃ³dulo "processing":
+  - CorrespondÃªncia de histograma;
+  - Redimensionar imagem;
+  - Similaridade estrutural;
+
+- MÃ³dulo "utils":
+  - Ler imagem;
+  - Plotar histograma;
+  - Plotar imagem;
+  - Resultado do grÃ¡fico;
+  - Salvar imagem;
+
+<br />
+
+---
+
+<br />
+
+## Preparando o pacote para o deploy
+
+<br />
+<br />
+
+- [x] Preparando o ambiente:
+
+<br />
+
+```
+py -m pip install --upgrade pip
+py -m pip install --user twine
+py -m pip install --user setuptools
+py -m pip install --user wheel
+```
+
+<br />
+
+- [x] Certifique-se de estar no mesmo diretÃ³rio do arquivo **"setup.py"** e entÃ£o execute:
+
+<br />
+
+```
+C:\Projetos\Python\Development\Packages\image-processing-package> py setup.py sdist bdist_wheel
+```
+
+<br />
+
+- [x] ApÃ³s executar o comando a priori, verifique se as pastas abaixo foram devidamente criadas:
+  - [x] build;
+  - [x] dist;
+  - [x] image_processing.egg-info
+
+<br />
+<br />
+
+## Passo a passo para hospedar um pacote em Python no ambiente Test Pypi
+
+<br />
+<br />
+
+- [x] Suba os arquivos usando o Twine para o Test Pypi:
+
+<br />
+
+```
+py -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+```
+
+<br />
+
+Informe seu usuÃ¡rio e senha. Feito isso, o projeto estarÃ¡ hospedado no Test Pypi.
+
+<br />
+<br />
+
+## Passo a passo para hospedar um pacote em Python no ambiente Pypi
+
+<br />
+<br />
+
+- [x] Suba os arquivos usando o Twine para o Pypi:
+
+<br />
+
+```
+py -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+```
+
+<br />
+
+Informe seu usuÃ¡rio e senha. Feito isso, o projeto estarÃ¡ hospedado no Pypi.
+
+<br />
+
+---
+
+<br />
+
+## InstalaÃ§Ã£o local utilizando o ambiente de teste do Pypi
+
+<br />
+<br />
+
+- [x] InstalÃ§Ã£o das dependÃªncias:
+
+<br />
+
+```bash
+pip install -r requeriments.txt
+```
+
+<br />
+
+- [x] InstalaÃ§Ã£o do pacote
+
+```bash
+pip install -i https://test.pypi.org/simple/ image-processing-bymacrosann
+```
+
+<br />
+<br />
+
+## InstalaÃ§Ã£o local utilizando o ambiente de produÃ§Ã£o do Pypi
+
+<br />
+<br />
+
+- [x] InstalaÃ§Ã£o do pacote
+
+```bash
+pip install image-processing-bymacrosann
+```
+
+<br />
+
+**Nota:** NÃ£o efetuei o deploy em produÃ§Ã£o para evitar repetiÃ§Ã£o de n pacotes duplicados com mesma finalidade.
+
+<br />
+
+---
+
+<br />
+
+## Utilizando o pacote
+
+<br />
+<br />
+
+- [x] Carregue os submÃ³dulos:
+
+
+```python
+from image-processing-bymacrosann.utils import io, plot
+from image-processing-bymacrosann.processing import combination, tranformation
+combination.find_difference(image1, image2)
+```
+
+<br />
+
+---
+
+<br />
+
+
+ObservaÃ§Ã£o: leia as [notas](#notas) a seguir, no caso essa parte refere-se a quem realizou o deploy no [ambiente Test Pypi](#user-content-instalaÃ§Ã£o-local-utilizando-o-ambiente-de-teste-do-pypi).
+
+<br />
+<br />
+
+## Notas:
+
+<br />
+<br />
+
+O pacote foi criado pela [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/)
+
+<br />
+<br />
+
+## License
+
+<br />
+<br />
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<br />
+
+---
+
+<br />
+
+## Links Ãšteis
+
+<br />
+<br />
+
+[Inscreva-se na Dio](https://dio.me/sign-up?ref=M87RWQPGJO)
+<br />
+[Dealing with dependency conflicts](https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts)
+<br />
+[Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+<br />
+[Why am I getting a "Invalid or non-existent authentication information." error when uploading files?](https://test.pypi.org/help/#file-name-reuse)
+<br />
+[Why isn't my desired project name available?](https://test.pypi.org/help/#project-name)
