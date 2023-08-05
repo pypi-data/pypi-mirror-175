@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/s_curve_beta.egg-info/PKG-INFO
+src/s_curve_beta.egg-info/SOURCES.txt
+src/s_curve_beta.egg-info/dependency_links.txt
+src/s_curve_beta.egg-info/requires.txt
+src/s_curve_beta.egg-info/top_level.txt
+src/scurvebeta/__init__.py
+src/scurvebeta/scurvebetatrue.py
