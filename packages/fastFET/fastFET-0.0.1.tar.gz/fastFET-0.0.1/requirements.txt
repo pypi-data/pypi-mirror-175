@@ -1,0 +1,15 @@
+Cython
+websocket-client==1.2.1
+bs4==0.0.1
+beautifulsoup4==4.9.3
+editdistance==0.6.0
+jsonpath==0.82
+networkit==10.0
+networkx==2.8.7
+numpy==1.23.3
+pandas==1.5.0
+polars==0.13.49
+psutil==5.9.2
+requests==2.22.0
+tqdm==4.64.1
+urllib3==1.25.10
