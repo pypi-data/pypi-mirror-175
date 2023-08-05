@@ -1,0 +1,14 @@
+_scs_direct.cp36-win_amd64.pyd,sha256=yMQju01Jv5pY8h0-t7KT-1ipNATN4v_Fxob-qbyb2Yw,120320
+_scs_indirect.cp36-win_amd64.pyd,sha256=paQZqA99KfLPLjLtXnvXlfdW9j6hdikw3B6y18CWRds,101376
+scs/__init__.py,sha256=xwwXvhM8pwEzW4sl3hHzpFlEy6LMX7N1UzZ1sb864ZI,7044
+scs-3.2.2.data/platlib/.load-order-scs-3.2.2,sha256=49B3vkUHWpX1kuZsmdvrhPhck9jRYZ7OVSHO_WJQ88U,183
+scs-3.2.2.data/platlib/flang-6eb4555b6a5a30f68c242ed302be298b.dll,sha256=7KdRoa6L9lRUOZe42EEuL7ZCwiCLuyXdyhqwbZ8IRI0,1680384
+scs-3.2.2.data/platlib/flangrti-928596d9cbd274cc0ca9d378992f02e2.dll,sha256=9vkSmolANWB1_F9ih6xenu__vSDkEmRK88uQdblA_2Y,51712
+scs-3.2.2.data/platlib/libomp-cf43b5e78b8664c734366ad99bbe7a36.dll,sha256=z0O154uGZMc0NmrZm756Nn_lDThE8mfJIPHmKA08Vr4,612864
+scs-3.2.2.data/platlib/openblas-caaaf02813bfd50cf8eb0f5f9e569979.dll,sha256=xZDT12oDJ2gSwoXDFsiQGEKeqYXhGxfPdDhXymrhVMs,28185600
+scs-3.2.2.dist-info/DELVEWHEEL,sha256=NDq4zjT3mqAMSOG4-vGSpDWRyd7FscrOKTv42lumQOQ,112
+scs-3.2.2.dist-info/LICENSE,sha256=7Lc8bCEkAOhTRGOUitKX0hhZiZ-e_jS1V_naEQR5YDw,1096
+scs-3.2.2.dist-info/METADATA,sha256=g9542jBUo9_oorl_cl6Z4jbo4-7yjgc3biVAwJWWvwU,610
+scs-3.2.2.dist-info/RECORD,,
+scs-3.2.2.dist-info/top_level.txt,sha256=cKNLoTCROnlt5KCBLcYerwEqZVfdpxXJnzOreVCfwao,30
+scs-3.2.2.dist-info/WHEEL,sha256=zukbZftcRdNfJ55Q_RYV9JZ3uVyqWKyq-wDJbmszs_U,101
