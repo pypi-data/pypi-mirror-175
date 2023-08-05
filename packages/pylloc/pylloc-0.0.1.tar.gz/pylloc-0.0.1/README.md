@@ -1,0 +1,1 @@
+Package For Work With Stroke.
