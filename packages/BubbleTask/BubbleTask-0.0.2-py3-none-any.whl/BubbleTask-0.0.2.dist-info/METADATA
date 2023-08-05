@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: BubbleTask
+Version: 0.0.2
+Summary: Quick, easy, navigatable readme generator
+Author-email: AndrewSpangler@users.noreply.github.com
+Project-URL: Homepage, https://github.com/AndrewSpangler/BubbleTask/
+Project-URL: Bug Tracker, https://github.com/AndrewSpangler/BubbleTask/issues
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: tkcalendar
+Requires-Dist: tkTimePicker
+
+# BubbleTask 0.0.2<a name="mark0"></a>
+
+***Quick, easy, navigatable readme generator***
+
+- [About](#mark1)
+	- [Installation](#mark2)
+- [Changelog](#mark3)
+	- [0.0.2](#mark4)
+	- [0.0.1](#mark5)
+
+---
+
+# About<a name="mark1"></a>[^](#mark0)
+
+A task timeline visualization tool written in python / tkinter
+
+### Installation<a name="mark2"></a>[^](#mark1)
+
+Available on pip - `pip install bubble_task`
+
+# Changelog<a name="mark3"></a>[^](#mark0)
+
+## 0.0.2<a name="mark4"></a>[^](#mark3)
+
+Fix bug with redraw timing value being passed to renderer as a string on new profiles / first launches.
+
+## 0.0.1<a name="mark5"></a>[^](#mark3)
+
+Push
+
+
+
+Generated with [py_simple_readme](https://github.com/AndrewSpangler/py_simple_readme)
