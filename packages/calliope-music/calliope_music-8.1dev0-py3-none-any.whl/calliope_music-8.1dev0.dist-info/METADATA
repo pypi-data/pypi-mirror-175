@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: calliope-music
+Version: 8.1dev0
+Summary: Toolkit for working with playlists of music.
+Home-page: https://gitlab.com/samthursfield/calliope
+Project-URL: Homepage, https://gitlab.com/samthursfield/calliope
+Project-URL: Bug_tracker, https://gitlab.com/samthursfield/calliope/issues
+Project-URL: Changelog, https://calliope-music.readthedocs.io/en/latest/changelog.html
