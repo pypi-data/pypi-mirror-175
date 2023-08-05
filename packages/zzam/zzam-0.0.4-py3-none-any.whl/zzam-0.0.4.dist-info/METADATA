@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: zzam
+Version: 0.0.4
+Summary: A helper package
+Home-page: UNKNOWN
+Author: Aitor Poquet
+Author-email: aitorpoquetgin@gmail.com
+License: MIT
+Keywords: helper
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+A package that makes it easy to convert, parse and process several type of values and data types
+

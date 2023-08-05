@@ -1,0 +1,17 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_datatype.py,sha256=tkD8L7XkXy27yV91wRBgFL-pj2pcKwGPns0EHz4YihI,450
+tests/test_datetime.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_normalize.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_temperature.py,sha256=49t1B0yiWDSY9liDhXY86uRDfovl3-x-A_h-YmhnSbc,214
+zzam/__init__.py,sha256=Il5Q9ATdX8yXqVxtP_nYqUhExzxPC_qk_WXQ_4h0exg,16
+zzam/datatype.py,sha256=w9ra24imglVlduGmvrDSD6jW8HRzgXeR1IYce7TPiyg,412
+zzam/datetime.py,sha256=IdvwrwE4bNwi2A--4W5PDsdCLoeUZAbrrumMSTZneM0,1822
+zzam/normalize.py,sha256=DkdrnucAceHrdspFJOZlArWzxty9u-D8SXPDVYWpVmk,10392
+zzam/temperature.py,sha256=PYNBssbAj56mGAV-wPvDnvSlMbKxPmmE3SGFesPyuSw,312
+zzam/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zzam/utils/constants.py,sha256=Jj1rRdgRElS38bUVrFgES8pdHhY4jwc2stdYcfuqqK8,3714
+zzam/utils/normalize_helpers.py,sha256=TpGR1AuB9OAFIG9fqVJsv7iO6To61OHsszuVRgXE1Mo,1078
+zzam-0.0.4.dist-info/METADATA,sha256=YHJ8uvWRx2ksdJgjb13pepA1Lm9p4VfNgttEqwjiEso,487
+zzam-0.0.4.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+zzam-0.0.4.dist-info/top_level.txt,sha256=PMV7q1EPZju0uDrg9CyjOf5b4oRB8w7muolyZtbafJI,11
+zzam-0.0.4.dist-info/RECORD,,
