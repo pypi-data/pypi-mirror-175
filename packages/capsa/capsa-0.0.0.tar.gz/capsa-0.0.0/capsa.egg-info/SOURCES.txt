@@ -1,0 +1,8 @@
+README.md
+setup.py
+capsa/__init__.py
+capsa.egg-info/PKG-INFO
+capsa.egg-info/SOURCES.txt
+capsa.egg-info/dependency_links.txt
+capsa.egg-info/not-zip-safe
+capsa.egg-info/top_level.txt
