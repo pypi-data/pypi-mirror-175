@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: tigerseg
+Version: 0.1.7
+Summary: Processing MRI images based on deep-learning
+Home-page: https://github.com/htylab
+Author: Biomedical Imaging Lab, Taiwan Tech
+Author-email: 
+License: UNKNOWN
+Keywords: MRI segmentation
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENCE.txt
+License-File: LICENSE
+
+UNKNOWN
+
