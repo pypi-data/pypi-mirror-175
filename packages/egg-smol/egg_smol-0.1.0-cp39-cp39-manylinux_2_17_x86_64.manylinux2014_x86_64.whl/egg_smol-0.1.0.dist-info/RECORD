@@ -1,0 +1,6 @@
+egg_smol-0.1.0.dist-info/METADATA,sha256=Gl1FcIzQv0ckQG2UBoJDV-PN2XWlCixRiFghio65XS0,1720
+egg_smol-0.1.0.dist-info/WHEEL,sha256=_ACA9XfAeqXxWobwvm3qjdOvYVLZLdz4TAGKT65YnVM,128
+egg_smol-0.1.0.dist-info/license_files/LICENSE,sha256=9cYb25jNLLm6mgX6Io4aYZ2UaiWcSCl_ROMIev2vX-Y,1064
+egg_smol/__init__.py,sha256=TxVn7Qjs3VBg36A_3dasco_AQPZtK4HebdViKMirE8U,49
+egg_smol/bindings.cpython-39-x86_64-linux-gnu.so,sha256=0quWKni5gBj8rCvJRr_IF4nE74LNxRVaM5wiKL627hw,6507920
+egg_smol-0.1.0.dist-info/RECORD,,
