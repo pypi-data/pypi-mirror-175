@@ -1,0 +1,3 @@
+[console_scripts]
+nfenarede=nfenarede.__main__:main
+
