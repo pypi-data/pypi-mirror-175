@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Vprocess_Tom_Miles
+Version: 0.0.3
+Summary: A small example package
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Author-email: Tom Miles <tommiles@gat.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Example python package
