@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+./mlog_arithmetic_runner/__init__.py
+./mlog_arithmetic_runner/__main__.py
+./mlog_arithmetic_runner/arithmetic_operators.py
+./mlog_arithmetic_runner/memory.py
+./mlog_arithmetic_runner/mlog_processor.py
+mlog_arithmetic_runner.egg-info/PKG-INFO
+mlog_arithmetic_runner.egg-info/SOURCES.txt
+mlog_arithmetic_runner.egg-info/dependency_links.txt
+mlog_arithmetic_runner.egg-info/top_level.txt
