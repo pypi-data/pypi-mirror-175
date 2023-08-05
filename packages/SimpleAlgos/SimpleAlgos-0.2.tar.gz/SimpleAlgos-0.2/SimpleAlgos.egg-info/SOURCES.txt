@@ -1,0 +1,9 @@
+Licence.txt
+setup.py
+SimpleAlgos/__init__.py
+SimpleAlgos/bearing.py
+SimpleAlgos.egg-info/PKG-INFO
+SimpleAlgos.egg-info/SOURCES.txt
+SimpleAlgos.egg-info/dependency_links.txt
+SimpleAlgos.egg-info/requires.txt
+SimpleAlgos.egg-info/top_level.txt
