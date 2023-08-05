@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: vntextaug
+Version: 0.0.3
+Summary: Text data augmentation for Vietnamese
+Home-page: UNKNOWN
+Author: LT Nguyen
+Author-email: longnt53@fsoft.com.vn
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: json
+Requires-Dist: vncorenlp
+
+Text data augmentation using Lexical Replacement, Back Translation, Text Generation, ... for Vietnamese
+
