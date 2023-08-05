@@ -1,0 +1,13 @@
+stsci.stimage-0.2.6-py3.10-nspkg.pth,sha256=_JsDsUVIB1dPO4StwsVvWzvhpYFTRnDEWr_zSVZFrU8,534
+stsci/stimage/_stimage.cpython-310-i386-linux-gnu.so,sha256=ks3GbYzmSxF7AE2lXsQoCIsUAmAEZjSxjCIhowDJW8A,319544
+stsci/stimage/_version.py,sha256=UbtXM_HcrmYMKhLQk72jHfx-eH3U_7m_3mdH5osK6MQ,176
+stsci/stimage/__init__.py,sha256=Fhf5Jt-annG8kByAbYAJN19P6puPJpFXpcm7rawF4_c,24284
+stsci/stimage/tests/test_xyxymatch.py,sha256=xPUsPguH9ds6qX7j13LSEheRk36rRMZGHk9nb_CrI9g,2729
+stsci/stimage/tests/test_geomap.py,sha256=sRbU4JQVvjz7DUfZQvJsmGNCLW0iC819bqooETFR3AA,1850
+stsci/stimage/tests/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+stsci.stimage-0.2.6.dist-info/LICENSE,sha256=CL0pJ1zWnKLaZ6j6BkUlQBgZ2Dsf4HqdhhEW4ynRb58,1469
+stsci.stimage-0.2.6.dist-info/top_level.txt,sha256=kADs_Oz1DHTIsb2X6EGoSffkEZ0gGHPJX4vK7GLkOMo,6
+stsci.stimage-0.2.6.dist-info/namespace_packages.txt,sha256=kADs_Oz1DHTIsb2X6EGoSffkEZ0gGHPJX4vK7GLkOMo,6
+stsci.stimage-0.2.6.dist-info/WHEEL,sha256=obJ0_7SSZyOQ8VOw7BK4_JhK7AYIIgZSJGum30u1k00,217
+stsci.stimage-0.2.6.dist-info/RECORD,,
+stsci.stimage-0.2.6.dist-info/METADATA,sha256=Ptz6M8vMMioOxfwDFqwC5JbUNTyNsydh9K7IETELt8w,1169
