@@ -1,0 +1,20 @@
+[
+  "test_core.py::TestClassify::test_classify_classes",
+  "test_core.py::TestClassify::test_classify_default",
+  "test_core.py::TestClassify::test_classify_thresholds",
+  "test_core.py::TestFeaturize::test_featurize_binarize",
+  "test_core.py::TestFeaturize::test_featurize_default",
+  "test_core.py::TestFeaturize::test_featurize_entropy",
+  "test_core.py::TestFeaturize::test_featurize_feature_names",
+  "test_core.py::TestFeaturize::test_featurize_key_and_silent",
+  "test_core.py::TestFeaturize::test_featurize_na_handle",
+  "test_core.py::TestFeaturize::test_featurize_normalize_and_norm_method",
+  "test_core.py::TestFeaturize::test_featurize_remove_zero_rows",
+  "test_core.py::TestFeaturize::test_featurize_strains_and_orthology_map",
+  "test_core.py::TestFeaturize::test_featurize_thresholds",
+  "test_core.py::TestFeaturize::test_featurize_time_and_time_values",
+  "test_core.py::TestLoadSample::test_load_sample_abaumannii",
+  "test_core.py::TestLoadSample::test_load_sample_ecoli",
+  "test_core.py::TestLoadSample::test_load_sample_mtb",
+  "test_core.py::TestLoadSample::test_load_sample_saureus"
+]

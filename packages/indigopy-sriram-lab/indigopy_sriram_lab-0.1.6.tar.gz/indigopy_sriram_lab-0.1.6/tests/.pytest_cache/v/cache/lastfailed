@@ -1,0 +1,5 @@
+{
+  "test_core.py::TestLoadSample": true,
+  "test_core.py::TestFeaturize": true,
+  "test_core.py::TestClassify": true
+}
