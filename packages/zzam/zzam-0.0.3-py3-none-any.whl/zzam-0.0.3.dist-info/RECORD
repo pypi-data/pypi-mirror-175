@@ -1,0 +1,10 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_datatypes.py,sha256=Dfd_WgzVxpf1192-Di9pv7Hqca0XpqdiVzFMRowoeQg,451
+tests/test_temperature.py,sha256=49t1B0yiWDSY9liDhXY86uRDfovl3-x-A_h-YmhnSbc,214
+zzam/__init__.py,sha256=Lczj_Y7aECF1RBQ56-z548FJC7UyFyhEId-_fIngYe8,137
+zzam/datatypes.py,sha256=MgpmgTR60GkbuN9HZ189m4C0JYS_RaJ1umCL3RwhnEM,198
+zzam/temperature.py,sha256=BFTQD1lu4Mgfj_4osn9wx7h8C8VOpBoGOI9WhXHDUk8,170
+zzam-0.0.3.dist-info/METADATA,sha256=5DxYe6kiSTR-59Tkz5ClJXrD_TiuIZtMtW02O3BMCds,487
+zzam-0.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+zzam-0.0.3.dist-info/top_level.txt,sha256=PMV7q1EPZju0uDrg9CyjOf5b4oRB8w7muolyZtbafJI,11
+zzam-0.0.3.dist-info/RECORD,,
