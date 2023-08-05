@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/mypackage/__init__.py
+src/mypackage/main.py
+src/vitextaug.egg-info/PKG-INFO
+src/vitextaug.egg-info/SOURCES.txt
+src/vitextaug.egg-info/dependency_links.txt
+src/vitextaug.egg-info/top_level.txt
