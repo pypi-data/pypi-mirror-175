@@ -1,0 +1,9 @@
+[submodule "calliope/lastfmclient"]
+	path = calliope/subprojects/lastfmclient
+	url = https://github.com/ssssam/lastfmclient
+[submodule "calliope/bandcamp_api"]
+	path = calliope/subprojects/bandcamp_api
+	url = https://github.com/ssssam/bandcamp_api/
+[submodule "subprojects/pylistenbrainz"]
+	path = calliope/subprojects/pylistenbrainz
+	url = https://github.com/ssssam/pylistenbrainz

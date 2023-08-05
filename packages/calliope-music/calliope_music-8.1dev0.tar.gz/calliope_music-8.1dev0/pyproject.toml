@@ -1,0 +1,47 @@
+[build-system]
+requires = [
+    "meson-python",
+]
+build-backend = "mesonpy"
+
+[project]
+name = 'calliope-music'
+dynamic = [ 'version' ]
+author = 'Sam Thursfield'
+author_email = 'sam@afuera.me.uk'
+description = 'Toolkit for working with playlists of music.'
+long_description = { file = 'README.md' }
+long_description_content_type = 'text/markdown'
+
+[project.urls]
+homepage = 'https://gitlab.com/samthursfield/calliope'
+bug_tracker = 'https://gitlab.com/samthursfield/calliope/issues'
+changelog = 'https://calliope-music.readthedocs.io/en/latest/changelog.html'
+#classifiers =
+#    Programming Language :: Python :: 3
+#    License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+#    Operating System :: OS Independent
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = py37,py10
+isolated_build = true
+
+[testenv]
+deps =
+  coverage
+  mutagen
+  pytest
+  pytest-benchmark
+  pytest-cov
+  pytest-pep8
+# The `-r sx` flag shows skipped tests.
+commands = pytest tests/ -r sx --cov {envsitepackagesdir}/calliope --junitxml report.xml
+commands_post = coverage xml
+extras =
+  bandcamp
+  musicbrainz
+  select
+  spotify
+  youtube
+"""

@@ -1,0 +1,116 @@
+include:
+  - remote: "https://gitlab.freedesktop.org/freedesktop/ci-templates/-/raw/290b79e0e78eab67a83766f4e9691be554fc4afd/templates/ci-fairy.yml"
+  - remote: 'https://gitlab.freedesktop.org/freedesktop/ci-templates/-/raw/290b79e0e78eab67a83766f4e9691be554fc4afd/templates/fedora.yml'
+
+stages:
+  - prepare
+  - test
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+cache:
+  paths:
+    - .cache/pip
+    - venv/
+
+.calliope.fedora:latest:
+  variables:
+    FDO_DISTRIBUTION_TAG: '2022-04-05.1'
+    FDO_DISTRIBUTION_VERSION: 34
+    FDO_DISTRIBUTION_PACKAGES: 'dbus-x11 dconf glib2-devel gstreamer1-plugins-good libmediaart-devel meson python3-gobject python3-pylint python3-pytest python3-pytest-benchmark python3-pyyaml python3-sphinx python3-sphinx-click rsync tracker3-devel tracker3-miners'
+    FDO_DISTRIBUTION_EXEC: |
+      # Some Python dependencies contain C code, so we need a C toolchain available during this process.
+      # Non exhaustive list: splitstream
+      dnf install -y gcc python3-devel python3-pip redhat-rpm-config
+      pip3 install click jsonschema parsedatetime splitstream yoyo-migrations
+      pip3 install mutagen
+      pip3 install beautifulsoup4 cachecontrol google-api-python-client jinja2 lastfmclient lockfile lxml musicbrainzngs pylistenbrainz simpleai spotipy
+      pip3 install sphinx-autoapi sphinx-jsonschema
+      pip3 install pytest-pep8
+      # jinja2 requires python3-markupsafe, this prevents it being removed during cleanup.
+      dnf mark install python3-markupsafe
+      # spotipy requires python3-idna, this prevents it being removed during cleanup
+      dnf mark install python3-idna
+      # dbus-launch warns if there's no /etc/machine-id
+      systemd-machine-id-setup
+      # Clean up
+      dnf remove -y gcc gtk2 python3-devel redhat-rpm-config
+      dnf clean all
+      rm -R /root/*
+
+build-fedora-container:
+  extends:
+    - .fdo.container-build@fedora
+    - .calliope.fedora:latest
+  stage: prepare
+
+meson-build-and-test:
+  stage: test
+  extends:
+  - .fdo.distribution-image@fedora
+  - .calliope.fedora:latest
+
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+
+  script:
+    - |
+      mkdir build
+      cd build
+      meson ..
+      ninja
+    - |
+      env LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 XDG_DATA_DIRS=/usr/share dbus-launch meson test --suite calliope --print-errorlogs
+    - |
+      ninja pylint
+
+  artifacts:
+    when: always
+    paths:
+    - build/meson-logs/testlog.txt
+
+setuptools-build:
+  stage: test
+  extends:
+  - .fdo.distribution-image@fedora
+  - .calliope.fedora:latest
+
+  script:
+    - |
+      python3 -m pip install --upgrade build
+      python3 -m build
+
+
+pytest-3.7:
+  image: python:3.7
+  stage: test
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  script:
+    - |
+      apt-get update -y
+      apt-get install -y rsync
+      pip install tox
+      tox -e py37
+
+pytest-3.10:
+  image: python:3.10
+  stage: test
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  script:
+    - |
+      apt-get update -y
+      apt-get install -y rsync
+      pip install tox
+      tox -e py310
+  artifacts:
+    when: always
+    reports:
+      junit: report.xml
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage.xml
+
+  coverage: '/^TOTAL\s+\d+\s+\d+\s+(\d+%)$/'
