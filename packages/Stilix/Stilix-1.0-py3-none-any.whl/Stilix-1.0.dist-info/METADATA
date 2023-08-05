@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Stilix
+Version: 1.0
+Summary: Stilix allows you to perform basic operations on arrays.README-https://github.com/100percentcyan/Stilix/blob/main/README.md
+Author-email: 100percentcyan <100percentcyan6@gmail.com>
+Project-URL: github, https://github.com/100percentcyan/Stilix
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
