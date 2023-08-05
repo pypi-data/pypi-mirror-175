@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: scatterem
+Version: 0.0.8
+Summary: scatterem
+Home-page: https://github.com/scatterem/scatterem
+Author: Philipp Pelz
+Author-email: philipp.pelz@yahoo.de
+License: Apache Software License 2.0
+Keywords: nbdev jupyter notebook python
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torchvision
+Requires-Dist: pytorch (>=1.8.0)
+Requires-Dist: fastcore
+Requires-Dist: pytorch-lightning
+Requires-Dist: matplotlib-scalebar
+Requires-Dist: sigpy
+Requires-Dist: ncempy
+Requires-Dist: GPUtil
+Provides-Extra: dev
+
+This file will be overwritten by `index.ipynb`
