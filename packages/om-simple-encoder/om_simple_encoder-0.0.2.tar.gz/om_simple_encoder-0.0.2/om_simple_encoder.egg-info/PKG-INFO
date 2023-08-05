@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: om-simple-encoder
+Version: 0.0.2
+Summary: OM Simple Encoder
+Home-page: https://www.soco.ai
+Author: kyusonglee
+License: UNKNOWN
+Description: # Om Simple Encoder
+        Om Simple Encoder is to fintune the query encoder. Currently it includes only query image encoder. 
+        
+        # How to start training
+        ```
+        python train.py --img_dir {image_root_path} --data {data json} --num_workers=15 --gpus=1 --batch_size=64 
+        ```
+        
+        # Data Format
+        ```json
+        [ {"key1": ["/path/image1.jpg","/path/image2.jpg"], "key2":  ["/path/image1.jpg","/path/image2.jpg"]},...]
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Free for non-commercial use
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
