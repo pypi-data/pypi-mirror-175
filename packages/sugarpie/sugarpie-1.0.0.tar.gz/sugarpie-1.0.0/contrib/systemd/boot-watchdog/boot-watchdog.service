@@ -1,0 +1,14 @@
+[Unit]
+Description=Boot watchdog that restarts the UPS in case the system does not boot.
+
+[Service]
+Type=oneshot
+WorkingDirectory=/usr/local/lib/sugarpie/boot-watchdog
+ExecStart=/usr/bin/python boot-watchdog-start-service.py
+ExecStop=/usr/bin/python boot-watchdog-stop-service.py
+Environment=PYTHONUNBUFFERED=1
+StandardOutput=journal
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
