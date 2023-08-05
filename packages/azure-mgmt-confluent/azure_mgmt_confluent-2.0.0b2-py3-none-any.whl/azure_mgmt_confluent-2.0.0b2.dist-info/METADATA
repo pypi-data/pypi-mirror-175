@@ -1,0 +1,110 @@
+Metadata-Version: 2.1
+Name: azure-mgmt-confluent
+Version: 2.0.0b2
+Summary: Microsoft Azure Confluent Management Client Library for Python
+Home-page: https://github.com/Azure/azure-sdk-for-python
+Author: Microsoft Corporation
+Author-email: azpysdkhelp@microsoft.com
+License: MIT License
+Keywords: azure,azure sdk
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: msrest (>=0.7.1)
+Requires-Dist: azure-common (~=1.1)
+Requires-Dist: azure-mgmt-core (<2.0.0,>=1.3.2)
+Requires-Dist: typing-extensions (>=4.3.0) ; python_version < "3.8.0"
+
+# Microsoft Azure SDK for Python
+
+This is the Microsoft Azure Confluent Management Client Library.
+This package has been tested with Python 3.7+.
+For a more complete view of Azure libraries, see the [azure sdk python release](https://aka.ms/azsdk/python/all).
+
+## _Disclaimer_
+
+_Azure SDK Python packages support for Python 2.7 has ended 01 January 2022. For more information and questions, please refer to https://github.com/Azure/azure-sdk-for-python/issues/20691_
+
+# Usage
+
+
+To learn how to use this package, see the [quickstart guide](https://aka.ms/azsdk/python/mgmt)
+ 
+For docs and references, see [Python SDK References](https://docs.microsoft.com/python/api/overview/azure/)
+Code samples for this package can be found at [Confluent Management](https://docs.microsoft.com/samples/browse/?languages=python&term=Getting%20started%20-%20Managing&terms=Getting%20started%20-%20Managing) on docs.microsoft.com.
+Additional code samples for different Azure services are available at [Samples Repo](https://aka.ms/azsdk/python/mgmt/samples)
+
+
+# Provide Feedback
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues](https://github.com/Azure/azure-sdk-for-python/issues)
+section of the project. 
+
+
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-python%2Fazure-mgmt-confluent%2FREADME.png)
+
+
+# Release History
+
+## 2.0.0b2 (2022-11-02)
+
+### Features Added
+
+  - Added operation group ValidationsOperations
+  - Model ConfluentAgreementResource has a new parameter system_data
+  - Model OrganizationResource has a new parameter system_data
+
+### Breaking Changes
+
+  - Parameter email_address of model UserDetail is now required
+  - Parameter id of model OfferDetail is now required
+  - Parameter offer_detail of model OrganizationResource is now required
+  - Parameter plan_id of model OfferDetail is now required
+  - Parameter plan_name of model OfferDetail is now required
+  - Parameter publisher_id of model OfferDetail is now required
+  - Parameter term_unit of model OfferDetail is now required
+  - Parameter user_detail of model OrganizationResource is now required
+
+## 2.0.0b1 (2021-05-24)
+
+**Features**
+
+  - Model ConfluentAgreementResource has a new parameter system_data
+  - Model OrganizationResource has a new parameter system_data
+  - Added operation group ValidationsOperations
+
+**Breaking changes**
+
+  - Parameter offer_detail of model OrganizationResource is now required
+  - Parameter user_detail of model OrganizationResource is now required
+  - Parameter email_address of model UserDetail is now required
+  - Parameter plan_name of model OfferDetail is now required
+  - Parameter term_unit of model OfferDetail is now required
+  - Parameter plan_id of model OfferDetail is now required
+  - Parameter publisher_id of model OfferDetail is now required
+  - Parameter id of model OfferDetail is now required
+
+## 1.0.0 (2021-01-18)
+
+**Features**
+
+  - Model OperationResult has a new parameter is_data_action
+
+**Breaking changes**
+  - Operation MarketplaceAgreementsOperations.create has a new signature
+  - Operation OrganizationOperations.update has a new signature
+  - Model ConfluentAgreementResource has a new signature
+
+## 1.0.0b1 (2020-11-23)
+
+* Initial Release
