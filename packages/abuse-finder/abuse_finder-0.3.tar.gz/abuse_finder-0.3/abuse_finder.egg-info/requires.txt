@@ -1,0 +1,6 @@
+ipwhois
+ipaddress
+pythonwhois-alt>=2.4.6
+tldextract
+future
+dnspython
