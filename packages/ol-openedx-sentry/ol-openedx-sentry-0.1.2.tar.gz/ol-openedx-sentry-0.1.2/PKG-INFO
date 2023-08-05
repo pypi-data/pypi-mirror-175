@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: ol-openedx-sentry
+Version: 0.1.2
+Summary: An Open edX plugin to enable error tracking with Sentry
+License: BSD-3-Clause
+Requires-Python: >=3.8

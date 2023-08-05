@@ -1,0 +1,15 @@
+MANIFEST.in
+__init__.py
+backend_shim.py
+setup.py
+ol_openedx_sentry/__init__.py
+ol_openedx_sentry/app.py
+ol_openedx_sentry.egg-info/PKG-INFO
+ol_openedx_sentry.egg-info/SOURCES.txt
+ol_openedx_sentry.egg-info/dependency_links.txt
+ol_openedx_sentry.egg-info/entry_points.txt
+ol_openedx_sentry.egg-info/namespace_packages.txt
+ol_openedx_sentry.egg-info/requires.txt
+ol_openedx_sentry.egg-info/top_level.txt
+ol_openedx_sentry/settings/__init__.py
+ol_openedx_sentry/settings/sentry.py
