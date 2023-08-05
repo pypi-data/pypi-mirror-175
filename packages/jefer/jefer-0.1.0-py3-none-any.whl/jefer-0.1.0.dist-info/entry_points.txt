@@ -1,0 +1,3 @@
+[console_scripts]
+jefer=jefer.main:app
+
