@@ -1,0 +1,2 @@
+[nbdev]
+scatterem = scatterem._modidx:d
