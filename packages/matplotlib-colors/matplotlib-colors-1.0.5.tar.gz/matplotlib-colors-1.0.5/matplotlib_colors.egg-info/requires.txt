@@ -1,0 +1,8 @@
+matplotlib
+
+[build]
+build
+twine
+
+[dev]
+pytest
