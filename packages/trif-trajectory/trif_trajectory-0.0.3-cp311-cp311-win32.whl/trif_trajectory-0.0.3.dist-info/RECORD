@@ -1,0 +1,6 @@
+trif_trajectory/__init__.py,sha256=jtJK6TzLvHuK9zcYPBuTJA9pgdeXhk-ALfIKttDDCus,303
+trif_trajectory/bootstrap.cp311-win32.pyd,sha256=bsk3vCcwbUN8DfBKGkd2cilt8422kxUm8Iciez-RL3w,238592
+trif_trajectory-0.0.3.dist-info/METADATA,sha256=xZF49s6JqpGQl02et7q9kONQx4rZcETEIJpEOAVnQUQ,2052
+trif_trajectory-0.0.3.dist-info/WHEEL,sha256=ZFq5jXtyqHWnKeYLzD3mUo8rAiNhy_FNqiMNKNc1pHA,98
+trif_trajectory-0.0.3.dist-info/top_level.txt,sha256=0if6b0SJMFh7h_bxg4idWpjq34jYlOFgg9MubUgYfdM,16
+trif_trajectory-0.0.3.dist-info/RECORD,,
