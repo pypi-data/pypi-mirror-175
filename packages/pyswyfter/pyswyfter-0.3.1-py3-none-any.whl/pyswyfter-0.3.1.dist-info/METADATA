@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pyswyfter
+Version: 0.3.1
+Summary: Utilities for ckan extensions.
+Author-email: Natural History Museum <data@nhm.ac.uk>
+License: GPL-3.0-or-later
+Project-URL: repository, https://github.com/NaturalHistoryMuseum/ckantools
+Project-URL: changelog, https://github.com/NaturalHistoryMuseum/ckantools/blob/main/CHANGELOG.md
+Keywords: CKAN,data
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: ckan (>2.9)
+Provides-Extra: test
+Requires-Dist: mock ; extra == 'test'
+Requires-Dist: pytest (>=4.6.5) ; extra == 'test'
+Requires-Dist: pytest-cov (>=2.7.1) ; extra == 'test'
+Requires-Dist: coveralls ; extra == 'test'
+
