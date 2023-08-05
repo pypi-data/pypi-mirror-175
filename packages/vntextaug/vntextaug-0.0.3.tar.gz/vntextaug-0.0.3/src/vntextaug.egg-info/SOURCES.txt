@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/vntextaug.egg-info/PKG-INFO
+src/vntextaug.egg-info/SOURCES.txt
+src/vntextaug.egg-info/dependency_links.txt
+src/vntextaug.egg-info/requires.txt
+src/vntextaug.egg-info/top_level.txt
