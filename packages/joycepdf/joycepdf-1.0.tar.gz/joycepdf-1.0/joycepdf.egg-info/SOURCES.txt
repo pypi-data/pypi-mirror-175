@@ -1,0 +1,10 @@
+LICENSE.lic
+README.md
+setup.py
+joycepdf/__init__.py
+joycepdf/pdf2image.py
+joycepdf/pdf2text.py
+joycepdf.egg-info/PKG-INFO
+joycepdf.egg-info/SOURCES.txt
+joycepdf.egg-info/dependency_links.txt
+joycepdf.egg-info/top_level.txt
