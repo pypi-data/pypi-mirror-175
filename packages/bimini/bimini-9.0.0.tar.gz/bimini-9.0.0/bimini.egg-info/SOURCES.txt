@@ -1,0 +1,9 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+bimini.egg-info/PKG-INFO
+bimini.egg-info/SOURCES.txt
+bimini.egg-info/dependency_links.txt
+bimini.egg-info/top_level.txt
