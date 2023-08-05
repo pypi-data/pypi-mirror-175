@@ -1,0 +1,14 @@
+projectpythonnew/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+projectpythonnew/projectpackage/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+projectpythonnew/projectpackage/alien.py,sha256=3VDuF_r-lylU78J0AbIZfaf3c_SY6I5nWKnHbkNHEZE,790
+projectpythonnew/projectpackage/alien_invasion.py,sha256=W7riI_ovQ5m34e90O84_lTnnd4DffHw5GcAIQxHz7_M,6891
+projectpythonnew/projectpackage/bullet.py,sha256=-pX9tBIEYdmia-o-zBcx9sbSDnQB-Ey_uRmtvpywlls,646
+projectpythonnew/projectpackage/button.py,sha256=4hGmQpELUPObtOAfFqytXr0OPYgViQpBtSs4QkI3OfI,862
+projectpythonnew/projectpackage/game_stats.py,sha256=cPfWlAIEYNctzG1y5Kd-XkVKaiTZf0ZiVRo5S13ozFc,423
+projectpythonnew/projectpackage/scoreboard.py,sha256=g6wfKkVm3VjUnJot_2Arp-AfOvhASrNL5OlEkKslkFY,2449
+projectpythonnew/projectpackage/settings.py,sha256=QLK4Wyj15TrxZD7Mx17K87t1Pkg0dj84aflZnICJ7f0,1135
+projectpythonnew/projectpackage/ship.py,sha256=yEs8AQOibCFSPKOo1bZdV-wmR66RByp7X8ZztG85wiQ,1087
+machinestatusnew-0.1.dist-info/METADATA,sha256=rkLZLB7oLW-9nIv8GebPpgifstrbCEz5PsV3i7e4C0A,383
+machinestatusnew-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+machinestatusnew-0.1.dist-info/top_level.txt,sha256=w0DeKiyd11mKy-cHG0cbLPaj8fWjd4CrNH73fkpXe_Y,17
+machinestatusnew-0.1.dist-info/RECORD,,
