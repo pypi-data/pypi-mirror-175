@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/tradingview_ws/__init__.py
+src/tradingview_ws/__version__.py
+src/tradingview_ws/tdws.py
+src/tradingview_ws.egg-info/PKG-INFO
+src/tradingview_ws.egg-info/SOURCES.txt
+src/tradingview_ws.egg-info/dependency_links.txt
+src/tradingview_ws.egg-info/requires.txt
+src/tradingview_ws.egg-info/top_level.txt
