@@ -1,0 +1,41 @@
+[build-system]
+requires = ["maturin>=0.13,<0.14"]
+build-backend = "maturin"
+
+[project]
+name = "egg-smol"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Rust",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+]
+
+[project.optional-dependencies]
+dev = ["pre-commit", "black", "mypy", "flake8", "isort"]
+
+test = ["pytest"]
+
+docs = ["pydata-sphinx-theme", "myst-nb"]
+
+
+[tool.isort]
+profile = "black"
+skip_gitignore = true
+
+
+[tool.mypy]
+ignore_missing_imports = false
+warn_redundant_casts = true
+check_untyped_defs = true
+strict_equality = true
+warn_unused_configs = true
+enable_recursive_aliases = true
+
+[tool.maturin]
+python-source = "python"
+
+[tool.pytest.ini_options]
+addopts = ["--import-mode=importlib"]
+testpaths = ["python"]
+python_files = ["test_*.py", "test.py"]

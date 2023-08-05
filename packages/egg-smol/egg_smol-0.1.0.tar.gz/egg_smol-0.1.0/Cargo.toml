@@ -1,0 +1,16 @@
+[package]
+name = "egg-smol-python"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "egg_smol_python"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.17.1", features = ["extension-module"] }
+egg-smol = { git = "https://github.com/mwillsey/egg-smol", rev = "94c173b9d6152c18deca307bb2e8d2b8c412c16b" }
+
+[package.metadata.maturin]
+name = "egg_smol.bindings"
