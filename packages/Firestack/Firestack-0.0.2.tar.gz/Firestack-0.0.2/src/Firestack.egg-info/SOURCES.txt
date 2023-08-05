@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/Firestack/__init__.py
+src/Firestack/auth.py
+src/Firestack/utils.py
+src/Firestack.egg-info/PKG-INFO
+src/Firestack.egg-info/SOURCES.txt
+src/Firestack.egg-info/dependency_links.txt
+src/Firestack.egg-info/requires.txt
+src/Firestack.egg-info/top_level.txt
