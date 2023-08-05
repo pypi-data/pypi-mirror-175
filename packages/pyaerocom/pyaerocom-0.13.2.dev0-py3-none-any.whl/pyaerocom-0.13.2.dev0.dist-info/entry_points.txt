@@ -1,0 +1,10 @@
+[console_scripts]
+pya=pyaerocom.scripts.cli:main
+
+[pyaerocom.gridded]
+ReadMscwCtm=pyaerocom.plugins.mscw_ctm.reader:ReadMscwCtm
+
+[pyaerocom.ungridded]
+ReadGAW=pyaerocom.plugins.gaw.reader:ReadGAW
+ReadGhost=pyaerocom.plugins.ghost.reader:ReadGhost
+
