@@ -1,0 +1,10 @@
+postfix/__init__.py,sha256=7fo6w6WqPBDlMIB1a1tL8DlpN0r3IHWTYiOIaKKJLPc,23
+postfix/postfix.py,sha256=QpiPX5untNgKmjfyswoPsJyU3A-L6kbAgJUp1QquE4g,3630
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/code_to_be_tested.py,sha256=4bSYAoY_VmNPiybl8uuATJM8nzk3U7L-ERPyqWsjtg8,364
+tests/test_postfix.py,sha256=ReTyGGVJqLEV7W0cEyEcNOUW0WS3lr9-wfoYBftHJ7s,838
+postfix-0.0.5.dist-info/LICENSE,sha256=ACwmltkrXIz5VsEQcrqljq-fat6ZXAMepjXGoe40KtE,1069
+postfix-0.0.5.dist-info/METADATA,sha256=M8OYoY4zZYf2xHX8yYGDmlVDZqSser0ZLG2SlyZTZcI,1860
+postfix-0.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+postfix-0.0.5.dist-info/top_level.txt,sha256=v4glWowvI-8H77-rGI2ILTnyo0_NSwKpLzR3BIq8gcw,14
+postfix-0.0.5.dist-info/RECORD,,
