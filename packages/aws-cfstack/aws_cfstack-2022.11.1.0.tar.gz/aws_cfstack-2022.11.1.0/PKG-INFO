@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: aws-cfstack
+Version: 2022.11.1.0
+Summary: Get AWS CloudFormation stack template and parameters.
+Home-page: https://github.com/fer1035/pypi-aws_cfstack
+License: GPL-2.0-only
+Keywords: AWS,CloudFormation,stack,download,backup
+Author: Ahmad Ferdaus Abd Razak
+Author-email: ahmad.ferdaus.abd.razak@ni.com
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: aws-authenticator (>=2022.10.1.0,<2023.0.0.0)
+Project-URL: Repository, https://github.com/fer1035/pypi-aws_cfstack
+Description-Content-Type: text/x-rst
+
+===============
+**aws-cfstack**
+===============
+
+Overview
+--------
+
+Get AWS CloudFormation stack template and parameters.
+
+Prerequisites
+-------------
+
+- *Python >= 3.6*
+- *aws-authenticator (https://pypi.org/project/aws-authenticator/) >= 2022.10.1.0*
+
+Required Arguments
+------------------
+
+- Output path (to store module artifacts)
+- AWS authentication method (profile, iam, or sso)
+
+Conditional Arguments
+---------------------
+
+If authenticating with named profiles:
+
+- AWSCLI profile name
+
+If authenticating with IAM acccess key credentials:
+
+- AWS access key id
+- AWS secret access key
+
+If authenticating with SSO:
+
+- AWS account ID
+- AWS SSO Permission Set (role) name
+- AWS SSO login URL
+
+Usage
+-----
+
+Installation:
+
+.. code-block:: BASH
+
+   pip3 install aws-cfstack
+   # or
+   python3 -m pip install aws-cfstack
+
+In Python3 authenticating with named profiles:
+
+.. code-block:: PYTHON
+
+   import aws_cfstack
+
+   aws_cfstack.get_stack(
+      '/home/username/Desktop',
+      'profile',
+      profile_name='<profile_name>'
+   )
+
+In BASH authenticating with named profiles:
+
+.. code-block:: BASH
+
+   python [/path/to/]aws_cfstack \
+   -o <output_path> \
+   -m profile \
+   -p <profile_name>
+
