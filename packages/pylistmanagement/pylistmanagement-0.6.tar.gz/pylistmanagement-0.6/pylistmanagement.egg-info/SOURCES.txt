@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+pylistmanagement/__init__.py
+pylistmanagement/pylistmanagement.py
+pylistmanagement.egg-info/PKG-INFO
+pylistmanagement.egg-info/SOURCES.txt
+pylistmanagement.egg-info/dependency_links.txt
+pylistmanagement.egg-info/top_level.txt
