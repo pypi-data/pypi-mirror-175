@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+inspector_mils/__init__.py
+inspector_mils/inspector.py
+inspector_mils.egg-info/PKG-INFO
+inspector_mils.egg-info/SOURCES.txt
+inspector_mils.egg-info/dependency_links.txt
+inspector_mils.egg-info/top_level.txt
