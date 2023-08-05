@@ -1,0 +1,16 @@
+seqspec/Assay.py,sha256=e_NqInHbcSwi7QHYqnCXdDQ5NHSTZxhyMtewjTYKFcA,1719
+seqspec/Protocol.py,sha256=Xt4Cq_6ljN90Oal_ePEMOCDadlRR-4FLj2WD6lRK8W0,300
+seqspec/Region.py,sha256=tfKLqpHYkEGgIhbPKW8iDXVgMmhlarDxvhq0uPnH5xw,3656
+seqspec/__init__.py,sha256=ShXQBVjyiSOHxoQJS2BvNG395W4KZfqMxZWBAR0MZrE,22
+seqspec/main.py,sha256=R9-kHVNHbl1QJPZKe6HMoe7AsAewZ5AOaTbqvoidufg,1808
+seqspec/seqspec.py,sha256=gMNS3T4yJqWI0EF2ZgeGJeZlQXha9bPsxeReijfNpSE,129
+seqspec/seqspec_check.py,sha256=XA7gf2P_T-ZZKxqh4K8Ne3O0mKnRnaZpnel8bb7CCUQ,1335
+seqspec/seqspec_format.py,sha256=pPhakWm5__D2fU9dy9bBd9wdrXEY75HxFWMvDfZBFQg,783
+seqspec/seqspec_print.py,sha256=PVXhE6DvBWj5OSqKYKJG8boP3x86FX3HkP886n9FE2k,3855
+seqspec/schema/seqspec.schema.json,sha256=eA4d35DPTZfck-DALL2W8x0oWUMLMVM0_raDQ6q_lMY,3219
+seqspec-0.0.0.dist-info/LICENSE,sha256=2RxceSFuJADzk1ku3xRByEkZkfZEXUMFPJ1bGX0h9yU,1072
+seqspec-0.0.0.dist-info/METADATA,sha256=wNYjwzV6smKCKpPzrLqafV6UurXF-aR_OZPrx04WZdo,5849
+seqspec-0.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+seqspec-0.0.0.dist-info/entry_points.txt,sha256=N_5ys2tRy1-FIJ3-fJeLoPfPG7fipIDC90ke5gDWIEQ,46
+seqspec-0.0.0.dist-info/top_level.txt,sha256=0GXZyf0K5XROhwuF_Wsvd2Pp0-ZrX-fb-izG6EcElvo,8
+seqspec-0.0.0.dist-info/RECORD,,
