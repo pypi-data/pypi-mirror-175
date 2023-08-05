@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: archimedean
+Version: 0.0.3.6
+Summary: The Ultimate Archimedean CLI
+Author: Daniel Li
+Author-email: daniel.miami2005@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Requires-Dist: requests
+Requires-Dist: bs4
+Requires-Dist: smtplib
+
+# archimedean
+
+Sends email whenever there is new homework on Archie website. Can download all files from any class in CineMath. Can download any resource posted on Archie. 
+Still in testing phase.
+
+## Installation
+
+    Open the terminal
+    Run 'pip install archimedean' to install
+
+## Usage
+
+    First run 'archimedean login' to save your credentials
+
+    Commands:
+    'archimedean login' logs you into Archie
+    'archimedean homework' prints current homework and due dates to the command line
+    'archimedean cinemath' downloads all lessons from a class in CineMath
