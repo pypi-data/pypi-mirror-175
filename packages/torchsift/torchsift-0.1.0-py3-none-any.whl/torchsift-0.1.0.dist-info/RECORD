@@ -1,0 +1,9 @@
+torchsift/__init__.py,sha256=y6erQsAj590hC5hAskteHTJ7UgkYNPUCJqV8Oq8mMNo,108
+torchsift/ransac.py,sha256=KTkgaPUrLVVMRpe3LeNOwM2IXQVCDMkbmgIzVnKxmwk,10194
+torchsift/sift.py,sha256=Whtd1xTYcIi0Y_iFmxPAAWESDR-nSCsQaIOitpnZMlw,8302
+torchsift/utils.py,sha256=yb2wszvb2HA-3mNKIzqA33_cZRtK14dA5MycyVzp5_g,2124
+torchsift-0.1.0.dist-info/LICENSE,sha256=WFC8uDjsxnuxq0QcgsuXqLcVwBdroG174EZ9kI6q_Ic,1090
+torchsift-0.1.0.dist-info/METADATA,sha256=Z5_Yy7LyYGIV5xNgBFSB7nrP4LURwFcvkNJhh_Aap00,6828
+torchsift-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+torchsift-0.1.0.dist-info/top_level.txt,sha256=cA8idEggi7c9TfAIjO441beZGVp5PlzbTDAkRR_9HFI,10
+torchsift-0.1.0.dist-info/RECORD,,
