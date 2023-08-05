@@ -1,0 +1,12 @@
+2022-10-17 15-53-03 - INFO - Coverage.<module>: logger created
+2022-10-17 15-53-03 - INFO - Coverage.CoverageHandler.__init__: created handler logger
+2022-10-17 15-53-03 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile docGeneration
+2022-10-17 15-53-03 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile index
+2022-10-17 15-53-03 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile BandStructure
+2022-10-17 15-53-05 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile FragmentStudio
+2022-10-17 15-53-06 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile GeometryOptimization
+2022-10-17 15-53-07 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile LinearCubicComparison
+2022-10-17 15-53-08 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile Link with Fortran and BigDFT in Notebooks
+2022-10-17 15-53-09 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile QMMM-Fragments
+2022-10-17 15-53-10 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile Spin-Polarization
+2022-10-17 15-53-11 - DEBUG - Coverage.CoverageHandler.source_read: new sourcefile Tutorial-N2
