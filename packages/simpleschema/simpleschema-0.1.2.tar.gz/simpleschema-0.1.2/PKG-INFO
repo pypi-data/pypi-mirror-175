@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: simpleschema
+Version: 0.1.2
+Summary: A minimal schema validator
+Home-page: https://github.com/Lrizika/simpleschema
+Author: Lrizika
+Author-email: lrizika.simpleschema@lrizika.com
+License: MIT
+License-File: LICENSE
+
+
+# simpleschema
+
+A simple dictionary schema validator for Python
