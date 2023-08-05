@@ -1,0 +1,11 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+admin_argon/__init__.py
+django_admin_argon_dashboard.egg-info/PKG-INFO
+django_admin_argon_dashboard.egg-info/SOURCES.txt
+django_admin_argon_dashboard.egg-info/dependency_links.txt
+django_admin_argon_dashboard.egg-info/not-zip-safe
+django_admin_argon_dashboard.egg-info/top_level.txt
+docs/blank.txt
