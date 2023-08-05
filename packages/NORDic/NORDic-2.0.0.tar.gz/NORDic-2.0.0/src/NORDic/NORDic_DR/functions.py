@@ -1,0 +1,80 @@
+#coding: utf-8
+
+import pandas as pd
+import numpy as np
+from joblib import Parallel, delayed
+
+import bandits
+import utils
+
+def adaptive_testing(network_name, signatures, targets, frontier, states, simu_params, bandit_args, quiet=False):
+    assert signatures.shape[1]==targets.shape[1]
+    assert all([c==targets.columns[i] for i, c in enumerate(signatures.columns)])
+    assert states.shape[0]==targets.shape[0]
+    assert all([c==targets.index[i] for i, c in enumerate(states.index)])
+    assert bandit_args.get('bandit', 'LinGapE') in bandits.bandit_types
+    assert bandit_args.get('beta', 'heuristic') in bandits.beta_types
+    assert bandit_args.get('learner', 'AdaHedge') in bandits.learner_types
+    assert bandit_args.get('gain_type', 'empirical') in utils.gain_types
+    assert bandit_args.get('tracking_type', 'D') in utils.tracking_types
+    assert bandit_args.get("delta", None)
+    assert bandit_args.get("m", None)
+    delta, m = [bandit_args[x] for x in ["delta", "m"]]
+    sigma = bandit_args.get("sigma", 1)
+    c = bandit_args.get("c", 0)
+    problem_args={ 
+        "network_name": network_name,
+        "targets": targets,
+        "frontier": frontier,
+        "states": states,
+        "simu_params": simu_params,
+    }
+    np.random.seed(bandit_args.get("seed", 0))
+    problem = testing_problem(signatures, problem_args)
+
+    bandit_args.update({"beta_linear": eval("bandits."+bandit_args.get('beta', 'heuristic'))(problem.X, delta, sigma, c), "n": m, 
+        "tracking_type": bandit_args.get('tracking_type', 'D'), "learner_name": bandit_args.get('learner', 'AdaHedge'),
+        "gain_type": bandit_args.get('gain_type', 'empirical'), "subsample": bandit_args.get('subsample', False), "geometric_factor": bandit_args.get('geometric_factor', 1.3)}
+    bandit_algorithm=eval("bandits."+method)(method_args)
+
+    if (simu_params.get('thread_count', 1)==1 or bandit_args.get("nsimu", 1)==1):  # No parallelization in this case
+        active_arms, complexity, running_time = bandit_algorithm.run(problem, nsimu)
+    else:
+        # Generate one random seed for each run (best practice with joblib)
+        seeds = [np.random.randint(int(1e8)) for _ in range(bandit_args.get("nsimu", 1))]
+        # Function to perform a single experiment
+        def single_run(id_, seed):
+            # joblib replicates the current process, so we need to manually set a different seed for each run
+            np.random.seed(seed)
+            return bandit_algorithm.run(problem, nsimu=1, run_id=id_)
+        # run nsimu simulations over n_jobs parallel processes
+        results = Parallel(n_jobs=simu_params.get('thread_count', 1), backend='loky')(delayed(single_run)(id_, seed) for id_, seed in enumerate(seeds))
+        # we finally merge the results so as to have them in the same form as for a single process
+        active_arms = np.mean(np.array([r[0] for r in results]), axis=0).tolist()
+        complexity = [r[1][0] for r in results]
+        running_time = [r[4][0] for r in results]
+
+    # results 
+    empirical_rec = pd.DataFrame(active_arms, columns=["Frequency"], index=signatures.columns).T
+    if (not quiet):
+        print("Avg. #samples = %d, avg. runtime %s sec (over %d iterations)" % (np.mean(complexity), np.mean(running_time), bandit_args.get("nsimu", 1)))
+    return empirical_rec
+
+################################
+## TESTING PROBLEM            ##
+################################
+from NORDic.NORDic_DS.functions import simulate_treatment
+
+class testing_problem(object):
+    def __init__(self, signatures, problem_args):
+        self.X = signatures
+        self.memoization = np.nan*np.zeros((signatures.shape[1], states.shape[1]))
+        for k in problem_args:
+            setattr(self, k, problem_args[k])
+        self.targets = self.targets[signatures.columns]
+
+    def reward(self, arm):
+        patient = np.random.choice(range(states.shape[1]), 1)
+        if (not np.isnan(self.memoization[arm, patient])):
+            return self.memoization[arm, patient]
+        return simulate_treatment(self.network_name, self.targets[[self.targets.columns[arm]]], self.frontier, self.states[[patient]], self.simu_params, quiet=False)[0]
