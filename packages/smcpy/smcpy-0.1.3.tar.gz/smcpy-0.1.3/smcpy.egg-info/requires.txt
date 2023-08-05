@@ -1,0 +1,7 @@
+numpy
+h5py
+matplotlib
+tqdm
+scipy
+pytest
+pytest-mock
