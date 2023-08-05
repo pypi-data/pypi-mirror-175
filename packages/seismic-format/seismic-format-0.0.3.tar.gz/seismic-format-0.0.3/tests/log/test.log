@@ -1,0 +1,207 @@
+2022-11-01 17:49:22,179 [ INFO] formats_dir=/Users/mth/mth/python_pkgs/seismic-format/seismic_format/formats
+2022-11-01 17:49:22,180 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,181 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,181 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,181 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,181 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:3 --> time_error:0.60
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,182 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,183 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,183 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,183 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,183 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,184 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,184 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,184 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,184 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,185 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,185 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,185 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,185 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:49:22,186 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:49:22,190 [ INFO] y2k-to-quakeml: Found ampmag:-0.64
+2022-11-01 17:49:22,190 [ INFO] y2k-to-quakeml: Hypoinv file contains n=[1] valid mags:
+2022-11-01 17:49:22,190 [ INFO] y2k-to-quakeml: ml_found=1 mc_found=0 my_found=0
+2022-11-01 17:49:22,190 [ INFO] y2k-to-quakeml: Hypoinv prefmag_label=[l] prefmag=-0.64
+2022-11-01 17:49:22,190 [WARNING] y2k-to-quakeml: ml_found but prefmag_label=[l] and *not* 'L' --> making ML preferred anyway!
+2022-11-01 17:49:22,191 [ INFO] y2k-to-quakeml: Got 6 P-arrivals + 11 S-arrivals
+2022-11-01 17:49:22,191 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,191 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,191 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,191 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,192 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:49:22,193 [ INFO] y2k-to-quakeml: Scanned [17] P/S arrivals
+2022-11-01 17:49:22,193 [ INFO] arr: OK.KB05.HHZ [P] 1585075142.020000
+2022-11-01 17:49:22,193 [ INFO] arr: OK.KB10.HHZ [P] 1585075142.070000
+2022-11-01 17:49:22,193 [ INFO] arr: OK.KB09.HHN [S] 1585075142.800000
+2022-11-01 17:49:22,193 [ INFO] arr: OK.KB05.HHN [S] 1585075142.750000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB10.HHN [S] 1585075142.790000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB04.HHZ [P] 1585075142.140000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB04.HHE [S] 1585075142.860000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB06.HHZ [P] 1585075142.180000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB06.HHN [S] 1585075142.990000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB11.HHN [S] 1585075143.160000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB02.HHZ [P] 1585075142.360000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB02.HHN [S] 1585075143.140000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB07.HHE [S] 1585075143.330000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB12.HHN [S] 1585075143.330000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB01.HHN [S] 1585075143.370000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB03.HHE [S] 1585075143.550000
+2022-11-01 17:49:22,194 [ INFO] arr: OK.KB09.HHZ [P] 1585075142.040000
+2022-11-01 17:49:22,194 [ INFO] y2k-to-quakeml: Scanned [0] amplitudes
+2022-11-01 17:49:22,194 [ INFO] y2k-to-quakeml: Scanned [0] codas
+2022-11-01 17:49:22,194 [ INFO] Found prefmag:l val:-0.64
+2022-11-01 17:50:02,264 [ INFO] formats_dir=/Users/mth/mth/python_pkgs/seismic-format/seismic_format/formats
+2022-11-01 17:50:02,266 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,266 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,266 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,266 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:3 --> time_error:0.60
+2022-11-01 17:50:02,267 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,268 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,268 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,268 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,268 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,269 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,269 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,269 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,269 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,269 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,270 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,270 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,270 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,270 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:02,271 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:02,275 [ INFO] y2k-to-quakeml: Found ampmag:-0.64
+2022-11-01 17:50:02,275 [ INFO] y2k-to-quakeml: Hypoinv file contains n=[1] valid mags:
+2022-11-01 17:50:02,275 [ INFO] y2k-to-quakeml: ml_found=1 mc_found=0 my_found=0
+2022-11-01 17:50:02,275 [ INFO] y2k-to-quakeml: Hypoinv prefmag_label=[l] prefmag=-0.64
+2022-11-01 17:50:02,275 [WARNING] y2k-to-quakeml: ml_found but prefmag_label=[l] and *not* 'L' --> making ML preferred anyway!
+2022-11-01 17:50:02,276 [ INFO] y2k-to-quakeml: Got 6 P-arrivals + 11 S-arrivals
+2022-11-01 17:50:02,276 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,277 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,278 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,279 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,279 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:02,279 [ INFO] y2k-to-quakeml: Scanned [17] P/S arrivals
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB05.HHZ [P] 1585075142.020000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB10.HHZ [P] 1585075142.070000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB09.HHN [S] 1585075142.800000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB05.HHN [S] 1585075142.750000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB10.HHN [S] 1585075142.790000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB04.HHZ [P] 1585075142.140000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB04.HHE [S] 1585075142.860000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB06.HHZ [P] 1585075142.180000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB06.HHN [S] 1585075142.990000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB11.HHN [S] 1585075143.160000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB02.HHZ [P] 1585075142.360000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB02.HHN [S] 1585075143.140000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB07.HHE [S] 1585075143.330000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB12.HHN [S] 1585075143.330000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB01.HHN [S] 1585075143.370000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB03.HHE [S] 1585075143.550000
+2022-11-01 17:50:02,279 [ INFO] arr: OK.KB09.HHZ [P] 1585075142.040000
+2022-11-01 17:50:02,279 [ INFO] y2k-to-quakeml: Scanned [0] amplitudes
+2022-11-01 17:50:02,279 [ INFO] y2k-to-quakeml: Scanned [0] codas
+2022-11-01 17:50:02,279 [ INFO] Found prefmag:l val:-0.64
+2022-11-01 17:50:57,799 [ INFO] formats_dir=/Users/mth/mth/python_pkgs/seismic-format/seismic_format/formats
+2022-11-01 17:50:57,801 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,801 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,801 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,801 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,801 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:3 --> time_error:0.60
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,802 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,803 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,803 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,803 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,803 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,803 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,804 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,804 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,804 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,805 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,805 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,805 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,805 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:57,806 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:57,809 [ INFO] y2k-to-quakeml: Found ampmag:-0.64
+2022-11-01 17:50:57,809 [ INFO] y2k-to-quakeml: Hypoinv file contains n=[1] valid mags:
+2022-11-01 17:50:57,809 [ INFO] y2k-to-quakeml: ml_found=1 mc_found=0 my_found=0
+2022-11-01 17:50:57,809 [ INFO] y2k-to-quakeml: Hypoinv prefmag_label=[l] prefmag=-0.64
+2022-11-01 17:50:57,809 [WARNING] y2k-to-quakeml: ml_found but prefmag_label=[l] and *not* 'L' --> making ML preferred anyway!
+2022-11-01 17:50:57,810 [ INFO] y2k-to-quakeml: Got 6 P-arrivals + 11 S-arrivals
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,811 [ INFO] hypoinv_weight_to_obspy_time_error: wt:2 --> time_error:0.30
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,812 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,813 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,813 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,813 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,813 [ INFO] hypoinv_weight_to_obspy_time_error: wt:0 --> time_error:0.06
+2022-11-01 17:50:57,813 [ INFO] y2k-to-quakeml: Scanned [17] P/S arrivals
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB05.HHZ [P] 1585075142.020000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB10.HHZ [P] 1585075142.070000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB09.HHN [S] 1585075142.800000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB05.HHN [S] 1585075142.750000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB10.HHN [S] 1585075142.790000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB04.HHZ [P] 1585075142.140000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB04.HHE [S] 1585075142.860000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB06.HHZ [P] 1585075142.180000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB06.HHN [S] 1585075142.990000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB11.HHN [S] 1585075143.160000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB02.HHZ [P] 1585075142.360000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB02.HHN [S] 1585075143.140000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB07.HHE [S] 1585075143.330000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB12.HHN [S] 1585075143.330000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB01.HHN [S] 1585075143.370000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB03.HHE [S] 1585075143.550000
+2022-11-01 17:50:57,813 [ INFO] arr: OK.KB09.HHZ [P] 1585075142.040000
+2022-11-01 17:50:57,813 [ INFO] y2k-to-quakeml: Scanned [0] amplitudes
+2022-11-01 17:50:57,813 [ INFO] y2k-to-quakeml: Scanned [0] codas
+2022-11-01 17:50:57,813 [ INFO] Found prefmag:l val:-0.64
