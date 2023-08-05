@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+setup.py
+lloc/main.py
+lloc.egg-info/PKG-INFO
+lloc.egg-info/SOURCES.txt
+lloc.egg-info/dependency_links.txt
+lloc.egg-info/not-zip-safe
+lloc.egg-info/top_level.txt
