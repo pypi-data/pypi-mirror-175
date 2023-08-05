@@ -1,0 +1,11 @@
+trt2onnx/__init__.py,sha256=9atEzbZhZuLA7aCN2fIu79Zou6ZO1MFo0H8uALWYe6o,81
+trt2onnx/trt2onnx.py,sha256=ikMW-We0bYNhXlxO9iPPfGnPKncHPWi_z4hjM4CEf2E,2510
+trt2onnx/core/__init__.py,sha256=FrWjxemCV8KsJmkxF2zu7iwY-Q1qC8Sl3qAxYCEwYCE,142
+trt2onnx/core/convert.py,sha256=_LQaK6NpxCNV7fqliXjJOWuXAT6NWvvSYvkvsbXWzec,5200
+trt2onnx/core/element.py,sha256=MgSqOZijJ55zzV0i5q8owT-QF14r3pVrJc8X2Hp5EYU,7644
+trt2onnx/core/graph.py,sha256=9ALSEFHI267an3pACaL3koMwnQCkQrHC4yyPLa-zTQU,12409
+trt2onnx-0.0.1.dist-info/LICENSE,sha256=piZziGBn5RFYL2J1lPoPuzs_qoVGlMGaDnQPLEwn5Ck,1067
+trt2onnx-0.0.1.dist-info/METADATA,sha256=k70CdjP9s-6rbnYhZh81VFQAL0Ako1v6HShKMwjVGls,2199
+trt2onnx-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+trt2onnx-0.0.1.dist-info/top_level.txt,sha256=IDh48jg_qUowLXPMEiM4xWO58ho9bL2RU3kYpEURt9o,9
+trt2onnx-0.0.1.dist-info/RECORD,,
