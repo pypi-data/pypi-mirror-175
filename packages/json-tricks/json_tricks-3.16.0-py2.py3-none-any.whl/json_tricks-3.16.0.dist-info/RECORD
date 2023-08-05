@@ -1,0 +1,15 @@
+json_tricks/__init__.py,SHA256=-2d93aldnQVlhgS29OmkzFs_e9unuPuE5COKba42rDg,1545
+json_tricks/_version.py,SHA256=rgFM_GpgyzeQq3aHxmpIRS6LSIq1RTWqqjgfm__x_r0,21
+json_tricks/comment.py,SHA256=vwJ2SJTaj6d3TxhugOAOkZiSdd6mFHEdWuL28XHjxZY,979
+json_tricks/decoders.py,SHA256=7m_dLo6BDuO6kjqu0dwhOKkNKPFt-SYR_18KigC-paw,11462
+json_tricks/encoders.py,SHA256=OIIEIUAc4-s-xNXvPU1AsBaGJcmrvl38j4tOd38K2cs,16427
+json_tricks/nonp.py,SHA256=f-Eg0x43YsEv7oUhELZJGadiGeNrBhvUKn_-yTVDcLE,12631
+json_tricks/np.py,SHA256=n_KcnhcKAgd8IAjpyj2w0rNm-oZeydoaTOTU41o7enY,1252
+json_tricks/np_utils.py,SHA256=SugBP6lboAx9ArlUOKbZtlFcSqM5vkKyMTP31I6JOAM,348
+json_tricks/utils.py,SHA256=8pg51TPGQdqQbOhA4vpZISVsSfNjjRwx_X3wzVnqo9w,6805
+json_tricks-3.16.0.dist-info/LICENSE.txt,SHA256=l9w3OKQRxnf0PseaB8O1jTB7qwSx3gmXX8xLo1WxcH4,1501
+json_tricks-3.16.0.dist-info/METADATA,SHA256=O9gGqri5DuDkjuN2EBaAHuOR798Tyi0EozM_2iau620,16774
+json_tricks-3.16.0.dist-info/WHEEL,SHA256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+json_tricks-3.16.0.dist-info/top_level.txt,SHA256=cIJdcQJF7Hp1oM4islwmZvJc34kAtMLILDaxF-d5ZHE,12
+json_tricks-3.16.0.dist-info/zip-safe,SHA256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+json_tricks-3.16.0.dist-info/RECORD,,
