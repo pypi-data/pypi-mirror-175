@@ -1,0 +1,491 @@
+service: infra
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: python3.8
+  region: sa-east-1
+  architecture: arm64
+  tags:
+    app-environment: ${opt:stage, 'dev'}
+    app-id: NFe na rede
+    app-module: infra
+    app-owner: bnsouza
+    app-service: NFe na rede
+
+resources:
+  Resources:
+    NFenaredeVPC:
+      Type: "AWS::EC2::VPC"
+      Properties:
+        CidrBlock: 192.168.0.0/16
+        EnableDnsHostnames: true
+        EnableDnsSupport: true
+        InstanceTenancy: default
+        Tags:
+          - Key: app-aws-service
+            Value: VPC
+          - Key: Name
+            Value: NFenarede-VPC
+    NFenaredeVPCSubnetPublic:
+      Type: "AWS::EC2::Subnet"
+      Properties:
+        VpcId:
+          Ref: NFenaredeVPC
+        AvailabilityZone: sa-east-1a
+        CidrBlock: 192.168.0.0/24
+        MapPublicIpOnLaunch: true
+        Tags:
+          - Key: app-aws-service
+            Value: VPC Subnet
+          - Key: Name
+            Value: NFenarede-VPC-Subnet-Public
+    NFenaredeVPCSubnetPublicRouteTable:
+      Type: "AWS::EC2::RouteTable"
+      Properties:
+        VpcId:
+          Ref: NFenaredeVPC
+        Tags:
+          - Key: app-aws-service
+            Value: VPC RouteTable
+          - Key: Name
+            Value: NFenarede-VPC-Subnet-Public-RouteTable
+    NFenaredeVPCSubnetPublicRouteTableAssociation:
+      Type: "AWS::EC2::SubnetRouteTableAssociation"
+      Properties:
+        RouteTableId:
+          Ref: NFenaredeVPCSubnetPublicRouteTable
+        SubnetId:
+          Ref: NFenaredeVPCSubnetPublic
+    NFenaredeVPCSubnetPublicRouteTableDefaultRoute:
+      Type: "AWS::EC2::Route"
+      Properties:
+        RouteTableId:
+          Ref: NFenaredeVPCSubnetPublicRouteTable
+        DestinationCidrBlock: 0.0.0.0/0
+        GatewayId:
+          Ref: NFenaredeVPCInternetGateway
+      DependsOn:
+        - NFenaredeVPCGatewayAttachment
+    NFenaredeVPCSubnetPublicElasticIP:
+      Type: "AWS::EC2::EIP"
+      Properties:
+        Domain: vpc
+        Tags:
+          - Key: app-aws-service
+            Value: VPC Elastic IP
+          - Key: Name
+            Value: NFenarede-VPC-Subnet-Public-Elastic-IP
+    NFenaredeVPCSubnetPublicNatGateway:
+      Type: "AWS::EC2::NatGateway"
+      Properties:
+        SubnetId:
+          Ref: NFenaredeVPCSubnetPublic
+        AllocationId:
+          "Fn::GetAtt":
+            - NFenaredeVPCSubnetPublicElasticIP
+            - AllocationId
+        Tags:
+          - Key: app-aws-service
+            Value: VPC NatGateway
+          - Key: Name
+            Value: NFenarede-VPC-Public-Subnet-NatGateway
+      DependsOn:
+        - NFenaredeVPCSubnetPublicRouteTableDefaultRoute
+        - NFenaredeVPCSubnetPublicRouteTableAssociation
+    NFenaredeVPCSubnetPrivate:
+      Type: "AWS::EC2::Subnet"
+      Properties:
+        VpcId:
+          Ref: NFenaredeVPC
+        AvailabilityZone: sa-east-1a
+        CidrBlock: 192.168.1.0/24
+        MapPublicIpOnLaunch: false
+        Tags:
+          - Key: app-aws-service
+            Value: VPC Subnet
+          - Key: Name
+            Value: NFenarede-VPC-Subnet-Private
+    NFenaredeVPCSubnetPrivateRouteTable:
+      Type: "AWS::EC2::RouteTable"
+      Properties:
+        VpcId:
+          Ref: NFenaredeVPC
+        Tags:
+          - Key: app-aws-service
+            Value: VPC RouteTable
+          - Key: Name
+            Value: NFenarede-VPC-Subnet-Private-RouteTable
+    NFenaredeVPCSubnetPrivateRouteTableAssociation:
+      Type: "AWS::EC2::SubnetRouteTableAssociation"
+      Properties:
+        RouteTableId:
+          Ref: NFenaredeVPCSubnetPrivateRouteTable
+        SubnetId:
+          Ref: NFenaredeVPCSubnetPrivate
+    NFenaredeVPCSubnetPrivateRouteTableDefaultRoute:
+      Type: "AWS::EC2::Route"
+      Properties:
+        RouteTableId:
+          Ref: NFenaredeVPCSubnetPrivateRouteTable
+        DestinationCidrBlock: 0.0.0.0/0
+        NatGatewayId:
+          Ref: NFenaredeVPCSubnetPublicNatGateway
+    NFenaredeVPCInternetGateway:
+      Type: "AWS::EC2::InternetGateway"
+      Properties:
+        Tags:
+          - Key: app-aws-service
+            Value: VPC InternetGateway
+          - Key: Name
+            Value: NFenarede-VPC-InternetGateway
+    NFenaredeVPCGatewayAttachment:
+      Type: "AWS::EC2::VPCGatewayAttachment"
+      Properties:
+        VpcId:
+          Ref: NFenaredeVPC
+        InternetGatewayId:
+          Ref: NFenaredeVPCInternetGateway
+    NFenaredeVPCFlowLogGroupIAMRole:
+      Type: "AWS::IAM::Role"
+      Properties:
+        AssumeRolePolicyDocument:
+          Statement:
+            - Action: "sts:AssumeRole"
+              Effect: Allow
+              Principal:
+                Service: vpc-flow-logs.amazonaws.com
+          Version: "2012-10-17"
+        Tags:
+          - Key: app-aws-service
+            Value: IAM Role
+          - Key: Name
+            Value: NFenarede-VPC-Flow-LogGroup-IAMRole
+    NFenaredeVPCFlowLogGroupIAMRoleDefaultPolicy:
+      Type: "AWS::IAM::Policy"
+      Properties:
+        PolicyDocument:
+          Statement:
+            - Action:
+                - "logs:CreateLogStream"
+                - "logs:DescribeLogStreams"
+                - "logs:PutLogEvents"
+              Effect: Allow
+              Resource:
+                "Fn::GetAtt":
+                  - NFenaredeVPCFlowLogGroup
+                  - Arn
+            - Action: "iam:PassRole"
+              Effect: Allow
+              Resource:
+                "Fn::GetAtt":
+                  - NFenaredeVPCFlowLogGroupIAMRole
+                  - Arn
+          Version: "2012-10-17"
+        PolicyName: NFenarede-VPC-Flow-LogGroup-IAMRole-DefaultPolicy
+        Roles:
+          - Ref: NFenaredeVPCFlowLogGroupIAMRole
+    NFenaredeVPCFlowLogGroup:
+      Type: "AWS::Logs::LogGroup"
+      Properties:
+        RetentionInDays: 365
+        Tags:
+          - Key: app-aws-service
+            Value: LogGroup
+          - Key: Name
+            Value: NFenarede-VPC-Flow-LogGroup
+      UpdateReplacePolicy: Retain
+      DeletionPolicy: Retain
+    NFenaredeVPCFlowLog:
+      Type: "AWS::EC2::FlowLog"
+      Properties:
+        ResourceId:
+          Ref: NFenaredeVPC
+        ResourceType: VPC
+        TrafficType: ALL
+        DeliverLogsPermissionArn:
+          "Fn::GetAtt":
+            - NFenaredeVPCFlowLogGroupIAMRole
+            - Arn
+        LogDestinationType: cloud-watch-logs
+        LogGroupName:
+          Ref: NFenaredeVPCFlowLogGroup
+        Tags:
+          - Key: app-aws-service
+            Value: VPC Flow Log
+          - Key: Name
+            Value: NFenarede-VPC-FlowLog
+    NFenaredeSecurityGroupExternal:
+      Type: "AWS::EC2::SecurityGroup"
+      Properties:
+        GroupDescription: NFenarede-SecurityGroup-External
+        SecurityGroupEgress:
+          - CidrIp: 0.0.0.0/0
+            Description: Allow all outbound traffic by default
+            IpProtocol: "-1"
+        SecurityGroupIngress:
+          - CidrIp: 0.0.0.0/0
+            Description: Acesso SSH do Bastion
+            FromPort: 22
+            IpProtocol: tcp
+            ToPort: 22
+        Tags:
+          - Key: app-aws-service
+            Value: EC2 Security Group
+          - Key: Name
+            Value: NFenarede-SecurityGroup-External
+        VpcId:
+          Ref: NFenaredeVPC
+    NFenaredeSecurityGroupInternal:
+      Type: "AWS::EC2::SecurityGroup"
+      Properties:
+        GroupDescription: NFenarede-SecurityGroup-Internal
+        SecurityGroupEgress:
+          - CidrIp: 0.0.0.0/0
+            Description: Allow all outbound traffic by default
+            IpProtocol: "-1"
+        SecurityGroupIngress:
+          - CidrIp: 192.168.0.0/16
+            Description: DAX - Permite o acesso dentro da VPC
+            FromPort: 8111
+            IpProtocol: tcp
+            ToPort: 8111
+        Tags:
+          - Key: app-aws-service
+            Value: EC2 Security Group
+          - Key: Name
+            Value: NFenarede-SecurityGroup-Internal
+        VpcId:
+          Ref: NFenaredeVPC
+    NFenaredeBastionHostInstanceRole:
+      Type: "AWS::IAM::Role"
+      Properties:
+        AssumeRolePolicyDocument:
+          Statement:
+            - Action: "sts:AssumeRole"
+              Effect: Allow
+              Principal:
+                Service: ec2.amazonaws.com
+          Version: "2012-10-17"
+        Tags:
+          - Key: app-aws-service
+            Value: IAM Role
+          - Key: Name
+            Value: NFenarede-Bastion-Host-InstanceRole
+    NFenaredeBastionHostInstanceRoleDefaultPolicy:
+      Type: "AWS::IAM::Policy"
+      Properties:
+        PolicyDocument:
+          Statement:
+            - Action:
+                - "ec2messages:*"
+                - "ssm:UpdateInstanceInformation"
+                - "ssmmessages:*"
+              Effect: Allow
+              Resource: "*"
+          Version: "2012-10-17"
+        PolicyName: NFenaredeBastionHostInstanceRoleDefaultPolicy
+        Roles:
+          - Ref: NFenaredeBastionHostInstanceRole
+    NFenaredeBastionHostInstanceProfile:
+      Type: "AWS::IAM::InstanceProfile"
+      Properties:
+        Roles:
+          - Ref: NFenaredeBastionHostInstanceRole
+    NFenaredeBastionHost:
+      Type: "AWS::EC2::Instance"
+      Properties:
+        AvailabilityZone: sa-east-1a
+        IamInstanceProfile:
+          Ref: NFenaredeBastionHostInstanceProfile
+        ImageId:
+          Ref: AMIAmazonLinuxLatest
+        InstanceType: t3.nano
+        SecurityGroupIds:
+          - "Fn::GetAtt":
+              - NFenaredeSecurityGroupInternal
+              - GroupId
+        SubnetId:
+          Ref: NFenaredeVPCSubnetPublic
+        Tags:
+          - Key: Name
+            Value: BastionHost
+        UserData:
+          "Fn::Base64": "#!/bin/bash"
+      DependsOn:
+        - NFenaredeBastionHostInstanceRoleDefaultPolicy
+        - NFenaredeBastionHostInstanceRole
+    NFenaredeDynamoDBTable:
+      Type: "AWS::DynamoDB::Table"
+      Properties:
+        TableName: nfenarede
+        KeySchema:
+          - AttributeName: pk
+            KeyType: HASH
+          - AttributeName: sk
+            KeyType: RANGE
+        AttributeDefinitions:
+          - AttributeName: pk
+            AttributeType: S
+          - AttributeName: sk
+            AttributeType: S
+        BillingMode: PAY_PER_REQUEST
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
+        TableClass: STANDARD
+        Tags:
+          - Key: app-aws-service
+            Value: DynamoDB Table
+        TimeToLiveSpecification:
+          AttributeName: ttl
+          Enabled: true
+      UpdateReplacePolicy: Retain
+      DeletionPolicy: Retain
+    IntegracaoDynamoDBTable:
+      Type: "AWS::DynamoDB::Table"
+      Properties:
+        TableName: integracao
+        KeySchema:
+          - AttributeName: pk
+            KeyType: HASH
+          - AttributeName: sk
+            KeyType: RANGE
+        AttributeDefinitions:
+          - AttributeName: pk
+            AttributeType: S
+          - AttributeName: sk
+            AttributeType: S
+        BillingMode: PAY_PER_REQUEST
+        StreamSpecification:
+          StreamViewType: NEW_IMAGE
+        TableClass: STANDARD
+        Tags:
+          - Key: app-aws-service
+            Value: DynamoDB Table
+          - Key: app-service
+            Value: Integracao
+        TimeToLiveSpecification:
+          AttributeName: ttl
+          Enabled: true
+      UpdateReplacePolicy: Retain
+      DeletionPolicy: Retain
+    NFenaredeDaxDynamoDBFullAccessRole:
+      Type: "AWS::IAM::Role"
+      Properties:
+        AssumeRolePolicyDocument:
+          Statement:
+            - Action: "sts:AssumeRole"
+              Effect: Allow
+              Principal:
+                Service: dax.amazonaws.com
+          Version: "2012-10-17"
+        Tags:
+          - Key: app-aws-service
+            Value: IAM Role
+          - Key: Name
+            Value: NFenarede-Dax-DynamoDB-FullAccess-Role
+    NFenaredeDaxDynamoDBFullAccessDefaultPolicy:
+      Type: "AWS::IAM::Policy"
+      Properties:
+        PolicyDocument:
+          Statement:
+            - Action: "dynamodb:*"
+              Effect: Allow
+              Resource: "arn:aws:dynamodb:*"
+          Version: "2012-10-17"
+        PolicyName: NFenaredeDaxDynamoDBFullAccessDefaultPolicy
+        Roles:
+          - Ref: NFenaredeDaxDynamoDBFullAccessRole
+    NFenaredeDaxEventsTopic:
+      Type: "AWS::SNS::Topic"
+      Properties:
+        Tags:
+          - Key: app-aws-service
+            Value: SNS Topic
+          - Key: Name
+            Value: NFenarede-Dax-Events-Topic
+    NFenaredeDaxSubnetGroup:
+      Type: "AWS::DAX::SubnetGroup"
+      Properties:
+        SubnetIds:
+          - Ref: NFenaredeVPCSubnetPrivate
+        Description: Subnet group for DAX Cluster
+        SubnetGroupName: NFenarede-DAX-SubnetGroup
+    NFenaredeDaxCluster:
+      Type: "AWS::DAX::Cluster"
+      Properties:
+        IAMRoleARN:
+          "Fn::GetAtt":
+            - NFenaredeDaxDynamoDBFullAccessRole
+            - Arn
+        NodeType: dax.t3.small
+        ReplicationFactor: 1
+        NotificationTopicARN:
+          Ref: NFenaredeDaxEventsTopic
+        PreferredMaintenanceWindow: "mon:00:00-mon:01:00"
+        SecurityGroupIds:
+          - "Fn::GetAtt":
+              - NFenaredeSecurityGroupInternal
+              - GroupId
+        SubnetGroupName: NFenarede-DAX-SubnetGroup
+        Tags:
+          app-aws-service: DAX Cluster
+          Name: NFenarede-Dax-Cluster
+      DependsOn:
+        - NFenaredeDaxSubnetGroup
+    NFenaredeCertificate:
+      Type: "AWS::CertificateManager::Certificate"
+      Properties:
+        DomainName: "*.nfenarede.com.br"
+        DomainValidationOptions:
+          - DomainName: "*.nfenarede.com.br"
+            HostedZoneId: Z06083552X93J7ZCOD88E
+        Tags:
+          - Key: app-aws-service
+            Value: Certification Manager
+          - Key: Name
+            Value: NFenarede-Certificate
+        ValidationMethod: DNS
+  Outputs:
+    NFenaredeVPCOutput:
+      Value: !Ref NFenaredeVPC
+    NFenaredeVPCSubnetPublicOutput:
+      Value: !Ref NFenaredeVPCSubnetPublic
+    NFenaredeVPCSubnetPrivateOutput:
+      Value: !Ref NFenaredeVPCSubnetPrivate
+    NFenaredeSecurityGroupExternalOutput:
+      Value:
+        'Fn::GetAtt':
+          - NFenaredeSecurityGroupExternal
+          - GroupId
+    NFenaredeSecurityGroupInternalOutput:
+      Value:
+        'Fn::GetAtt':
+          - NFenaredeSecurityGroupInternal
+          - GroupId
+    NFenaredeBastionHostOutput:
+      Description: Instance ID of the bastion host. Use this to connect via SSM Session Manager
+      Value: !Ref NFenaredeBastionHost
+    NFenaredeDynamoDBTableOutput:
+      Value: !Ref NFenaredeDynamoDBTable
+    IntegracaoDynamoDBTableOutput:
+      Value: !Ref IntegracaoDynamoDBTable
+    NFenaredeDaxClusterARNOutput:
+      Value:
+        'Fn::GetAtt':
+          - NFenaredeDaxCluster
+          - Arn
+    NFenaredeDaxClusterEndpointOutput:
+      Value:
+        'Fn::GetAtt':
+          - NFenaredeDaxCluster
+          - ClusterDiscoveryEndpoint
+    NFenaredeDaxEventsTopicOutput:
+      Value: !Ref NFenaredeDaxEventsTopic
+    NFenaredeCertificateOutput:
+      Value: !Ref NFenaredeCertificate
+  Parameters:
+    AMIAmazonLinuxLatest:
+      Type: 'AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>'
+      Default: /aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2

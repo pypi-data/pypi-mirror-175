@@ -1,0 +1,52 @@
+service: nfenarede-core
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: python3.8
+  region: sa-east-1
+  architecture: arm64
+  tags:
+    app-environment: ${opt:stage, 'dev'}
+    app-id: NFe na rede
+    app-module: nfenarede-core
+    app-owner: bnsouza
+    app-service: NFe na rede
+    app-aws-service: Lambda Layer
+
+layers:
+  nfenarede-core:
+    path: ./
+    name: nfenarede-core
+    description: NFe na rede Core - Núcleo que faz o verdadeiro trabalho de manipulação dos dados
+    compatibleRuntimes:
+      - python3.8
+    compatibleArchitectures:
+      - arm64
+    retain: true
+    package:
+      patterns:
+        - '!mysql.zip'
+  mysql:
+    name: nfenarede-mysql
+    description: AWS Lambda layer for `mysqlclient`
+    compatibleRuntimes:
+      - python3.8
+    compatibleArchitectures:
+      - arm64
+    package:
+      artifact: mysql.zip
+
+package:
+  individually: true
+  excludeDevDependencies: true
+  patterns:
+    - "!.docker"
+    - "!.idea"
+    - "!Makefile"
+    - "!node_modules/**"
+    - "!package-lock.json"
+    - "!package.json"
+    - "!README.md"
+    - "!requirements.txt"

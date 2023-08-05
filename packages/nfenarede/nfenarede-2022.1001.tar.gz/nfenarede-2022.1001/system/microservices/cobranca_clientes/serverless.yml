@@ -1,0 +1,63 @@
+service: microservices-cobranca-clientes
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: python3.8
+  region: sa-east-1
+  architecture: arm64
+  tags:
+    app-environment: ${opt:stage, "dev"}
+    app-id: NFe na rede
+    app-module: microservices
+    app-owner: bnsouza
+    app-service: NFe na rede
+    app-aws-service: Lambda Function
+  environment:
+    CONTAAZUL_CLIENT_ID: ${self:custom.conta-azul.client_id, env:CONTAAZUL_CLIENT_ID}
+    CONTAAZUL_CLIENT_SECRET: ${self:custom.conta-azul.client_secret, env:CONTAAZUL_CLIENT_SECRET}
+    CONTAAZUL_REDIRECT_URI: ${self:custom.conta-azul.redirect_uri, env:CONTAAZUL_REDIRECT_URI}
+
+functions:
+  cobranca-clientes:
+    handler: index.handler
+    timeout: 300
+    events:
+      - httpApi: "*"
+    layers:
+      - "arn:aws:lambda:sa-east-1:017000801446:layer:AWSLambdaPowertoolsPythonV2-Arm64:12"
+
+custom:
+  stage: ${opt:stage, "dev"}
+  conta-azul: ${ssm:/aws/reference/secretsmanager/nfenarede/${self:custom.stage}/conta-azul}
+  pythonRequirements:
+    dockerizePip: true
+    usePoetry: false
+    slim: true
+    strip: false
+  customDomain:
+    domainName: contaazul.nfanarede.com.br
+    certificateName: '*.nfanarede.com.br'
+    createRoute53Record: true
+    createRoute53IPv6Record: true
+    endpointType: REGIONAL
+    apiType: http
+
+package:
+  individually: true
+  excludeDevDependencies: true
+  patterns:
+    - "!.docker"
+    - "!.idea"
+    - "!Makefile"
+    - "!node_modules/**"
+    - "!package-lock.json"
+    - "!package.json"
+    - "!README.md"
+    - "!requirements.txt"
+
+plugins:
+  - serverless-offline
+  - serverless-python-requirements
+  - serverless-domain-manager
