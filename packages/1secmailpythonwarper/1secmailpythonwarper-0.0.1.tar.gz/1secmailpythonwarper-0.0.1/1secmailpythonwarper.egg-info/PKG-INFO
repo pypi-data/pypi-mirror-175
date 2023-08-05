@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: 1secmailpythonwarper
+Version: 0.0.1
+Summary: A useful module for https://www.1secmail.com
+Home-page: https://github.com/pfpcio/1secmailpythonwarper
+Author: pfp
+Author-email: pfp <luciuslam9@gmail.com>
+License: mit
+Project-URL: Homepage, https://github.com/pfpcio/1secmailpythonwarper
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

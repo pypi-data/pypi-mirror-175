@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+setup.py
+1secmail/__init__.py
+1secmail/warper.py
+1secmailpythonwarper.egg-info/PKG-INFO
+1secmailpythonwarper.egg-info/SOURCES.txt
+1secmailpythonwarper.egg-info/dependency_links.txt
+1secmailpythonwarper.egg-info/requires.txt
+1secmailpythonwarper.egg-info/top_level.txt

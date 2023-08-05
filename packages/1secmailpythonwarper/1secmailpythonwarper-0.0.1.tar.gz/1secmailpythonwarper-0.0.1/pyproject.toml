@@ -1,0 +1,17 @@
+[project]
+name = "1secmailpythonwarper"
+version = "0.0.1"
+authors = [
+  { name="pfp", email="luciuslam9@gmail.com" },
+]
+description = "A useful module for https://www.1secmail.com"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pfpcio/1secmailpythonwarper"
