@@ -1,0 +1,9 @@
+setup.py
+chipipexample/__init__.py
+chipipexample.egg-info/PKG-INFO
+chipipexample.egg-info/SOURCES.txt
+chipipexample.egg-info/dependency_links.txt
+chipipexample.egg-info/requires.txt
+chipipexample.egg-info/top_level.txt
+chipipexample/funnel/__init__.py
+chipipexample/funnel/helloworld.py
