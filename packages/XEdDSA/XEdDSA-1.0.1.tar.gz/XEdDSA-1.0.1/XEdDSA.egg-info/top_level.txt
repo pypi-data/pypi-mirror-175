@@ -1,0 +1,3 @@
+_libxeddsa
+tests
+xeddsa
