@@ -1,0 +1,11 @@
+connio>=0.1
+
+[all]
+pytango
+sinstruments>=1.3
+
+[simulator]
+sinstruments>=1.3
+
+[tango]
+pytango
