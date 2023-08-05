@@ -1,0 +1,10 @@
+samtariFirstPackage/__init__.py,sha256=RW6Dpug8z8F_QKuZqB6ih45XkOtw7PU08DR_mAWToQc,50
+samtariFirstPackage/add.py,sha256=YjLDyLQI9HRGLa9wOcKL1oF4OtZbzIDpGXcewaytKOg,32
+samtariFirstPackage/sub.py,sha256=MDB2GytDwClhJZNUEl6-l1TqemKFxAIPyDCiQ6i2i8U,30
+samtariFirstPackage/extras/__init__.py,sha256=H1UjJbXpSXwP6brGA6GdPRPm9FTCjwyGW02lNciVVMM,84
+samtariFirstPackage/extras/divide.py,sha256=N31DPbnJkdPFy7EmO3kmKVR71v0bONNVQKTJRvwdthY,33
+samtariFirstPackage/extras/multiply.py,sha256=3zt4UsaarhR_4SLujkCg1Qkc6wFarMcPrdCGIMPEoAU,35
+samtariFirstPackage-0.1.1.dist-info/METADATA,sha256=39bKf2CC5SqfqMTT-39wxvN3GHyKhWCVErN3Jld_Kms,555
+samtariFirstPackage-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+samtariFirstPackage-0.1.1.dist-info/top_level.txt,sha256=iyebvwSceWFnvNkuzPQrtAyTCR9rkUMeLEk59_BP09M,20
+samtariFirstPackage-0.1.1.dist-info/RECORD,,
