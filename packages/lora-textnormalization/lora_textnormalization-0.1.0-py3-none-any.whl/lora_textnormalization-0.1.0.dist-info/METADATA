@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: lora-textnormalization
+Version: 0.1.0
+Summary: A text normalization package for general English NLP tasks.
+Author: Adrian-Wong
+Author-email: adrian@asklora.ai
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: spacy (>=3.4.2,<4.0.0)
+Description-Content-Type: text/markdown
+
+
