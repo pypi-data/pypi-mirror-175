@@ -1,0 +1,8 @@
+torch>=1.12.1
+configargparse
+tensorboard>=2.3
+flask
+waitress
+pyonmttok<2,>=1.23
+pyyaml
+sacrebleu
