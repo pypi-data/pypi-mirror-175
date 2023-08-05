@@ -1,0 +1,5 @@
+lora_textnormalization/__init__.py,sha256=OjfUIbXDZYPk9Oncyni266EeSEqALNRpS1CkRrlVDRw,41
+lora_textnormalization/normalization.py,sha256=OtAD5j1K7e4rqjeAHDbPSNvY5-HOO0mtQtkBbeMdM9U,959
+lora_textnormalization-0.1.4.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+lora_textnormalization-0.1.4.dist-info/METADATA,sha256=16npRQo3TDNGMRCc325OdSWM4qPWDy8hVP_Ecmus84A,825
+lora_textnormalization-0.1.4.dist-info/RECORD,,
