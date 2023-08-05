@@ -1,0 +1,9 @@
+matplotlib
+python_version<"3.11"
+
+[build]
+build
+twine
+
+[dev]
+pytest
