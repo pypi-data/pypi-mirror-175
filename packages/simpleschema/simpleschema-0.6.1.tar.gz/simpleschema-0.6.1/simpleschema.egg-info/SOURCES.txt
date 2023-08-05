@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+simpleschema/__init__.py
+simpleschema/__version__.py
+simpleschema/exceptions.py
+simpleschema/helper_classes.py
+simpleschema/validate.py
+simpleschema.egg-info/PKG-INFO
+simpleschema.egg-info/SOURCES.txt
+simpleschema.egg-info/dependency_links.txt
+simpleschema.egg-info/top_level.txt
