@@ -1,0 +1,42 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "heakl-pycalc"
+version = "0.0.1"
+description = "Read the simple api for calculations"
+readme = "README.md"
+authors = [{ name = "Ahmed Heakl", email = "ahmed.heakl@ejust.edu.eg" }]
+classifiers = [
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["calculations", "addition", "subtraction"]
+dependencies = []
+requires-python = ">=3.7"
+
+    [project.optional-dependencies]
+    build = ["build", "twine"]
+    dev   = ["black", "bumpver", "pytest"]
+
+    [project.scripts]
+    pycalc = "pycalc.__main__:main"
+
+
+[tool.bumpver]
+current_version = "0.0.1"
+version_pattern = "MAJOR.MINOR.PATCH"
+commit_message  = "bump version {old_version} -> {new_version}"
+commit          = true
+tag             = true
+push            = false
+
+    [tool.bumpver.file_patterns]
+    "pyproject.toml" = [
+        'current_version = "{version}"',
+        'version = "{version}"',
+    ]
+    "src/pycalc/__init__.py" = ["{version}"]
+    "src/pycalc/__main__.py" = ["- heakl-pycalc v{version}"]
+

@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+src/heakl_pycalc.egg-info/PKG-INFO
+src/heakl_pycalc.egg-info/SOURCES.txt
+src/heakl_pycalc.egg-info/dependency_links.txt
+src/heakl_pycalc.egg-info/entry_points.txt
+src/heakl_pycalc.egg-info/requires.txt
+src/heakl_pycalc.egg-info/top_level.txt
+src/pycalc/__init__.py
+src/pycalc/__main__.py
+src/pycalc/calcClass.py
