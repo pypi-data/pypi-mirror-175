@@ -1,0 +1,14 @@
+LICENCE.md
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cli_gh_auto.egg-info/PKG-INFO
+cli_gh_auto.egg-info/SOURCES.txt
+cli_gh_auto.egg-info/dependency_links.txt
+cli_gh_auto.egg-info/entry_points.txt
+cli_gh_auto.egg-info/requires.txt
+cli_gh_auto.egg-info/top_level.txt
+gh_auto/main.py
+gh_auto/commands/repo.py
+gh_auto/helpers/authentication.py
