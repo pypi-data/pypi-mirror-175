@@ -1,0 +1,87 @@
+Metadata-Version: 2.1
+Name: Skyway-cloud
+Version: 1.0.0
+Summary: Skyway -- a python package for bridging on-premises and cloud resources
+Author-email: Yuxing Peng <yuxing@uchicago.edu>, "H. Birali Runesha" <runesha@uchicago.edu>, Trung Nguyen <ndtrung@uchicago.edu>
+Project-URL: Homepage, https://cloud-skyway.rcc.uchicago.edu/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# skyway
+
+[Skyway](https://cloud-skyway.rcc.uchicago.edu/) is an integrated platform
+developed at the RCC to allow users to burst computing workloads from
+the on-premise RCC cluster, Midway, to run on remote commercial
+cloud platforms such as Amazon AWS, Google GCP and Microsoft Azure.
+Skyway enables users to run computing tasks in the cloud from Midway
+in a seamless manner without needing to learn how to provision cloud resources.
+Since the user does not need to setup or manage cloud resources
+themselves, the result is improved productivity with a minimum learning curve.
+
+### Requirement of environment
+
+1. SLURM
+2. NFS
+
+### Requirements in Python
+
+1. miniconda
+2. boto3
+3. libcloud
+4. pysql
+
+### Instance of deployment
+
+1. Create a folder named as `skyway` at root.
+2. Checkout this repo under `/skyway/pkgs/`.
+3. Prepare a configuration folder `/skyway/etc/`.
+4. Prepare the following script under `/skyway/bin`, named `skyway`:
+
+```
+#!/bin/sh
+
+export SKYWAYROOT=/skyway
+export PYTHONPATH=$PYTHONPATH:/skyway/pkgs
+
+if [ "`which python3 2>/dev/null`" = "" ]; then source /skyway/bin/bashrc; fi
+
+if [ "$*" = "" ]; then python3 -m skyway
+else python3 -m skyway.$*; fi
+```
+
+### Common commands
+
+```
+
+skyway service
+skyway service --status
+skyway service --regist billing
+skyway service --restart billing
+skyway service --restart cloud-rcc-aws
+skyway service --start cloud-rcc-aws
+skyway service --stop cloud-rcc-aws
+
+skyway cloud
+skyway cloud rcc-aws --test
+skyway cloud rcc-aws --connect rcc-aws-t1-001
+skyway cloud rcc-aws --connect rcc-io
+skyway cloud rcc-aws --ls
+skyway cloud rcc-aws --rm i-0ecb224c29fdcb688
+
+skyway billing
+skyway billing rcc-aws --set amount=10
+skyway billing rcc-aws --set rate=6.0
+skyway billing rcc-aws --summary
+
+skyway misc.db_test
+skyway misc.nodes
+skyway misc.nodes --update
+skyway misc.sendmail
+
+skyway slurm --update-conf
+
+```

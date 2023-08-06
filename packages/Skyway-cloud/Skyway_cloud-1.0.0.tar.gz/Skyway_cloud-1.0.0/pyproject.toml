@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Skyway_cloud"
+version = "1.0.0"
+authors = [
+  { name="Yuxing Peng", email="yuxing@uchicago.edu" },
+  { name="H. Birali Runesha", email="runesha@uchicago.edu" },
+  { name="Trung Nguyen", email="ndtrung@uchicago.edu" },
+]
+description = "Skyway -- a python package for bridging on-premises and cloud resources"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://cloud-skyway.rcc.uchicago.edu/"
+#"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
