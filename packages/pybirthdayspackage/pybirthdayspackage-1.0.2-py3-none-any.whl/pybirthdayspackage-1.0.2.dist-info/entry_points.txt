@@ -1,0 +1,2 @@
+[console_scripts]
+pybirthdays = pybirthdays.__main__:main
