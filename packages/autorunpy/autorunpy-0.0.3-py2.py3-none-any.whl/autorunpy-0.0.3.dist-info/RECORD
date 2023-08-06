@@ -1,0 +1,9 @@
+autorunpy/__init__.py,sha256=16egH338j2jyTg7JaorKrv01JQdVu0IVbDgP5a66IAY,191
+autorunpy/autorunpy.py,sha256=xXmQEPOUm9ibIq1ZTpMJvUdjPAs-tT2N2pyz5m-Wktw,1426
+autorunpy/github_release.py,sha256=60Uy6gWFBEH03ywgvWVeKxjh3wCg8yQ2MMSWyG__ulA,1365
+autorunpy/models.py,sha256=Kduk6WfSzRPO7zsgBGwpO_nbuUNvmhNZeHzYuqMZY2g,356
+autorunpy/util.py,sha256=cJoatThTWnenLuZnP5Bbb0rd25FYYuoQjBcYw1M1B7Q,452
+autorunpy-0.0.3.dist-info/METADATA,sha256=1kU5Gei--v6dFAkZjWX9Ayb64iHYTsv4Sn3YtrR0_cs,1557
+autorunpy-0.0.3.dist-info/WHEEL,sha256=cdcF4Fbd0FPtw2EMIOwH-3rSOTUdTCeOSXRMD1iLUb8,105
+autorunpy-0.0.3.dist-info/licenses/LICENSE,sha256=uPRgxU7YXOcDR4gQRcEzK05-SyOV1_AEyhHBAPFct9c,1062
+autorunpy-0.0.3.dist-info/RECORD,,
