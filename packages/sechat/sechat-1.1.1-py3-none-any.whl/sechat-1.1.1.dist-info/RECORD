@@ -1,0 +1,7 @@
+sechat/__init__.py,sha256=qnmH4OYTgDSFMwYPBzDNgMDuhATGHVr6VlsQBTcq3Ic,23858
+sechat/errors.py,sha256=mqyKdq_PfK2Fg-Wyd87az11WY3ZJF9djNTgi3no1SB0,741
+sechat/events.py,sha256=FZbhPZZlpXzIqns28ugrO-3cNw3czPQp2aSvfNqm7J4,555
+sechat/tests.py,sha256=yRKE--fEL532m4UUqn6h1OguLp3JRLKqNUuS5ZHeU5c,5365
+sechat-1.1.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+sechat-1.1.1.dist-info/METADATA,sha256=ut7mmLDS5W_ALSGsmFngT3iThw8NWzEOXdgihJEGKP8,1224
+sechat-1.1.1.dist-info/RECORD,,
