@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: reshadowcode
+Version: 0.0.3
+Summary: For Shadow Copy research in Windows
+Home-page: https://github.com/alicangnll/pyshadow
+Author: Ali Can Gönüllü
+License: MIT
+Keywords: Windows,VSS,win32,Shadow,Copy
+Description-Content-Type: text/markdown
+
+<h2>Python ShadowCopy Class</h2>
+
+<p>Python ShadowCopy Analyzer for Cyber Security Researchers!<br>pip install reshadowcode OR pip install -r requirements.txt</p>
+
+<h2>Example Code</h2>
+
+<pre>
+# List all ShadowCopy
+'''
+Example Result
+ID : {e9a894be-dae7-49cb-9196-b5a22148210b}
+Creation Date : 6.11.2022 19:58:20
+Shadow Copy Location : \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7
+'''
+list = ReShadowCode.VSS_ListShadows()
+for shadowlist in list:
+    print("ID : " + shadowlist["id"] + "\nCreation Date : " + shadowlist["creation_time"] + "\nShadow Copy Location : " + shadowlist["shadowcopy"] + "\n")
+#Create a ShadowCopy
+ReShadowCode.VSS_Create()
+#Create a pipe/symlink with ShadowCopy() (Ex. \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy<b>id</b>)
+ReShadowCode.VSS_Create_Pipe("C:\\Shadow1", "7")
+#Get file list from ShadowCopy
+'''
+Example Result
+Ali
+Ali Can GÃ¶nÃ¼llÃ¼
+Ali_000_vcRuntimeMinimum_x64.log
+Ali_000_vcRuntimeMinimum_x86.log
+Ali_001_vcRuntimeAdditional_x64.log
+Ali_001_vcRuntimeAdditional_x86.log
+All Users
+Default
+Default User
+desktop.ini
+Public
+TEMP
+'''
+list = ReShadowCode.VSS_Get_FileList("C:\\Shadow1\\Users")
+for files in list:
+    print(files)
+</pre>
+
+
+<h2>Images</h2>
+<img src="Shadow copy creation process.jpg" />
+<img src="Architectural diagram of Volume Shadow Copy Service.jpg" />
