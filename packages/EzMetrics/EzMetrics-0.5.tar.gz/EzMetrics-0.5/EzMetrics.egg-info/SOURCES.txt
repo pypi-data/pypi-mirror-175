@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+EzMetrics/Metodos.py
+EzMetrics/__init__.py
+EzMetrics.egg-info/PKG-INFO
+EzMetrics.egg-info/SOURCES.txt
+EzMetrics.egg-info/dependency_links.txt
+EzMetrics.egg-info/top_level.txt
