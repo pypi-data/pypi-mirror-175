@@ -1,0 +1,1 @@
+plotto contains a function to display a set of interactive charts created with Altair
