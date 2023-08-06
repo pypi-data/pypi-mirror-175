@@ -1,0 +1,18 @@
+[project]
+name = "global-pinger"
+version = "0.1.2"
+authors = [
+  { name="zer0ul", email="zer0ul@vulnium.com" },
+]
+description = "A pinger that can be used globally to send ICMP requests"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
