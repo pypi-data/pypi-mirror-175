@@ -1,0 +1,9 @@
+cad/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cad/main.py,sha256=vDAXQUoBXG6s1SnyuA1PKW55H5l_StZSiiu10x4ntn4,1262
+cad/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cad/tests/test_main.py,sha256=LXIoEsvnJTFnRf_QYNeQM78h1bRsDSC3gKTIBBwpk6o,168
+qcad-0.0.3.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+qcad-0.0.3.dist-info/METADATA,sha256=4HgJBMxGowzTpdqUejnwh3zVWrJ22PTq1zBR7WveiKA,257
+qcad-0.0.3.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+qcad-0.0.3.dist-info/top_level.txt,sha256=bzNErnRyjP3bJFcZ1rz2dZ_SClCg1j1hu9ch4BxCng8,4
+qcad-0.0.3.dist-info/RECORD,,
