@@ -1,0 +1,10 @@
+setup.py
+hachoir3.egg-info/PKG-INFO
+hachoir3.egg-info/SOURCES.txt
+hachoir3.egg-info/dependency_links.txt
+hachoir3.egg-info/requires.txt
+hachoir3.egg-info/top_level.txt
+mod1/__init__.py
+mod1/add.py
+mod1/mult.py
+mod1/sub.py
