@@ -1,0 +1,1 @@
+recursive-include st_dataframe_component/frontend/dist *
