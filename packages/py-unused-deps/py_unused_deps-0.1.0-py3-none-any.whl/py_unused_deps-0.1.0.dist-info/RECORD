@@ -1,0 +1,14 @@
+unused_deps/__init__.py,sha256=6AgErnL4PpKmKj6X98N--V_F8XIXObAfzS2vtuYPaZA,9
+unused_deps/__main__.py,sha256=i5C8WDMhEgQoAcPo-rfP6eRAiW9_pYMw8oniR4KKOrQ,91
+unused_deps/compat.py,sha256=izWH5dOzKhZ4Zpf9z8qxbginp9YMkupj4sSjiFJjyL4,356
+unused_deps/dist_detector.py,sha256=KjtjPfRiMCr9yNHuDxZgXp81dstH3GWQ897nYqwBe8M,3209
+unused_deps/dist_info.py,sha256=DOum_7Bf26jJaXDEMVcSBd5XweeGFEqi3CkKuAKrVxg,4517
+unused_deps/errors.py,sha256=g02m9VQqUP7kVY53allDRfZSqsm2nV4gjnBLW60-58U,586
+unused_deps/import_finder.py,sha256=PfPJLQF62tmKxVgCfpFQ_KzQekhag9_gZAwy0jBI5EU,653
+unused_deps/main.py,sha256=bZ1MgFbNTeEdH-9JSN3kLpjW4pehaPFfTuACg326ocA,4773
+unused_deps/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py_unused_deps-0.1.0.dist-info/METADATA,sha256=l8QVN7--3ffqTS1kZPnIwvjpHpHwBixEC29T7baE8Ao,4064
+py_unused_deps-0.1.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+py_unused_deps-0.1.0.dist-info/entry_points.txt,sha256=qUxSkFkRgdzLLjfXtj9bclr0uGILo0qICsRmkSyDxHk,57
+py_unused_deps-0.1.0.dist-info/top_level.txt,sha256=bdW16vehoj2HyK11OpoDGvurKQhYwHWQPh9pANnrP28,12
+py_unused_deps-0.1.0.dist-info/RECORD,,
