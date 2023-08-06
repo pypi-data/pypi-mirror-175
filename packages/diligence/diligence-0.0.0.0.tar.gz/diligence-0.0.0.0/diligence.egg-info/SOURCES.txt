@@ -1,0 +1,7 @@
+setup.py
+diligence/__init__.py
+diligence/diligence.py
+diligence.egg-info/PKG-INFO
+diligence.egg-info/SOURCES.txt
+diligence.egg-info/dependency_links.txt
+diligence.egg-info/top_level.txt
