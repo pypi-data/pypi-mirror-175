@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/hpc_workshop.egg-info/PKG-INFO
+src/hpc_workshop.egg-info/SOURCES.txt
+src/hpc_workshop.egg-info/dependency_links.txt
+src/hpc_workshop.egg-info/entry_points.txt
+src/hpc_workshop.egg-info/requires.txt
+src/hpc_workshop.egg-info/top_level.txt
+src/hpcworkshop/__init__.py
+src/hpcworkshop/main.py
+src/hpcworkshop/cmd/__init__.py
+src/hpcworkshop/cmd/destroy.py
+src/hpcworkshop/cmd/init.py

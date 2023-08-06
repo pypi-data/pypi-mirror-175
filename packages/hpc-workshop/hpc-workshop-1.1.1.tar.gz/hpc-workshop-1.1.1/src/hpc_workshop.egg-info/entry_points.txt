@@ -1,0 +1,2 @@
+[console_scripts]
+hpc-workshop = hpcworkshop.main:main
