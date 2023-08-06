@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "crude-orm"
+version = "1.0.1"
+authors = [
+    { name = "Kristoffer A. Wright", email = "kris.al.wright@gmail.com" },
+]
+description = "A descriptive ORM for Python"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Topic :: Database",
+    "Topic :: Software Development",
+]
+
+[project.urls]
+"Homepage" = "https://crudepy.org"
