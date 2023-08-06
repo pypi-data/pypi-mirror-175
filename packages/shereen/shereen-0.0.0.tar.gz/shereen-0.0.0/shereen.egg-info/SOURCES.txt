@@ -1,0 +1,6 @@
+README.md
+shereen.egg-info/PKG-INFO
+shereen.egg-info/SOURCES.txt
+shereen.egg-info/dependency_links.txt
+shereen.egg-info/top_level.txt
+shereen.egg-info/zip-safe
