@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+code/Cerebro_Viewer.egg-info/PKG-INFO
+code/Cerebro_Viewer.egg-info/SOURCES.txt
+code/Cerebro_Viewer.egg-info/dependency_links.txt
+code/Cerebro_Viewer.egg-info/top_level.txt
