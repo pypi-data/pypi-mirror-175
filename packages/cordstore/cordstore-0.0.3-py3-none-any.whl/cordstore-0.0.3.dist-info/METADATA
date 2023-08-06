@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: cordstore
+Version: 0.0.3
+Summary: Utilize discord to store files in textchannels using bots or webhooks
+Home-page: https://github.com/jxzper/cordstore
+Author: jxzper
+License: MIT
+Project-URL: Homepage, https://github.com/jxzper/cordstore
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: discord.py
+Requires-Dist: aiohttp
+
+# CordStore
+Utilize discord to store files in textchannels using bots or webhooks
+
+---
+
+### Installation
+```
+# Linux/macOS
+python3 -m pip install -U cordstore
+
+# Windows
+py -3 -m pip install -U cordstore
+```
+
+### How to use
+```python
+# Webhook Storage
+storage = WebhookStorage("webhook_url")
+uploaded_file = await storage.upload_file("example.png")
+storage.close()
+
+# Channel Storage
+storage = ChannelStorage(bot, 1234567890123456789)
+uploaded_file = await storage.upload_file("example.png")
+storage.close()
+```
+
+### What would a uploaded file look like?
+```python
+uploaded_file.to_dict()
+```
+```json
+{
+   "id":1234567890123456789,
+   "channel_id":1234567890123456789,
+   "filename":"example_file_name",
+   "size":12345,
+   "url":"example_url",
+   "proxy_url":"example_proxy_url",
+   "width":1280,
+   "height":720,
+   "content_type":"image/png"
+}
+```
