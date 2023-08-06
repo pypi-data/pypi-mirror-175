@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: maxlib-repackaged-MGGY8411-yy2205
+Version: 0.1.2
+Summary: Max's code repackaged as a library
+Author: Yue
+Author-email: yy2205@nyu.edu
+Description-Content-Type: text/markdown
+Requires-Dist: wheel
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: sqlalchemy
+Requires-Dist: polygon
+Requires-Dist: jupyter
+Requires-Dist: polygon-api-client
+
+# Maxlib for MG-GY 8411
+
+This library re-package all the helper code from Max project into a libary.
+This is only a simple porting. No refactoring is done.
+
+## Changes
+
+In order to be compatible with the latest `polygon-api-client`.
+- `client = RESTClient(key)` instead of the context syntax `with RESTClient(key) as client`
+- `client.get_real_time_currency_conversion` is the new method. See official documentation https://polygon-api-client.readthedocs.io/en/latest/Quotes.html#polygon.RESTClient.get_real_time_currency_conversion
+
+## Key issue
+
+Unfortunately the key is not working.
+
+## Modules
+
+- `collect.py` contains the entry points to collect and aggregate online and offline data.
+    - `main()`
+    - `main_offline()`
+- `current.py` contains all the currency pair classes.
+- `db.py` all the database utilities
+- `portfolio.py`
+- `utils.py` miscellaneous util functions
+
+
