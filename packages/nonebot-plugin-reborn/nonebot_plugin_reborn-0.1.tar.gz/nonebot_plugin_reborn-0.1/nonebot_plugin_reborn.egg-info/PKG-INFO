@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-reborn
+Version: 0.1
+Summary: Reborn Simulator for Nonebot 2
+Home-page: https://github.com/Aziteee/nonebot_plugin_reborn
+Author: Azite
+Author-email: aziteee@outlook.com
+License: MIT License
+Platform: all
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# nonebot_plugin_reborn
+
+投胎模拟器的 Nonebot 2 版，移植自[GitHub - Uahh/Reborn: 投胎模拟器](https://github.com/Uahh/Reborn)
+
+### 使用
+
+发送”投胎“、”重开“、”reborn“指令
+
+![](https://s1.ax1x.com/2022/11/08/xzeZ8S.jpg)
