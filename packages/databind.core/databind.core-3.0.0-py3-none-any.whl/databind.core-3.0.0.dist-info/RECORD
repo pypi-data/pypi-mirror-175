@@ -1,0 +1,13 @@
+databind/core/__init__.py,sha256=EPmgXOdWKks5S__ZMH7Nu6xpAeVrZpfxaFy4pykuyeI,22
+databind/core/context.py,sha256=UBz518qAkro0DpbJIWyGcSNKtXyZFdj6UVoMsQHf9iE,5589
+databind/core/converter.py,sha256=hir-UwKWnp1TuGkXQyg_VQulxDJg91ZseCyGDusmgWA,4461
+databind/core/dataclasses.py,sha256=LSbDfK1TcmsADioufYjTieqWJ-7SFWWm21VM5N-Zh1Q,4098
+databind/core/dataclasses.pyi,sha256=5EnzZfuLUFBbGRy1N2XHaBuLxXoZnP9t1tCykf1CrY4,7120
+databind/core/mapper.py,sha256=0tsjrRPdy5ycCi8Y8RXiN6xYw9EaK-CcTm9I-tUfBl4,4052
+databind/core/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+databind/core/schema.py,sha256=SeuYhsBBFGiPJvQQ4usxAefxYTH0njHB5t6iNMNnaVE,13606
+databind/core/settings.py,sha256=xzZRVa4pGZlDeowunsMdGYCmwM3qUB-vQQS7o557eeQ,26638
+databind/core/union.py,sha256=mKYh0Cn-1sdiVDg_mUupd34JRTPbB7KUBw27CmVjPYM,8723
+databind.core-3.0.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+databind.core-3.0.0.dist-info/METADATA,sha256=smh6OX77-95v8U7_zk3mRN6OrraL92wDzqgKlJ2fag0,2297
+databind.core-3.0.0.dist-info/RECORD,,
