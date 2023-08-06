@@ -1,0 +1,7 @@
+semithuesystem/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+semithuesystem/alphabet.py,sha256=dMPb1fucuhyFxRrfiS0iZFUGp3LpPMHftLeMrBV42Sg,752
+semithuesystem/rules_dictionary.py,sha256=xerqv7W5f0eSDqQMuhNkedIDPm6GEX-ID9A8NIgvG6k,1373
+semithuesystem/semi_thue_system.py,sha256=O35-qlDfREDENSiQn_eVEmxag7OJ-d5sRVadYWwIIRo,1789
+semithuesystem-1.0.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+semithuesystem-1.0.1.dist-info/METADATA,sha256=DRDN8eD4rusvSgeX1XYhaGI4XAIIy_k9Y7d2HEPTtnI,734
+semithuesystem-1.0.1.dist-info/RECORD,,
