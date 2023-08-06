@@ -1,0 +1,12 @@
+README.md
+setup.py
+chiaki/__init__.py
+chiaki/__main__.py
+chiaki/exceptions.py
+chiaki/translator.py
+chiaki.egg-info/PKG-INFO
+chiaki.egg-info/SOURCES.txt
+chiaki.egg-info/dependency_links.txt
+chiaki.egg-info/entry_points.txt
+chiaki.egg-info/requires.txt
+chiaki.egg-info/top_level.txt
