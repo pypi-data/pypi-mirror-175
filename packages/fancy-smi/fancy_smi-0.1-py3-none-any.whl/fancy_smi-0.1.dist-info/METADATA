@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: fancy-smi
+Version: 0.1
+Summary: A colorful and clean SMI built on top of nvidia-smi.
+Home-page: https://github.com/alihassanijr/FancySMI
+Author: Ali Hassani
+License: Apache 2.0
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rich
+
+# FancySMI
+
+Just a stylized `nvidia-smi`.
+
+```shell
+pip install fancy-smi
+```
+
+## Overview
+```shell
+fancy-smi
+```
+
+![](preview.png)
+
+## Watch
+Use the `-r` arg to set a refresh rate:
+```shell
+fancy-smi -r 1
+```
+
+## Requirements
+* Python 3.6 and above
+* `rich` package:
+ 
+```shell
+pip3 install rich
+```
+
+
+
