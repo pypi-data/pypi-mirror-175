@@ -1,0 +1,13 @@
+numpy
+seaborn
+mplcursors
+pydot
+prim
+SALib
+platypus-opt
+sklearn
+
+[test]
+pytest
+mock
+openmdao
