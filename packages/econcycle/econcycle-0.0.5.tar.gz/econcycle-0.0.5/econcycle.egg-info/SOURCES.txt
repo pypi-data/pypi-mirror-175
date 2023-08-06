@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+econcycle.egg-info/PKG-INFO
+econcycle.egg-info/SOURCES.txt
+econcycle.egg-info/dependency_links.txt
+econcycle.egg-info/requires.txt
+econcycle.egg-info/top_level.txt
+src/econcycle/VERSION
