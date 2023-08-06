@@ -1,0 +1,2 @@
+[console_scripts]
+dcpyext_deploy = discordPyExt.utils.deploy:deploy
