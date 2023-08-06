@@ -1,0 +1,11 @@
+url_cleaner/__init__.py,sha256=0huzSr4DwaHwIZuu9UkDESQTLXVQIneWcIOYHxcv9yk,745
+url_cleaner/filter.py,sha256=SWajocFZ5mee4VA9HzZgSKLFutzWoDFEPPdqGEm0l8w,1353
+url_cleaner/ruler.py,sha256=APyDgxeaO_Z9WvRaia7lxoRLSfT3C5vpDWhBU4iTxXo,4333
+url_cleaner/rules.json,sha256=iC5M_8Z3egj4Yu1DpYTKh4LWxAiwucUPIgEmzRKArqA,31707
+url_cleaner/rules_remote_general.txt,sha256=vgTFaSNQjlauZ2T0qLxRxSxrwn70JTcBFRe4O0qso0A,6401
+url_cleaner/rules_remote_specific.txt,sha256=O3sSPk3vyaBhX45_VN1gIwWgusJaiM1u6YB2em-3Hi8,39325
+url_cleaner/url.py,sha256=FsYw1N8oHRTJWpeZMoHasOg5GudXtvvT06pVzgOKSKY,2167
+url_cleaner-0.1.5.dist-info/METADATA,sha256=lYqAZDXtRQzYXpRV9-nGAFRca7tARSpFGcLAN2QYT9M,2408
+url_cleaner-0.1.5.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+url_cleaner-0.1.5.dist-info/licenses/LICENCE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+url_cleaner-0.1.5.dist-info/RECORD,,
