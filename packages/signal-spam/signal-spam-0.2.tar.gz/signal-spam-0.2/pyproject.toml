@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "signal-spam"
+description = "Report an eml file to signal-spam.fr"
+readme = "README.md"
+license = {text = "MIT License"}
+authors = [
+    {name = "Julien Palard", email = "julien@palard.fr"},
+]
+requires-python = ">= 3.7"
+dependencies = [
+    "requests"
+]
+dynamic = ["version"]
+
+[project.urls]
+homepage = "https://git.afpy.org/mdk/signal-spam"
+
+[project.scripts]
+signal-spam = "signalspam:main"
+
+[tool.setuptools]
+py-modules = [
+    "signalspam",
+]
+include-package-data = false
+
+[tool.setuptools.dynamic.version]
+attr = "signalspam.__version__"

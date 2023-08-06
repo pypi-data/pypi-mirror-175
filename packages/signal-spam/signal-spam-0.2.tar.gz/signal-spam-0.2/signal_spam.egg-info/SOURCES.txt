@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+signalspam.py
+signal_spam.egg-info/PKG-INFO
+signal_spam.egg-info/SOURCES.txt
+signal_spam.egg-info/dependency_links.txt
+signal_spam.egg-info/entry_points.txt
+signal_spam.egg-info/requires.txt
+signal_spam.egg-info/top_level.txt
