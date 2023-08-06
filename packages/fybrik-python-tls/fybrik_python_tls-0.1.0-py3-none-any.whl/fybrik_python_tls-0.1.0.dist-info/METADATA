@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: fybrik-python-tls
+Version: 0.1.0
+Summary: Python TLS Package for Fybrik Components
+Home-page: https://github.com/fybrik/fybrik/tree/master/python/tls
+Author: FybrikUser
+Author-email: FybrikUser@il.ibm.com
+License: Apache License, Version 2.0
+Description-Content-Type: text/markdown
+Requires-Dist: fybrik-python-logging
+Requires-Dist: requests
+
+## Python TLS Package for Fybrik Components
