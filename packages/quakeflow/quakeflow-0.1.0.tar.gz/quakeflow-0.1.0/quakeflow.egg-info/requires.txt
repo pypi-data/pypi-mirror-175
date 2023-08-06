@@ -1,0 +1,4 @@
+obspy
+h5py
+matplotlib
+pandas
