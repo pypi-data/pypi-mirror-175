@@ -1,0 +1,17 @@
+algorithms/__init__.py,sha256=tv9DvFIKvFp3GgcRKs3pUYx38UfOPiEF5hsgJR8cHhs,526
+algorithms/algorithm.py,sha256=t73heaZ2ht2p-1C23nOaW-8Wg4jG50NWstJWbnwS2vM,980
+algorithms/iaggregator.py,sha256=4DwgjclEcShewSp_cehpqEQjxmv_kLgDPI0fBg3VBNQ,252
+algorithms/iclassifier.py,sha256=NbRdIMZK3F1RxBjjH1L6l7KKBB_tTNIPD1yDKYNHSPA,1273
+algorithms/iclustering.py,sha256=oIST_q9ljD8hrN2RkJr26VML4AbHxFwm6E1ctpVjBR4,1052
+algorithms/idescriptor.py,sha256=oLzALhHOoV572RrzCzijnT68RNOnpLa7DHHMlpft7WA,298
+algorithms/idetector.py,sha256=gyDVk2B6U0_I7NIoDpmSDnptAYsxuKugRpaV9J1e46A,308
+algorithms/idistance.py,sha256=kdR9p5l_2ACDuk69gyAIz6y6y0BXwzp12t0xNEjcUSA,327
+algorithms/ipoints_detector.py,sha256=tGSeVjzyfC-niA4QcsCj0IWaJXZHFmc5VZQjQmd3Ais,314
+algorithms/ipreprocessor.py,sha256=8Jc1yK3aj5TtO-wJ-Rbd7Aw6mKNwn2oZyxWNxRPVtUw,308
+algorithms/iquality_estimator.py,sha256=UzoXNeNBfzOyVVD-G5MI6ETiU-zCZUF4gi_cfzoGziE,271
+algorithms/itracker.py,sha256=WDCtg0suo62T6dxR1G8_aI1dev77jxONGJeWS40GuU8,592
+mnd_algorithms-0.1.0.dist-info/LICENSE,sha256=t0wDOfBgS99B_pgF26IrDD6OofeZ7kvlBqXRixNPkK4,1064
+mnd_algorithms-0.1.0.dist-info/METADATA,sha256=an5xKckGaXJSf668xybePVdmJVmopWcmjSbq4FK-mew,665
+mnd_algorithms-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mnd_algorithms-0.1.0.dist-info/top_level.txt,sha256=9HJ0g1OC7F63W_PtK4ic-5gfVvhw3r8GfwPrXXII-N0,11
+mnd_algorithms-0.1.0.dist-info/RECORD,,
