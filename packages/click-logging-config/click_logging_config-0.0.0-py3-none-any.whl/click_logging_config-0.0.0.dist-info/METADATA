@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: click_logging_config
+Version: 0.0.0
+Summary: Quick and easy logging parameters for click commands.
+Home-page: https://gitlab.com/my_project/
+Author: My Name
+Author-email: someone@somewhere.com
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+Requires-Dist: build_harness >=1.0.3, <2 ; extra == "dev"
+Requires-Dist: pre_commit >=2.13.0, <3 ; extra == "dev"
+Requires-Dist: sphinx >=4.5.0, <5 ; extra == "doc"
+Requires-Dist: sphinx_rtd_theme >=1.0, <2 ; extra == "doc"
+Requires-Dist: pytest >=7.1.1, <8 ; extra == "test"
+Requires-Dist: pytest-cov >=3.0, <4 ; extra == "test"
+Requires-Dist: pytest-mock >=3.6.1, <4 ; extra == "test"
+Provides-Extra: dev
+Provides-Extra: doc
+Provides-Extra: test
+
+click_logging_parameters
+========================
+
+A project that does something.
+
+.. contents::
+
+.. section-numbering::
+
+
+Installation
+------------
+
+The ``click_logging_parameters`` package is available from PyPI. Installing into a virtual
+environment is recommended.
+
+.. code-block::
+
+   python3 -m venv .venv; .venv/bin/pip install click_logging_parameters
+
