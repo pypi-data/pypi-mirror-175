@@ -1,0 +1,8 @@
+setup.py
+machine_status_pgmdata/__init__.py
+machine_status_pgmdata/on_off.py
+machine_status_pgmdata.egg-info/PKG-INFO
+machine_status_pgmdata.egg-info/SOURCES.txt
+machine_status_pgmdata.egg-info/dependency_links.txt
+machine_status_pgmdata.egg-info/requires.txt
+machine_status_pgmdata.egg-info/top_level.txt
