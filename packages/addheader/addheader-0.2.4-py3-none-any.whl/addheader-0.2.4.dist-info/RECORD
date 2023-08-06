@@ -1,0 +1,10 @@
+addheader/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+addheader/add.py,sha256=-DBEnNXvjatNYnk9g6U2rDz8b1tFkqsAeDvoq-veSeA,18746
+addheader/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+addheader/tests/test_add.py,sha256=REN0HnybEIIAGbbxXeUnQN0kt7UjY0nZ4nBUUsAQae4,4556
+addheader-0.2.4.dist-info/LICENSE.md,sha256=gwhvehYZWsaWBusN_gKMCLoL06l9zJotMG1l75hRT4I,2922
+addheader-0.2.4.dist-info/METADATA,sha256=iEc-SQdG7PV5aN0CcP7UNLDXoTO8rYz2qW2TnRSJsag,6598
+addheader-0.2.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+addheader-0.2.4.dist-info/entry_points.txt,sha256=t7j7UAJO8ERbW2D67MhUY4Bjn6Ufh5aPOGUulLDJ76Q,49
+addheader-0.2.4.dist-info/top_level.txt,sha256=4pwlU08iqR3ogJtteS6cTsZsHY_k8WVaGyrrYY_0YlE,10
+addheader-0.2.4.dist-info/RECORD,,
