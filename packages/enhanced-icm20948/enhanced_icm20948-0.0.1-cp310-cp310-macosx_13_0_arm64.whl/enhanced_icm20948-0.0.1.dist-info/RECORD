@@ -1,0 +1,9 @@
+enhanced_icm20948/__init__.py,sha256=W5HCKa5agomDAy6OhFKFPuUIMahtgtx2f03Iw59VsL4,82
+enhanced_icm20948/__main__.py,sha256=yYj_uI-tF3l8tFNV1AyuVatHKkN41RyFq5Ot7rcCgXM,193
+enhanced_icm20948/asm_orientation.cpython-310-darwin.so,sha256=SX2LL5pxLU0018Yzdc5R15S5cydqGfC2cFjUHlqv1wo,151906
+enhanced_icm20948/orientation.py,sha256=bllH0IhHSx98mVWuMVlk0BP09Q7x79n1KJ8srLCICLk,97
+enhanced_icm20948-0.0.1.dist-info/LICENSE,sha256=IhVq3Vm7Pv596miVq-BhMgPDJvH3SeZ67TaOswt1myI,2139
+enhanced_icm20948-0.0.1.dist-info/METADATA,sha256=3Tjn7NodYXOhpVBloQWYlcGcjxO6o94DsdWgMZJG1xs,308
+enhanced_icm20948-0.0.1.dist-info/WHEEL,sha256=m0epp9D-HZGcJ6tiab_WV20jkit0-40ZyzzC7T68Pjg,110
+enhanced_icm20948-0.0.1.dist-info/top_level.txt,sha256=Ombtnfqr3u-pdKv9GCBqipydaQu5_mlDzG_MsC3Eu1g,18
+enhanced_icm20948-0.0.1.dist-info/RECORD,,
