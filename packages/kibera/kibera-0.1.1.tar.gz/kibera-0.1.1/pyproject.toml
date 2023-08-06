@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "kibera"
+version = "0.1.1"
+description = ""
+authors = ["Hadi <hadi.zolfaghaari@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+redis = "^3.5.3"
+tqdm = "^4.60.0"
+flask = "^2.2.2"
+pymongo = "^4.3.2"
+waitress = "^2.1.2"
+portforward = "^0.3.0"
+rich = "^12.6.0"
+prometheus-client = "^0.15.0"
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.23.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+kibera = 'kibera:main'
