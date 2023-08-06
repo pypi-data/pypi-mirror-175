@@ -1,0 +1,15 @@
+[build-system]
+requires = [
+  "setuptools>=51.0",
+  "wheel>=0.36",
+]
+build-backend = "setuptools.build_meta"
+
+
+[tool.towncrier]
+package = "aiosignal"
+filename = "CHANGES.rst"
+directory = "CHANGES/"
+title_format = "{version} ({project_date})"
+template = "CHANGES/.TEMPLATE.rst"
+issue_format = "`#{issue} <https://github.com/aio-libs/aiosignal/issues/{issue}>`_"
