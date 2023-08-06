@@ -1,0 +1,10 @@
+LICENSE.md
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pypierrat.egg-info/PKG-INFO
+src/pypierrat.egg-info/SOURCES.txt
+src/pypierrat.egg-info/dependency_links.txt
+src/pypierrat.egg-info/top_level.txt
