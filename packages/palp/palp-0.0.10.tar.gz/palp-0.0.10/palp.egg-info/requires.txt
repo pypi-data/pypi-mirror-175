@@ -1,0 +1,7 @@
+zmail
+requests
+redis
+pybloom-live
+parsel
+loguru
+redis-py-cluster
