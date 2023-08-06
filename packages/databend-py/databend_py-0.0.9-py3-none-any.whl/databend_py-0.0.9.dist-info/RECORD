@@ -1,0 +1,16 @@
+databend_py/__init__.py,sha256=mTdtG1Yvxg1AL2N_SSbHYJYeTWGJ3RwtLHFKR9bdySQ,167
+databend_py/client.py,sha256=nFVkvwNHAqAARV6BZNlo6UTNEGc2e90QjD245bf7vMk,7880
+databend_py/connection.py,sha256=NmzZVn-lqcoklfdF_t7jQ_d7Z8xcJDBXyvglTLQ9_Ek,5896
+databend_py/context.py,sha256=yPkJ_BN4LGODvKCOjNlDGqABwxAMQTQl7w1vIGRPBDg,909
+databend_py/defines.py,sha256=sQvLhE2oVYaKKkfhhL6VyEupWLM6H3BDRpx3hPpylyI,182
+databend_py/errors.py,sha256=CJE2LDMAUqnrGT1AOd5pfLKCDgiaKKiWU7FMtN-xs88,581
+databend_py/log.py,sha256=dMuMaWptI_nexWDZMtZaAnoEOluIfYWNdoR9OSAhgKM,206
+databend_py/result.py,sha256=ba5ZfXOnuGbrfy4N5P57f-HmDpe8x84P8IOpOE5bVMI,1189
+databend_py/util/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+databend_py/util/escape.py,sha256=DE7PaShERoOw285fkg3pu7T_oMU4_2dMkHbjXEqPcn4,1452
+databend_py/util/helper.py,sha256=mq7l24yGhM9nej6ik12AAjF0xUJiEJbMr8t8YDiT-HE,2298
+databend_py-0.0.9.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+databend_py-0.0.9.dist-info/METADATA,sha256=xTRkB_VOa1f2p1aXOaX_3DRu5swKEbw9qv3N2l7sLOE,3218
+databend_py-0.0.9.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+databend_py-0.0.9.dist-info/top_level.txt,sha256=t0rUVwHfEpXcuMreSkL69rc5DWv6FmzB4AfEGcc4_7U,12
+databend_py-0.0.9.dist-info/RECORD,,
