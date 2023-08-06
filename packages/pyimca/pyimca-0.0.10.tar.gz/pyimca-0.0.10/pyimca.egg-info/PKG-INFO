@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyimca
+Version: 0.0.10
+Summary: 为工程创建一个统一的架构
+Home-page: https://github.com/Thrent33/IMCA_FRAME.git
+Author: Thrent
+Author-email: eel39@yahoo.com
+License: GNU General Public License v3.0
+Platform: Linux
+License-File: LICENSE
+
+# Example Package
+
+用于搭建CMake的基础框架，统一架构。
+
+[联系作者:Thrent](eel39@yahoo.com)
+[Github-flavored Markdown](https://github.com/Thrent33/IMCA_FRAME.git)
+
+
