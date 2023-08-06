@@ -1,0 +1,15 @@
+femwell/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+femwell/coplanar_waveguide.py,sha256=JCIyyl504kJfAKeOuqO8q_-DzKZN9iuwj4IxpisAL2s,2988
+femwell/mesh.py,sha256=bdbz2S_PpzWEbp_T5u_2aDkjyvID3UPlYI6VRnXeQzg,19515
+femwell/mode_solver.py,sha256=rLRET-v2cniFJOpy_hLInnb-v23drR7mj8baPyT0hj0,6229
+femwell/si_heater.py,sha256=BYCiB90IpHH0uegbLXOt8-sEMNoiikss5-AteRq1XIo,3301
+femwell/tests/test_mesh.py,sha256=yDPcuOOtEtueJwRHlmQImHSmxy5rV1T2LrKUX1QCY9w,3624
+femwell/thermal.py,sha256=XZvRckrHsOkhhVB4Oi12DsW9wS2SeWlOtgc9zpIWfaM,5159
+femwell/thermal.rst,sha256=uGJYC9wx-sGhGYWtZyj5pMvHQvQt-gqCy8JND8FXRUs,1706
+femwell/thermal_transient.py,sha256=DKbLVZiLZmzp1ADLA9YBTGuyuBwv53NqSiHJm0s--DU,7712
+femwell/vary_width.py,sha256=Wf6eNcq60kD5vkVJWYMFDc1BBHDIse_iVHzzCaXJPlU,1812
+femwell/waveguide.py,sha256=Wa1Fv2FKp1SEqT2WuIyStVnby9VjqCM8vLH4AjEP2_w,2031
+femwell-0.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+femwell-0.0.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+femwell-0.0.1.dist-info/METADATA,sha256=ZiZikbkNeBcMzm7QEjc9ZVCiQ1sI0R2RsI6vEvfkBdA,876
+femwell-0.0.1.dist-info/RECORD,,
