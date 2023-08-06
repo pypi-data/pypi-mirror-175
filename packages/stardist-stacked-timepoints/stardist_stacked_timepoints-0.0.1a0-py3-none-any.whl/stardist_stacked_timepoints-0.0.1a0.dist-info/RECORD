@@ -1,0 +1,12 @@
+stardist_stacked_timepoints/__init__.py,sha256=9esgwpL9qVm-QZeJFRLZ2zljVll0pI-ntDJGa1Hlbag,35
+stardist_stacked_timepoints/config_2d.py,sha256=UZrTJkdnHS6XEf5sTz0Or-q7r6WnpLDGHXw-pSXxLuU,4416
+stardist_stacked_timepoints/data_2d.py,sha256=kpTW6jsEB_UUIsoxX2QihAcyZ3Gp3oVVTheK24gG4p8,5179
+stardist_stacked_timepoints/data_base.py,sha256=f1OUWs3O7DoQnr3M5gNBQp8cMj1_Ids8vSbSU-dYTag,6388
+stardist_stacked_timepoints/model_2d.py,sha256=PUvp4JBH9tWypdOHlk0lwoa3TE4F3_ePS_VPmZvS7yw,23609
+stardist_stacked_timepoints/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+stardist_stacked_timepoints/sample_patches.py,sha256=ZgqAxMqt0CJAf3nikqbO-2OvS2AZ5n6Jf1WVLF9NRCw,2036
+stardist_stacked_timepoints-0.0.1a0.dist-info/entry_points.txt,sha256=MCroIx-54_gVAqL7tG4qos3Yi9fK-2PL014GBi8LzLc,89
+stardist_stacked_timepoints-0.0.1a0.dist-info/LICENSE,sha256=lU9sLCLR0g_vOB9JCtrxZP6QcEzmOOC3UC4h7h_7hpc,1069
+stardist_stacked_timepoints-0.0.1a0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+stardist_stacked_timepoints-0.0.1a0.dist-info/METADATA,sha256=GGvWIee_pZI4i1jKGlY13QEdhhjscCxzvlH9PnQsEYE,3641
+stardist_stacked_timepoints-0.0.1a0.dist-info/RECORD,,
