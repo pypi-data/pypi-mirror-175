@@ -1,0 +1,3 @@
+[console_scripts]
+combine-to-pyhf = pyhf_combine_converter.combine_to_pyhf:main
+pyhf-to-combine = pyhf_combine_converter.pyhf_to_combine:main
