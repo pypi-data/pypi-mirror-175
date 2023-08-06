@@ -1,0 +1,15 @@
+README.rst
+setup.cfg
+setup.py
+aie_feast/__init__.py
+aie_feast/definitions.py
+aie_feast/featurestore.py
+aie_feast/period.py
+aie_feast/service.py
+aie_feast/views.py
+f2ai.egg-info/PKG-INFO
+f2ai.egg-info/SOURCES.txt
+f2ai.egg-info/dependency_links.txt
+f2ai.egg-info/not-zip-safe
+f2ai.egg-info/requires.txt
+f2ai.egg-info/top_level.txt
