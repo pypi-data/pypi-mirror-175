@@ -1,0 +1,16 @@
+meshpy/__init__.py,sha256=UwznrNtUy6Sd1fPirYs1uE3Fz27bIQMQAHJWZG31Gig,117
+meshpy/_internals.pypy38-pp73-darwin.so,sha256=79x7pOzPwYXQ0IZr7WyySpM06qhmNY2EKDehU0wufME,1083948
+meshpy/common.py,sha256=6z1L9eQIIddxIBHAuPuhixxml88RfQKFS8wbtCyRoBg,8997
+meshpy/geometry.py,sha256=DL_bt5RCIeEJPTwMxAylrzEAGgjyzp5tRCCaG9wSgBA,17314
+meshpy/gmsh.py,sha256=MpHf3Hxt6tEgOZv0_kYBoplETB-4tkuD1wI_HO03apw,177
+meshpy/gmsh_reader.py,sha256=zhnvTWN_0OJGJlCuCOGZnN79hvIBhjjEGuZJRb-qrKY,184
+meshpy/naca.py,sha256=faXHehkPQdNLq9x1ldDH9O9iG6Fdvp-LuaKv6s0ZMEk,8382
+meshpy/ply.py,sha256=VQPZ2vpkkCNcE7OCnXp2czYd5muuqhNvou4ekDQRoVY,2195
+meshpy/tet.py,sha256=eN_FI57LxT-kdyyx93H5zLrbCSMA5yFL7T74Eq9kCgY,6519
+meshpy/tools.py,sha256=js-aiB05TvZu8TqtAPd9I88uOGBQI10U5DMyaChS1NI,3722
+meshpy/triangle.py,sha256=5hKOO1arIlN0zJm9z_LAYOpRqzWleyfrjij-MOfS3cE,7505
+MeshPy-2022.1.3.dist-info/LICENSE,sha256=IJQt97mlJuTGaNg0SyqvNimFfp_RK6KPpMb8BpIIsJM,6512
+MeshPy-2022.1.3.dist-info/METADATA,sha256=uvXjGoeKfNKhH7wr_VbNEVx8xcGuNIRPpiS5Zd5NyTo,3385
+MeshPy-2022.1.3.dist-info/WHEEL,sha256=eMXieGdYIPAvPgWZuPjv3Y7MrdPX-HD5sJnupwu3tEk,116
+MeshPy-2022.1.3.dist-info/top_level.txt,sha256=or-bneQBnPotRhHjPToDNTtdrsoII6XxFX7wgcqYRA8,7
+MeshPy-2022.1.3.dist-info/RECORD,,
