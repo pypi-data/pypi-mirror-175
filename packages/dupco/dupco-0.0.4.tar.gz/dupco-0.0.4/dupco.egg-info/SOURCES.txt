@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+dupco/__init__.py
+dupco/aes.py
+dupco/client.py
+dupco/common.py
+dupco.egg-info/PKG-INFO
+dupco.egg-info/SOURCES.txt
+dupco.egg-info/dependency_links.txt
+dupco.egg-info/requires.txt
+dupco.egg-info/top_level.txt
