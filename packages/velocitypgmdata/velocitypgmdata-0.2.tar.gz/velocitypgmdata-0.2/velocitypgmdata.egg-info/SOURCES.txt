@@ -1,0 +1,8 @@
+setup.py
+velocitypgmdata/__init__.py
+velocitypgmdata/machine_condition.py
+velocitypgmdata.egg-info/PKG-INFO
+velocitypgmdata.egg-info/SOURCES.txt
+velocitypgmdata.egg-info/dependency_links.txt
+velocitypgmdata.egg-info/requires.txt
+velocitypgmdata.egg-info/top_level.txt
