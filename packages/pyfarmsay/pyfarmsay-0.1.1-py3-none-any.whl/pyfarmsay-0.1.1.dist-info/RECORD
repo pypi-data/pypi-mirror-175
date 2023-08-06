@@ -1,0 +1,11 @@
+pyfarmsay/__init__.py,sha256=Lh7NOd9-n-o-7iRw3-RIoQCF_F57zhZQktJjCkSYOgA,76
+pyfarmsay/__main__.py,sha256=eNcqIcxmO_iUj5h2ImXpIZs3oTgCTvgZkBCB3GXSXFI,923
+pyfarmsay/animals.py,sha256=I2A6tsTpGJQiteRmBJmw8MUhvJy1t3DsCX_grXW7sKI,1110
+pyfarmsay/pyfarmsay.py,sha256=8uuNw4gDGDokY81uKYcZeIVY8NIn8NIUVl93z-34Xng,1630
+pyfarmsay/util.py,sha256=I0BxJi7hDHGBGCnip0qczKqEPbNi9IRy-tkg9hQa_Xo,1118
+pyfarmsay-0.1.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pyfarmsay-0.1.1.dist-info/METADATA,sha256=dtaDwExFhw1K9M68-7fVTL31Nz7SM-6snYfEZQnY3XY,44302
+pyfarmsay-0.1.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+pyfarmsay-0.1.1.dist-info/entry_points.txt,sha256=aDV4_dX-gqXKLaV8k4U7Kt0Nao5602tjTfnKnWjdFMg,54
+pyfarmsay-0.1.1.dist-info/top_level.txt,sha256=Mv5_qma8Xot4dH0RCGtBJ2ovGhm1kd1fdzQ17E3RA2o,10
+pyfarmsay-0.1.1.dist-info/RECORD,,
