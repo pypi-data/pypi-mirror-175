@@ -1,0 +1,17 @@
+sentimod/__init__.py,sha256=A1_QxyG4Yv13f8hTqlAH7xbhRuJVdmbrGwUSjyBmd-Q,44
+sentimod/sentiment.py,sha256=sDjIf2L88kUNxrrLD76gV1ncDPo68spmOwod7dFz4lg,1351
+sentimod/data/__init__.py,sha256=XmUBiwtPC-LWRgvGG8HEiR0RzbWKjUFWWvMlrUxn3JM,217
+sentimod/data/_google.py,sha256=Y53gz1NehVnFtHLTUw_CTzoSFstO4aQ3fw7ZPfPUGK8,1273
+sentimod/data/_twitter.py,sha256=Jxw03GcZPRLn_8w7MLs3jYUKIRDyWvMQVVLlZzOhA0A,1200
+sentimod/data/_utils.py,sha256=ky4GJxwgug9vMsZ_Ztdn6bT7OA4uYV76BvSmmSzZA4M,1447
+sentimod/models/__init__.py,sha256=XmUBiwtPC-LWRgvGG8HEiR0RzbWKjUFWWvMlrUxn3JM,217
+sentimod/models/_huggingface.py,sha256=tfmfq76uoTBtHJikkDH5dStMlv9m9Cpa7DLsxOSJJ68,1129
+sentimod/models/_polarity.py,sha256=HqY15X7hzNPClrxEyC0GC1IaJy1z47xONSVCBedSv80,660
+sentimod/models/_subjectivity.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sentimod/preprocessing/__init__.py,sha256=XmUBiwtPC-LWRgvGG8HEiR0RzbWKjUFWWvMlrUxn3JM,217
+sentimod/preprocessing/_twitter.py,sha256=9sIsLY56UOc0NWHB8bd1Pl867SXd7Tc4Z2x-3Scf5RE,670
+sentimod-0.0.2.dist-info/LICENSE,sha256=5iIe65ycNPCyFNdtsIV5jLlGjZZO03nwgPyAd5qykXg,1069
+sentimod-0.0.2.dist-info/METADATA,sha256=YmyiHSl6UYfCZFwMssesEC4gZi89fWj_Hz6s0Xg_wC0,697
+sentimod-0.0.2.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+sentimod-0.0.2.dist-info/top_level.txt,sha256=EF9hmRA63IdZ5manhTPx18vmBBkskhPwYY9WJ_9c_zk,9
+sentimod-0.0.2.dist-info/RECORD,,
