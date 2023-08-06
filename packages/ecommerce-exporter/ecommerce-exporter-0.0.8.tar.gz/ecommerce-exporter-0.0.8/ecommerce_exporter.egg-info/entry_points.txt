@@ -1,0 +1,3 @@
+[console_scripts]
+ecommerce-exporter = ecommerce_exporter.cli:main
+
