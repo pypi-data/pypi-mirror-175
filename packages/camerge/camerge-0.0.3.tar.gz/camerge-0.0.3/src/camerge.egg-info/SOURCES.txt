@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/camerge/__init__.py
+src/camerge.egg-info/PKG-INFO
+src/camerge.egg-info/SOURCES.txt
+src/camerge.egg-info/dependency_links.txt
+src/camerge.egg-info/requires.txt
+src/camerge.egg-info/top_level.txt
