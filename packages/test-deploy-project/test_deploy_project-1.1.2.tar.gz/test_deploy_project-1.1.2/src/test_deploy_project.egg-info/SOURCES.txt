@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/test_deploy_project.egg-info/PKG-INFO
+src/test_deploy_project.egg-info/SOURCES.txt
+src/test_deploy_project.egg-info/dependency_links.txt
+src/test_deploy_project.egg-info/top_level.txt
