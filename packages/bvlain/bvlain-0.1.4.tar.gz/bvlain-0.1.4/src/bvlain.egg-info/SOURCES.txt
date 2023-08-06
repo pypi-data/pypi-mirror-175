@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+upload_to_pypi.txt
+src/bvlain/README.md
+src/bvlain/__init__.py
+src/bvlain/core.py
+src/bvlain.egg-info/PKG-INFO
+src/bvlain.egg-info/SOURCES.txt
+src/bvlain.egg-info/dependency_links.txt
+src/bvlain.egg-info/requires.txt
+src/bvlain.egg-info/top_level.txt
+src/bvlain/data/anion.pkl
+src/bvlain/data/cation.pkl
+src/bvlain/data/quantum_n.pkl
