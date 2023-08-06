@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: django_better_search
+Version: 0.1.0
+Summary: A different implementation of Django's admin search
+Author-email: Shailesh Kumar <shailesh@eka.com>
+Project-URL: Homepage, https://github.com/eka-care/django-better-search
+Project-URL: Bug Tracker, https://github.com/eka-care/django-better-search/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# django-better-search
+<i>This repo is heavily influenced by [django-admin-search](https://github.com/shinneider/django-admin-search) and copies some of the components as well.</i>
+
+This repo implements search on Django admin page differently. It generates different search boxes for separate fields and doesn't treat all of those fields as string.
+
+## Requirements
+This app requires the following:
+
+* Django >= 3.2
+
+## Usage
+This project is <b>not ready yet for any use</b>.
