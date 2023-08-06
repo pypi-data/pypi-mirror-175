@@ -1,0 +1,7 @@
+osiotk/__init__.py,sha256=1dl99AxwUlfzKjpLY64bHW9I-OqV_gOhbb3dVCJbVWA,12726
+osiotk/constants.py,sha256=mByP79gbi2tbm7KaRxvoT3UPCca3aDg3bB0WJ-wJU30,37
+osiotk/objects/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+osiotk/objects/fwrite.py,sha256=Iy4g_rTsquckKgr7neQKd8pkQFV7lqHSb2yGgvcgERM,348
+osiotk-1.2.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+osiotk-1.2.1.dist-info/METADATA,sha256=g_IsmF_dwSaGygBu6hdsqN1jb2PkCLL0trO2SxDf5yc,1214
+osiotk-1.2.1.dist-info/RECORD,,
