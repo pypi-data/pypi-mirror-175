@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ConfNet
+Version: 0.0.1
+Home-page: https://github.com/confnet
+Author: Sure Wong
+Author-email: surewongcom@gmail.com
+License: GPL license
+Requires-Python: >=3.4
+Provides-Extra: cpu
+Provides-Extra: gpu
+License-File: LICENSE
