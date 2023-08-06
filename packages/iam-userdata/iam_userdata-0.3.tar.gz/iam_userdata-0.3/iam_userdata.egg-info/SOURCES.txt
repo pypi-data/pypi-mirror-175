@@ -1,0 +1,8 @@
+licence.txt
+setup.py
+ct-module/__init__.py
+iam_userdata.egg-info/PKG-INFO
+iam_userdata.egg-info/SOURCES.txt
+iam_userdata.egg-info/dependency_links.txt
+iam_userdata.egg-info/requires.txt
+iam_userdata.egg-info/top_level.txt
