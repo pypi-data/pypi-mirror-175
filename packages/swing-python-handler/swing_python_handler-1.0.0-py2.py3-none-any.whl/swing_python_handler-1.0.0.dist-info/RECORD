@@ -1,0 +1,11 @@
+swing/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+swing/exceptions.py,sha256=z-ebVR-tXxxXNXQ7g-ajqVhKN4d_qeqNg2CGsRqgaE8,43
+swing/flusher.py,sha256=KDyurEHhTu2Qxt8krH-rCmVpywHdTuzznXq_mGZtiF8,538
+swing/formatter.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+swing/handler.py,sha256=ORkrbGYoGhQ9eiW8QIFD8pO6VVlGcHml4SdY8G1UffM,4001
+swing/logger.py,sha256=ZucfXne3hpwwCwP-6Ngw7tLeEUXjXUTRldVfSGh93kY,497
+swing/sender.py,sha256=XIg4UM5Momzwj9KYO4UIAFWrh9FSRhVQ-LzGFZxNpFY,10020
+swing_python_handler-1.0.0.dist-info/METADATA,sha256=iH3nO4bdLk4MJ4zZrW_fEYgz93dusC277zsm-WP3fp4,640
+swing_python_handler-1.0.0.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+swing_python_handler-1.0.0.dist-info/top_level.txt,sha256=J67rzJpVFf8WGQqiQnkzwl-V9_7r7GAgeaGr9D1BAzM,6
+swing_python_handler-1.0.0.dist-info/RECORD,,

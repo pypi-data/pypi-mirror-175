@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: swing-python-handler
+Version: 1.0.0
+Summary: Logging handler to send logs to your swing account with bulk rpc
+Home-page: https://github.com/salemzii/python-swing
+Author: logzio
+Maintainer: salem ododa
+License: Apache License 2
+Keywords: logging handler swing bulk https
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: jsonrpcclient
+Requires-Dist: opentelemetry-instrumentation-logging (==0.32b0)
+Requires-Dist: protobuf (==3.20.1)
+Requires-Dist: requests (>=2.27.0)
+
+UNKNOWN
+
+
