@@ -1,0 +1,8 @@
+flask_pydantic_serializers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flask_pydantic_serializers/base.py,sha256=cP3k3rDIliHp1wjmokauvN33qOnnZKME-CeHqle5Tqw,18187
+flask_pydantic_serializers/json_mixin.py,sha256=ZspkaAus1N7X7ucZna_DRX9OfRSTl-4oCvxMIYoOqGw,2150
+flask_pydantic_serializers/timestamps.py,sha256=TJWTzP6MabWHey0HqtvxTf51DUqbmb9vM0wG5OsjiUo,319
+flask_pydantic_serializers-1.0.0.dist-info/METADATA,sha256=bu0KAzB-_6K2Y6_hJpNbTeEVg_48FdAvIJfeN_9JSoI,861
+flask_pydantic_serializers-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+flask_pydantic_serializers-1.0.0.dist-info/top_level.txt,sha256=G8Kk_hei7Ggk_x26EKbwlOJYCqnYnWnuCZAj_TjWuTI,27
+flask_pydantic_serializers-1.0.0.dist-info/RECORD,,
