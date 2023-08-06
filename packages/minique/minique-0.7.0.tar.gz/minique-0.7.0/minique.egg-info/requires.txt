@@ -1,0 +1,8 @@
+redis>=2.10.0
+
+[sentry]
+sentry_sdk~=1.10
+
+[test]
+pytest>=6
+pytest-cov
