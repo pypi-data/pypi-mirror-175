@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: light_controller
+Version: 0.6.0
+Summary: This package aims to manage lights thanks to the FG-PDV400W-24-8T with an UART connection protocol
+Home-page: https://github.com/tcotte/light_controller
+Author: Tristan Cotte
+Author-email: tristan.cotte@sgs.com
+License: BSD license
+Keywords: light_controller
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+================
+Light Controller
+================
+
+
+.. image:: https://img.shields.io/pypi/v/light_controller.svg
+        :target: https://pypi.python.org/pypi/light_controller
+
+.. image:: https://img.shields.io/travis/tcotte/light_controller.svg
+        :target: https://travis-ci.com/tcotte/light_controller
+
+.. image:: https://readthedocs.org/projects/light-controller/badge/?version=latest
+        :target: https://light-controller.readthedocs.io/en/latest/?version=latest
+        :alt: Documentation Status
+
+
+
+
+This package aims to manage lights thanks to the FG-PDV400W-24-8T with an UART connection protocol
+
+
+* Free software: BSD license
+* Documentation: https://light-controller.readthedocs.io.
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+=======
+History
+=======
+
+0.1.0 (2022-10-12)
+------------------
+
+* First release on PyPI.
