@@ -1,0 +1,6 @@
+setup.py
+lwdb/__init__.py
+lwdb.egg-info/PKG-INFO
+lwdb.egg-info/SOURCES.txt
+lwdb.egg-info/dependency_links.txt
+lwdb.egg-info/top_level.txt
