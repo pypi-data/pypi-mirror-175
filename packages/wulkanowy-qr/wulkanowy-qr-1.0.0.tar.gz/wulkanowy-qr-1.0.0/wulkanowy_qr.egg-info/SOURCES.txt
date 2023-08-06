@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+wulkanowy_qr/__init__.py
+wulkanowy_qr.egg-info/PKG-INFO
+wulkanowy_qr.egg-info/SOURCES.txt
+wulkanowy_qr.egg-info/dependency_links.txt
+wulkanowy_qr.egg-info/requires.txt
+wulkanowy_qr.egg-info/top_level.txt
