@@ -1,0 +1,4 @@
+matplotlib
+numpy
+robot_descriptions
+scipy

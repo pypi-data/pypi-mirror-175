@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: skplan
+Version: 0.0.1
+Summary: scipy based robot planning framework
+Home-page: UNKNOWN
+Author: Hirokazu Ishida
+Author-email: h-ishida@jsk.imi.i.u-tokyo.ac.jp
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
