@@ -1,0 +1,15 @@
+kolsol/__init__.py,sha256=w2M1AsBngGadKAOz1Y4JSkRuW31170UpiVJV3LAIbow,67
+kolsol/base/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kolsol/base/base_solver.py,sha256=K6k99OC7x-0ywIO6lcCama28pm3Kq31PyVk7i24io2w,1538
+kolsol/numpy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kolsol/numpy/solver.py,sha256=RdHDZ4u2hkhG1jig0M8VlqyFEL8AyeGchWiGSY0IeXk,11457
+kolsol/torch/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kolsol/torch/solver.py,sha256=fS7u3ZHO4z4Efhn7aO4oXYskRGIhByyCffhQBFBq7UE,13021
+kolsol/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kolsol/utils/enums.py,sha256=UvIbnMCJ1LXwhkujk4yzUU4YQK04iyHiHU6eKcHBJMA,91
+kolsol/utils/integrate.py,sha256=z4c6fjvWyJO1yFUVP8qIUgZAJTNshHV_fbbjlNbtFC8,1301
+kolsol/utils/types.py,sha256=K644zLXUf2_bR95QsveBgAUO1cbpzZDbDc9_Jht6feM,123
+kolsol-1.0.0.dist-info/LICENSE,sha256=_HRPnOGQn-R6TG8MigkG6ATDazLNuBk67Vf0guLOg78,1065
+kolsol-1.0.0.dist-info/WHEEL,sha256=rSgq_JpHF9fHR1lx53qwg_1-2LypZE_qmcuXbVUq948,81
+kolsol-1.0.0.dist-info/METADATA,sha256=fMVuhES4xff9QwDlpjldPIctNRaunPpJdu6EOOz3pLs,2866
+kolsol-1.0.0.dist-info/RECORD,,
