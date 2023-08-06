@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/passwordManagerByAscii/____wisdom.py
+src/passwordManagerByAscii/__init__.py
+src/passwordManagerByAscii/decoder.py
+src/passwordManagerByAscii/encrypt.py
+src/passwordManagerByAscii/generator.py
+src/passwordManagerByAscii/validate.py
+src/passwordManagerByAscii.egg-info/PKG-INFO
+src/passwordManagerByAscii.egg-info/SOURCES.txt
+src/passwordManagerByAscii.egg-info/dependency_links.txt
+src/passwordManagerByAscii.egg-info/entry_points.txt
+src/passwordManagerByAscii.egg-info/requires.txt
+src/passwordManagerByAscii.egg-info/top_level.txt
