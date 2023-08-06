@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: python-AsciiLib
+Version: 0.0.1
+Summary: An ascii art package
+Author: Alexander J.
+Author-email: alexandergrahambell707@gmail.com
+License: MIT
+Keywords: ascii
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+A package that makes it easy to convert images and videos to ascii art
