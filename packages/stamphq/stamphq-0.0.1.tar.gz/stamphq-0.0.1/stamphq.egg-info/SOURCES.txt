@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+stamphq/__init__.py
+stamphq/client.py
+stamphq/exceptions.py
+stamphq/models.py
+stamphq.egg-info/PKG-INFO
+stamphq.egg-info/SOURCES.txt
+stamphq.egg-info/dependency_links.txt
+stamphq.egg-info/requires.txt
+stamphq.egg-info/top_level.txt

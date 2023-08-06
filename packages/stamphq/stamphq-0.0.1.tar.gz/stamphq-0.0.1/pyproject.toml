@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stamphq"
+version = "0.0.1"
+description = "python SDK for stampHQ email send APIs."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+  { name = "Gowtham Gopalakrishnan", email = "sdk@stamphq.app" }
+]
+keywords = [
+  "stamphq", "send email", "email", "email REST API"
+]
+dependencies = [
+  "requests", "pytest", "setuptools"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Development Status :: 2 - Pre-Alpha",
+  "Topic :: Communications :: Email",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/stamphq/python-sdk"
+"Bug Tracker" = "https://github.com/stamphq/python-sdk/issues"
