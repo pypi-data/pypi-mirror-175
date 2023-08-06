@@ -1,0 +1,8 @@
+remote_plot/__init__.py,sha256=XeQD4vdwNGBPqfo9hlgKtLPMieYrm-WH_1T6K1la7WU,138
+remote_plot/client.py,sha256=hXkCyTqyY3ajANOChoCMwhy4KaMyyvYBT2_nFEcwBgg,6001
+remote_plot/server.py,sha256=I4O2FHgwc8kWOQLymnIu-BJojsFiWi6ZCl5gH1k3XkA,3837
+remote_plot-1.2.0.dist-info/LICENSE,sha256=3VRE9D6yhYfNtkAulKPRIIV_HW_Zhpmhg1OjcnvlG-k,1062
+remote_plot-1.2.0.dist-info/METADATA,sha256=XPxLDZGWkIuKizZyznYQU-zA827H520c_RawsPaPVsg,3608
+remote_plot-1.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+remote_plot-1.2.0.dist-info/top_level.txt,sha256=RCo7KW4JcaxB0g-23cqaPfXsQTOYkWP1DBOgcDU2jgw,12
+remote_plot-1.2.0.dist-info/RECORD,,
