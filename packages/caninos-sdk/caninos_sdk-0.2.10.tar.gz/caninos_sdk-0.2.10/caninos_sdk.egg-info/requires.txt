@@ -1,0 +1,4 @@
+typer
+rich
+gpiod
+pyserial
