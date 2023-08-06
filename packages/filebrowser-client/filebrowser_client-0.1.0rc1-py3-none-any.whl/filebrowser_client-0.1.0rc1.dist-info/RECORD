@@ -1,0 +1,8 @@
+filebrowser_client/__init__.py,sha256=ZIJLqO_VNKMo2QiDAAxhtk5ZqbrTBZHrxfEWEnV9tws,94
+filebrowser_client/client.py,sha256=zbrHfDmg9imxiNRZnfJo7jqDGj-CngaSp6iCZYbvj6M,7789
+filebrowser_client/main.py,sha256=AFaFM_hn3P_PKS_qtxU_oXSXj7pRDZd3t4KNNkkyW74,2432
+filebrowser_client/version.py,sha256=9nixZb9lFjFQvbG9Q11wvWamgwFTwVrV0QxTzWAolNc,25
+filebrowser_client-0.1.0rc1.dist-info/entry_points.txt,sha256=AKCDaunp-04Umv74ZL7GXf-VmLD6jqvwHVnz7dWAaM0,62
+filebrowser_client-0.1.0rc1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+filebrowser_client-0.1.0rc1.dist-info/METADATA,sha256=UHXSkrxSdYgAw-KJZ3ZCSL4E3xBKWF0kKgW8b_VTkoA,3182
+filebrowser_client-0.1.0rc1.dist-info/RECORD,,
