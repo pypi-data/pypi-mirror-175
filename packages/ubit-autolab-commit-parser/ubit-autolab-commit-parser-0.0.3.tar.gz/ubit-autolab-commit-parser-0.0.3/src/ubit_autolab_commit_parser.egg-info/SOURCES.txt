@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/commitparser/__init__.py
+src/commitparser/parse_commit.py
+src/ubit_autolab_commit_parser.egg-info/PKG-INFO
+src/ubit_autolab_commit_parser.egg-info/SOURCES.txt
+src/ubit_autolab_commit_parser.egg-info/dependency_links.txt
+src/ubit_autolab_commit_parser.egg-info/top_level.txt
