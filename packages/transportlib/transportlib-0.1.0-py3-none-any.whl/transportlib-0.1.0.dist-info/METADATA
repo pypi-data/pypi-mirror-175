@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: transportlib
+Version: 0.1.0
+Summary: Transports for Data Pipelines
+Home-page: https://github.com/kenho811/flux_infra
+License: MIT
+Author: ken ho
+Author-email: kenho811job@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: psycopg2 (>=2.9.5,<3.0.0)
+Project-URL: Repository, https://github.com/kenho811/flux_infra
