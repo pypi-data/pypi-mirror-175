@@ -1,0 +1,12 @@
+tmflow/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tmflow/learn/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tmflow/learn/base_polynomial_layer.py,sha256=HQxr3AzY5D6SVNP9uVXrj0_1PcPlqJfUJqW_oCtMbP0,2962
+tmflow/learn/kronecker_polynomial_layer.py,sha256=EQ9GwR4Pnk4Yuhk04U3mWbjtawnQ1hUYvKli1s4jLAA,2064
+tmflow/learn/polynomial_layer.py,sha256=tieY1EH2us188RwQ3vqWRVMB4QssMjlSZz5t4m1AJVs,913
+tmflow/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tmflow/utils/convert_initial_weights.py,sha256=eqQVbORHEhcNcpUk0553gnyaoHNxyMIKK5eMS5m90Hw,1475
+tmflow-0.2.0.dist-info/LICENSE,sha256=Fg7EtyCRDeL_elmZOgmz1R52nPqMZU1vDGjVhIf1f9s,10949
+tmflow-0.2.0.dist-info/METADATA,sha256=zRyTBamYZze9iexlfpFPPQ2zaVMN1uvdtE0fvvVcYqY,2362
+tmflow-0.2.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+tmflow-0.2.0.dist-info/top_level.txt,sha256=PPG_itDJ8RlgZUUc6_gFXzHs43Y2PkyiEuavOpvWHwE,7
+tmflow-0.2.0.dist-info/RECORD,,
