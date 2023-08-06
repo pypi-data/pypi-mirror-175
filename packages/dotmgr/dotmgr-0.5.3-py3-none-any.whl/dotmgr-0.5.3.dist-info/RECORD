@@ -1,0 +1,12 @@
+dotmgr/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dotmgr/cli.py,sha256=d1ARaO8XTu6Xj6jnBM98SuIKg6hYkhKvI_1hiBMj3lM,8076
+dotmgr/manager.py,sha256=PEFc0hpgY7I8qOmu9Af28NSeLxZGDK8IXDxQj-X50Iw,12152
+dotmgr/paths.py,sha256=aDPU4WyjKDCR_vw64JKW8Z4MDcKWfRtUaoNH60kJeyI,4911
+dotmgr/repository.py,sha256=tPC0FQK3qbIRt7k5qo6Cq46-BAgMNXmL4jWxgTDcQJw,8390
+dotmgr/transformer.py,sha256=o4PSKsjSKQJfGEGYDCGCtmuQpPcgX3Da6NY9x8N-1FI,7953
+dotmgr-0.5.3.dist-info/LICENSE,sha256=CuBIWlvTemPmNgNZZBfk6w5lMzT6bH-TLKOg6F1K8ic,35148
+dotmgr-0.5.3.dist-info/METADATA,sha256=vcrPwKI8C3OogJyvjANEEZMCX2Vl1g5vjtD3Cjp_0As,49702
+dotmgr-0.5.3.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+dotmgr-0.5.3.dist-info/entry_points.txt,sha256=GLxxanmginnyJHAgLIjM_a2aJ97XKM4KVcKhylrkjec,43
+dotmgr-0.5.3.dist-info/top_level.txt,sha256=ie7HUzvzkkorBqSgqTenBupIT4S7BzV_uwmjOgH_k_M,7
+dotmgr-0.5.3.dist-info/RECORD,,
