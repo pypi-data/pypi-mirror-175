@@ -1,0 +1,9 @@
+aspect_ratio_too/__init__.py,sha256=EiYXHSLIakzjQ1vKfPTf71EaLTzpM7TD-JNtmByKx0Q,111
+aspect_ratio_too/aspect_ratio.py,sha256=f6fDXqpnMOI8jHX2z2RIIk8r-JffQgijF5QUM_TYIdo,1145
+aspect_ratio_too/utils.py,sha256=gOJd_-nYY4UrhoYepJK8jDTXSnGG3oAtJyAtlmd2wdc,804
+tests/test_aspect_ratio.py,sha256=gDCyt0YTBO0SRfLIXQVLaPeK0RsieT2UWCANkO6j91U,1749
+aspect_ratio_too-0.1.0.dist-info/AUTHORS.md,sha256=C2yNaeycSuw-ldTwvfzzEn8iw7cVM6-UcYan9WSx_QQ,199
+aspect_ratio_too-0.1.0.dist-info/METADATA,sha256=-hXohU3uLrJEmh84boravEvkqIS6NeBpIaw5oh3SVzs,2054
+aspect_ratio_too-0.1.0.dist-info/WHEEL,sha256=80-DJ2LKJ1J1HZBp_8xaVylYn7Z7dOPLIAOHWs5d_ss,110
+aspect_ratio_too-0.1.0.dist-info/top_level.txt,sha256=qVbZO_81kCNdhA8TYSAURBgkW7XfktEcGTGY86GK1Jo,23
+aspect_ratio_too-0.1.0.dist-info/RECORD,,
