@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: phidata
+Version: 0.3.2
+Summary: Build data products as code
+Author-email: Ashpreet Bedi <ashpreet@phidata.com>
+Project-URL: homepage, https://www.phidata.com
+Project-URL: documentation, https://www.docs.phidata.com
+Requires-Python: >3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: boto3
+Requires-Dist: phiterm (>=0.3.2)
+Provides-Extra: dev
+Requires-Dist: mypy ; extra == 'dev'
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: types-PyYAML ; extra == 'dev'
+
+# phidata
+
+[![Build & Release](https://github.com/phidatahq/phidata/actions/workflows/build-release.yml/badge.svg?branch=main)](https://github.com/phidatahq/phidata/actions/workflows/build-release.yml)
+
+## Automate Data Engineering as Code.
+
+---
