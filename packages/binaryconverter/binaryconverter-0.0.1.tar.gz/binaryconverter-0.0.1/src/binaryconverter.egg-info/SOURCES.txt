@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/binaryconverter.egg-info/PKG-INFO
+src/binaryconverter.egg-info/SOURCES.txt
+src/binaryconverter.egg-info/dependency_links.txt
+src/binaryconverter.egg-info/top_level.txt
+src/binaryconverter_package_ateebplayz/__init__.py
+src/binaryconverter_package_ateebplayz/binaryconvert.py
