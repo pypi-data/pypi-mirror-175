@@ -1,0 +1,9 @@
+mo-dots==9.230.22310
+mo-files==5.230.22310
+mo-future==6.230.22310
+mo-json==6.230.22310
+mo-kwargs==7.230.22310
+mo-logs==7.230.22310
+mo-threads==5.230.22310
+mo-times==5.230.22310
+requests
