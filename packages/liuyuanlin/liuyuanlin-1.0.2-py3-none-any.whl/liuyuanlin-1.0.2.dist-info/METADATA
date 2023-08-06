@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: liuyuanlin
+Version: 1.0.2
+Summary: A test package
+Home-page: https://github.com/MisakaMikoto128/liuyuanlin
+Author: =?utf-8?b?5YiY5rKF5p6X?=
+Author-email: liuyuanlins@outlook.com
+Project-URL: Bug Tracker, https://github.com/MisakaMikoto128/liuyuanlin/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# 时间不等人
