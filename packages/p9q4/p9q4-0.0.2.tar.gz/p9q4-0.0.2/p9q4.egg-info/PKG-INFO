@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: p9q4
+Version: 0.0.2
+Summary: Get imdb ratings.
+Author-email: Louis Gonzalez <gonza533@purdue.edu>
+License: MIT License (MIT)
+        
+        
+Keywords: example,imdb,tutorial,sadness
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: FastAPI
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Package Name: IMDB Rating
+
+The package provides a means to return the rating of a movie that is of interest
+using the move's assigned imdb id number.
