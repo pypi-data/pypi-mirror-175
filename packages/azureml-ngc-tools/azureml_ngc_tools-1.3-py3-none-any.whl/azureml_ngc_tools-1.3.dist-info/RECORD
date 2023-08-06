@@ -1,0 +1,17 @@
+azureml_ngc_tools/AzureMLComputeCluster.py,sha256=mDgHebV6VS3xj8iw715ylHU1_uiQIo9E22Rl5_b1r0I,12889
+azureml_ngc_tools/__init__.py,sha256=COL2CgnTv39IBe2e_4GIgiuqmb7dNmFi_13azv95iXg,274
+azureml_ngc_tools/_version.py,sha256=FPZxo22BGgcD7_BTxS67CpIVhCTsNDg9XncCgL-Drok,508
+azureml_ngc_tools/cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+azureml_ngc_tools/cli/azcli_utils.py,sha256=ReB4Ph7Oh6Xofhkk3bJx1Ma-XR9c_nHqro3KQeMD8v0,3078
+azureml_ngc_tools/cli/azureml_ngc.py,sha256=8tvRR-XGoxRvC-HVH9gLaS_IROk1ufBYkytdPYWlo_w,18471
+azureml_ngc_tools/cli/ngccontent.py,sha256=n4CdzRsAdOoJDKaKrRU6XatWiM0kobbexfl_94gGyqE,6621
+azureml_ngc_tools/cli/utilities.py,sha256=89mIokKyTdfcKkGVFmsUFLHgXG6CFGnawoxBdHGs-N4,6154
+azureml_ngc_tools/setup/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+azureml_ngc_tools/setup/start_jupyter.py,sha256=Pl16H9kzwhzseuBQzjyJZN_Um2RibWr6J8-I-WYp9cQ,5631
+azureml_ngc_tools/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+azureml_ngc_tools/utils/port_forward_utils.py,sha256=zlVBnqMCdzziDVpyi1F985GnaB8ZleZAszuRdYjQMCQ,759
+azureml_ngc_tools-1.3.dist-info/METADATA,sha256=6Ga97IzBoiDJzxyIEL5qOqiDQz30C0xC7_ZXNzUYjxY,4309
+azureml_ngc_tools-1.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+azureml_ngc_tools-1.3.dist-info/entry_points.txt,sha256=2SQWhwzgGaEQ6EdCjorO_89w9uKzlcz36Ez_WylDgwM,75
+azureml_ngc_tools-1.3.dist-info/top_level.txt,sha256=Zc0XnIZVS3pq52w4kI0XaSqCuVFVqQA1rv1v840nfK4,18
+azureml_ngc_tools-1.3.dist-info/RECORD,,
