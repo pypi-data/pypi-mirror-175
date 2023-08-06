@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: enhanced_icm20948
+Version: 0.0.1
+Summary: A test project using pybind11 & I2C
+Home-page: https://gogs.infcompute.com/
+Author: Haoyuan Ma
+Author-email: mhy@flyinghorse.top
+License: MIT
+Requires-Python: >=3.7
+License-File: LICENSE
+
+https://gogs.infcompute.com/
