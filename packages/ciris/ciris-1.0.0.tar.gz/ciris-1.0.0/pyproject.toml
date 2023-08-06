@@ -1,0 +1,43 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+    "setuptools ~= 65.4.0",
+    "wheel ~= 0.37.1"
+]
+
+[project]
+name = "ciris"
+version = "1.0.0"
+authors = [
+    {name = "nickythelion", email = "nickythelionfurry@yandex.ru"}
+]
+description = "A lightweight Python library that makes working with color easy"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Other Audience",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Utilities",
+    "Typing :: Typed"
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest ~=7.2.0",
+    "typing_extensions ~=4.4.0",
+    "black ~=22.10.0"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/nickythelion/iris"

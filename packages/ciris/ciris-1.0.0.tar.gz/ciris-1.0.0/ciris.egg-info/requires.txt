@@ -1,0 +1,5 @@
+
+[dev]
+pytest~=7.2.0
+typing_extensions~=4.4.0
+black~=22.10.0
