@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: photoprism-client
+Version: 0.1.0
+Summary: A Python client to interact with photoprism. 
+Home-page: https://github.com/mvlnetdev/photoprism_client
+Author: mvlnetdev
+Author-email: maartenvanleeuwen1996@gmail.com
+License: MIT license
+Description: UNKNOWN
+Keywords: photoprism
+Platform: UNKNOWN
