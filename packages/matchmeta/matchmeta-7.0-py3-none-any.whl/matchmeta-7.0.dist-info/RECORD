@@ -1,0 +1,11 @@
+matchmeta-7.0.data/data/data/gtfo.bloom,sha256=_mhRtBpn9uijYt8betalxEVH0nOv79PxqxS6rlM5ylo,181000
+matchmeta-7.0.data/data/data/mmi.bloom,sha256=rY-tLgRdFGKnoXKPEAHPc-cJABbigTTna0cUnUKsbe0,17973266
+mmi/__init__.py,sha256=v5oFBe2_JdN1BqWoIeVkJNLFkwmcHqzOWgs7rr9-Na8,2050
+mmi/__main__.py,sha256=ZnJxGkzXEtZSPRZnIxbFLE01dG5WCha2LSaWRkJ_tC8,247
+mmi/cli.py,sha256=daz0QaAD3YJnTK9q-kjxAXE24PcbdfESyadyhbln9jY,4985
+matchmeta-7.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+matchmeta-7.0.dist-info/METADATA,sha256=6LQCQ1w1KgMO8xzGEbeL_t1m3DDkv3Vvx-5rrmV8vxI,1664
+matchmeta-7.0.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+matchmeta-7.0.dist-info/entry_points.txt,sha256=yrce21mMA56-tOiNSUeKaw6tkiIg9YoXSREAZPmZCVc,37
+matchmeta-7.0.dist-info/top_level.txt,sha256=x8zxnK3NHGxUiDh1bflvxS6LHHVvSHw7QQlOlRyCiCk,4
+matchmeta-7.0.dist-info/RECORD,,
