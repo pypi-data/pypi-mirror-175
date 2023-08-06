@@ -1,0 +1,2 @@
+[console_scripts]
+realpython = pipeGEM.__main__:main
