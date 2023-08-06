@@ -1,0 +1,15 @@
+lpp_parser/__init__.py,sha256=iF5iyWoZiC74EFEMAQM0keFo0FWxVBv2k7A8C9c5ApA,169
+lpp_parser/_reg_map.py,sha256=x1NjWOOSyx540JmOFegwpRYkIRaPnwXPYVoJiMYgejA,1441
+lpp_parser/lppParser.py,sha256=1AqJ2-YkSrfuv2OXrVEH5tGmETr4D_doaXOMwM5If4Q,1824
+lpp_parser/data/__init__.py,sha256=vKG5_lP3u23k9MN4bS9k_FhcZAZB-upZb4Tt-HTQuO4,492
+lpp_parser/data/elem_z_map.json,sha256=-nPBCyXyJ4MfD7ODriXjOvYyefgEJVZLWPiXMpuSmII,1176
+lpp_parser/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lpp_parser/tests/test_parser.py,sha256=FxvVijD87kSZ5V5JSXvtg_grNWVezCU-5iL366QIAzU,1385
+lpp_parser/tests/lppfiles/238U-190MeV-12C280mg-Alo85mm-223Th.lpp,sha256=KHjdLHuDY5RMFdIgglTpL9cEeG5lnmw1aBd4l8OL_4k,889539
+lpp_parser/tests/lppfiles/44S_target8mm.lpp,sha256=R5MKTop051phiHV_x5wajr-9lO5TqGwP1e2I8--aE6s,421896
+lpp_parser/tests/lppfiles/SetB.65.00-1H_E262_C15mm_36Ar__c_aris__PSv05_KFv3.5.0__CB1s-R4003.lpp,sha256=4GxkSvx3S9xE76grYZ-crr3ME-EGRi1a2NOGMCO0MZU,269112
+lppParser-0.0.7.dist-info/LICENSE,sha256=WJ7YI-moTFb-uVrFjnzzhGJrnL9P2iqQe8NuED3hutI,35141
+lppParser-0.0.7.dist-info/METADATA,sha256=co8gPQYm8QfOF_GxdmcdWyDC9gC-8jk7Z56i4mjPEhg,468
+lppParser-0.0.7.dist-info/WHEEL,sha256=unfA4MOaH0icIyIA5oH6E2sn2Hq5zKtLlHsWapZGwes,110
+lppParser-0.0.7.dist-info/top_level.txt,sha256=Od71_S64w4nWrkYa79uKKzv_tDBMzIkRV0w2gS6SfZU,11
+lppParser-0.0.7.dist-info/RECORD,,
