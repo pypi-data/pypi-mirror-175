@@ -1,0 +1,8 @@
+vector_quantize_pytorch/__init__.py,sha256=kJTjB8AHyEit0fVVxqVVNGZ2dlhRm8W4EIvee7Fn8ho,135
+vector_quantize_pytorch/residual_vq.py,sha256=7py1-jgibxMlSxbo-mOJZRlTHD-phKV3ijDC4UyG4wU,3602
+vector_quantize_pytorch/vector_quantize_pytorch.py,sha256=UAp38wvCkbzvin-E6i_u9ps6wNipjIGInAQJfm5-dRc,19944
+vector_quantize_pytorch-0.10.6.dist-info/LICENSE,sha256=As9u198X-U-vph5noInuUfqsAG2zX_oXPHDmdjwlPPY,1066
+vector_quantize_pytorch-0.10.6.dist-info/METADATA,sha256=iZoRnpKbO0ymHdTK4L_0IoRAjZPpJMwzsso9-ik-M3A,673
+vector_quantize_pytorch-0.10.6.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+vector_quantize_pytorch-0.10.6.dist-info/top_level.txt,sha256=Z5eSdC-8E6kC01H3BbX4U1thCIG4YeghFEboA916HNA,24
+vector_quantize_pytorch-0.10.6.dist-info/RECORD,,
