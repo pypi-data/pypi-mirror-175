@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: vismagic
+Version: 0.0.1
+Summary: Simple tools for interfacing with, visualizing and assessing visibility datasets
+Home-page: https://github.com/jeffjennings/vismagic
+Author: Jeff Jennings
+Author-email: jjennings1519@gmail.com
+License: LGPLv3
+Project-URL: Bug Tracker, https://github.com/jeffjennings/vismagic/issues
+Keywords: science,astronomy,interferometry
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: docs-build
+License-File: LICENSE.txt
+
+Simple tools for interfacing with, visualizing and assessing visibility datasets
+
+

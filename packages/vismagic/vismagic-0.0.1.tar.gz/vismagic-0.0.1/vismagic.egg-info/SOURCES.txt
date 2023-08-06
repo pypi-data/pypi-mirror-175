@@ -1,0 +1,15 @@
+AUTHORS.rst
+HISTORY.rst
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+vismagic/__init__.py
+vismagic/tests.py
+vismagic/uv_to_ms.py
+vismagic.egg-info/PKG-INFO
+vismagic.egg-info/SOURCES.txt
+vismagic.egg-info/dependency_links.txt
+vismagic.egg-info/requires.txt
+vismagic.egg-info/top_level.txt
