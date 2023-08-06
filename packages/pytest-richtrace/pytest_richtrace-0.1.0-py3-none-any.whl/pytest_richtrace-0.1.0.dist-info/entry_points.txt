@@ -1,0 +1,3 @@
+[pytest11]
+pytest-richtrace=pytest_richtrace
+
