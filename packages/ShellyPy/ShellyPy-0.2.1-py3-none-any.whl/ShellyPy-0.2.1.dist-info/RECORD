@@ -1,0 +1,11 @@
+ShellyPy/__init__.py,sha256=juljVFknd9L8AYj9Ttp3qkPiOQccG_zePvQuFem2xC8,109
+ShellyPy/base.py,sha256=FazxhUgGPAso8qt-hN0szK0D0_YCCghlDgRTx2tkInc,3061
+ShellyPy/error.py,sha256=s3QV_7c82OAB5i3jrmitqrylMNkrc4sL0KVxmqu5ZUE,278
+ShellyPy/gen1.py,sha256=nKEeZl5C3v23m3DuZZnjt7q7oc-YvQjC4GX6leORHC4,7764
+ShellyPy/gen2.py,sha256=QMNLr8wIHhog8jyMS840fXpFTrkDo1qNPhxT9yUpnt0,4096
+ShellyPy/wrapper.py,sha256=dzRU6EOSTAh5GA55oY_FAw884Az7ugLiUOmCnjucW4E,1858
+ShellyPy-0.2.1.dist-info/LICENSE,sha256=SVibnhb88pRUryVEeUR-d7aVmL4YY6V44YznqD_11Kc,1072
+ShellyPy-0.2.1.dist-info/METADATA,sha256=r4ZGKtwBPiYMGr2lV3_MP_aHFztPhJxg11phkf1SfZE,1786
+ShellyPy-0.2.1.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+ShellyPy-0.2.1.dist-info/top_level.txt,sha256=TTtEV2N0rm2VREYHkoN60dapVrvU01P2qQP5D6owJI0,9
+ShellyPy-0.2.1.dist-info/RECORD,,
