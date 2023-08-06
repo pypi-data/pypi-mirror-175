@@ -1,0 +1,17 @@
+[console_scripts]
+polt = polt.cli.commands.main:cli
+
+[polt.animator]
+hist = polt.animator.hist:HistAnimator
+lines = polt.animator.timelines:TimeLinesAnimator
+spectrum = polt.animator.spectrum:SpectrumAnimator
+
+[polt.filter]
+calculate = polt.filter.calculate:CalculationFilter
+metadata = polt.filter.metadata:MetaDataFilter
+select = polt.filter.select:SelectionFilter
+
+[polt.parser]
+csv = polt.parser.csvparser:CsvParser
+mosquitto = polt.parser.mosquittoparser:MosquittoParser
+numbers = polt.parser.numberparser:NumberParser
