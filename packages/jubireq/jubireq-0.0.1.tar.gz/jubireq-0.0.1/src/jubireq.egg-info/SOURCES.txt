@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/jubireq.egg-info/PKG-INFO
+src/jubireq.egg-info/SOURCES.txt
+src/jubireq.egg-info/dependency_links.txt
+src/jubireq.egg-info/top_level.txt
+src/mypackage/__init__.py
+src/mypackage/uploader.py
