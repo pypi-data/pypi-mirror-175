@@ -1,0 +1,4 @@
+[console_scripts]
+AideFusuJihua = AideFusuJihua.__main__:main
+aide-fusu-jihua = AideFusuJihua.__main__:main
+
