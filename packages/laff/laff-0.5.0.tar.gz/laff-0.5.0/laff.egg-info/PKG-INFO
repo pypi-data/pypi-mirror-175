@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: laff
+Version: 0.5.0
+Summary: Automated fitting of continuum and flares in GRB lightcurves.
+Home-page: https://github.com/ajhenne/laff
+Author: Adam Hennessy
+Author-email: ah724@leicester.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+License-File: LICENSE
+
+.
+
