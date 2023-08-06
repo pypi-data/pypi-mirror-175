@@ -1,0 +1,3 @@
+[flake8.extension]
+BBS=flake8_bbs:StatementChecker
+
