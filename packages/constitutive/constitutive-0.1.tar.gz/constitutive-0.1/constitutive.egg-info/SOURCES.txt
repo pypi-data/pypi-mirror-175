@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+constitutive/__init__.py
+constitutive.egg-info/PKG-INFO
+constitutive.egg-info/SOURCES.txt
+constitutive.egg-info/dependency_links.txt
+constitutive.egg-info/top_level.txt
