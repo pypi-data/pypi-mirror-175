@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "personal-logger"
+version = "0.1.3"
+description = ""
+authors = ["Teddy Xinyuan Chen <45612704+tddschn@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{ include = "personal_logger" }]
+license = "MIT"
+homepage = "https://github.com/tddschn/personal-logger"
+repository = "https://github.com/tddschn/personal-logger"
+classifiers = ["Topic :: Utilities"]
+keywords = ["utility"]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/tddschn/personal-logger/issues"
+
+[tool.poetry.scripts]
+plog = "personal_logger.cli:main"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+alfred-workflow-tddschn = "^0.1.5"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+bump2version = "^1.0.1"
+icecream = "^2.1.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
