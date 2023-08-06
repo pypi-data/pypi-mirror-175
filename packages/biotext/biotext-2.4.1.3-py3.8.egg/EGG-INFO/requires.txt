@@ -1,0 +1,9 @@
+numpy
+pandas
+unidecode
+biopython
+sweep
+scipy
+scikit-learn
+matplotlib
+scikit-bio
