@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: EdaSpiffWorkflow
+Version: 0.0.2
+Summary: A WF Manager for EDA with Spiff
+Home-page: https://github.com/sartography/SpiffWorkflow
+Author: Sartography||AG
+Author-email: Aadesh Gurav <guravaadesh99@gmail.com>
+License: lGPLv2
+Keywords: spiff workflow bpmn engine
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## SpiffWorkflow
+Eda Spiff Workflow is a workflow engine implemented in pure Python. It is based on
+the excellent work of the Workflow Patterns initiative. In 2020 and 2021,
+extensive support was added for BPMN / DMN processing.
+
+## Installation
+```
+pip install EdaSpiffWorkflow==0.0.2
+```
+
+## Tests
+```
+cd tests/EdaSpiffWorkflow_Aadesh_G
+coverage run --source=SpiffWorkflow -m unittest discover -v . "*Test.py"
+```
+
+## Appreciation
+A great thanks to developers at SartoGraphy. This is a temporary package. which will be discontinued.

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta:__legacy__"
+
+[project]
+name = "EdaSpiffWorkflow"
+version = "0.0.2"
+authors = [
+  { name="Aadesh Gurav", email="guravaadesh99@gmail.com" },
+]
+description = "A WF Manager for EDA with Spiff"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
