@@ -1,0 +1,5 @@
+setup.py
+glycoprot.egg-info/PKG-INFO
+glycoprot.egg-info/SOURCES.txt
+glycoprot.egg-info/dependency_links.txt
+glycoprot.egg-info/top_level.txt
