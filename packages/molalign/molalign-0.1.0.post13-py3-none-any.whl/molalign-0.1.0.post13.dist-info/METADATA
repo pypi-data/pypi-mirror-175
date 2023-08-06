@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: molalign
+Version: 0.1.0.post13
+Summary: Molecular alignment library
+Home-page: https://github.com/qcuaeh/molalign
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: LGPLv3+
+Keywords: molecules clusters rmsd
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: POSIX
+
+UNKNOWN
+
+
