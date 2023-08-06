@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pdflayoutxt
+Version: 0.0.5
+Summary: This library helps in extracting text from searchable pdf files.
+Author: Sumeet Suman
+Keywords: pdftotext,pdflayout,setuptools
+Requires-Python: >=3.6, <4
+License-File: LICENSE.txt
+Requires-Dist: pdfplumber
+Requires-Dist: cleantext
+Requires-Dist: autocorrect
+
