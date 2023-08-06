@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/csvchk/__init__.py
+src/csvchk/csvchk.py
+src/csvchk.egg-info/PKG-INFO
+src/csvchk.egg-info/SOURCES.txt
+src/csvchk.egg-info/dependency_links.txt
+src/csvchk.egg-info/top_level.txt
+src/csvchk/tests/csvchk_test.py
