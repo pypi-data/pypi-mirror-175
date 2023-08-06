@@ -1,0 +1,5 @@
+apt_plugins
+dnf_plugins
+katello
+yum-plugins
+zypper_plugins
