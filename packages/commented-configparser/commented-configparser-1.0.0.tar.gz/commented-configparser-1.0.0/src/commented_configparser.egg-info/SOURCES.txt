@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/commented_configparser.egg-info/PKG-INFO
+src/commented_configparser.egg-info/SOURCES.txt
+src/commented_configparser.egg-info/dependency_links.txt
+src/commented_configparser.egg-info/requires.txt
+src/commented_configparser.egg-info/top_level.txt
+src/commentedconfigparser/__init__.py
+src/commentedconfigparser/commentedconfigparser.py
+src/commentedconfigparser/py.typed
