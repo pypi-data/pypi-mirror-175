@@ -1,0 +1,8 @@
+[project]
+name = "moralis"
+version = "0.0.1"
+description = "The official Moralis SDK for Python"
+readme = "README.md"
+license = { file = "LICENSE" }
+keywords = ["Moralis", "Web3"]
+requires-python = ">=3.0"

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: moralis
+Version: 0.0.1
+Summary: The official Moralis SDK for Python
+Keywords: Moralis,Web3
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+License-File: LICENCE.md
