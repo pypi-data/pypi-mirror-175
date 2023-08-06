@@ -1,0 +1,9 @@
+yalisp/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+yalisp/__main__.py,sha256=lVHKd-ufeqfTizG0pLEQtji73NqRLhnMOMsVrI5VgVE,165
+yalisp/core.py,sha256=PV1xIjwc0g65F8BWoS168MzJ2shuflNO4nfJ9_QzdPQ,1040
+yalisp/lisp.py,sha256=nDBrkHPaOweKf5_gVCJffaFmHPuHmrynmNPD5Dv1FdQ,654
+yalisp/py_ast.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+yalisp-0.1.0.dist-info/LICENSE,sha256=YmgOgLVvfMPzo9CuAsTQWi0bUHoDqXIVdU8uQhnvOL0,1072
+yalisp-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+yalisp-0.1.0.dist-info/METADATA,sha256=-Rg1VNAlZpGzmJznRA7oBknoaZvgB_Ius8tiUSHtK5s,376
+yalisp-0.1.0.dist-info/RECORD,,
