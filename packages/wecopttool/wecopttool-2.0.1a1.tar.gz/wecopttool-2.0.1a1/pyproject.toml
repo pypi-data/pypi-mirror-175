@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wecopttool"
+version = "2.0.1alpha1"
+description = "WEC Design Optimization Toolbox"
+readme = "README.md"
+authors = [
+    {name = "Sandia National Laboratories"},
+]
+urls = {Documentation = "https://snl-waterpower.github.io/WecOptTool/"}
+requires-python = ">=3.8"
+license = {text = "GNU General Public License v3 (GPLv3)"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "numpy>1.20",
+    "scipy",
+    "matplotlib",
+    "xarray",
+    "autograd",
+    "capytaine>=1.4",
+    "netCDF4",
+    "meshio",
+    "jupyter",
+    "joblib",
+    "wavespectra",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "sphinx",
+    "sphinxcontrib-bibtex",
+    "sphinx_rtd_theme",
+    "nbsphinx",
+    "pandoc",
+    "imageio",
+    "gmsh",
+    "pygmsh",
+    "pygifsicle",
+    "jinja2",
+    "nbconvert",
+]
