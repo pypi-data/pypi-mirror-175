@@ -1,0 +1,8 @@
+[console_scripts]
+annotate-tsv = qurator.tsvtools.cli:annotate_tsv
+extract-doc-links = qurator.tsvtools.cli:extract_document_links
+make-page2tsv-commands = qurator.tsvtools.cli:make_page2tsv_commands
+ocrd-neat-export = qurator.tsvtools.ocrd_cli:export_cli
+ocrd-neat-import = qurator.tsvtools.ocrd_cli:import_cli
+page2tsv = qurator.tsvtools.cli:page2tsv_cli
+tsv2page = qurator.tsvtools.cli:tsv2page_cli
