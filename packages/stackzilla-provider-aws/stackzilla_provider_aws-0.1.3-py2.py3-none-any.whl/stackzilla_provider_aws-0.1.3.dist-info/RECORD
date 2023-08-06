@@ -1,0 +1,17 @@
+stackzilla/provider/aws/ec2/__init__.py,sha256=obPb3-VvA0_zF7f6Y76HsXZEE8Gj4JbNMXblndnzumE,18
+stackzilla/provider/aws/ec2/instance.py,sha256=j0ziTVzryAlHxTO7QLlKOYdGATlMqJ_VmuSHQcSxlgs,14271
+stackzilla/provider/aws/ec2/key_pair.py,sha256=PvgtZ2_A5cuCZx_lZ8iRRwY3Jck08iapvI0dm_Lu3iA,4400
+stackzilla/provider/aws/ec2/security_group.py,sha256=Z9m98jacyA55XHrt9yq7omjGrmiIU6PJCTuFU2P1t3s,11073
+stackzilla/provider/aws/eks/__init__.py,sha256=NwAaziqBAF9ForahUgThKzzKhjZKJibjyyHyc1fciac,58
+stackzilla/provider/aws/eks/cluster.py,sha256=r9ulQpyDAP2DpUXBpdm4WjLYJTnCvTHLSMbIkemw1N4,11350
+stackzilla/provider/aws/eks/node_group.py,sha256=9FP-cBvWDlrd2X-yd9y52Z-ZU-SIndZ7woxLYGJeFvI,6831
+stackzilla/provider/aws/utils/__init__.py,sha256=oV1LHKIojmPV_dgnHwWmsut1fqgE1CCZEiTp2P0KllU,52
+stackzilla/provider/aws/utils/arn.py,sha256=Xr10JMlVLBs_XaetoGJ4vToOjNIa9cuT9v8RU9AU2eA,1256
+stackzilla/provider/aws/utils/instances.py,sha256=hS3HPe2_N8SA9XJFB-HSXAXK3KpsWPRn9_2Vam3W97Q,10863
+stackzilla/provider/aws/utils/regions.py,sha256=Mj1BvM7zJ9lZA179aHiLbkmrhXLdJyohe64Sd_yXZwg,576
+stackzilla/provider/aws/utils/tags.py,sha256=DAHLxGok-5yBcl6Q5yNdstX0mOYBuAr8Oqtvp8lYbko,1797
+stackzilla_provider_aws-0.1.3.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+stackzilla_provider_aws-0.1.3.dist-info/METADATA,sha256=TSzs_ony1KFBN8uC7-sTlR5uaUxDuAbtvT_wy-pkt3o,2688
+stackzilla_provider_aws-0.1.3.dist-info/WHEEL,sha256=80-DJ2LKJ1J1HZBp_8xaVylYn7Z7dOPLIAOHWs5d_ss,110
+stackzilla_provider_aws-0.1.3.dist-info/top_level.txt,sha256=7MYw4uDzyOK9FfsAj_mc_uOMAW2c5criZN7BwSTA4vE,11
+stackzilla_provider_aws-0.1.3.dist-info/RECORD,,
