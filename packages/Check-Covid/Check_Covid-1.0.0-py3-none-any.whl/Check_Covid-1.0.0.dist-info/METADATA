@@ -1,0 +1,86 @@
+Metadata-Version: 2.1
+Name: Check-Covid
+Version: 1.0.0
+Summary: Check Covid: Check Covid Tests without all the fuzz
+Home-page: https://github.com/TvoozMagnificent/
+Author: Number Basher
+Author-email: luchang1106@icloud.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pyautogui
+Requires-Dist: pyperclip
+
+\# Check Covid
+
+---
+
+# Data Formatting
+
+First, data formatting. It is troublesome to read Excel files, so copy the lines of name and passport ID.
+
+Do **NOT** include the header.
+
+Then, go to your desktop, right click, new file, new text file, and paste the data into the text file.
+
+Save and quit.
+
+---
+
+# Script Running
+
+Install Python from python.org. If prompted, check `add Python to PATH`.
+
+Next, open terminal by press **Windows + R**, type `cmd`.
+
+Type `pip install check_covid` to install the package. 
+
+Type `python` to open python. If `python` opens Microsoft Store, close Microsoft Store and type `py` instead.
+
+Before you run the script, ensure that you have openned the corresponding WeChat miniprogram.
+
+Move the miniprogram window to the top left corner. (It does not need to be very precise.)
+
+Move the terminal window such that the windows do not overlap. Do **NOT** minimize the terminal window.
+
+Enter `import check_covid` to start the program.
+
+The program will ask you for how many days to search and whether to search for today.
+
+For instance, to search for yesterday, that would be `1 day` and `no` today. Enter `1` and `n`.
+
+Then, drag the text file you have created into the terminal window. Some text will appear.
+
+This is called the `path` of your data file. Then, press Enter.
+
+Finally, wait for the process to finish!!!
+
+---
+
+# Trouble Shooting
+
+If the program outputs more than `10` consecutive `BRUH`s, if means that there is a problem.
+
+You can do the following:
+
+- Check if the mouse clicks are in the correct position
+- Check if something is blocking the clicks
+- Check if the APP is not responding
+- etc.
+
+And
+
+- Call me by sending an email to luchang1106@icloud.com
+
+# WARNING
+
+DO NOT USE THIS PACKAGE FOR UNINTENDED PURPOSES. LIKE CREATING A DENIAL OF SERVICE ATTACK. **THE RULE: BE SENSIBLE.**
+
+# License
+
+MIT License (MIT License Copyright (c) 2022 STCA
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.)
+
