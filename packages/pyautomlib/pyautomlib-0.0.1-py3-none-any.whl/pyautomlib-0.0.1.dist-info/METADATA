@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyautomlib
+Version: 0.0.1
+Summary: Creating machine learning and preprocessing models
+Home-page: UNKNOWN
+Author: nubufi (Numan Burak Fidan)
+Author-email: <numanburakfidan@yandex.com>
+License: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: sklearn
+Requires-Dist: joblib
+Requires-Dist: xgboost
+Requires-Dist: lightgbm
+
+
+# MLib
+
