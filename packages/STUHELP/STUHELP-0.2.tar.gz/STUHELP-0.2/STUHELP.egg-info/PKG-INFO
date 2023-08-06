@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: STUHELP
+Version: 0.2
+Summary: It is a tool created by Aditya jha to help students in their school coding practicals or any other thing(even cheating) so that they can use this to get help in finding any data problem's answer. Check out more about this project and its code on https://github.com/Notanyon/STUHELP
+Home-page: https://github.com/Notanyon/STUHELP
+Author: Aditya jha
+Author-email: ajha75862@gmail.com
+License: UNKNOWN
+Description: It can be used for coding practicals, cheating and much more as it provides you feature to find mean, mode, median, average and sort any array. We all have seen students suffering to learn things like numpy and using it so why don't I help? I present you my creation STUHELP, you can find any answer of any data question in seconds. So forget numpy and say hello to STUHELP. Check out more about this project and its code on https://github.com/Notanyon/STUHELP
+Keywords: python,data,mean,mode,median,average,sort,data all-in-one,school help,school,coding
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

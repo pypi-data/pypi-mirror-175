@@ -1,0 +1,6 @@
+setup.py
+STUHELP.egg-info/PKG-INFO
+STUHELP.egg-info/SOURCES.txt
+STUHELP.egg-info/dependency_links.txt
+STUHELP.egg-info/requires.txt
+STUHELP.egg-info/top_level.txt
