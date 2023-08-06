@@ -1,0 +1,8 @@
+setup.py
+prajwal_lib/__init__.py
+prajwal_lib/operation.py
+prajwal_lib.egg-info/PKG-INFO
+prajwal_lib.egg-info/SOURCES.txt
+prajwal_lib.egg-info/dependency_links.txt
+prajwal_lib.egg-info/not-zip-safe
+prajwal_lib.egg-info/top_level.txt
