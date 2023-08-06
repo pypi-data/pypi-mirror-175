@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "kmprograms-numbers-operation-app"
+version = "0.1.0"
+description = ""
+authors = ["Krzysztof <programowanie.krzysiek@gmail.com>"]
+readme = "README.md"
+packages = [{include = "kmprograms_numbers_operation_app"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytz = "^2022.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
