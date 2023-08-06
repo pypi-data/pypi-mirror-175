@@ -1,0 +1,111 @@
+Metadata-Version: 2.1
+Name: django-dashboards-app
+Version: 1.0.3
+Summary: Django Admin for Developers and Django Dahsboards for Clients
+Home-page: https://gitlab.com/albertosanmartinmartinez/django-dashboards
+Author: Alberto Sanmartin Martinez
+Author-email: info@albertosanmartinmartinez.es
+Maintainer: Alberto Sanmartin Martinez
+Maintainer-email: info@albertosanmartinmartinez.es
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: Django
+Classifier: Natural Language :: English
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: >=3
+Requires-Dist: Django (>=3)
+
+Django Dashboards
+=================
+
+Django Admin for Developers and Django Dahsboard for Clients.
+
+
+Features
+--------
+
+* `Panel Dahsboard for all apps and models`
+* `CRUD + Duplicate, Filter and Export for all apps and models`
+* `Generic and extensible Urls, Filters, Forms, Serializers and Views for all models`
+* `Bootstrap integration`
+
+
+TODO
+------
+
+* `modal errors`
+
+
+Installation
+--------------
+
+.. code-block:: sh
+
+    pip install django-dashboards-app
+
+
+Usage
+-------
+
+Add ``'django_dashboards_app'`` to your ``INSTALLED_APPS``.
+
+.. code-block:: python
+
+    INSTALLED_APPS = [
+        ...
+        'django_dashboards_app',
+    ]
+
+Configure ``DASHBOARD_PROJECT_NAME`` and ``DASHBOARD_REDIRECT`` on your project settings.
+
+.. code-block:: python
+
+    DASHBOARD_PROJECT_NAME = 'Project Title'
+    DASHBOARD_REDIRECT = 'your_app_url/'
+
+Add ``get_detail_url``, ``get_update_url`` and ``get_delete_url`` for each model.
+
+.. code-block:: python
+
+    class Model(models.Model):
+
+        def get_detail_url(self):
+            return reverse('your_app_name:model_name_detail', args=[self.pk])
+
+        def get_update_url(self):
+            return reverse('your_app_name:model_name_update', args=[self.pk])
+
+        def get_delete_url(self):
+            return reverse('your_app_name:model_name_delete', args=[self.pk])
+
+Run generate command.
+
+.. code-block:: sh
+
+    python manage.py generate your_app_name
+
+Add dashboard and your app urls to project urls.
+
+.. code-block:: python
+
+    from django_dashboards_app import urls as dashboard_urls
+    from your_app_name import base_urls
+
+    path('dashboard/', include((dashboard_urls, 'dashboard'), namespace='dashboard')),
+    path('dashboard/your_app_name/', include((base_urls, 'your_app_name'), namespace='your_app_name')),
+
+
+Next Features
+-------------
+
+- Nested relations info in detail view
+- Nested urls and breadcrumbs for model relations
+- Formsets for nested relations
+- Translations
+- Permissions
+
