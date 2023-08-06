@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+savescreen/__init__.py
+savescreen/__main__.py
+savescreen/screenshot.py
+savescreen.egg-info/PKG-INFO
+savescreen.egg-info/SOURCES.txt
+savescreen.egg-info/dependency_links.txt
+savescreen.egg-info/entry_points.txt
+savescreen.egg-info/requires.txt
+savescreen.egg-info/top_level.txt
