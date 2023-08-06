@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pakakit/__init__.py
+src/pakakit/paka.py
+src/pakakit.egg-info/PKG-INFO
+src/pakakit.egg-info/SOURCES.txt
+src/pakakit.egg-info/dependency_links.txt
+src/pakakit.egg-info/top_level.txt
