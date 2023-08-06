@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+[project]
+name = "pydbmodels"
+version = "0.0.9"
+authors = [
+    { name="Francesco Vertemati", email="verte.fra@gmail.com" }
+]
+description = "Creates database models from a database"
+readme = "README.md"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+dependencies = [
+    "dbmeta>=0.0.8",
+    "Jinja2>=3.1.2",
+    "black>=22.10.0"
+]
+
+[project.urls]
