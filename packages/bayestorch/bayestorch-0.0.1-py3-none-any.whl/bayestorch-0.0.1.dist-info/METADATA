@@ -1,0 +1,101 @@
+Metadata-Version: 2.1
+Name: bayestorch
+Version: 0.0.1
+Summary: Bayesian deep learning library for fast prototyping based on PyTorch
+Home-page: https://github.com/lucadellalib/bayestorch
+Author: Luca Della Libera
+Author-email: luca.dellalib@gmail.com
+License: Apache License 2.0
+Keywords: Bayesian deep learning,PyTorch
+Platform: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Environment :: GPU :: NVIDIA CUDA
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+License-File: NOTICE
+Requires-Dist: torch (>=1.6.0)
+Provides-Extra: dev
+Requires-Dist: black (>=22.3.0) ; extra == 'dev'
+Requires-Dist: cibuildwheel (>=2.3.1) ; extra == 'dev'
+Requires-Dist: flake8 (>=3.8.3) ; extra == 'dev'
+Requires-Dist: flake8-bugbear (>=20.1.4) ; extra == 'dev'
+Requires-Dist: isort (>=5.4.2) ; extra == 'dev'
+Requires-Dist: pre-commit (>=2.6.0) ; extra == 'dev'
+Requires-Dist: pre-commit-hooks (>=3.2.0) ; extra == 'dev'
+Requires-Dist: pytest (>=5.4.3) ; extra == 'dev'
+Requires-Dist: pytest-cov (>=2.9.0) ; extra == 'dev'
+Requires-Dist: twine (>=3.3.0) ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: pytest (>=5.4.3) ; extra == 'test'
+Requires-Dist: pytest-cov (>=2.9.0) ; extra == 'test'
+
+# BayesTorch
+
+[![Python version: 3.6 | 3.7 | 3.8 | 3.9 | 3.10](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8%20|%203.9%20|%203.10-blue)](https://www.python.org/downloads/)
+ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/lucadellalib/bayestorch/blob/main/LICENSE)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://github.com/PyCQA/isort)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
+Welcome to `bayestorch`, a Bayesian deep learning library for fast prototyping based on
+[PyTorch](https://pytorch.org). It provides the basic building blocks for the following
+Bayesian inference algorithms:
+
+- [Bayes by Backprop (BBB)](https://arxiv.org/abs/1505.05424)
+- [Markov Chain Monte Carlo (MCMC)](https://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
+- [Stein variational gradient descent (SVGD)](https://arxiv.org/abs/1608.04471)
+---------------------------------------------------------------------------------------------------------
+
+## 🛠️️ Installation
+
+### Using Pip
+
+First of all, install [Python 3.6 or later](https://www.python.org). Open a terminal and run:
+
+```
+pip install bayestorch
+```
+
+### From source
+
+First of all, install [Python 3.6 or later](https://www.python.org).
+Clone or download and extract the repository, navigate to `<path-to-repository>`, open a
+terminal and run:
+
+```
+pip install -e .
+```
+
+---------------------------------------------------------------------------------------------------------
+
+## ▶️ Quickstart
+
+See the examples in `examples/mnist` and `examples/regression`.
+
+---------------------------------------------------------------------------------------------------------
+
+## 📧 Contact
+
+[luca.dellalib@gmail.com](mailto:luca.dellalib@gmail.com)
+
+---------------------------------------------------------------------------------------------------------
+
+
