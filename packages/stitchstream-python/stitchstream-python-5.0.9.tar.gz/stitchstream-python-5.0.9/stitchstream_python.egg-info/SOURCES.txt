@@ -1,0 +1,10 @@
+setup.py
+mod1/__init__.py
+mod1/add.py
+mod1/mult.py
+mod1/sub.py
+stitchstream_python.egg-info/PKG-INFO
+stitchstream_python.egg-info/SOURCES.txt
+stitchstream_python.egg-info/dependency_links.txt
+stitchstream_python.egg-info/requires.txt
+stitchstream_python.egg-info/top_level.txt
