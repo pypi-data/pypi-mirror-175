@@ -1,0 +1,12 @@
+graphqldb/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+graphqldb/adapter.py,sha256=ez3WwUCXrMkQfYOqED6fr_7C5nMUCWeQYEknLI_EOw8,12271
+graphqldb/db_engine_specs.py,sha256=PzKBm9h7LHeV6MvwPj2V251_BtJyvTvw7kx0BowSK0U,573
+graphqldb/dialect.py,sha256=NusaodqunrjB5rl7Nlg0ObKQbF6SD3xaUdpgzrt0xHU,2848
+graphqldb/lib.py,sha256=RnXXqqr_yTfaeu20ljITy7JD8g_PUHi8LiXeFjtDXpE,1679
+graphqldb/types.py,sha256=uvIwQdSfQ1zbmlvlulBm2SziVrDnj_XxzlTrTvdvQM0,160
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/LICENSE,sha256=Rczv7eZgpxLsdww7A0bJicVnQ4ZUmg04bqFkt4lxk3U,1070
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/METADATA,sha256=yuzmkqVapgiAPTdEQnBA1AtgP3crQUplDOeOO-IR1ts,3034
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/entry_points.txt,sha256=lmcF2lCXm309dmtZcPaKCK8uF9-1kwlAoP1sCRwnH2Q,134
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/top_level.txt,sha256=Y_G6Xzhnjcj8Gnzr5B_80K3D4_c79QO0av4YJZ67898,10
+sqlalchemy_graphqlapi-0.0.1.dev3.dist-info/RECORD,,
