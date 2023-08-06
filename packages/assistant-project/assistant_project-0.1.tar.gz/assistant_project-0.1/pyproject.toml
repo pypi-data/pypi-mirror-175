@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "assistant_project"
+version = "0.1"
+authors = [
+  { name="Nikolas Laudenbach", email="nikolas.laudenbach@tum.de" },
+]
+description = "Python Library for the EU ASSISTANT-Project"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://assistant-project.eu"
