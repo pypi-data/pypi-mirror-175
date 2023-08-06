@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+mastquery/__init__.py
+mastquery/fetch.py
+mastquery/jwst.py
+mastquery/overlaps.py
+mastquery/plot_utils.py
+mastquery/query.py
+mastquery/utils.py
+mastquery/version.py
+mastquery.egg-info/PKG-INFO
+mastquery.egg-info/SOURCES.txt
+mastquery.egg-info/dependency_links.txt
+mastquery.egg-info/top_level.txt
