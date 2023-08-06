@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: huygens
+Version: 0.0.1
+Summary: compositional vector graphics
+Home-page: https://github.com/punkdit/huygens
+Author: Simon Burton
+Author-email: Simon Burton <simon@arrowtheory.com>
+Project-URL: Homepage, https://github.com/punkdit/huygens
+Project-URL: Bug Tracker, https://github.com/punkdit/huygens/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+<img src="huygens/doc/images/Christiaan_Huygens.png" align="right" />
+
+huygens
+=======
+
+This is a python package for drawing diagrams.
+Intended to have multiple backends, currently the only
+backend implemented uses [cairo](https://www.cairographics.org/).
+Hopefully there will also be a [PyX](https://pyx-project.org/) backend.
+
+It can also include text from TeX via pdftex, pdflatex, xetex or xelatex.
+
+Diagrams are able to be composed in various ways, based 
+on a linear constraint solver. Therefore, this system becomes
+a declarative graphics layout package.
+
+This package is at an early stage of development, so expect
+things to change drastically and without warning.
+
+User guide
+----------
+
+Read it online 
+[here](https://arrowtheory.com/huygens/huygens/doc/index.html).
+The documentation is distributed in [huygens/doc](huygens/doc/). 
+
+
+
