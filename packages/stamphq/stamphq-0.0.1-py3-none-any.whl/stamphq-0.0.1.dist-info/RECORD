@@ -1,0 +1,9 @@
+stamphq/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+stamphq/client.py,sha256=5LNsFAWySPh-54aSkmOzmtD7KVWlnZLrw1WRKkPmxcU,2936
+stamphq/exceptions.py,sha256=B6YOnaGdXv0fdP-jPfgpEYdw-lMamTXxYTS8YznqSPk,309
+stamphq/models.py,sha256=gyskWC0-r3t7H30QdT28eU-RUsnagYCP-Fi8BBmmfyY,404
+stamphq-0.0.1.dist-info/LICENSE,sha256=dNrH30U_ffq3LD1Sf_yI9oYVSihLu1aokzQ4uU-wH50,11341
+stamphq-0.0.1.dist-info/METADATA,sha256=IusUsyLLJwrdh0ago_PBr-ROa_npp4xOYE51MKs_Nio,1673
+stamphq-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+stamphq-0.0.1.dist-info/top_level.txt,sha256=72LfV2u5H9yL_sWoWOwpsq-3WKQdLx-tajt3Iov8zuI,8
+stamphq-0.0.1.dist-info/RECORD,,
