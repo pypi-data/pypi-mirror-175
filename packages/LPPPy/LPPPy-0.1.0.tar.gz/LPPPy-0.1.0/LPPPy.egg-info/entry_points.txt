@@ -1,0 +1,3 @@
+[console_scripts]
+lpppy = lpppy.main:LPP
+
