@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/json2unique/__init__.py
+src/json2unique/__main__.py
+src/json2unique/context_manager.py
+src/json2unique/parser.py
+src/json2unique.egg-info/PKG-INFO
+src/json2unique.egg-info/SOURCES.txt
+src/json2unique.egg-info/dependency_links.txt
+src/json2unique.egg-info/entry_points.txt
+src/json2unique.egg-info/requires.txt
+src/json2unique.egg-info/top_level.txt
