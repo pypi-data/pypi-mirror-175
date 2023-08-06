@@ -1,0 +1,161 @@
+Metadata-Version: 2.1
+Name: aicc-tools
+Version: 0.2.1
+Summary: aicc_tools is used of AI Computer Center for modelarts job.
+Home-page: https://gitee.com/Lin-Bert/aicc.git
+Author: Lin-Bert, zhangrui_wolf
+Author-email: heqinglin4@huawei.com, zhangrui283@huawei.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires: numpy
+Requires: mindspore
+Requires: moxing
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# aicc
+
+#### 介绍
+aicc是一款面向MindSpore开发者和华为计算中心，致力于易化和规范化云上文件交互过程，简化云上日志显示，以此加速模型开发进度和降低云上集群调试难度。其包含三大功能：云上日志显示分类；云上文件交互传输； 云上分布式训练启动。aicc不仅能够帮助开发者便捷、快速的将本地（线下）代码迁移至计算中心，还可以一行代码解决云上分布式训练问题。利用云上文件交互传输功能，可解决云上大规模模型或大规模数据实时交互传输问题。简洁的日志显示和分类系统也极大地便利了开发者利用云上集群调试大模型。
+
+
+
+#### 特性
+
+1.  CFTS：文件交互传输系统
+2.  AiLog：云上日志显示系统
+3.  Distribute Training：云上分布式训练
+
+#### 安装教程
+
+```shell
+pip install aicc_tools
+```
+
+#### 使用说明
+
+##### 云上环境初始化
+
+```python
+import aicc_tools as ac
+
+# moxing 交互环境注册（可选）避免文件交互过程中动态密钥失效而中断
+ac.mox_register(ak='#@#$', sk='*&^%', server='https://obs.cn-central-221.ovaijisuan.com')
+# 一行代码开启云上分布式训练
+"""
+Args:
+    seed: 设置随机种子数
+    use_parallel: 是否使用分布式训练，默认是True
+    基本环境初始化配置。支持mindspore.context.set_context(**kwargs)内所有支持的参数配置
+    context_config = {"mode": "GRAPH_MODE", "device_target": "Ascend", "device_id": 0}
+    并行环境初始化配置。支持mindspore.context.set_auto_parallel_context(**kwargs)内所有支持的参数配置
+    parallel_config = {"parallel_mode": "DATA_PARALLEL", "gradients_mean": True}
+Return:
+	rank_id: 当前程序执行的device编号
+	device_num: 使用的总的device数量
+"""
+local_rank, device_num = ac.cloud_context_init(seed=args.seed, use_parallel=use_parallel, context_config=context,
+                                               parallel_config=parallel)
+```
+
+##### 云上文件交互系统
+
+```python
+# Step1 init cfts
+'''
+obs_path: 用于存储云上训练过程中产生的所有数据的obs桶路径， 通常是以obs或s3开头的链接
+rank_id: 当前程序执行的device编号, 默认按照一个节点只回传一张卡的数据
+upload_frequence：回传数据至obs桶的频次，默认是训练一个step回传一次数据
+keep_last：保持始终是最新的文件，删掉旧文件，默认是True
+'''
+cfts = ac.CFTS(obs_path="obs存储路径", rank_id=0, upload_frequence=1， keep_last=True)
+
+# 获取obs的数据集（可选）
+'''
+默认返回云上训练作业容器内实际的数据集存放路径，方便开发者一键移植到数据集读取和处理代码中
+'''
+ds_path = cfts.get_dataset(dataset_obs="obs数据集路径")
+
+# 获取obs的checkpoint模型参数文件（可选）
+'''
+默认返回云上训练作业容器内实际的模型文件存储路径，方便开发者进行后续加载和处理
+'''
+ckpt_path = cfts.get_checkpoint(checkpoint_obs="obs模型路径")
+```
+
+
+
+```python
+# Step2 获取内置 callback， 注意所有需要保存文件的路径在云上已被默认，用户无需配置！
+
+## 保存checkpoint的callback函数（可选）
+'''
+function: cfts.checkpoint_monitor()
+集成了mindspore的ModelCheckpoint, CheckpointConfig，支持其所有超参
+'''
+ckpt_cb = cfts.checkpoint_monitor(prefix="mae")
+
+## 保存summary的callback函数（可选）
+'''
+function: cfts.summary_monitor()
+集成了mindspore的SummaryCollector所有支持功能
+'''
+summary_cb = cfts.summary_monitor(collect_freq=1)
+
+## 显示loss的callback函数（可选）
+'''
+function: cfts.loss_monitor()
+集成了mindspore的LossMonitor所有功能，改善日志打印体验
+'''
+loss_cb = cfts.loss_monitor(per_print_times=1)
+
+## 如果有自定义的callback函数，可直接加入到callback列表中，但需注意obs_monitor需放在列表最后一项
+custom_cb = CustomMonitor() # 不涉及文件保存
+custom_cb = CustomMonitor(save_dir=cfts.get_custom_path()) # 涉及文件保存时，需传入cfts固定的用户路径，保证文件被回传！
+
+## 云上必须的文件回传callback函数！！！（必选）
+'''
+function: cfts.obs_monitor()
+规范云上文件与obs交互传输，云上必须使用该callback函数才能实现所有生成文件的回传！
+'''
+obs_cb = cfts.obs_monitor()
+
+## 用于model.train的callback定义
+callback = [loss_cb, summary_cb, ckpt_cb, custom_cb, obs_cb]
+```
+
+##### 云上日志显示系统
+
+```python
+# 日志系统，打印信息
+'''
+logger 可以自定义打印到 stdout 和文件的配置，可以实现不输出日志到 stdout、或者只有指定节点和设备才输出日志。可以控制输出到 stdout 和文件的日志的等级和格式，并可以控制单个日志文件的大小和最多保存多少个日志文件。
+'''
+logger = ac.get_logger(to_std=True,
+                           stdout_nodes=(0, 1),
+                           stdout_devices=(0, 1),
+                           stdout_level='ERROR',
+                           stdout_format=None,
+                           file_level='INFO',
+                           file_save_dir='./log/',
+                           file_prefix=None,
+                           max_file_size=50,
+                           max_num_of_files=5)
+logger.debug('debug message')
+logger.info('info message')
+logger.warning('warning message')
+logger.error('error message')
+logger.critical('critical message')
+```
+
+#### 使用样例
+
+
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
