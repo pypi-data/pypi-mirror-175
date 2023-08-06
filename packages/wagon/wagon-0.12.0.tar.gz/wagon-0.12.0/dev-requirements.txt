@@ -1,0 +1,5 @@
+mock
+pytest
+pytest-cov
+distro>=1.7.0
+virtualenv>=20.16.4
