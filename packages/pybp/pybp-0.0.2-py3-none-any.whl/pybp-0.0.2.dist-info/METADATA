@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: pybp
+Version: 0.0.2
+Summary: A package that seemlessly allows developers to perform independent batch processing on multiple cores with very little code changes for compatibility, processing speed-up is based on CPU cores
+Project-URL: Documentation, https://github.com/rakshith-crm/pybp#readme
+Project-URL: Issues, https://github.com/rakshith-crm/pybp/issues
+Project-URL: Source, https://github.com/rakshith-crm/pybp
+Author-email: "Rakshith C.R.M" <rakshithcrm@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.2
+Description-Content-Type: text/markdown
+
+# Core
+A package that seemlessly allows developers to perform independent batch processing on multiple cores with very little code changes for compatibility, processing speed-up is based on CPU cores
+
+## Getting Started
+
+### For Manual Installation
+```
+git clone https://github.com/rakshith-crm/core.git
+```
+
+### Install Pip Package
+```
+
+```
