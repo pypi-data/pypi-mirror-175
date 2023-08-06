@@ -1,0 +1,7 @@
+griffe
+plum-dispatch
+tabulate
+
+[dev]
+pytest
+pytest-dotenv

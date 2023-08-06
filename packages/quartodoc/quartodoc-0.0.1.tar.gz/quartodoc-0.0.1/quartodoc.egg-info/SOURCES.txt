@@ -1,0 +1,17 @@
+.gitignore
+.pre-commit-config.yaml
+LICENSE
+Makefile
+README.md
+README.qmd
+pyproject.toml
+quartodoc.py
+setup.cfg
+case_studies/parsing.qmd
+case_studies/some_package.py
+case_studies/sphinx-inventory.qmd
+quartodoc.egg-info/PKG-INFO
+quartodoc.egg-info/SOURCES.txt
+quartodoc.egg-info/dependency_links.txt
+quartodoc.egg-info/requires.txt
+quartodoc.egg-info/top_level.txt
