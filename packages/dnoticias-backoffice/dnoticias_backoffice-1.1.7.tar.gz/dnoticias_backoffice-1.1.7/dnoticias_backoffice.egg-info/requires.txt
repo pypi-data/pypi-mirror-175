@@ -1,0 +1,4 @@
+django
+django-flags
+djangorestframework
+django-dnoticias-tables
