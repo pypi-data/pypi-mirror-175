@@ -1,0 +1,5 @@
+setup.py
+phyco.egg-info/PKG-INFO
+phyco.egg-info/SOURCES.txt
+phyco.egg-info/dependency_links.txt
+phyco.egg-info/top_level.txt
