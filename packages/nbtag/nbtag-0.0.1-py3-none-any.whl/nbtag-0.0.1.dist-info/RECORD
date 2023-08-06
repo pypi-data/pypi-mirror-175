@@ -1,0 +1,6 @@
+nbtag/__init__.py,sha256=LXaaL_ycKnk2xDyMops1eC2g9OJ8qmQL2t8vVmwM_YY,306
+nbtag/tag_pre_save_hook.py,sha256=YXf9OGxyKz-giigGQ1zzoZsQ1v2-FJDZIHxQClPoLLs,1324
+etc/jupyter/jupyter_server_config.d/nbtag.json,sha256=y0IilHzt1Wl2hHHvXXJIMg6gGWcXSSX3LgwtykEhd74,80
+nbtag-0.0.1.dist-info/METADATA,sha256=h22E4ToL-ZhuPDl4ANGDHQLG9kqLk6M5sC7CsKdgqSU,1493
+nbtag-0.0.1.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+nbtag-0.0.1.dist-info/RECORD,,
