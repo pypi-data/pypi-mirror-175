@@ -1,0 +1,2 @@
+[qiskit.transpiler.translation]
+ibm_dynamic_circuits = qiskit_ibm_provider.transpiler.plugin:IBMTranslationPlugin
