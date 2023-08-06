@@ -1,0 +1,8 @@
+cacheproxy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cacheproxy/cli.py,sha256=IyKdO87XZvL2aYV34cq6FFya1f7l61-WKKBEqiZpkmg,4559
+cacheproxy/server.py,sha256=52gKDhBdXPe-uwxZ82At6a3H502pTkmlOePEXJODcCc,1588
+cacheproxy-0.1.0.dist-info/entry_points.txt,sha256=--ksRRXjoSRLdB1n2HYGpPMh9M2S4Dn5fZZ0j9aJvC8,50
+cacheproxy-0.1.0.dist-info/LICENSE,sha256=DBc55HlZ9olPDQXLK-7Jvk0ijgZ0Kgh1X8g2D7ebG1g,1062
+cacheproxy-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+cacheproxy-0.1.0.dist-info/METADATA,sha256=q4VKwYdZA11R8CSA318aVimyxpnPxDWO1hSU-UjPhi8,3290
+cacheproxy-0.1.0.dist-info/RECORD,,

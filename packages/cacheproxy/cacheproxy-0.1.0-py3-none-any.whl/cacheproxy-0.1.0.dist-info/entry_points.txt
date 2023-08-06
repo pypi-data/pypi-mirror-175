@@ -1,0 +1,3 @@
+[console_scripts]
+cacheproxy=cacheproxy.cli:main
+
