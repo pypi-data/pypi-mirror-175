@@ -1,0 +1,9 @@
+httparse-0.1.1.dist-info/METADATA,sha256=oBsTl_xR72vkk7Ig4rc6v6w0tF5yFPFM_4oi6FLLlKY,1676
+httparse-0.1.1.dist-info/WHEEL,sha256=vb2SXu87SIwOW5QUUnHy3_VtjHkTkXV1YLbhV91f428,137
+httparse-0.1.1.dist-info/license_files/LICENSE.txt,sha256=xycPafmpfgnjoK1RVSGiErW_TuEZMN0jXXCTgHzzKFY,1063
+httparse/_httparse.pyi,sha256=LrTbCfAzUBqTqcRvVqwPYgcS4rt5cl07bIoCIrtFJys,1112
+httparse/_types.py,sha256=U4S_2y3zgLZVfMenHRaJFBW8yqh2mUBuI291LGQVOJ8,35
+httparse/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+httparse/__init__.py,sha256=5ICzsjooKjPxA3u4FdDO5NGyC_M3y4EbmZUod5LPKjE,175
+httparse/_httparse.pypy38-pp73-aarch64-linux-gnu.so,sha256=ywlqOda9IxRs1ZcDlg3ySZtF1A2ZZqU1P8UQ-rBW-Ig,420432
+httparse-0.1.1.dist-info/RECORD,,
