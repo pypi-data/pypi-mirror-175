@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: dupco
+Version: 0.0.3
+Summary: A simple way to call DigitalUnion service
+Home-page: https://github.com/DigitalUnion/du-pco-py-sdk
+Author: gaojian
+Author-email: gaojian@shuzilm.cn
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+
+# du-pco-py-sdk
+数字联盟产品能力输出平台 Python SDK
