@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: passeo
+Version: 1.0.2
+Summary: =?utf-8?q?=F0=9F=94=93_Generate_a_Password_with_multiple_options?=
+Home-page: https://github.com/ArjunSharda/Searchor
+Author: Arjun Sharda
+Author-email: sharda.aj17@gmail.com
+Project-URL: Homepage, https://github.com/ArjunSharda/Passeo
+Project-URL: Bug Tracker, https://github.com/ArjunSharda/Passeo/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+License-File: NOTICE.md
+Requires-Dist: random
+Requires-Dist: string
+Requires-Dist: hashlib
+Requires-Dist: requests
+
+# Passeo
+<div style="text-align: center; display: grid; justify-content: center;"><img style="margin: auto; margin-bottom: 1rem; border-radius: 30%;" height="150" width="150" src="https://raw.githubusercontent.com/ArjunSharda/Passeo/main/ext/passeo.jpg"/></div>
+
+"🔓 Generate a Password with multiple options"
+
+
+Public Announcement: Initial release, expect more information soon
