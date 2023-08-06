@@ -1,0 +1,9 @@
+alma_cdk/origin_verify/__init__.py,sha256=hfc3VMzwv-pEfM9qzfUiD5YmPY-2QWZhDe39JFFW8N8,18592
+alma_cdk/origin_verify/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+alma_cdk/origin_verify/_jsii/__init__.py,sha256=lMr-ZOPagcnKT-s3awMPUzgxOXyx3dfaabs6Zlee55o,418
+alma_cdk/origin_verify/_jsii/origin-verify@0.0.27.jsii.tgz,sha256=ipDwigCSMeojjKZmSxq3UiX5Wjl5etNNa5PoGaM7T4g,115398
+alma_cdk.origin_verify-0.0.27.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+alma_cdk.origin_verify-0.0.27.dist-info/METADATA,sha256=NtWlTa5I2fb8s1vkxPQBsuCjAav09X3_1udjbLIPv64,4329
+alma_cdk.origin_verify-0.0.27.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+alma_cdk.origin_verify-0.0.27.dist-info/top_level.txt,sha256=Xm1yYhea99Axgvnzjj0zQcO1fjDREkOpLOlLTnLSUGo,9
+alma_cdk.origin_verify-0.0.27.dist-info/RECORD,,
