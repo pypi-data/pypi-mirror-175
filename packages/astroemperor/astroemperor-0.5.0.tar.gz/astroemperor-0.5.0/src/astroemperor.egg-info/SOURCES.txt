@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/astroEMPEROR/__init__.py
+src/astroEMPEROR/alt_runs.py
+src/astroEMPEROR/legacy.py
+src/astroEMPEROR/model_repo.py
+src/astroEMPEROR/python_file.py
+src/astroEMPEROR/runme.py
+src/astroEMPEROR/utils.py
+src/astroemperor.egg-info/PKG-INFO
+src/astroemperor.egg-info/SOURCES.txt
+src/astroemperor.egg-info/dependency_links.txt
+src/astroemperor.egg-info/requires.txt
+src/astroemperor.egg-info/top_level.txt
