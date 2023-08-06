@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: balconyapp
+Version: 0.1.0
+Summary: Balcony App template package. Provides the boilerplate for creating new apps.
+License: Apache-2
+Author: Oguzhan Yilmaz
+Author-email: oguzhanylmz271@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+# balcony-app-template
+A template repository for creating new Balcony Apps.
+
