@@ -1,0 +1,2 @@
+[console_scripts]
+pyfarmsay = pyfarmsay.__main__:main
