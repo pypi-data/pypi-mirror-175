@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: gearpgmdata
+Version: 0.1
+Summary: My first Python package
+Home-page: UNKNOWN
+Author: Supriya
+Author-email: <supriyasuhas058@email.com>
+License: UNKNOWN
+Keywords: python,first package
+Platform: UNKNOWN
+License-File: Licence.txt
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: paho-mqtt
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: logging
+Requires-Dist: Werkzeug
+Requires-Dist: flask
+Requires-Dist: Flask-API
+Requires-Dist: concurrent-log-handler
+Requires-Dist: requests
+Requires-Dist: waitress
+Requires-Dist: nltk
+
+My first Python package with a slightly longer description
+
