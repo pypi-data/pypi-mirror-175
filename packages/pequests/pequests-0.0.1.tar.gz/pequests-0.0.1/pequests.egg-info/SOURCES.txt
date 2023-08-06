@@ -1,0 +1,10 @@
+CHANGELOG.txt
+MANIFEST.in
+README.md
+setup.py
+pequests/__init__.py
+pequests/pequests.py
+pequests.egg-info/PKG-INFO
+pequests.egg-info/SOURCES.txt
+pequests.egg-info/dependency_links.txt
+pequests.egg-info/top_level.txt
