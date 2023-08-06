@@ -1,0 +1,4 @@
+include LISENCE
+include README.rst
+recursive-inclide django_admin_protect/ *
+recursive-inclide docs *
