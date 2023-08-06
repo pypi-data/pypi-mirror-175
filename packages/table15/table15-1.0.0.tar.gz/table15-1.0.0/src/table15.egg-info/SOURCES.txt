@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/table15/__init__.py
+src/table15/__main__.py
+src/table15/runner.py
+src/table15.egg-info/PKG-INFO
+src/table15.egg-info/SOURCES.txt
+src/table15.egg-info/dependency_links.txt
+src/table15.egg-info/entry_points.txt
+src/table15.egg-info/top_level.txt
+src/table15/utils/magec_utils.py
+src/table15/utils/pima_utils.py
+src/table15/utils/pipeline_utils.py
