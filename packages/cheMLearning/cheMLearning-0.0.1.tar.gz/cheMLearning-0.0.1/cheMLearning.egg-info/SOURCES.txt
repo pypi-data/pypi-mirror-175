@@ -1,0 +1,15 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+cheMLearning/__init__.py
+cheMLearning/supervised_modelling.py
+cheMLearning/unsupervised_modelling.py
+cheMLearning/utils.py
+cheMLearning.egg-info/PKG-INFO
+cheMLearning.egg-info/SOURCES.txt
+cheMLearning.egg-info/dependency_links.txt
+cheMLearning.egg-info/requires.txt
+cheMLearning.egg-info/top_level.txt
