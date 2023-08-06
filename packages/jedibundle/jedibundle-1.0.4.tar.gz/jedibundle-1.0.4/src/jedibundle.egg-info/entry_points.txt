@@ -1,0 +1,3 @@
+[console_scripts]
+jedi_bundle = jedi_bundle.bin.jedi_bundle:jedi_bundle
+

@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: jedibundle
+Version: 1.0.4
+Summary: Tools for installing JEDI code
+Home-page: https://github.com/geos-esm/jedi_bundle
+Author: NASA Global Modeling and Assimilation Office
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
