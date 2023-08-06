@@ -1,0 +1,8 @@
+sdk_dot/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sdk_dot/example_deploy_project/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sdk_dot/example_deploy_project/example.py,sha256=X8MPB275LbdlIVf8Mawtah11TDi5cPI8aDrkduPD7y8,42
+sdk_dot/example_deploy_project_r/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sdk_dot/example_deploy_project_r/example_r.py,sha256=50b7t4z8U1nnMlsVBDgos3j_LmDEaKlv1CRAqUbUugE,42
+sdk_dot-1.1.8.dist-info/METADATA,sha256=Jyt1e1eQi77rPPpUP-BYger2LNS12sVopCtx2GAc24Y,1025
+sdk_dot-1.1.8.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+sdk_dot-1.1.8.dist-info/RECORD,,
