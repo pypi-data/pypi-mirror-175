@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/Abaxador-de-arquivo/Abaxador_de_arquivo.py
+src/Abaxador-de-arquivo/__init__.py
+src/Abaxador_de_arquivo.egg-info/PKG-INFO
+src/Abaxador_de_arquivo.egg-info/SOURCES.txt
+src/Abaxador_de_arquivo.egg-info/dependency_links.txt
+src/Abaxador_de_arquivo.egg-info/requires.txt
+src/Abaxador_de_arquivo.egg-info/top_level.txt
