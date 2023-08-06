@@ -1,0 +1,11 @@
+vizta/__init__.py,sha256=OhqEFTtHwkeuo7OCR1OwkYRwKDxX82hg0bePemNUfg0,144
+vizta/palettes.py,sha256=pU_m3BXaomryF06fEslCu0XkWBitkPWBU8ZKi31wzPw,322
+vizta/utils.py,sha256=AjLVeimDK-bdfcpVz8zcRnTalDIz7sH5_NsQg3qq-yw,256
+vizta/version.py,sha256=3IlOqYZT19_u9fga_3gCNa8GusOMWns9hLDAynC5bhI,905
+vizta/mpl/__init__.py,sha256=YIAylcFgPf_gFi34jrhcwb9lYj0ydew-_v5mlw3JRy4,30
+vizta/mpl/themes.py,sha256=XLyFLUG0sMhqw_thfIx8p3klbO954u4v0_m8U1ckEfk,3995
+vizta-0.0.1.dist-info/LICENSE,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+vizta-0.0.1.dist-info/METADATA,sha256=v1Lw0MH0Tf6JT9ZBy1YLSBOH8KGzuoxVNSino3-pnks,1376
+vizta-0.0.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+vizta-0.0.1.dist-info/top_level.txt,sha256=5WlyfnawNgYLBANngtzGiC7zgTooDhmuBfZ4BZRbgj0,6
+vizta-0.0.1.dist-info/RECORD,,
