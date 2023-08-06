@@ -1,0 +1,7 @@
+graph_mate-0.0.2.dist-info/METADATA,sha256=MAJhrgiGTVmTdC9OBpggjCyrVyfIJDkxCWBfLyV5QUM,5505
+graph_mate-0.0.2.dist-info/WHEEL,sha256=lcCSJAW2ZWlfhrzmMY3Y7TZUTwIfKNNVx5CBZ2JPYpk,128
+graph_mate/__init__.py,sha256=8YP0qG_WHAUFPsnJGg_xe7yQ4Lpb_lnw7dr0ZZyZxkQ,123
+graph_mate/__init__.pyi,sha256=ZGPaZq59LGI5rUmKccAzxPQJzOL_NpNVa9hQQCXtcb8,5802
+graph_mate/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+graph_mate/graph_mate.abi3.so,sha256=OQQ6Qn_JXdRp1OPl4g9VAvbFWDg1wD4RimyvZ4T_Pe8,5130144
+graph_mate-0.0.2.dist-info/RECORD,,
