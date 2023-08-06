@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+imdb/__init__.py
+imdb/__main__.py
+imdb/api.py
+imdb/imdb.py
+tdm_imdb_get_rating.egg-info/PKG-INFO
+tdm_imdb_get_rating.egg-info/SOURCES.txt
+tdm_imdb_get_rating.egg-info/dependency_links.txt
+tdm_imdb_get_rating.egg-info/requires.txt
+tdm_imdb_get_rating.egg-info/top_level.txt
