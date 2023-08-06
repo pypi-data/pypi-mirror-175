@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: opendp-logger
+Version: 0.1.2
+Summary: A logger wrapper for OpenDP to keep track of, import, export the AST
+Home-page: https://github.com/opendp/opendp_logger
+Author: Oblivious
+Author-email: hello@oblivious.ai
+License: MIT
+Keywords: opendp logger ast
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8, <4
+Description-Content-Type: text/markdown
+
+file: README.md
