@@ -1,0 +1,16 @@
+svgpdtools/__init__.py,sha256=F6GCzchz8j717rT5OskXRFpySOnwkEI-A_2nJq9dj3s,990
+svgpdtools/command.py,sha256=sqo8w9LzwM0ZT1X9MQiDLnAjX0az1vGDp9-4WYlQ9ss,14922
+svgpdtools/ellipticalarc.py,sha256=kpg6uwDGX2ZD7w5jaZo4I2imrMOmafiuBJoy8SP15N4,7102
+svgpdtools/graphics.py,sha256=W-eUTR6iXbn49vwZFISXSzZQXTd3wmUX4JYawb6xVHc,3582
+svgpdtools/pathdata.py,sha256=RCqcCArseZxdyDBwQPtzZCRer1wK8NWPMDEZa3EL9Y8,9413
+svgpdtools/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+svgpdtools/terminal_command.py,sha256=TGOFZCcUAQ9bDnweIC8Z3S1DifGggTNCRhUx9t2QRnA,18751
+svgpdtools/transform.py,sha256=2_ddXsWJIsICr7sT_lEZhD11TaWXIIlTmmYrZZU3EDw,5144
+svgpdtools/utils.py,sha256=4yQV-N7s20yTThncB-5CnGYLJkKhKhm8BZwx-yftXBU,1219
+svgpdtools/parser/__init__.py,sha256=VQ5LVQprYx8vs-qfonVMzNlp7PdsAxJoBTMUHtpGo4Y,7464
+svgpdtools-0.1.1.dist-info/LICENSE.txt,sha256=t48rVtrEy--C4LK89McAx2Mke3VP0DFw8AYCBErVqH4,1070
+svgpdtools-0.1.1.dist-info/METADATA,sha256=zJv9S2As4pV-wI8PoC_XoKbihYopfjfi30BqYKfIRg8,3873
+svgpdtools-0.1.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+svgpdtools-0.1.1.dist-info/entry_points.txt,sha256=vyfECkWA50Z2-fuH0m7Rypiljq1q2PLQOjXNitX_PBY,64
+svgpdtools-0.1.1.dist-info/top_level.txt,sha256=QxDLz-dhI88u0YTdG88e2r36_4TLr_ndzj3uWNAnXDQ,11
+svgpdtools-0.1.1.dist-info/RECORD,,
