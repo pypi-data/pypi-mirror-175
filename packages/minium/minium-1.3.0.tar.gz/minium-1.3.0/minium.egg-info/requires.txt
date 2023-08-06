@@ -1,0 +1,10 @@
+ddt
+pyyaml
+websocket_client
+requests
+future
+pyee
+typing_extensions
+
+[ios]
+tidevice==0.4.10
