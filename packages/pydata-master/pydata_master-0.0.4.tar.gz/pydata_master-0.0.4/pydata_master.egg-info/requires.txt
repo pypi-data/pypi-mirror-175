@@ -1,0 +1,6 @@
+df2gspread
+pytube
+nltk
+trafilatura
+ffmpeg-python
+whisper
