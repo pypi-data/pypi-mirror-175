@@ -1,0 +1,11 @@
+xavier/__init__.py,sha256=0UXlkSc88eIZi5p7Xoidvi9Tq3L_rjeJmeNtbGXKMtY,25
+xavier/emoji.py,sha256=-aOQAeE4BHmWg5YE6vlWMxHpeLcOLF--MjqYU3GGK5Y,143841
+xavier/panel.py,sha256=a-8U3rCFdAtLh42PhJm5qh_llqS-szHi5q1y67mtMsM,3223
+xavier_themes/__init__.py,sha256=0UXlkSc88eIZi5p7Xoidvi9Tq3L_rjeJmeNtbGXKMtY,25
+xavier_themes/emoji.py,sha256=-aOQAeE4BHmWg5YE6vlWMxHpeLcOLF--MjqYU3GGK5Y,143841
+xavier_themes/panel.py,sha256=a-8U3rCFdAtLh42PhJm5qh_llqS-szHi5q1y67mtMsM,3223
+xavier_themes-0.0.2.dist-info/LICENSE,sha256=_4jF3vS6YCGDQa6zm7kUMpo-WJ_hjo5cC1zubFhtt3E,1068
+xavier_themes-0.0.2.dist-info/METADATA,sha256=Sk0Rr1e09LRxTcaZvqa7KRxX39IhteeXDk9pl46s66w,1707
+xavier_themes-0.0.2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+xavier_themes-0.0.2.dist-info/top_level.txt,sha256=TLVhTJZ66haPRqmiWKU0lv7HtBQXJ2eWR8p35i1rbdc,14
+xavier_themes-0.0.2.dist-info/RECORD,,
