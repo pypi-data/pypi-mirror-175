@@ -1,0 +1,12 @@
+from sym.sdk.annotations import hook, reducer
+from sym.sdk.integrations import slack
+from sym.sdk.templates import ApprovalTemplate
+
+
+# Reducers fill in the blanks that your workflow needs in order to run.
+@reducer
+def get_approvers(event):
+    """Route Sym requests to a specified channel."""
+
+    # Make sure that this channel has been created in your workspace!
+    return slack.channel("#sym-requests")
