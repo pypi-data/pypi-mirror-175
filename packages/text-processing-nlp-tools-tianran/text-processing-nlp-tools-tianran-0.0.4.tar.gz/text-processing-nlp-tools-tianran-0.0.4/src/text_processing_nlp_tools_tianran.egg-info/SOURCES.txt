@@ -1,0 +1,13 @@
+MANIFEST.in
+setup.py
+src/text-processing-nlp-tools/__init__.py
+src/text-processing-nlp-tools/resources/yanwenzi/yanwenzi.json
+src/text-processing-nlp-tools/text_preprocess/__init__.py
+src/text-processing-nlp-tools/text_preprocess/yanwenzi.py
+src/text-processing-nlp-tools/text_simple_type/__init__.py
+src/text-processing-nlp-tools/text_simple_type/text_simple_type.py
+src/text_processing_nlp_tools_tianran.egg-info/PKG-INFO
+src/text_processing_nlp_tools_tianran.egg-info/SOURCES.txt
+src/text_processing_nlp_tools_tianran.egg-info/dependency_links.txt
+src/text_processing_nlp_tools_tianran.egg-info/requires.txt
+src/text_processing_nlp_tools_tianran.egg-info/top_level.txt
