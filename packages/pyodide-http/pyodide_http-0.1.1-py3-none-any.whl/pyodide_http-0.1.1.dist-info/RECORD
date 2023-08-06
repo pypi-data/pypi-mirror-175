@@ -1,0 +1,10 @@
+pyodide_http/__init__.py,sha256=Wilk--BcMmaObM50Z24VOv0hxOnalepb3MTM9b-gtiI,833
+pyodide_http/_core.py,sha256=CO3d5KV1x38lGOqB7D0SIjDWNKTQiJqljbYsB4a8xjU,3225
+pyodide_http/_requests.py,sha256=OsVH-Cgv4hpymOO6lNXmJ5DLzjBNxkmqBEksz7Y26Hc,3978
+pyodide_http/_streaming.py,sha256=wU1DAXFzlFmTgmDXZrmEVSeIHouJymUEP_0K6BE_YxQ,10886
+pyodide_http/_urllib.py,sha256=Fag1Mc21eFaoEGCAG-dm4WmkufMmRCvIFgMt1mEY164,1547
+pyodide_http-0.1.1.dist-info/LICENSE,sha256=mRwy2E8HyWJrg03QN5QkFGBVRvaRcPeyrIIGq9rcSLA,1068
+pyodide_http-0.1.1.dist-info/METADATA,sha256=nhv8p9cXOg-6CDiRiGXt2YRUDfoCT-9v6WL0N7RHrwM,391
+pyodide_http-0.1.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pyodide_http-0.1.1.dist-info/top_level.txt,sha256=_hPOfiZX3Hkxki-9yid62hLzEQ3KZNj6n4D1YcM_Yus,13
+pyodide_http-0.1.1.dist-info/RECORD,,
