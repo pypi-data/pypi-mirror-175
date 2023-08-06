@@ -1,0 +1,15 @@
+snowflake/ingest/__init__.py,sha256=9439PFQLJ9m188PlyepWwNxrsEQs1b4HbGf_nC3_xXw,111
+snowflake/ingest/error.py,sha256=Ga7B9JKPl2eqEatOQ0Cyzt6o-igBD-ylRywem_vF1Z8,1279
+snowflake/ingest/errorcode.py,sha256=bwk_p9qV_bkeKwB3eKznP0lRKlPuazcwbKEkJJ36VPA,107
+snowflake/ingest/simple_ingest_manager.py,sha256=bnfRHXs5LNqL7lUIjuiarmnEHc0GtHycMSIvT00mUTs,6941
+snowflake/ingest/version.py,sha256=8rH33G5-qPXrxCwS28raeuTKktNfXuh3F8CtWJDUKTE,125
+snowflake/ingest/utils/__init__.py,sha256=_Fm3BBCtxdhJIo3ziDQA40ePFOA_HC8qjmUJza-61ko,161
+snowflake/ingest/utils/network.py,sha256=JB1DjyShIUpgTx1Taw6U5nGGsEHOdeqEn_tBA69M5dA,3397
+snowflake/ingest/utils/tokentools.py,sha256=b7FdPMNcqsSsDac7zkMr0dkWclTtm8-4jIEDwguj09o,5690
+snowflake/ingest/utils/uris.py,sha256=46tbO26jYBDM5C0vUsvbQms1dSx8q2xxvUx1nzHQzpU,5907
+snowflake_ingest-1.0.5.dist-info/DESCRIPTION.rst,sha256=LUSBzIfRsCOyuDILt_SgzuusM-c8xARHkDR6lE_gjwA,840
+snowflake_ingest-1.0.5.dist-info/METADATA,sha256=WJ1k24Dq8_7v9qKfVqHFqAl8YDUhQvnNXgndPpFIESk,1489
+snowflake_ingest-1.0.5.dist-info/RECORD,,
+snowflake_ingest-1.0.5.dist-info/WHEEL,sha256=rNo05PbNqwnXiIHFsYm0m22u4Zm6YJtugFG2THx4w3g,92
+snowflake_ingest-1.0.5.dist-info/metadata.json,sha256=Xdzo1FhCSzh1KWjan8_4Lg_R_p3rw9ou4bMh6708riQ,828
+snowflake_ingest-1.0.5.dist-info/top_level.txt,sha256=TY0gFSHKDdZy3THb0FGomyikWQasEGldIR1O0HGOHVw,10
