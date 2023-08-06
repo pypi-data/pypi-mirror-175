@@ -1,0 +1,34 @@
+[build-system]
+requires = [
+    "setuptools>=42"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pysimstudy"
+version = "0.0.93"
+authors = [
+  { name="Keith Goldfeld", email="keith.goldfeld@nyumc.org"},
+  { name="Gabriel Gilling", email="gabrielgilling@ibm.com" },
+  { name="David Cruz", email="d.cruz@ibm.com"},
+  { name="Jordan Bond", email="jbond@ibm.com"}
+]
+description = "A package for synthetic data generation"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pandas==1.2.4",
+    "numpy==1.20.2",
+    "scipy==1.7.3",
+    "simpleeval==0.9.12",
+    "patsy==0.5.1"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/DAVIDCRUZ0202/pysimstudy"
+"Bug Tracker" = "https://github.com/DAVIDCRUZ0202/pysimstudy/issues"
