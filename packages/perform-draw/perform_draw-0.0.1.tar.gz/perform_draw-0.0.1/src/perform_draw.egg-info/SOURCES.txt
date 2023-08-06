@@ -1,0 +1,11 @@
+LICENCE
+README.md
+setup.py
+src/__init__.py
+src/perform_draw.py
+src/modules/makedrawverify.py
+src/modules/selector.py
+src/perform_draw.egg-info/PKG-INFO
+src/perform_draw.egg-info/SOURCES.txt
+src/perform_draw.egg-info/dependency_links.txt
+src/perform_draw.egg-info/top_level.txt
