@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+st_dataframe_component/__init__.py
+st_dataframe_component.egg-info/PKG-INFO
+st_dataframe_component.egg-info/SOURCES.txt
+st_dataframe_component.egg-info/dependency_links.txt
+st_dataframe_component.egg-info/requires.txt
+st_dataframe_component.egg-info/top_level.txt
+st_dataframe_component/frontend/dist/index.html
+st_dataframe_component/frontend/dist/style.css
+st_dataframe_component/frontend/dist/vite.svg
+st_dataframe_component/frontend/dist/assets/index.7342ebbe.js
