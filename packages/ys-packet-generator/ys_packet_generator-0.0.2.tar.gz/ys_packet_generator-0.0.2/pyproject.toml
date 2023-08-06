@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ys_packet_generator"
+version = "0.0.2"
+authors = [
+  { name="Yoni Shpund", email="shpundyoni@gmail.com" },
+]
+description = "Packet Generator"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/YoniShpund/ys_packet_generator"
+"Bug Tracker" = "https://github.com/YoniShpund/ys_packet_generator/issues"

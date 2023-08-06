@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ys_packet_generator
+Version: 0.0.2
+Summary: Packet Generator
+Project-URL: Homepage, https://github.com/YoniShpund/ys_packet_generator
+Project-URL: Bug Tracker, https://github.com/YoniShpund/ys_packet_generator/issues
+Author-email: Yoni Shpund <shpundyoni@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Packet Generator
+
+<!-- This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content. -->
