@@ -1,0 +1,8 @@
+numpy
+
+[dev]
+pytest
+snapshottest
+mypy
+ipython
+jupyterlab

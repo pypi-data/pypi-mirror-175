@@ -1,0 +1,18 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
+
+[project]
+name = "circuitsvis"
+description = "Mechanistic Interpretability Visualizations using React"
+version="1.0.1"
+license = { file = "LICENSE" }
+dependencies = [
+    "numpy",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "snapshottest", "mypy", "ipython", "jupyterlab"]
+
+# Allow version inferance
+# [tool.setuptools_scm]

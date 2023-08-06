@@ -1,0 +1,11 @@
+Demonstration.ipynb
+LICENSE.txt
+README.md
+mypy.ini
+pyproject.toml
+setup.cfg
+circuitsvis.egg-info/PKG-INFO
+circuitsvis.egg-info/SOURCES.txt
+circuitsvis.egg-info/dependency_links.txt
+circuitsvis.egg-info/requires.txt
+circuitsvis.egg-info/top_level.txt
