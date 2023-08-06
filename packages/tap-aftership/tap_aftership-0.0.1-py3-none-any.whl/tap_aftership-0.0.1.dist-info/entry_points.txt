@@ -1,0 +1,3 @@
+[console_scripts]
+tap-aftership=tap_aftership.tap:TapAfterShip.cli
+
