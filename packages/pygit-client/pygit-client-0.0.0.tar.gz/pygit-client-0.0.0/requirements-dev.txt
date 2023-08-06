@@ -1,0 +1,4 @@
+build>=0.9
+pytest>=7.1
+twine>=4.0
+-e .
