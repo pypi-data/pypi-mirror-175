@@ -1,0 +1,21 @@
+protocol = "seek-compact"
+doc = ""
+traits = ["is-daemon", "is-sensor", "has-measure-trigger"]
+
+[links]
+source = "https://github.com/yaq-project/yaqd-seek"
+bugtracker = "https://github.com/yaq-project/yaqd-seek/-/issues"
+
+[installation]
+PyPI = "https://pypi.org/project/yaqd-seek"
+
+[config]
+
+pixel_pitch.type = "float"
+pixel_pitch.doc = "Pixel spacing, in microns"
+pixel_pitch.default = 12
+
+[state]
+
+[messages]
+
