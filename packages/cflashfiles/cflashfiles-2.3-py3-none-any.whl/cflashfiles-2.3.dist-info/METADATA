@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cflashfiles
+Version: 2.3
+Summary: Flash work with files
+Home-page: 
+Author-email: 
+Requires-Dist: requests
+Requires-Dist: fsspec
+
