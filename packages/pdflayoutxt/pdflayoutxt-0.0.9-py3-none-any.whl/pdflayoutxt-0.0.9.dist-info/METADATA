@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: pdflayoutxt
+Version: 0.0.9
+Summary: This library helps in extracting text from searchable pdf files by keeping the layout intact.
+Author: Sumeet Suman
+Author-email: sumeetsuman83@gmail.com
+Keywords: pdftotext,pdflayout,setuptools
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: pdfplumber
+Requires-Dist: cleantext
+Requires-Dist: autocorrect
+
+# pdflayoutxt
+
+pdflayoutxt is a Python library for extracting text from searchable pdf's (Non Scanned) and it make sures the extracted text is in the same layout as the document.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install pdflayoutxt
+```
+
+## Usage
+
+```python
+# import the library
+import pdflayoutxt
+
+# creates an object of pdfextracter
+pdfobj=pdflayoutxt.pdfextracter()
+
+# returns a list, each index being the text extracted from that index page. 
+# In simple terms no_of_pages_in_document=len(list_returned)
+pdf_path="./abc.pdf"
+text=pdfobj.get_pdf_text(pdf_path=pdf_path)
+
+# output
+print(text)
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
