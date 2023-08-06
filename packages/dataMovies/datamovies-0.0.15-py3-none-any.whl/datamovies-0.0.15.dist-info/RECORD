@@ -1,0 +1,17 @@
+dataMovies/__init__.py,sha256=E_d7HAOFVdbGrCgvYrMs9V6K-3BUe4BiGwLQkit_lRI,261
+dataMovies/dataMoviesFeatures.py,sha256=JxGfl2vxYJkgKsuFiFnIniqu5GaGntzWAyhazfedTI4,3533
+dataMovies/errors/error.py,sha256=zJATbTEpI_J8hZPeY6DSTFaF81xHmw2k5sx44gBfclI,290
+dataMovies/errors/imdbServiceErrors.py,sha256=btSoA0UEJ-PAkcKNe--IINzIDmpApuPv9JovKef-TGA,963
+dataMovies/serializers/imdbSerializers.py,sha256=nQysxiMvktN4J72g57O9P7JhTj3_AKT65dWZemZw7rc,2062
+dataMovies/serializers/utils/dictionaryTransform.py,sha256=Md2HxMiyel-qB9p6EUm2yQIJA8wAT4TbqFEVurAjdyY,820
+dataMovies/services/imdbService/__init__.py,sha256=HK5INq0tLT7LVgBvbSBB5g21S54933IEKi8qktAZTbI,98
+dataMovies/services/imdbService/imdbApiCall.py,sha256=uT8YCyzR_HIC-d01UJ9MeEOWFo2eVmEM0O9H8pbND_g,2747
+dataMovies/services/imdbService/imdbEndPoint.py,sha256=7t0R7otSTTddhJeTaIMFOS4H9BFGHpTAFO5USu7Tmw0,946
+dataMovies/services/imdbService/imdbRequests.py,sha256=v2KxrM71nChq2sxyAn529EPSncliNdl_CtMa4_m7yV0,451
+dataMovies/services/imdbService/imdbResponse.py,sha256=ADJ8aTwukaezGAozQc_humWFyNN-0-njrpqCj5EN1IY,967
+dataMovies/services/imdbService/imdbService.py,sha256=nddjBhSSUkjBgmTiIMhlQ6w5oVfMOHSHAL9g3NYSZKE,2786
+dataMovies/services/imdbService/utils/imdbUtils.py,sha256=yJc08gFOuFxPNh_IywRpEICnPxJLefwT8OqFly-wYL8,712
+datamovies-0.0.15.dist-info/METADATA,sha256=ZlCncCO_eurY4XpiIh9-VNuEoOvphGhX-mlRK_oEzJA,2459
+datamovies-0.0.15.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+datamovies-0.0.15.dist-info/licenses/LICENSE,sha256=dU65Oz6tfjncjew9npVfy3_zMmaAGK6MpgomcDL4ysw,1072
+datamovies-0.0.15.dist-info/RECORD,,
