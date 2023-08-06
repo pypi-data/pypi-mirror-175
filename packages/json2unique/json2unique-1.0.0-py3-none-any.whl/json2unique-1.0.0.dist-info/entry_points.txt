@@ -1,0 +1,2 @@
+[console_scripts]
+json2unique = json2unique.__main__:main

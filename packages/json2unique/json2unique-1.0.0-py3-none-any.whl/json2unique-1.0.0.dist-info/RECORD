@@ -1,0 +1,10 @@
+json2unique/__init__.py,sha256=Gp6ZJlQsZsDP62Kn6NSUc-6MPTZKxa--liayPfDJ1mw,49
+json2unique/__main__.py,sha256=0UyHGnMB57vWEX7lKzxXNds-rOjcmEoSU3TJJ6Wg48w,1415
+json2unique/context_manager.py,sha256=SngEuAPkKcFpx42UkA6zbI-z_D8r8MS8lPW3pkDR0I8,423
+json2unique/parser.py,sha256=Tw1Uju3BzPi-Ctjks2D9DuJ9g8KfoRsfBHnctU9BIlc,437
+json2unique-1.0.0.dist-info/LICENSE,sha256=WX4RRohiO2trPy8KncNsQrR6g_1k2fR5rGxYhIxfhbw,1070
+json2unique-1.0.0.dist-info/METADATA,sha256=AMtLtbYIn87kaAIILheA9O4V2XwquMy7cYL8sXlP0RE,3960
+json2unique-1.0.0.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+json2unique-1.0.0.dist-info/entry_points.txt,sha256=Sth3KSiri3fd_KRHw2n7CSw7ks6m3F1QdXC9-uojSUI,58
+json2unique-1.0.0.dist-info/top_level.txt,sha256=N6m3yQW2D-itDoa44vQ3otL9bhbwUSRFk76XBMaqYhk,12
+json2unique-1.0.0.dist-info/RECORD,,
