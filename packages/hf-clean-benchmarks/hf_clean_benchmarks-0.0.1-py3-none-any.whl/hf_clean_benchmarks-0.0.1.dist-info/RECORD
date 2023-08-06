@@ -1,0 +1,10 @@
+hf_clean_benchmarks/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+hf_clean_benchmarks/_modidx.py,sha256=9ut8BMXvMTsHPxQSc51BJUtjDUmEGhWDA_kyYE_jOIM,1916
+hf_clean_benchmarks/cli.py,sha256=tv9A-HFDpIbmgL9pyPtr42ILOk3w6jy6pSvou5ezdwk,1381
+hf_clean_benchmarks/core.py,sha256=dYUQVm0mIDH6wpfmOT7sSJKa5lyag6uPSpHWQAZ2Xo0,8292
+hf_clean_benchmarks-0.0.1.dist-info/LICENSE,sha256=3FLFDGZIutkiYTmqff2aHt0IChHUQOYADQXKVvT0EQ4,11371
+hf_clean_benchmarks-0.0.1.dist-info/METADATA,sha256=Ve2iB5qnEsQ-kchqz5Cxbx2ndbYMBWAX-IdzxVTJTpw,8162
+hf_clean_benchmarks-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+hf_clean_benchmarks-0.0.1.dist-info/entry_points.txt,sha256=XkwSjqNE8kwbCDiXK91D02DUSZyGBiOVh5KLN72eVpg,136
+hf_clean_benchmarks-0.0.1.dist-info/top_level.txt,sha256=FZbLqK5mu0aNa5aYT0gMQo6fj-xDcFDUOF-s2c-zPbg,20
+hf_clean_benchmarks-0.0.1.dist-info/RECORD,,

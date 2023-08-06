@@ -1,0 +1,5 @@
+[console_scripts]
+clean_benchmarks = hf_clean_benchmarks.cli:clean_dataset
+
+[nbdev]
+hf_clean_benchmarks = hf_clean_benchmarks._modidx:d
