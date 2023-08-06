@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: nr-stream
+Version: 1.0.0
+Summary: 
+License: MIT
+Author: Niklas Rosenstein
+Author-email: rosensteinniklas@gmail.com
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# nr.stream
+
+Provides a useful `Stream` and `Optional` class.
+
+```py
+from nr.stream import Stream
+
+values = [3, 6, 4, 7, 1, 2, 5]
+assert list(Stream(values).chunks(values, 3, fill=0).map(sum)) == [13, 10, 5]
+```
+
