@@ -1,0 +1,6 @@
+cryptography==3.3.2
+PyJWT==1.7.1
+Flask
+Authlib
+requests
+pytest
