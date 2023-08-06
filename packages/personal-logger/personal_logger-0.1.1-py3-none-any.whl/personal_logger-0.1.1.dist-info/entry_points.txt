@@ -1,0 +1,3 @@
+[console_scripts]
+plog=personal_logger.cli:main
+
