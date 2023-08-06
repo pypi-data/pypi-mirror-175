@@ -1,0 +1,12 @@
+dictdatabase/__init__.py,sha256=3sHSfWrhlSofeoq7GZPG4EgjYQ1szMHJdZfvp36rLSc,45
+dictdatabase/config.py,sha256=Bj1s5iA9sARARXJuQDFAN6YQ1_FJsLLMeX6SYxH4sIQ,134
+dictdatabase/io_safe.py,sha256=lRGlPvGSTYwTyY-FAvtVAgy5fDpuD0dXd81Gc4_A3bw,1315
+dictdatabase/io_unsafe.py,sha256=y4Kja9XbvxfK_smrwfulDMPofJ1gh_YjO5tEt-39FF8,7106
+dictdatabase/locking.py,sha256=CI1myPEFxkkvUp5Wg5WllGAjhZEqlVSsoGllNfyBZ-s,6362
+dictdatabase/models.py,sha256=lg-hFX_HYIIepYGhZN7fD4S4HA50W9ugvuZg8ZKUyFA,6578
+dictdatabase/session.py,sha256=tLpIxHOpPDY24Um2_8r_9EfP6KkmYab1d6CCJ_5aaAs,4025
+dictdatabase/utils.py,sha256=p_MnYrUVC7XJlAOHiX_6WDpSr3MA-KZkNOSmbX5SCL8,4140
+dictdatabase-2.1.3.dist-info/LICENSE,sha256=rIUTMGtXt2gnKznsGVPEFRxp1Z842XkWHOxxyR2jN-I,1061
+dictdatabase-2.1.3.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+dictdatabase-2.1.3.dist-info/METADATA,sha256=cuXDcp2oUEtYK0jMho6jUeEusTbjNkVu1Q79LUTxDl0,11892
+dictdatabase-2.1.3.dist-info/RECORD,,
