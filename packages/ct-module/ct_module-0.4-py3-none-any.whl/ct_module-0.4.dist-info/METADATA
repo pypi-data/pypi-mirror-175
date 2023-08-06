@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ct-module
+Version: 0.4
+Summary: This a package for creatring a list of iam user from an environmet
+Author: Kuldip Sahdeo
+License-File: licence.txt
+Requires-Dist: boto3
+Requires-Dist: datetime
+Requires-Dist: pandas
+
