@@ -1,0 +1,12 @@
+stpyvista/__init__.py,sha256=380KPtJL4fnffzMpCbXdo3lCu94QLf5CE7-cMU0U6SA,5354
+stpyvista/__main__.py,sha256=lrD0Y-FMY9gMVWVrNPJJnp4376xxkhBa0spE6euS-UU,74
+stpyvista/frontend/index.html,sha256=-cNxtf3NBP-bELP2tpFMGGf-v2nx7GrPprM7NrC48l8,631
+stpyvista/frontend/jupyter-threejs.js,sha256=5po5tAtVFdVg87e7Md9ybek5Z6Z_C8Un3k70pmsQr6g,1161235
+stpyvista/frontend/main.js,sha256=nC7VLTgV0S-pDD3RDxbZ_bkIPALYwOnSwJ5PC0DhkcM,2147
+stpyvista/frontend/streamlit-component-lib.js,sha256=bzV6LswOTbs566fXIboh58qJG6K6-pbKh0Pvjwa1tNU,1198
+stpyvista/frontend/style.css,sha256=43I5zWCQ8WhBFFw6g49S4cIFBTcx6vIAtyfDzgXQqR0,166
+stpyvista-0.0.5.dist-info/LICENSE,sha256=mpavjX90A4UqinvM73RQrlm0Q1uRuP2eQehTb_gGySs,35129
+stpyvista-0.0.5.dist-info/METADATA,sha256=QM5DZUUzBhhJPRkSOZDml3MEWDI3sDQ-W_djc0arA7o,2252
+stpyvista-0.0.5.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+stpyvista-0.0.5.dist-info/top_level.txt,sha256=q9_AB4leJ6-CxGJ8BonTwnLbidiEvZL9x8_gJ3TRkRc,10
+stpyvista-0.0.5.dist-info/RECORD,,
