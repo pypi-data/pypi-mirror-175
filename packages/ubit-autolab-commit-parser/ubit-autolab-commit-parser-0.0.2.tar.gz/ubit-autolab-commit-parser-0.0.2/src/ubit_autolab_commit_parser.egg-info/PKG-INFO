@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: ubit-autolab-commit-parser
+Version: 0.0.2
+Summary: Simple String Parsing for CICD Demo
+Requires-Python: >=3.6, <4
