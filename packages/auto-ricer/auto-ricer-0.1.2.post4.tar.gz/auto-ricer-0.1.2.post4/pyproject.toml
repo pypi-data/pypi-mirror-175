@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "auto-ricer"
+version = "0.1.2-4"
+description = ""
+authors = ["AbdelrhmanNile <abdelrhmannile@gmail.com>"]
+readme = "README.md"
+packages = [{include = "auto_ricer"}]
+
+[tool.poetry.scripts]
+auto-ricer = "auto_ricer.autoricer:cli"
+[tool.poetry.dependencies]
+python = "^3.10"
+typer = "^0.6.1"
+pywal = "^3.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
