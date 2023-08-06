@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/CookJoke/__init__.py
+src/CookJoke/laugh.py
+src/CookJoke.egg-info/PKG-INFO
+src/CookJoke.egg-info/SOURCES.txt
+src/CookJoke.egg-info/dependency_links.txt
+src/CookJoke.egg-info/top_level.txt
