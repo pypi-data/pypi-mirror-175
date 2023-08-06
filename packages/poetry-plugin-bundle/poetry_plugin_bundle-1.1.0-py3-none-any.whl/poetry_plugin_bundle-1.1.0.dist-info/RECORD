@@ -1,0 +1,16 @@
+poetry_plugin_bundle/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+poetry_plugin_bundle/bundlers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+poetry_plugin_bundle/bundlers/bundler.py,sha256=BuStea6rcEQ-QdbWTVXcXHCUOYhrlvfNZ0mqFM_SeEs,278
+poetry_plugin_bundle/bundlers/bundler_manager.py,sha256=nU6xIwtxco7mgJndNpVbYlITnE39AAKPD4yedcrk58c,1232
+poetry_plugin_bundle/bundlers/venv_bundler.py,sha256=5HwP4OCWy5FGyLAEIrGX1f5SR9iV4fVqsveCi22_pQo,8006
+poetry_plugin_bundle/console/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+poetry_plugin_bundle/console/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+poetry_plugin_bundle/console/commands/bundle/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+poetry_plugin_bundle/console/commands/bundle/bundle_command.py,sha256=t8lNJeTCdnOwBGkqQih8QQECJm4L3dCOF6lAJqA5Otc,1217
+poetry_plugin_bundle/console/commands/bundle/venv.py,sha256=8GFLMTvK6y9iRYbf1GKwP70_J-ze3NWlUsp_W9Qe5m8,1411
+poetry_plugin_bundle/exceptions.py,sha256=QPcqJ71I99oXk2OXmZHSWk0Eb9iPMcniCckv2DzsQ7M,84
+poetry_plugin_bundle/plugin.py,sha256=5eg9Y03V1hy_4E_iYLAuyOF4Ap8-ybp7kYos4Hlbp4M,1527
+poetry_plugin_bundle-1.1.0.dist-info/entry_points.txt,sha256=PCOC-MUkg1KrMPzFW9oW0BgPz0wcfyTyQnOUc17qTNU,88
+poetry_plugin_bundle-1.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+poetry_plugin_bundle-1.1.0.dist-info/METADATA,sha256=wIixCBho4F6oNN1M-veLwp8NVu4i7klj3y2DAuccVmE,2763
+poetry_plugin_bundle-1.1.0.dist-info/RECORD,,
