@@ -1,0 +1,10 @@
+hydrosignatures/__init__.py,sha256=-Gn07lIP47fRt-m8yxBGk_Y8oWlM8yKl7ysNOfTj9IQ,1041
+hydrosignatures/exceptions.py,sha256=ywq4VedMcucYrjhttNX-KLEMMKKKUXM1SPZyTXXK3zU,1832
+hydrosignatures/hydrosignatures.py,sha256=Uzxv8ab7fkqgwaY2DtcwBJdvnyCI1ymuTnc_iKiaT_M,23450
+hydrosignatures/print_versions.py,sha256=eL-og7ImoqERTaZdgN81UJUUeZe1kfW81Ppk1IwBw6U,6451
+hydrosignatures/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hydrosignatures-0.1.1.dist-info/LICENSE,sha256=EM87NgYgabO0a_E-z2nmbsrxomXdI5BDCgmomVDvLsE,1096
+hydrosignatures-0.1.1.dist-info/METADATA,sha256=O6QmkwLsoCyYMHPo9buVGzHvU_UHaiUvXodCf9poyhI,13547
+hydrosignatures-0.1.1.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+hydrosignatures-0.1.1.dist-info/top_level.txt,sha256=vzFEWohqCR53duu-SW8Ef4-QeUCmXfZKPyOInNm40Q4,16
+hydrosignatures-0.1.1.dist-info/RECORD,,
