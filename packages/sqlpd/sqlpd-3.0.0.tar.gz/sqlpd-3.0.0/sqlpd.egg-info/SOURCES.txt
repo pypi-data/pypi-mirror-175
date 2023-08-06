@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+mysql/__init__.py
+sqlpd/__init__.py
+sqlpd.egg-info/PKG-INFO
+sqlpd.egg-info/SOURCES.txt
+sqlpd.egg-info/dependency_links.txt
+sqlpd.egg-info/top_level.txt
+sqlpd/src/connection.py
