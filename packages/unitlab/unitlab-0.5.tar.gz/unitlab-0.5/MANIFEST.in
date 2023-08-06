@@ -1,0 +1,2 @@
+include unitlab/*
+include unitlab/core.cpython-37m-darwin.so

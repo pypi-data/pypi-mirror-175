@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: unitlab
+Version: 0.5
+Home-page: https://github.com/gmyrianthous/example-publish-pypi
+Author: Unitlab Inc.
+Author-email: tesm@unitlab.ai
+License: MIT
+Keywords: unitlab-sdk
+License-File: LICENSE.md
