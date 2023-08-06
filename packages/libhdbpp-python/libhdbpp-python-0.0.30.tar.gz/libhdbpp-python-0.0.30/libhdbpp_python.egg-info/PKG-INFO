@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: libhdbpp-python
+Version: 0.0.30
+Summary: Python bindings for Tango Control System Archiving
+Home-page: https://gitlab.com/tango-controls/hdbpp/libhdbpp-python
+Author: Sergi Rubio
+Author-email: srubio@cells.es
+License: LGPL-3+
+Description: hdbbpp readers for mariadb and timescaledb
+        Extract data from HDB++ Tango Archiving Systems, using either MariaDB or TimeScaleDB
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: timescaledb
