@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: transformio
+Version: 0.1.0
+Summary: Transformio creates, applies, and evaluates coordinate transformations for vector and raster geospatial data.
+Author: Karim Bahgat
+Author-email: karim.bahgat.norway@gmail.com
+License: MIT
+Keywords: transformio
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: End Users/Desktop
+License-File: LICENSE
+
+Transformio creates, applies, and evaluates coordinate transformations for vector and raster geospatial data.
