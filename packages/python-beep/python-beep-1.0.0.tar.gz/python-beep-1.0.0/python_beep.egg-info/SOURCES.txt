@@ -1,0 +1,9 @@
+LICENSE
+README.md
+beep.c
+setup.py
+python_beep.egg-info/PKG-INFO
+python_beep.egg-info/SOURCES.txt
+python_beep.egg-info/dependency_links.txt
+python_beep.egg-info/not-zip-safe
+python_beep.egg-info/top_level.txt
