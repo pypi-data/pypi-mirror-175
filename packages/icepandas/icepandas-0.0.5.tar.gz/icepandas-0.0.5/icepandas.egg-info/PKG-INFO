@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: icepandas
+Version: 0.0.5
+Summary: For reading IDA ICE result files to Pandas dataframes
+Home-page: https://git.uni-wuppertal.de/kwalther/ida_ice_python
+Author: Karl Walther
+Author-email: kwalther@uni-wuppertal.de
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Description
+
+This package reads ICE ICE .prn files to Pandas dataframes.
+
+It supports the import from yearly energy simulations as well as from custom simulations.
+
+
+# Installation
+
+## pip
+
+	pip install icepandas
+	
+## conda
+
+	will come soon...
+	
+

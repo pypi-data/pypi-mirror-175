@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+icepandas/__init__.py
+icepandas/icepandas.py
+icepandas.egg-info/PKG-INFO
+icepandas.egg-info/SOURCES.txt
+icepandas.egg-info/dependency_links.txt
+icepandas.egg-info/top_level.txt
