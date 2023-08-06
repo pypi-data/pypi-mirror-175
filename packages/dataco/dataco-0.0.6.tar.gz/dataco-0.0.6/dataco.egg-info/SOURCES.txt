@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+dataco.egg-info/PKG-INFO
+dataco.egg-info/SOURCES.txt
+dataco.egg-info/dependency_links.txt
+dataco.egg-info/requires.txt
+dataco.egg-info/top_level.txt
+src/__init__.py
+src/__version__.py
+src/cloud_service.py
+tests/test_cloud_service.py
