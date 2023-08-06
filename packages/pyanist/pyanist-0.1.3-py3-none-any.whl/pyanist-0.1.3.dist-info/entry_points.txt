@@ -1,0 +1,3 @@
+[console_scripts]
+pyanist=pyanist.cli:main
+

@@ -1,0 +1,12 @@
+pyanist/chord_generator.py,sha256=VUmxm2T1BMGNxVpTC16V6b2RQzCO53ELkl2tzGMudjI,2391
+pyanist/chord_matcher.py,sha256=pY8AjaqXv2L_d7K5SnNwyVk6GQ7l30tL-MHGs4uspsk,5113
+pyanist/cli.py,sha256=aUcbYxkm0BjCCwvgKwoLBc8Zf2oK7ZyQR2N-nOxEoVs,2005
+pyanist/dictionaries/english-us.json,sha256=TCVoySD-8mObOQlPyXnYa8HXXUawVlbQg0Y3egQhnIM,93036
+pyanist/test_chord_generator.py,sha256=Rp9Ma9IkhO_d99dN4xAMT79WBtjm0K3jJ4dpC5aSPeU,2412
+pyanist/test_match_words_with_chords.py,sha256=xaXHqpBoML_nGt8tSKcdXe0Qhykdduy0UImGWnMICWg,3324
+pyanist/word-frequency-lists/word-freq-top5000.csv,sha256=CrzLolVqT1Md2OUmY_E8Lv70O5gnpZchbEuGBXHIF7I,65855
+pyanist-0.1.3.dist-info/entry_points.txt,sha256=b7PZCy_WyL_gKTejs9e9KpWr67N249Bwb7WORldCjH8,44
+pyanist-0.1.3.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pyanist-0.1.3.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+pyanist-0.1.3.dist-info/METADATA,sha256=ZKGS1-GN0d_UqfYIHUufbjA7HRYJOCT9kU9GjWwyx5g,1060
+pyanist-0.1.3.dist-info/RECORD,,
