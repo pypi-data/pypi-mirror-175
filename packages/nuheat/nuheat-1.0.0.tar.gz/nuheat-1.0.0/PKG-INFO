@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: nuheat
+Version: 1.0.0
+Summary: A Python library that allows control of connected NuHeat Signature radiant floor thermostats.
+Home-page: https://github.com/broox/python-nuheat
+Download-URL: https://github.com/broox/python-nuheat/archive/1.0.0.tar.gz
+Author: Derek Brooks
+Author-email: derek@broox.com
+License: MIT
+Keywords: nuheat,thermostat,home automation,python
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Home Automation
+Requires-Python: >=3.7
+Provides-Extra: dev
+License-File: LICENSE
