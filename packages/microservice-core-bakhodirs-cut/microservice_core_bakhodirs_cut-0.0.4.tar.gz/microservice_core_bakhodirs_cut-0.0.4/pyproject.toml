@@ -1,0 +1,19 @@
+[build-system]
+requires = ['flit_core>=3.2,<4']
+build-backend = 'flit_core.buildapi'
+
+[project]
+name = "microservice_core_bakhodirs_cut"
+dynamic = ['version']
+authors = [
+  { name="Bakhodir Ramazonov", email="boxa.developer@gmail.com" },
+  { name="Tukhtamurod Isroilov", email="t.isroilov0711@gmail.com" },
+]
+description = "Microservice Core Package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
