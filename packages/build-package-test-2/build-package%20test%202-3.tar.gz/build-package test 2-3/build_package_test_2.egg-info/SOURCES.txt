@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+build package/__init__.py
+build package/test_package.py
+build_package_test_2.egg-info/PKG-INFO
+build_package_test_2.egg-info/SOURCES.txt
+build_package_test_2.egg-info/dependency_links.txt
+build_package_test_2.egg-info/top_level.txt
