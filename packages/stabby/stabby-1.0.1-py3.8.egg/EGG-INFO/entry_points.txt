@@ -1,0 +1,3 @@
+[console_scripts]
+stabby = simple_tabby.terminal:main
+
