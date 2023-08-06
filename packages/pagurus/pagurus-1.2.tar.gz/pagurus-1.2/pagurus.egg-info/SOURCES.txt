@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+bin/pagurus
+bin/test_FileWriter.py
+pagurus.egg-info/PKG-INFO
+pagurus.egg-info/SOURCES.txt
+pagurus.egg-info/dependency_links.txt
+pagurus.egg-info/requires.txt
+pagurus.egg-info/top_level.txt
