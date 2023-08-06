@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: moldcast
+Version: 0.1.0
+Summary: Lorem ipsum sit dolor amet
+Home-page: https://gitlab.com/jlecomte/projects/python/moldcast
+Author: Julien Lecomte
+Author-email: julien@lecomte.at
+License: MIT
+Project-URL: Documentation, https://jlecomte.gitlab.io/projects/python/XXX/
+Project-URL: Source code, https://gitlab.com/jlecomte/projects/python/XXX
+Project-URL: Tracker, https://gitlab.com/jlecomte/projects/python/XXX/-/issues
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.X.*
+Description-Content-Type: text/markdown
+Requires-Dist: torxtools
+
+# Moldcast
