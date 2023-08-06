@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: ease-image-processing
+Version: 0.0.1
+Summary: A wrapper of scikit image for ease of use
+Home-page: https://github.com/VitorBSP/ease-image-processing
+Author: =?utf-8?q?V=C3=ADtor_Pereira?=
+Author-email: vitorpereira3115@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: scikit-image (>=0.16.1)
+
+# ease-image-processing
+
+Description. 
+The package ease-image-processing is used to wrapper some functions of scikit image for ease of use, so the package features are:
+    Structure:
+        - Histogram matching 
+        - Structural similarity 
+        - Resize image
+        - Drawing the image
+    Utils:
+        - Read image
+        - Save image
+        - Plot image
+But the main goal of this project is to learn the main structures of a python package.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ease-image-processing
+
+```bash
+pip install ease-image-processing
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Vitor Pereira
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
