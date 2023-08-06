@@ -1,0 +1,23 @@
+appdirs==1.4.4
+argcomplete==2
+marshmallow==3.18
+python-dateutil==2.8.2
+rich==12.6.0
+tinydb==4.7
+
+[develop]
+black==22.10.0
+coverage==6.5
+gitlint-core==0.17
+isort==5.10.1
+pre-commit==2.20
+
+[develop:python_version < "3.8"]
+pyproject-flake8==5.0.4.post1
+
+[develop:python_version >= "3.8"]
+pyproject-flake8==5.0.4.post1
+
+[packaging]
+build
+twine>=1.11
