@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+bakit/Events.py
+bakit/Queue.py
+bakit/TasksQueue.py
+bakit/__init__.py
+bakit.egg-info/PKG-INFO
+bakit.egg-info/SOURCES.txt
+bakit.egg-info/dependency_links.txt
+bakit.egg-info/top_level.txt
