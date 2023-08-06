@@ -1,0 +1,5 @@
+aslabs/dependencies/fastapi/__init__.py,sha256=BYRoYmITSrhz_QUBPpaONyARmDrWAkOuoyGEPxcHOrQ,56
+aslabs/dependencies/fastapi/fastapi.py,sha256=WT0KjvtsgbTxPY1JQcTBMxvFlxlwzIF-q_UiRQeKltc,3372
+aslabs_dependencies_fastapi-0.0.3.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+aslabs_dependencies_fastapi-0.0.3.dist-info/METADATA,sha256=YslgvP6b40cX56Vkl7Fw2JDGYg5cyLZPQ7OU-4fwqFs,1758
+aslabs_dependencies_fastapi-0.0.3.dist-info/RECORD,,
