@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "glitchtip-cli"
+version = "1.0.1"
+authors = [
+  { name="Mark Freer", email="mfreer@redhat.com" },
+  { name="Petr Babic", email="pbabic@redhat.com" }
+]
+description = "A Glicthtip CLI"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[project.urls]
+"Homepage" = "https://gitlab.cee.redhat.com/cssre/glitchtipcli"
+
+[project.scripts]
+gtc = "glitchtipcli.glitchtipcli:main"
