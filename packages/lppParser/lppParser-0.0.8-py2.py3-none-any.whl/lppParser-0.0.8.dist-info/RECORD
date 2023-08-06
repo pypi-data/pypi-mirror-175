@@ -1,0 +1,17 @@
+lpp_parser/__init__.py,sha256=Pmyq72bMn4Nr1GbR-ivC6zvUfVugL8RCdoIUtiLuEek,169
+lpp_parser/_reg_map.py,sha256=sEt4qxFIxelkUao4usAluEMeDu195vXgX-XJF7kmZEA,1543
+lpp_parser/lppParser.py,sha256=1AqJ2-YkSrfuv2OXrVEH5tGmETr4D_doaXOMwM5If4Q,1824
+lpp_parser/data/__init__.py,sha256=wvNEfMb7IAfOsm15n_pRhhi2_RY2zSbo8AfsvQedr-0,905
+lpp_parser/data/sym_name_map.json,sha256=_CHX176A3UaxV1mIE4PxWSMUaJzGUCZzisNcEwtU3sA,2089
+lpp_parser/data/sym_z_map.json,sha256=-nPBCyXyJ4MfD7ODriXjOvYyefgEJVZLWPiXMpuSmII,1176
+lpp_parser/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lpp_parser/tests/test_parser.py,sha256=DP0_KsDM0vX9IXtx-_0tB4_-ZNza5S4yCO7i3q_4O1g,1647
+lpp_parser/tests/test_utils.py,sha256=0oYGkxCnEJ3I-1_Cs3oGG0k07RQcW63bSTqJ_jyDqKc,616
+lpp_parser/tests/lppfiles/238U-190MeV-12C280mg-Alo85mm-223Th.lpp,sha256=KHjdLHuDY5RMFdIgglTpL9cEeG5lnmw1aBd4l8OL_4k,889539
+lpp_parser/tests/lppfiles/44S_target8mm.lpp,sha256=R5MKTop051phiHV_x5wajr-9lO5TqGwP1e2I8--aE6s,421896
+lpp_parser/tests/lppfiles/SetB.65.00-1H_E262_C15mm_36Ar__c_aris__PSv05_KFv3.5.0__CB1s-R4003.lpp,sha256=4GxkSvx3S9xE76grYZ-crr3ME-EGRi1a2NOGMCO0MZU,269112
+lppParser-0.0.8.dist-info/LICENSE,sha256=WJ7YI-moTFb-uVrFjnzzhGJrnL9P2iqQe8NuED3hutI,35141
+lppParser-0.0.8.dist-info/METADATA,sha256=OiFPj2C5Dw4I4ruJ8kfNmqWLBz_4UyTyS7cuFC-Yfho,468
+lppParser-0.0.8.dist-info/WHEEL,sha256=unfA4MOaH0icIyIA5oH6E2sn2Hq5zKtLlHsWapZGwes,110
+lppParser-0.0.8.dist-info/top_level.txt,sha256=Od71_S64w4nWrkYa79uKKzv_tDBMzIkRV0w2gS6SfZU,11
+lppParser-0.0.8.dist-info/RECORD,,
