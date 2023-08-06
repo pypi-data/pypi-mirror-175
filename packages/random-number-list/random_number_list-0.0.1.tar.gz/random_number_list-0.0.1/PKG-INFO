@@ -1,0 +1,90 @@
+Metadata-Version: 2.1
+Name: random_number_list
+Version: 0.0.1
+Summary: To return a list of randomly drawn numbers from a user defined list of numbers.
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# random_number_list
+Creates a list of randomly drawn numbers from a larger list.  Can be used to pick lottery numbers.<br>
+## Installation
+Run the following to install:
+```python
+pip install random-number-list
+```
+
+## Usage
+```
+from random_number_list import RandomNumberList
+
+new_list = RandomNumberList.return_list(number, pick, put_back)
+
+print(new_list)
+
+print(RandomNumberList.verify_number(number))
+print(RandomNumberList.verify_pick(number, pick))
+``` 
+
+### Example
+```
+new_list = RandomNumberList.return_list(15, 5, False)
+
+print(new_list)
+```
+returns:
+>[12, 9, 1, 8, 4]
+
+### Basis of operation
+When the object is called, you pass the following variables:<br>
+
+**number**:
+>The number of items in the pool to be picked from.<br>
+>*example*:<br>
+>number = 5 will create a pool [1, 2, 3, 4, 5]<br>
+
+**pick**:       
+>The number of items to be randomly drawn from the pool.<br>
+>*example*:<br>
+>pick = 2 will return a list of the randomly drawn items, say [4, 2]<br>
+
+**put_back**:
+>Whether an item is put back into the pool prior to the next draw.<br>
+>Input as a boolean True or False, with a default of False.<br>
+
+**error_text**: 
+>Optional Boolean variable with a default of False.<br>
+>If True is passed, a simple explanatory error message is output.<br>
+
+**Note**:
+>digits after a decimal point are ignored.<br>
+>5, 5.0, 5.2 & 5.9 all equate to 5<br>
+
+### Methods
+
+#### RandomNumberList.return_list(number, pick, put_back, error_text)
+
+Used to create the list of randomly drawn numbers:<br>
+    
+
+#### RandomNumberList.verify_number(number, error_text)
+Validates that a number greater than or equal to one has been passed.<br>
+
+#### RandomNumberList.verify_pick(number, pick, error_text)
+Validates that:<br>
+**number**: is greater than or equal to one<br>
+**pick**:   is greater than or equal to one **AND** less than or equal to **number**<br>
+
+
+## Install Requires
+This package uses the following standard library packages:<br>
+1. random<br>
+
+## In Closing
+This package has been built as part of my learning Python so may contain coding that is not best practice.  I am happy for more experienced Python users to feedback any areas that could be improved.  Once I get to understand uploading packages to PyPI I will set up development dependencies.<br>
