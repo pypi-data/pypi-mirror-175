@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: imagination
+Version: 3.3.2
+Summary: "Library for Automatic Dependency Injection"
+Author: Juti Noppornpitak
+Author-email: juti@shiroyuki.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+"Imagination is a reusable component and aspect-oriented programming framework which encapsulates an object into a single object, called containers, inspired by many frameworks, e.g., Symfony Framework in PHP and Spring Framework in Java."
