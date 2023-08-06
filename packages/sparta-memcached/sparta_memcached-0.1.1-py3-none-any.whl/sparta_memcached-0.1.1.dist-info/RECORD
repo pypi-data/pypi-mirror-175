@@ -1,0 +1,12 @@
+sparta_memcached-0.1.1-py3.11-nspkg.pth,sha256=9RAK6QevL_sJWVuwTHAUfcDYzjXvv7DmuT7Pkozj5l4,539
+sparta/memcached/__init__.py,sha256=d7Bopw9iSOlvvPTkDed66y2T1wyeqPya95KkRtGXpQc,108
+sparta/memcached/base.py,sha256=ps03STawGYvyhWOtqNf8wZ-makBAS3u7HBg8Hr1DXtk,3031
+sparta/memcached/client.py,sha256=QNuEobXr6bq_uL0LPamAcJrD7H4vmveLrg8w_2KFTRU,2414
+sparta/memcached/utils.py,sha256=5-BetEjiBzQl6qVo5sNH8PIFoz4iex2uXw3V7ptOISc,1372
+sparta/memcached/wrapper.py,sha256=b6ygGsQWwzGryUzT5wKft--WdAplDn738CXIEtHLYX4,2337
+sparta_memcached-0.1.1.dist-info/LICENSE,sha256=k9W2BZ8UpPo2yWg5Wlfbhvw4LXmtoICNstASc_uj0O4,1070
+sparta_memcached-0.1.1.dist-info/METADATA,sha256=L5bJGv8wphltxEcOvAoBn1JZDgOIyZLSi_6_KlDOMiE,1369
+sparta_memcached-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sparta_memcached-0.1.1.dist-info/namespace_packages.txt,sha256=9rswyiejD5V8XRmuvDo-VtldjpMNe_bJT6-7N4OR2DI,7
+sparta_memcached-0.1.1.dist-info/top_level.txt,sha256=9rswyiejD5V8XRmuvDo-VtldjpMNe_bJT6-7N4OR2DI,7
+sparta_memcached-0.1.1.dist-info/RECORD,,
