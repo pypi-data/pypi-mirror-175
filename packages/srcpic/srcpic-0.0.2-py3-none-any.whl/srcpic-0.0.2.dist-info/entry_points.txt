@@ -1,0 +1,2 @@
+[console_scripts]
+srcpic = srcpic:main
