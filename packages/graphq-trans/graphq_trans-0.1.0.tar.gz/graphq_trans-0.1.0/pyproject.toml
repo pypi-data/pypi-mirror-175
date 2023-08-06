@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name='graphq_trans'
+version='0.1.0'
+requires-python='>=3.6'
+authors=[
+    {name='Lunyiu Nie', email='flitternie@gmail.com'},
+    {name='Jiuding Sun', email='jiuding.sun@gmail.com'},
+]
+description='A Graph Query Language Transpiler'
+readme='README.md'
+classifiers=[
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "antlr4-python3-runtime ~= 4.9.2",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Flitternie/GraphQ_Trans"
+"Demo" = "https://graphqtrans.xlore.cn/"
