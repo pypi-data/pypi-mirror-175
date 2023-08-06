@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: mammutti
+Version: 1.1.0
+Summary: Analyze huge .NET source trees for common errors
+Home-page: https://github.com/vivainio/mammutti
+Author: Ville M. Vainio
+Author-email: vivainio@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
