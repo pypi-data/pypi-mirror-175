@@ -1,0 +1,8 @@
+calc_gabrielrs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+calc_gabrielrs/operacoes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+calc_gabrielrs/operacoes/operacoes_avancadas.py,sha256=gaqcl7O5R_O_tbUU-XDY93GhoZqbewJUGfWlYVGnEE0,159
+calc_gabrielrs/operacoes/operacoes_basicas.py,sha256=oxszPxq2jwwWOozkB7lbq9PsGdX0aGozU21QiFdQKZg,255
+calc_gabrielrs-0.0.1.dist-info/METADATA,sha256=A9aZed6V78E_JNkfZ0qdKSI96ihNE46Hi1qbZJyXbl8,811
+calc_gabrielrs-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+calc_gabrielrs-0.0.1.dist-info/top_level.txt,sha256=iSMOnrcslCpa_xjtSHYm3KAaihXCSi15GfPPWTnzHeU,15
+calc_gabrielrs-0.0.1.dist-info/RECORD,,
