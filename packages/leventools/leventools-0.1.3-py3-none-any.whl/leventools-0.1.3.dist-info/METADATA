@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: leventools
+Version: 0.1.3
+Summary: Package of helper tools for data science and python
+Home-page: UNKNOWN
+Author: Levent Soykan
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy (>=1.23)
+Requires-Dist: pandas (>=1.5)
+Requires-Dist: scikit-learn (>=1.1)
+Requires-Dist: scipy (>=1.9)
+
+UNKNOWN
+
