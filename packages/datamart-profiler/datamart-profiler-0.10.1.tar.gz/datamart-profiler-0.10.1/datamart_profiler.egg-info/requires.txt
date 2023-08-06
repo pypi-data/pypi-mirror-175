@@ -1,0 +1,9 @@
+numpy
+opentelemetry-api
+pandas
+prometheus_client
+python-dateutil
+scikit-learn
+regex
+requests
+datamart-geo<0.4,>=0.2.3
