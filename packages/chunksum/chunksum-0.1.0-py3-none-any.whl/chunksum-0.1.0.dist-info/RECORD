@@ -1,0 +1,8 @@
+chunksum/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chunksum/cdc.py,sha256=2X_ogpfLGzWmlcbiQJxfKAUCuFqKzNsUgrIyh6PbYqA,3277
+chunksum/chunksum.py,sha256=r6p5uEcO43d7Z6Z39eFIJJfNIn5g0RcOYww5I4TBOeY,6841
+chunksum-0.1.0.dist-info/entry_points.txt,sha256=bp9eWqOqO_giMfvb3_WtRGcszxA7kbvRtDoj54ko_1k,51
+chunksum-0.1.0.dist-info/LICENSE,sha256=mAtRveZ1NYzyo4AXHlKaJ6EAsXJpWwGDi8wXfxFZ4NY,1066
+chunksum-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+chunksum-0.1.0.dist-info/METADATA,sha256=6uGhgLdfvNW-aVOTt2kr9Uzq0tN27GWjQRvyDgJPZmE,798
+chunksum-0.1.0.dist-info/RECORD,,
