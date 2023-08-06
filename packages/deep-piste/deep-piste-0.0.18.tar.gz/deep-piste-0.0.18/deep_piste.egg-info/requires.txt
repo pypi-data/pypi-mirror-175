@@ -1,0 +1,10 @@
+kskit
+clipboard
+pyarrow
+ipykernel
+nbconvert
+jupytext
+plotly
+python-gnupg
+fabric
+paramiko
