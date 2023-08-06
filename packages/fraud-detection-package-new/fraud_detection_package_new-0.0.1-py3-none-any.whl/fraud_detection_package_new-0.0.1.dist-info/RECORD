@@ -1,0 +1,8 @@
+fraud_detection_package/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fraud_detection_package/train_or_predict.py,sha256=9QLr8kQK7CBPbAo_6RRdYYS7ehE1GyfMcAMxHQDXO1Q,6694
+fraud_detection_package/util_functions.py,sha256=tlY0hdxonSeGj_xuwKrE03CMJEDXDLGaGiE1jNQrC1E,19466
+fraud_detection_package_new-0.0.1.dist-info/LICENSE,sha256=M2lZn6ER4ukPmjQ6BWYJgDNmODifpiUjfiAkYA7GU9M,1095
+fraud_detection_package_new-0.0.1.dist-info/METADATA,sha256=F32q6ljsjzBvSyOAzv-y_NxHIq0uczWhN-HcEiuh5G8,1130
+fraud_detection_package_new-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+fraud_detection_package_new-0.0.1.dist-info/top_level.txt,sha256=lKnDSg_bufz7e-h6Q5_sZm7quqT4AeJOE7HOAvRhWpA,24
+fraud_detection_package_new-0.0.1.dist-info/RECORD,,
