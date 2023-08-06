@@ -1,0 +1,2 @@
+global-include *.txt, load.py, train.py, preprocess.py, evaluate.py, inference.py, *.joblib
+global-exclude .dist*
