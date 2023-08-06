@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+rdpdf/__init__.py
+rdpdf/pdf2image.py
+rdpdf/pdf2text.py
+rdpdf.egg-info/PKG-INFO
+rdpdf.egg-info/SOURCES.txt
+rdpdf.egg-info/dependency_links.txt
+rdpdf.egg-info/top_level.txt
