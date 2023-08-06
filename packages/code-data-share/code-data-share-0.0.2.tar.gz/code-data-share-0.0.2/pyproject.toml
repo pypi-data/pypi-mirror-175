@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel", "scikit-build", "cmake", "ninja"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.cibuildwheel]
+build = "cp38-* cp39-* cp310-* cp311-*"
+
+[tool.cibuildwheel.linux]
+archs = ["x86_64", "aarch64"]
+
+[tool.cibuildwheel.macos]
+archs = ["x86_64", "universal2", "arm64"]
