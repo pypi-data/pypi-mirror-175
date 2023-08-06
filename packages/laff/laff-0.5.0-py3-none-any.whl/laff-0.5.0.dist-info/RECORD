@@ -1,0 +1,12 @@
+laff/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+laff/__main__.py,sha256=6TuQ459v4IB4HVP_axD1gSKBqU6eRGcZrcPNmZUR11g,134
+laff/bulklc.py,sha256=-zQBNAJkatnbJRrlP1ccbxn4zRNCHXCfl1UqqfjmJsg,2949
+laff/laff.py,sha256=wigsdv3hhHJo1Oal47Q-GFat3K8Kmdq2QkeBwxr6Mno,21420
+laff/lcimport.py,sha256=dyqOyFuc9yN8blEFmouLopOPeIWZH3zOgJslEsqS5o0,3240
+laff/models.py,sha256=-zMpmHFw_tft6iDeXD3CyBSkh2TE2txQ6tgZqDBnNjo,3195
+laff-0.5.0.dist-info/LICENSE,sha256=YF6QR6Vjxcg5b_sYIyqkME7FZYau5TfEUGTG-0JeRK0,35129
+laff-0.5.0.dist-info/METADATA,sha256=rjYF0I064Kz2EN-lIfSETHhE69feS0kZAOaE4Z0S0Ag,600
+laff-0.5.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+laff-0.5.0.dist-info/entry_points.txt,sha256=H7k4_R0p4ybJUKcx1n4cSNXkySmfRWLxEzqiCgXhZhU,40
+laff-0.5.0.dist-info/top_level.txt,sha256=0gK9LDiLNy8Ixyz0f142ukN_ouyfPfWsXwLBHbZVX60,5
+laff-0.5.0.dist-info/RECORD,,
