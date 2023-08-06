@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+sahilsmodule.egg-info/PKG-INFO
+sahilsmodule.egg-info/SOURCES.txt
+sahilsmodule.egg-info/dependency_links.txt
+sahilsmodule.egg-info/top_level.txt

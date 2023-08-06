@@ -1,0 +1,17 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+sahiliscool.egg-info/SOURCES.txt
+sahiliscool.egg-info/dependency_links.txt
+sahiliscool.egg-info/top_level.txt
+sahilsmodule.egg-info/SOURCES.txt
+sahilsmodule.egg-info/dependency_links.txt
+sahilsmodule.egg-info/top_level.txt
+wormy/__init__.py
+wormy.egg-info/PKG-INFO
+wormy.egg-info/SOURCES.txt
+wormy.egg-info/dependency_links.txt
+wormy.egg-info/top_level.txt
