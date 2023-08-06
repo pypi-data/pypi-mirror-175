@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+coralME.egg-info/PKG-INFO
+coralME.egg-info/SOURCES.txt
+coralME.egg-info/dependency_links.txt
+coralME.egg-info/requires.txt
+coralME.egg-info/top_level.txt
+coralme/__init__.py
