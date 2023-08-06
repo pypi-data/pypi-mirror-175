@@ -1,0 +1,10 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+gddsitu/__init__.py
+gddsitu.egg-info/PKG-INFO
+gddsitu.egg-info/SOURCES.txt
+gddsitu.egg-info/dependency_links.txt
+gddsitu.egg-info/requires.txt
+gddsitu.egg-info/top_level.txt
