@@ -1,0 +1,14 @@
+isaac_martin_sdk/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+isaac_martin_sdk/filter.py,sha256=bg-39PcoFhIvezpU0qeCPavtHyPc4XlDGMHlNHOLpQ8,965
+isaac_martin_sdk/resources/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+isaac_martin_sdk/resources/base_resource.py,sha256=92ypfTInGilB5nc3lTopLCcpSjmZWkN25fhyHJpdysk,7510
+isaac_martin_sdk/resources/book.py,sha256=4O-s4lkFwbbaTYOXUVI5rRzVTFC0HwBPCK1AD8cd81Y,2271
+isaac_martin_sdk/resources/chapter.py,sha256=yRaLah67YoFIgKpT2Zsvi_Qadyn1YXCESnug4ogeMcA,402
+isaac_martin_sdk/resources/character.py,sha256=e0R9D3oOCEM7jz607l6jpUBQHSBkXOC_fiVjuq9hIp8,2297
+isaac_martin_sdk/resources/movie.py,sha256=wZxdCt99pg1gUub--etj7wLmw555P3K6P7NzOX5B1iU,2350
+isaac_martin_sdk/resources/quote.py,sha256=409tyEf0KQDxjs0iyXUROXiHn3OOAfGX3JycNH-Xed0,392
+isaac_martin_sdk/sdk.py,sha256=9TzonZ-CQMDdfLPgW059sMRtr3818T_81wUCuZN8LTk,233
+isaac_martin_sdk/sdk_config.py,sha256=jwN4ja1Ttqxnydhq-ZF9zYGGNXY2-fCslkfYjHCursQ,87
+isaac_martin_sdk-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+isaac_martin_sdk-0.1.0.dist-info/METADATA,sha256=TFnLPPiah9NS1VE70NFdTWjNxDyA-mrR2_4nGA46qI8,355
+isaac_martin_sdk-0.1.0.dist-info/RECORD,,
