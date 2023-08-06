@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "max_yaml"
+version = "0.1.0"
+description = "Creates dump, dumps, load, and load function for yaml doc based on the json stdlib."
+authors = ["maxludden <dev@maxludden.com>"]
+license = "MIT"
+readme = "README.html"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+maxconsole = "^0.4.0"
+pyaml = "^21.10.1"
+
+[tool.poetry.scripts]
+max_yaml="myaml:main"
+setup_files="static.setup_files:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
