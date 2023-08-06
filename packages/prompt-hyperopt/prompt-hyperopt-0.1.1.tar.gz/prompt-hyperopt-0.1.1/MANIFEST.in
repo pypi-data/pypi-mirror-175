@@ -1,0 +1,7 @@
+include *.txt
+include tox.ini
+recursive-include examples *.py
+
+# added by check-manifest
+include *.md
+recursive-include assets *.png
