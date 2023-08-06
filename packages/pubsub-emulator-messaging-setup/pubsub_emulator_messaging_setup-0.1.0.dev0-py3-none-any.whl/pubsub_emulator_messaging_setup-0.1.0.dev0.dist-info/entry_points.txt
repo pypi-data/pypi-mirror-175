@@ -1,0 +1,3 @@
+[console_scripts]
+pubsub_emu_setup=pubsub_emulator_messaging_setup.cli:main
+
