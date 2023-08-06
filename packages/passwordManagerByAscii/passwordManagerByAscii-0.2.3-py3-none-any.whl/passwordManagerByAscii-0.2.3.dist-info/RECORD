@@ -1,0 +1,13 @@
+test.py,sha256=WV6nlyiGC01IitUwnsHn2sKLb3qGeQDKtQi6SXSI5-E,1621
+passwordManagerByAscii/____wisdom.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+passwordManagerByAscii/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+passwordManagerByAscii/decoder.py,sha256=QObTjknsvMCf2ZyVziEhr7ooROPOp0ShfP34lwwg7S8,2096
+passwordManagerByAscii/encrypt.py,sha256=8I8fdWM1KQa0MONFFsuF1BPs-aYWoE0_dc5j2WcgJgY,1348
+passwordManagerByAscii/generator.py,sha256=v3P1Y0r-Sf0t4I3zZEGna8DfV_-0cE_lFCvzsPw8Hv8,1021
+passwordManagerByAscii/validate.py,sha256=UMTuxcpYPYBqQFZjFx0d4KJEwRUgat9BZWMcBCevLKg,729
+passwordManagerByAscii-0.2.3.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+passwordManagerByAscii-0.2.3.dist-info/METADATA,sha256=2iqLByfVRFLaNFELUXgqMLcn2SIdFYzXc45ZUxo_L2E,48005
+passwordManagerByAscii-0.2.3.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+passwordManagerByAscii-0.2.3.dist-info/entry_points.txt,sha256=qJ0SI5GV5HHwIArvLfKD8JMt4Vr5TQis07g6VSjSVFw,48
+passwordManagerByAscii-0.2.3.dist-info/top_level.txt,sha256=TvSYs4fsSEixgm6YrQW6TIh6L4InzWM9Ue0mTuS1bF4,28
+passwordManagerByAscii-0.2.3.dist-info/RECORD,,
