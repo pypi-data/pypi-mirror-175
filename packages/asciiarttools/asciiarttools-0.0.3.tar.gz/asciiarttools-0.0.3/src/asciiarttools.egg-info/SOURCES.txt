@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/asciiarttools/__init__.py
+src/asciiarttools/__main__.py
+src/asciiarttools/asciiarttools.py
+src/asciiarttools.egg-info/PKG-INFO
+src/asciiarttools.egg-info/SOURCES.txt
+src/asciiarttools.egg-info/dependency_links.txt
+src/asciiarttools.egg-info/entry_points.txt
+src/asciiarttools.egg-info/requires.txt
+src/asciiarttools.egg-info/top_level.txt
