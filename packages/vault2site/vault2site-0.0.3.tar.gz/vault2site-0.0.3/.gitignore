@@ -1,0 +1,12 @@
+venv/
+g
+*.code-workspace
+.code-workspace
+libs.txt
+.gitignore
+.*
+.env
+post
+app/output-site
+app/vault2site/__pycache__
+
