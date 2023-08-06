@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: public-domains
+Version: 0.0.5
+Summary: Find possible host names in a source text
+Home-page: https://github.com/edsu/public_domains
+Author: Ed Summers
+Author-email: ehs@pobox.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+# public_domains
+
+*public_domains* searches through a text file (preferably a novel like Moby Dick) and looks for possible host names to use. For more about why [Parker Higgins](https://parkerhiggins.net/) created it was created see:
+
+https://parkerhiggins.net/2022/11/public-sub-domains
+
+## Install
+
+```
+$ pip3 install public_domains
+```
+
+## Use
+
+Get a text, e.g. from [Project Gutenberg](https://www.gutenberg.org/):
+
+```
+wget https://www.gutenberg.org/files/2701/2701-0.txt
+```
+
+Run:
+
+```bash
+$ public_domains 2701-0.txt
+
+tattooing.burned.like
+fishermen.technically.call
+violent.scraping.contact
+irregular.between.here
+verbally.developed.here
+mizzen.rigging.like
+eepeningly.contracted.like
+tropic.whaling.life
+trailing.behind.like
+certain.fragmentary.parts
+redundant.yellow.hair
+personality.stands.here
+wicked.miserable.world
+...
+```
+
+If you'd like *public_domains* to check if the domain is available use the the `--check` option:
+
+<img width="800" src="https://raw.githubusercontent.com/edsu/public_domains/main/screenshot.gif">
+
+
+
