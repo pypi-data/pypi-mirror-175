@@ -1,0 +1,3 @@
+[console_scripts]
+nonediag = nonediag.__main__:_entry
+
