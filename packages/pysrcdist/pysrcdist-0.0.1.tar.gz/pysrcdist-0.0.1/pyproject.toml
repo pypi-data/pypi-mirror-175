@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "pysrcdist"
+version = "0.0.1"
+authors = [
+  { name="Lunzhao", email="lunanalects@outlook.com" },
+]
+description = "source code"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/LunAnalects/pysrcdist"
+"Bug Tracker" = "https://github.com/LunAnalects/pysrcdist/issues"
