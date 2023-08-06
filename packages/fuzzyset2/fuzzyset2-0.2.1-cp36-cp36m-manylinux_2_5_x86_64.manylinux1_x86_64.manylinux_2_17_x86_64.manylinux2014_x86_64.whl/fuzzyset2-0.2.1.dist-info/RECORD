@@ -1,0 +1,6 @@
+cfuzzyset.cpython-36m-x86_64-linux-gnu.so,sha256=qNRBJOK2za1Tnaw5xl0PdogOzFsXEHuKQVFvsIWwJ0o,700456
+fuzzyset/__init__.py,sha256=armNCxMTrwPU6F4sraEY1DHkaNv0i-g9bEC8LEeJOe4,3900
+fuzzyset2-0.2.1.dist-info/top_level.txt,sha256=zIRTXD6K1FYlKgy_dSf8ofoSrkqugxSWmnyt2ziAeyQ,19
+fuzzyset2-0.2.1.dist-info/WHEEL,sha256=FxvOBIPWULmQmkts83LAmRSb1PKBOerW3I7FsMSIXDA,221
+fuzzyset2-0.2.1.dist-info/RECORD,,
+fuzzyset2-0.2.1.dist-info/METADATA,sha256=cw7q0TZOEmXvbn5xUb0SZpMxP6hI2Zo4ptbdCYj8SNM,5036
