@@ -1,0 +1,6 @@
+pydantic
+fsspec
+flatdict
+
+[cookiecutter]
+cookiecutter
