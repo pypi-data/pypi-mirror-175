@@ -1,0 +1,8 @@
+setup.py
+nmecpy/helpers.py
+nmecpy/nmecpy.py
+nmecpy.egg-info/PKG-INFO
+nmecpy.egg-info/SOURCES.txt
+nmecpy.egg-info/dependency_links.txt
+nmecpy.egg-info/requires.txt
+nmecpy.egg-info/top_level.txt
