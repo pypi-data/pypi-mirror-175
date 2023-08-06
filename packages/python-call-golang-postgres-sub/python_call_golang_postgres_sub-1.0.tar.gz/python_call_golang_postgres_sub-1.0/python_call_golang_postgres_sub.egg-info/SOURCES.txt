@@ -1,0 +1,5 @@
+setup.py
+python_call_golang_postgres_sub.egg-info/PKG-INFO
+python_call_golang_postgres_sub.egg-info/SOURCES.txt
+python_call_golang_postgres_sub.egg-info/dependency_links.txt
+python_call_golang_postgres_sub.egg-info/top_level.txt
