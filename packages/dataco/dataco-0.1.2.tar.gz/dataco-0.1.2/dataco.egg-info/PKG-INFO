@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: dataco
+Version: 0.1.2
+Summary: tool to interact with data from different storage services
+Home-page: https://github.com/sang-d/data-connector
+Author: SangDinh
+Author-email: sxuan29@gmail.com
+Requires-Python: >=3.4, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+#### Install
+
+```console
+$ python -m pip install dataco
+```
+
+#### Examples
+
+```python
+>>> from dataco import S3, GDrive
+
+>>> s3 = S3('bucket_name')
+>>> df = s3.read_csv('file_name.csv')
+>>> df = s3.read_excel('file_name.xlsx', sheet_name='sheet_name')
+
+>>> drive = GDrive('credential_file')
+>>> files = drive.search_files_by_name('cities.csv')
+
+>>> df = drive.read_csv('csv_file_id')
+>>> df = drive.read_excel('excel_file_id', 'sheet_id')
+```
