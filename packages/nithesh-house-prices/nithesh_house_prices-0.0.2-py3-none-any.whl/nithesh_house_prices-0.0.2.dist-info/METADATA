@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nithesh_house_prices
+Version: 0.0.2
+Summary: DSP Project package to train and predict house prices
+Project-URL: Homepage, https://nithesh-kumarmanimaran.journoportfolio.com/
+Author-email: Nithesh Kumar MANIMARAN <nitheshmanimaran@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
