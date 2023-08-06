@@ -1,0 +1,227 @@
+Metadata-Version: 2.1
+Name: GhettoRecorder
+Version: 2.4.5
+Summary: command line internet radio grabber with listen capabilities
+Author: =?utf-8?q?Ren=C3=A9_Horn?=
+Author-email: rene_horn@gmx.net
+License: =?utf-8?q?MIT_License?=
+ =?utf-8?b?ID09PT09PT09PT09?=
+ =?utf-8?q?_?=
+ =?utf-8?b?IENvcHlyaWdodCAoYykgWzIwMjJdIFtSZW7DqSBIb3JuXQ==?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_Permission_is_hereby_granted=2C_free_of_charge=2C_to_any_person_obtaining_a_copy?=
+ =?utf-8?q?_of_this_software_and_associated_documentation_files_=28the_=22Software=22=29=2C_to_deal?=
+ =?utf-8?q?_in_the_Software_without_restriction=2C_including_without_limitation_the_rights?=
+ =?utf-8?q?_to_use=2C_copy=2C_modify=2C_merge=2C_publish=2C_distribute=2C_sublicense=2C_and/or_sell?=
+ =?utf-8?q?_copies_of_the_Software=2C_and_to_permit_persons_to_whom_the_Software_is?=
+ =?utf-8?q?_furnished_to_do_so=2C_subject_to_the_following_conditions=3A?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_The_above_copyright_notice_and_this_permission_notice_shall_be_included_in_all?=
+ =?utf-8?q?_copies_or_substantial_portions_of_the_Software=2E?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_THE_SOFTWARE_IS_PROVIDED_=22AS_IS=22=2C_WITHOUT_WARRANTY_OF_ANY_KIND=2C_EXPRESS_OR?=
+ =?utf-8?q?_IMPLIED=2C_INCLUDING_BUT_NOT_LIMITED_TO_THE_WARRANTIES_OF_MERCHANTABILITY=2C?=
+ =?utf-8?q?_FITNESS_FOR_A_PARTICULAR_PURPOSE_AND_NON_INFRINGEMENT=2E_IN_NO_EVENT_SHALL_THE?=
+ =?utf-8?q?_AUTHORS_OR_COPYRIGHT_HOLDERS_BE_LIABLE_FOR_ANY_CLAIM=2C_DAMAGES_OR_OTHER?=
+ =?utf-8?q?_LIABILITY=2C_WHETHER_IN_AN_ACTION_OF_CONTRACT=2C_TORT_OR_OTHERWISE=2C_ARISING_FROM=2C?=
+ =?utf-8?q?_OUT_OF_OR_IN_CONNECTION_WITH_THE_SOFTWARE_OR_THE_USE_OR_OTHER_DEALINGS_IN_THE?=
+ =?utf-8?q?_SOFTWARE=2E?=
+ =?utf-8?q?_?=
+Project-URL: homepage, https://github.com/44xtc44
+Project-URL: documentation, https://GhettoRecorder.readthedocs.io/
+Project-URL: repository, https://github.com/44xtc44/GhettoRecorder
+Keywords: aac recovery,aac repair
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Multimedia :: Sound/Audio :: Capture/Recording
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENSE.rst
+Requires-Dist: aacRepair (~=0.3)
+Requires-Dist: certifi (~=2021.10.8)
+Requires-Dist: configparser (~=5.0.2)
+Provides-Extra: testing
+Requires-Dist: pytest (>=6.0) ; extra == 'testing'
+Requires-Dist: pytest-cov (>=2.0) ; extra == 'testing'
+Requires-Dist: mypy (>=0.9.10) ; extra == 'testing'
+Requires-Dist: flake8 (>=3.9) ; extra == 'testing'
+Requires-Dist: tox (>=3.24) ; extra == 'testing'
+Requires-Dist: sphinx ; extra == 'testing'
+Requires-Dist: sphinx-rtd-theme ; extra == 'testing'
+
+Documentation - GhettoRecorder
+==============================
+command line internet radio grabber with listen capabilities
+
+Info
+----
+| Can read and write removable, network and local storage.
+| Professional AAC Audio File Recovery during operation.
+| Type ``$ ghettorecorder`` to display the menu.
+| Package folder can be copied elsewhere, run ``cmd.py`` from there.
+|
+| Multiple menu options are available:
+|   * Custom save path (written to config)
+|   * Blacklist, grab only once (written to config)
+|   * Store config file elsewhere and store grabbed content in 'Custom save path' (elsewhere)
+|   * Offline AACP repair, AAC repair files https://aacrepair.readthedocs.io/
+
+Links
+^^^^^
+* Snap: https://snapcraft.io/ghettorecorder
+* GitHub: https://github.com/44xtc44/GhettoRecorder
+* Issues to fix: https://github.com/44xtc44/GhettoRecorder/issues
+* ReadTheDocs: https://ghettorecorder.readthedocs.io/ (see module index)
+
+Configuration File
+------------------
+'Settings.ini' is the config file for GhettoRecorder.
+INI files consist of sections to divide different settings.
+
+
+| [STATIONS] is used for radio connection information
+| anime_jp = ``http://streamingv2.shoutcast.com/japanimradio-tokyo``
+
+| [GLOBAL] stores blacklist status and the parent save directory location
+| blacklist_enable = ``True``
+| save_to_dir = ``f:\31``
+
+Usage
+-----
+Main Menu
+^^^^^^^^^
+::
+
+    menu 'Main'
+    1 -- Record (local listen option)
+    2 -- Change parent record path
+    3 -- Enable/disable blacklists
+    4 -- Set path to config, settings.ini
+    5 -- aac file repair
+    6 -- Exit
+
+
+Record Menu
+^^^^^^^^^^^
+::
+
+    0 	>> aacchill             <<
+    1 	>> 80ies_nl             <<
+    2 	>> anime_jp             <<
+    3 	>> blues_uk             <<
+    4 	>> br24                 <<
+    ...
+    Enter to record -->:
+
+| Write the leading Number (list index) into the input field . Hit 'Enter'.
+| OR
+| Write or copy/paste the radio name into the input field. Hit 'Enter'.
+| Add as many radios as you like.
+| Hit 'Enter' without input to start grabbing.
+| Listen to the first selected radio via local streaming ``http://localhost:1242/``
+
+Change parent record path Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+::
+
+    option 'Change record parent path'
+    1 -- New parent path for recorded radios. Write to config.
+    2 -- Back to Main Menu
+    Enter your choice: 1
+
+        Write a new path to store files
+    ..settings.ini [GLOBAL] section: {'blacklist_enable': 'True', 'save_to_dir': 'f:\\31'}
+    Enter a new path, OS syntax (f:\10 or /home ) -->:
+
+The default path is the directory of the module.
+In most cases you want to store grabbed files somewhere else.
+
+Blacklist Menu
+^^^^^^^^^^^^^^
+::
+
+    Write a new blacklist option to settings.ini file
+    ..settings.ini [GLOBAL] section: {'blacklist_enable': 'True', 'save_to_dir': 'f:\\31'}
+    1 -- blacklist on (don't write title if already downloaded)
+    2 -- blacklist off
+    3 -- Back to Main Menu
+    Enter your choice: 1
+
+    	blacklist is ON: settings.ini file
+    	Existing titles are not recorded again and again.
+    file name is "blacklist.json" in the same folder as "settings.ini"
+    ..settings.ini [GLOBAL] section: {'blacklist_enable': 'True', 'save_to_dir': 'f:\\31'}
+    Hit Enter to leave -->:
+
+| Blacklist writing can be switched on/off.
+| Titles are listed for each of the radios and can be deleted to 'unlist' them.
+| File name is ``blacklist.json`` and always in the same folder as 'settings.ini'.
+
+
+Set path to config
+^^^^^^^^^^^^^^^^^^
+::
+
+    Write Path to settings.ini and blacklist.json file
+    Enter a new path, OS syntax (f:\10 or /home ) -->: F:\44
+    	created: F:\44
+    ..settings.ini [GLOBAL] section: {'blacklist_enable': 'True'}
+    Hit Enter to leave -->:
+
+| You can store your config file 'settings.ini' somewhere on the file system.
+| Default place for grabbed files is the mentioned folder.
+| If a custom save path is written to config, this path is used.
+
+
+aac file repair
+^^^^^^^^^^^^^^^
+::
+
+    Write a path to aac files. Only aac files will be touched.
+    ..settings.ini [GLOBAL] section: {'blacklist_enable': 'True', 'save_to_dir': 'f:\\31'}
+    Enter a path, OS syntax (f:\10 or /home ) -->:f:\6aac
+    	created: f:\6aac
+    	f:\6aac\aac_repair created
+    [ COPY(s) in f:\6aac\aac_repair ]
+    ----- 1 file(s) failed -----
+    f:\6aac\Sergey Sirotin & Golden Light Orchestra - Around The World.aacp
+    ValueError non-hexadecimal number found in fromhex() arg at position 5438113
+    ----- 97 file(s) repaired -----
+    f:\6aac\111_Slovo_Original_Mix.aac; cut(bytes): [330]
+    f:\6aac\351 Lake Shore Drive - You Make My Day.aacp; cut(bytes): [389]
+
+| The repair option uses a folder name as input.
+| Repaired files are stored in 'aac_repair' sub folder.
+| Cut bytes count is shown at the end of the line.
+| Repair can fail if the file is corrupted not only at start or end.
+
+
+Pip Install
+^^^^^^^^^^^
+::
+
+   """ Linux """
+   $ pip3 install ghettorecorder
+
+   """ Windows """
+   > pip install ghettorecorder
+
+
+Uninstall
+^^^^^^^^^
+
+Python user
+
+ * find the module location
+ * uninstall and then remove remnants
+
+remove::
+
+   >$ pip3 show ghettorecorder
+   >$ pip3 uninstall ghettorecorder
+
+Location: ... /python310/site-packages
