@@ -1,0 +1,22 @@
+[project]
+name = "url_cleaner"
+version = "0.1.5"
+authors = [
+  { name="phoenix000", email="phoenix000.taipei@gmail.com" },
+]
+description = "A package for removing tracing parameters from URLs. This package supports automatically updating filtering rules from Adguard"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/fireindark707/url_cleaner"
+"Bug Tracker" = "https://github.com/fireindark707/url_cleaner/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
