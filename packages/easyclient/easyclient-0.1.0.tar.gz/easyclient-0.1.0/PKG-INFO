@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: easyclient
+Version: 0.1.0
+Summary: A simple boilerplate for making REST API clients.
+Home-page: https://github.com/nwithan8/easyclient
+Download-URL: https://github.com/nwithan8/easyclient/archive/refs/tags/0.1.0.tar.gz
+Author: Nate Harris
+Author-email: n8gr8gbln@gmail.com
+License: GNU General Public License v3 (GPLv3)
+Keywords: API,client,JSON,Pydantic,REST,boilerplate
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Multimedia
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+A simple boilerplate for making REST API clients
