@@ -1,0 +1,15 @@
+{
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "jp-mainmenu-help",
+        "items": [
+          {
+            "command": "ui-profiler:open",
+            "rank": 500
+          }
+        ]
+      }
+    ]
+  }
+}
