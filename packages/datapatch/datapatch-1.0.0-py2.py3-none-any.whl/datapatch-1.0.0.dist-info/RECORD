@@ -1,0 +1,13 @@
+datapatch/__init__.py,sha256=j1FQOBSEyGz0hVWfz3WqsGqL-J2S_mRBvWhH2YleZeg,751
+datapatch/exc.py,sha256=EFFI-RghBljZGm2wifeXd4rYjBXUhZhc3GA0H0cm9X8,567
+datapatch/lookup.py,sha256=LjhNVAW3Spas3646R1UI-g-QWxeWR-KR7i3nwM7q7mM,2222
+datapatch/option.py,sha256=fl0rZfDphv3IZmAv1GWR4jQYyvG1r8eQBGs61JzzGL4,2308
+datapatch/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datapatch/result.py,sha256=5emjDvnuugIw7BR2B3qGvCjvJ-x83lscId3VrQhh2fY,886
+datapatch/util.py,sha256=71bTg-MTKFOZdGcBTB8MNzIifUjqhZG3c3_MUVsJWU0,830
+datapatch-1.0.0.dist-info/LICENSE,sha256=F8S44dG5G6StrgH2f59cOU_ipt0ymQyO---E2I8uLVU,1077
+datapatch-1.0.0.dist-info/METADATA,sha256=t1qfoG1bZlzRGGnC_7H9ZcIgAl_35ApVyiyn-nke4P8,3356
+datapatch-1.0.0.dist-info/WHEEL,sha256=Ow1Agppnny4NfvfZK4t6N-TUVQfFCpnFCb5wBX-uuec,110
+datapatch-1.0.0.dist-info/namespace_packages.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+datapatch-1.0.0.dist-info/top_level.txt,sha256=xYvpZzH54Xd7mTFAbG1DbLccA5qAUQZtil2wfUFSc0s,10
+datapatch-1.0.0.dist-info/RECORD,,
