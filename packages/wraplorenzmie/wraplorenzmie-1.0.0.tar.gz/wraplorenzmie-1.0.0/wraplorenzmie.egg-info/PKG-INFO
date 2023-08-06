@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: wraplorenzmie
+Version: 1.0.0
+Summary: A package to easely fit movies using pylorenzmie.
+Author: Maxime Lavaud
+Author-email: Maxime Lavaud <lavaudmaxime.ml@gmail.com>
+Project-URL: Homepage, https://github.com/eXpensia/wraplorenzmie
+Project-URL: Bug Tracker, https://github.com/eXpensia/wraplorenzmie/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# wraplorenzmie
+
+A simple wrapper that uses the pylorenzmie package in order to fit full movies.
+https://github.com/davidgrier/pylorenzmie
+
+all necessary packages should be found in the requirments.get_next_data
+
+just do : ```pip install -r requirments.txt```
+Holopy needs to be installed through conda : ```conda install -c conda-forge holopy```
+
+
+## Webapp
+
+To try out the fitting of a single image, you can use the webapp provided in the [here](webapp/)
