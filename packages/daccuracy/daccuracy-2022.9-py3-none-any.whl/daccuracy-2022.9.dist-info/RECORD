@@ -1,0 +1,12 @@
+daccuracy/daccuracy.py,sha256=F8CH3oNqh5tiAYa1WG8oa3TPLohqKhU4trZPXeNOdTI,6813
+daccuracy/brick/arguments.py,sha256=2zAdnd6BapbrMnImNa95IVzQXCLy0_vbcnAgEKJV8Ng,13416
+daccuracy/brick/csv_io.py,sha256=UbWryDKZyG2gw_XfKeWmL0SnbA2FtnOBg07aWiDNy_4,3071
+daccuracy/brick/image.py,sha256=i6IfpOBmT7PtH6mNv6SLSAZUBcNQaPbYLOLkklhp_4U,3144
+daccuracy/brick/input.py,sha256=7t-4YDK4Kymn_ZaHO5Bhz_XTkgLN5NQM3xxewTJrhvo,10033
+daccuracy/brick/measures.py,sha256=b-08EUwDE-f010nwA9t-QhodVaqw9hoEvDl0aZnh1WI,9242
+daccuracy/brick/output.py,sha256=4nXykUCRm_wNT091Xr8-oPR8bmsAPwROb6TLmtBgqQs,4590
+daccuracy-2022.9.dist-info/METADATA,sha256=uMuSebIa54D8Qgaq25nrhIgkAUS_gA5D6PdmXFIF1hI,10290
+daccuracy-2022.9.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+daccuracy-2022.9.dist-info/entry_points.txt,sha256=k1ZB4W9ismh3ytN2cJXY42VjgqC3-NWVaze8mDr-0NI,134
+daccuracy-2022.9.dist-info/top_level.txt,sha256=osZGZGzsG7IQwZDYhNBDTjcyc3_0g4Oy11Nx-rDDQZU,10
+daccuracy-2022.9.dist-info/RECORD,,
