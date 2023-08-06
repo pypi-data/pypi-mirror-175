@@ -1,0 +1,4 @@
+ipydrawio==1.2.2
+
+[test]
+pytest
