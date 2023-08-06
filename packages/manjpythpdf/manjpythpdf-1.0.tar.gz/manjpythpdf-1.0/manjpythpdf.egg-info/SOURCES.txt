@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+manjpythpdf/__init__.py
+manjpythpdf/pdf2image.py
+manjpythpdf/pdf2text.py
+manjpythpdf.egg-info/PKG-INFO
+manjpythpdf.egg-info/SOURCES.txt
+manjpythpdf.egg-info/dependency_links.txt
+manjpythpdf.egg-info/top_level.txt
