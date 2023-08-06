@@ -1,0 +1,2 @@
+[console_scripts]
+infCreate = InterfaceCreator.cli:create_interface
