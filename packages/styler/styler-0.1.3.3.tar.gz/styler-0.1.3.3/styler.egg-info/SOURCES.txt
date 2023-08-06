@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+styler/__init__.py
+styler.egg-info/PKG-INFO
+styler.egg-info/SOURCES.txt
+styler.egg-info/dependency_links.txt
+styler.egg-info/top_level.txt
