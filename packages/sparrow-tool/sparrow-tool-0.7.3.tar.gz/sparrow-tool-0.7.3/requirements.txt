@@ -1,0 +1,26 @@
+pyyaml
+colour
+pendulum
+twine
+colorlog
+concurrent-log-handler
+Deprecated
+fire
+Faker>=13.0.0
+fake-headers
+rich
+orjson
+ordered-set
+attrs
+chevron
+asciinema
+psutil==5.9.2
+GitPython
+httpie
+pysnooper
+typer
+schedule
+docker
+# zigzag # identifying the peaks and valleys of a time series
+#aiortc
+#memray

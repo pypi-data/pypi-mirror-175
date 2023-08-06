@@ -1,0 +1,8 @@
+pandas
+numpy
+ray
+ml-collections>=0.1.1
+marisa-trie>=0.7.8
+pyahocorasick>=1.4.4
+# whylogs
+#modin[all] # accelerate pandas
