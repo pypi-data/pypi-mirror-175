@@ -1,0 +1,19 @@
+area-detector-handlers
+bluesky
+databroker
+inflection
+intake<=0.6.4
+ipython
+matplotlib
+numconv
+numpy
+ophyd
+peakutils
+pymongo
+pyqt5>=5.9
+requests
+# These requirement should be installed from the 'nsls2forge' or 'conda-forge' conda channel.
+# shadow3
+# srwpy
+tfs-pandas
+unyt
