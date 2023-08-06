@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/arithmeticTrainer.egg-info/PKG-INFO
+src/arithmeticTrainer.egg-info/SOURCES.txt
+src/arithmeticTrainer.egg-info/dependency_links.txt
+src/arithmeticTrainer.egg-info/entry_points.txt
+src/arithmeticTrainer.egg-info/requires.txt
+src/arithmeticTrainer.egg-info/top_level.txt
+src/team1ArithmeticTrainer/__init__.py
+src/team1ArithmeticTrainer/__main__.py
+src/team1ArithmeticTrainer/functions.py
