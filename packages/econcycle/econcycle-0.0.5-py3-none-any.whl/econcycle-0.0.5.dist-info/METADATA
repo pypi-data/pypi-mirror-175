@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: econcycle
+Version: 0.0.5
+Summary: econcycle package
+Home-page: https://github.com/skwon2345/market-cycle
+Author: Sukkwon On
+Author-email: skwon2345@gmail.com
+License: MIT
+Keywords: econcycle
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: finnhub-python (==2.4.15)
+
+# Market Cycle
+
+This package is to define ecnomical cycle for a given timeframe.
