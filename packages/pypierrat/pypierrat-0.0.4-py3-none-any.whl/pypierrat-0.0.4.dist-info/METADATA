@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pypierrat
+Version: 0.0.4
+Summary: Personnal Librairie - Jules Pierrat
+Home-page: https://github.com/JulesPierrat/pypierrat
+Author: JulesPierrat
+Author-email: jules.pierrat.98@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# pypierrat
+My Personal Python Librairie
