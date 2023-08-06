@@ -1,0 +1,13 @@
+getlooks/Makefile,sha256=PKDTALefcAjMyQdW0HLzeClk5Kqf9hcyHvmGsfQOeg8,413
+getlooks/__init__.py,sha256=Zn1KFblwuFHiDRdRAiRnDBRkbPttWh44jKa5zG2ov0E,22
+getlooks/cli.py,sha256=lIH4Tl4KNE-jIehER1XGCRfNMO1gT67Uo464pBGaapE,2895
+getlooks/core.py,sha256=KgFp4-bvNEXwHs1sfHRSxUjKONj7X7x3Po5tM6VyzOI,8153
+getlooks/looks.py,sha256=pbELaF5u7HpFi6iKqA-bEGN3_z4jgV1G8Pe-81z1dfI,7741
+getlooks/looks_path.py,sha256=wKy2TnLuaUbfAM9tRl_q-b8wOmjAcLelzDtEfe1PxhA,1323
+getlooks/requirements.txt,sha256=t-mrDnjBpjlCyL7RIZtur_UJ9v_98LshKvn1u0xko6w,48
+getlooks/utils.py,sha256=NDdLu17N2zUer2DcGxSoaPjDK3LBKUNrSzZ6nv23Wuo,7226
+gnomelooks-0.2.0.dist-info/entry_points.txt,sha256=CHNtRMPfrez34Z5e8teJqIvdfLLaLBtAmv9MEwC84R0,47
+gnomelooks-0.2.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+gnomelooks-0.2.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+gnomelooks-0.2.0.dist-info/METADATA,sha256=UqNZLOf4FATiPVsGsWB8oCVAlrJOuS4iI6gl5KNEv44,2148
+gnomelooks-0.2.0.dist-info/RECORD,,
