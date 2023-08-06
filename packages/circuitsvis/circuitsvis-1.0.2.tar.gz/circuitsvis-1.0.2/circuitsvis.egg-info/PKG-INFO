@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: circuitsvis
+Version: 1.0.2
+Summary: Mechanistic Interpretability Visualizations using React
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE.txt
+
+# Circuits Vis
+
+Mechanistic Interpretability visualizations.
