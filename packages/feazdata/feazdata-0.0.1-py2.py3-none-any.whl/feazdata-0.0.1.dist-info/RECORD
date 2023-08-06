@@ -1,0 +1,8 @@
+feazdata/__init__.py,sha256=vRLcVz25oUYfOnX2e3J1VJEhhp1S5NQlxNezjXRBdjc,216
+feazdata/data/ames.csv,sha256=gRKaPj5zOPNxIuVo8MxAeazq6whHY-0iUao_yA8pbtM,1270920
+feazdata/data/flights.csv,sha256=ew9dG9lJJuZxCNSM1hUu2kOwBku_oj3btP9u750Fcmw,76996
+feazdata-0.0.1.dist-info/LICENSE,sha256=EPPvuMMHxUtciG_G8F4bEQrMmSPYB4yTh1Ib8UeUQL8,1069
+feazdata-0.0.1.dist-info/METADATA,sha256=xRjOkP70SkyeFDeN2f7paVD7Aoi6-PGqfjZwA3HAJH4,868
+feazdata-0.0.1.dist-info/WHEEL,sha256=unfA4MOaH0icIyIA5oH6E2sn2Hq5zKtLlHsWapZGwes,110
+feazdata-0.0.1.dist-info/top_level.txt,sha256=Twtx3BnFgORstKeoKRsp2o3Iimxf-jJlmul3vBSSl_M,9
+feazdata-0.0.1.dist-info/RECORD,,
