@@ -1,0 +1,11 @@
+likepy/__init__.py,sha256=11O-nhTXhNYN5Tg8JoRHUog6ddEn9ZzldBjRTOdVa9A,475
+likepy/exceptions.py,sha256=JC2XRvaGGMQTBgjGWkagcXcamiPq8up6a_A9VH0Mwqk,41
+likepy/helpers.py,sha256=IQSfy0DT7RAvIuwtti3TURxQ4XwK0f9b4-J6HVngbEk,1144
+likepy/restricted.py,sha256=eOGXqIhlCzxyV35epV4qYzR6Eu9wTqS0xbgmI0LxiU4,5960
+likepy/restricted_builtins.py,sha256=W7FOKu3IjmPgEayK1dC1uvTJBh8q3_CVuWwqUGcaDzM,9823
+likepy/transformer.py,sha256=9qI0RpFlR7UEeYKv9KyXsv42L0JTZ1wgtjtHoGo-n5Y,41587
+likepy-0.2.0.dist-info/LICENSE,sha256=HhpmbC2xnFGbSWQTvv670c851lCXTLMj8KRRBnyAaHU,1064
+likepy-0.2.0.dist-info/METADATA,sha256=rh2IuSX58IuJLScry38nwRKiaVqzCIqD0Vsjo2RtDFA,1309
+likepy-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+likepy-0.2.0.dist-info/top_level.txt,sha256=DVTq-ZLp-_XxtXRVdRI3AfsRyBj5ozfNCwSkKjdz0b8,7
+likepy-0.2.0.dist-info/RECORD,,
