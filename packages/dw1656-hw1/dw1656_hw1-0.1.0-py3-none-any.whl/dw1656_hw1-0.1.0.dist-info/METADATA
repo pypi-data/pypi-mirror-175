@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: dw1656-hw1
+Version: 0.1.0
+Summary: Homework1 library
+Home-page: https://deeshanw.com/
+Author: Deeshan Wassan
+Author-email: dw1656@nyu.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# dw1656_hw1
+A small demo library created for Data Engineering homework, to obfuscate the Polygon API key from the main method.
+
+### Installation
+```
+pip install dw1656-hw1
+```
+
+### Get started
+How to retrieve the required Polygon API key with this lib:
+
+```Python
+from dw1656_hw1 import PolygonAPIKey
+
+# Retrieve the API key
+api_key = PolygonAPIKey.get_polygon_api_key()
+```
+
