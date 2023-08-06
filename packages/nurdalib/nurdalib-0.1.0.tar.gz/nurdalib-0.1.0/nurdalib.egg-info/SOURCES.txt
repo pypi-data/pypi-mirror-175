@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+nurdalib/__init__.py
+nurdalib/main.py
+nurdalib/table_functions.py
+nurdalib.egg-info/PKG-INFO
+nurdalib.egg-info/SOURCES.txt
+nurdalib.egg-info/dependency_links.txt
+nurdalib.egg-info/requires.txt
+nurdalib.egg-info/top_level.txt

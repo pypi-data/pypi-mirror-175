@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: nurdalib
+Version: 0.1.0
+Summary: Homework 1 library
+Home-page: https://engineering.nyu.edu/
+Author: Nurdaulet Kaldanov
+Author-email: nk3194@nyu.edu
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+**Description**
+This library was created for Data Engineering Homework 1 (MG-GY 8411) by Professor De Oliveira 
+at the NYU Tandon School of Engineering. This library contains the main() function with the API key 
+for Polygon from the code of Max Maximilian, a former student at NYU Tandon.
+
+**Installation**
+pip install nurdalib
