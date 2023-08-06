@@ -1,0 +1,16 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+compose_tags/__init__.py
+compose_tags/apps.py
+compose_tags/node.py
+compose_tags/tag.py
+compose_tags/templatetags/__init__.py
+compose_tags/templatetags/compose.py
+django_compose_tags.egg-info/PKG-INFO
+django_compose_tags.egg-info/SOURCES.txt
+django_compose_tags.egg-info/dependency_links.txt
+django_compose_tags.egg-info/not-zip-safe
+django_compose_tags.egg-info/requires.txt
+django_compose_tags.egg-info/top_level.txt
