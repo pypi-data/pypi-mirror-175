@@ -1,0 +1,8 @@
+geoip/__init__.py,sha256=-R3u8PYE0j69pHYO9pZyVrvClJ-6rAew1ab_hxk_5A8,30
+geoip/__main__.py,sha256=yooYeoSKcQsvsEiGhvbSY6lMaBtH6vQgcAv3GSBeM6I,13
+geoip/lookup.py,sha256=-pm4s8ZF9s4uNxwtlNVCzepqMdE2NqIacXlFDHe46qw,305
+Surfy.GeoIP-1.0.0.dist-info/LICENSE.TXT,sha256=V9mzjxrhBmo7kFo5Cbw9DkfY-bhQAgv2sfaXgB8MHDA,1106
+Surfy.GeoIP-1.0.0.dist-info/METADATA,sha256=3KqbbDiAQs5Dtd9vfDJhFi-JWUHG5vYxd8wKuUl7Vsk,2791
+Surfy.GeoIP-1.0.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+Surfy.GeoIP-1.0.0.dist-info/top_level.txt,sha256=aLHM2j3gzfQvkeKPWqfs5Y6sVIsJJwhlDC2oxQoF84A,6
+Surfy.GeoIP-1.0.0.dist-info/RECORD,,
