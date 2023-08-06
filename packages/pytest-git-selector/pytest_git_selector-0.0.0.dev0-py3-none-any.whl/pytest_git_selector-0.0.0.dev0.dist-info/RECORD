@@ -1,0 +1,9 @@
+pytest_git_selector/cmd.py,sha256=YZhoDkGFwGPUNojWEIQn_bTKpt-4_eZKYz5Hm1ticXM,2476
+pytest_git_selector/plugin.py,sha256=NXpnE17IfStmBqkVSUf9KChC5Hg13DEm0oNmUX8GPlw,2338
+pytest_git_selector/selector.py,sha256=GUrJRJ2kKPkfItg4w2uzefCCI8fYxLqkcc3saoMKSUM,3583
+pytest_git_selector/util.py,sha256=7aiVcfx2PYBTHEztw4GcnIbR5P90pfiudlzIf04-VDI,650
+pytest_git_selector-0.0.0.dev0.dist-info/METADATA,sha256=PLXjrrfxwjJIWnCBgbd73aHjE1dHnT73HhY4Hb28NuQ,4088
+pytest_git_selector-0.0.0.dev0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+pytest_git_selector-0.0.0.dev0.dist-info/entry_points.txt,sha256=QP0YixdroPw3_3yYz3ftBNCb6aP2Kche1Rc16kpZZEc,120
+pytest_git_selector-0.0.0.dev0.dist-info/top_level.txt,sha256=G1bQGHDuQxGOU8_HOEhvax59YPzo87oytpzVq1YDudM,20
+pytest_git_selector-0.0.0.dev0.dist-info/RECORD,,
