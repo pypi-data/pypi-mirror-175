@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/tafuta/__init__.py
+src/tafuta/paka.py
+src/tafuta.egg-info/PKG-INFO
+src/tafuta.egg-info/SOURCES.txt
+src/tafuta.egg-info/dependency_links.txt
+src/tafuta.egg-info/top_level.txt
