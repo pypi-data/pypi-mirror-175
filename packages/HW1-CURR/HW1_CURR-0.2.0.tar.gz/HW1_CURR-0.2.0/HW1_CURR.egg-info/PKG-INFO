@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: HW1-CURR
+Version: 0.2.0
+Summary: daisy hw1
+Home-page: https://github.com/daisyc620/HW1_CURR
+Author: DAISY CHEN
+Author-email: xc1288@nyu.edu
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

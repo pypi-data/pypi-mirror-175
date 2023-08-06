@@ -1,0 +1,9 @@
+README.md
+setup.py
+HW1_CURR/HW1_CURR.py
+HW1_CURR/__init__.py
+HW1_CURR.egg-info/PKG-INFO
+HW1_CURR.egg-info/SOURCES.txt
+HW1_CURR.egg-info/dependency_links.txt
+HW1_CURR.egg-info/requires.txt
+HW1_CURR.egg-info/top_level.txt
