@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README
+setup.py
+deep_personality.egg-info/PKG-INFO
+deep_personality.egg-info/SOURCES.txt
+deep_personality.egg-info/dependency_links.txt
+deep_personality.egg-info/top_level.txt
+dpcv/__init__.py
