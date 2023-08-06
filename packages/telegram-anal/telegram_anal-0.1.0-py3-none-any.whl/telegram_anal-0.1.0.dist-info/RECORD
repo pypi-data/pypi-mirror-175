@@ -1,0 +1,10 @@
+telenal/.env,sha256=DpkR2bafB8VZIaBNr4eEdRu0EICFBUx8mYpueHq8YaQ,334
+telenal/__init__.py,sha256=5isQ-Y19mQ9GCnVuKRX3scyPoq_gU0eXrQzXGu7zryU,146
+telenal/account.py,sha256=rqUtJyMLicobcyhmr74TepjmUQAEmlazKT3vjV_n3aA,6
+telenal/client.py,sha256=YQaU6a9TcSkg9F4UlTYkjCYEsoeiCBhNtI9-7K6V-cc,3406
+telenal/my_account.session,sha256=jcSG9vwMVQl_95uluAZoci4ZFHrzio3za8EJl1o0pMI,393216
+telenal/reactions.py,sha256=OIDVsa7zkEYsaF5NrXIFlDnQo5pWBZBObz_YMm5fi0M,3481
+telenal/teleplotter.py,sha256=MskEJBdsgbj2Ksa7V-wFy6_xzOeVIb_dEQZrs6qSRD8,935
+telegram_anal-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+telegram_anal-0.1.0.dist-info/METADATA,sha256=FDVeOTkbEBvIt9HQOJ9pBjtfTHHBHUl6ldcX8uNCiMY,2726
+telegram_anal-0.1.0.dist-info/RECORD,,
