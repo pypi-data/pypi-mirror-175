@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: rqt-record
+Version: 0.0.1
+Summary: Cyber record visualization tool
+Home-page: https://github.com/daohu527/rqt_record
+Author: daohu527
+Author-email: daohu527@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/daohu527/rqt_record/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: PyQt5
+Requires-Dist: cyber-record
+
+# rqt_record
+Apollo record visualization
+
+
