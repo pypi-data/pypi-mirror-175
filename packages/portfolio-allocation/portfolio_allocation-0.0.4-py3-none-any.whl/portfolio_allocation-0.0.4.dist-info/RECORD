@@ -1,0 +1,16 @@
+portfolio_allocation/__init__.py,sha256=wK7jTQezjFHWRiY6-BM_KeHtGW5X-mOzJYonekU6WG4,33
+portfolio_allocation/cli.py,sha256=Rl7EOQ3hYLl9cZnckojnFrfc5jG4x3Bt1e96Cptwcyo,1662
+portfolio_allocation/gnucash.py,sha256=lQ9AGFLVRxZ3P6_1XYDy7U0B4Vo9PO1N12GPPwU66Ng,1006
+portfolio_allocation/instruments/__init__.py,sha256=oD3ZCPL73k6GIywJsgo8Iky9qTF-n9YdaQOw8BQi45w,572
+portfolio_allocation/instruments/currencies.py,sha256=O0esbUT9oey8fk78YtKL_EUO9BnKoFh_FRj2Cqd_ZZ4,832
+portfolio_allocation/instruments/funds.py,sha256=tKqnq4ehNsNcCsJCTeIFdCIzO-SQ1yWl0CMyWiIVLi8,2696
+portfolio_allocation/instruments/securities.py,sha256=KFMv-buS4slaGwRETVHoQ9jhKIIFHaBYjns6-dAjg14,1091
+portfolio_allocation/instruments/util.py,sha256=T4uWQ_xQ84VBoOiaD1Kj3PjGpmIm2QL4b967lz4Up7Q,309
+portfolio_allocation/report/__init__.py,sha256=PMTxzhyLO--eyUhluAJwG2XqUkPBVda7ns-13_7qwKU,56
+portfolio_allocation/report/report.py,sha256=BOP-2KQ39wVtc0Pk9e8xM9GwgGXs_PEgHqyJvoPgu74,3028
+portfolio_allocation-0.0.4.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+portfolio_allocation-0.0.4.dist-info/METADATA,sha256=VGA7bbSN4Fa5rDsWbs7LArAMtBns08UoN5a4LUE2_n0,1123
+portfolio_allocation-0.0.4.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+portfolio_allocation-0.0.4.dist-info/entry_points.txt,sha256=oOK2e7hgzEvWfBJXqcsphro_AVrTcbbKCRB9lStkoX4,71
+portfolio_allocation-0.0.4.dist-info/top_level.txt,sha256=XtZABT0pbEN1vuPRnDCSZ4OWfOlKIfKYmXNt-Bqz8iw,21
+portfolio_allocation-0.0.4.dist-info/RECORD,,
