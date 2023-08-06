@@ -1,0 +1,11 @@
+aiocorenlp/__init__.py,sha256=1HV80wWLqUSqE80o1zmbNbCuUwmIcwvaGmq3mS5vBLs,2052
+aiocorenlp/async_corenlp_server.py,sha256=Vw82UxDkTEmyHu3ptBOH-5yG486yvlCwI_8WN4NkaCg,3999
+aiocorenlp/async_corenlp_socket.py,sha256=ADSQDBt_X-ltcloIiTCGcRVrgAtKS-MC1GKBLXe3alY,4381
+aiocorenlp/async_ner_server.py,sha256=x8MsKc2C9MM4cwin2oVrjAybK1-eWhMxa2pwHT8U4RY,646
+aiocorenlp/async_pos_server.py,sha256=ZPq3ET_T_q3HwaG2_ajtLOYD6kwgO2hUbPNHmxi86ZU,682
+aiocorenlp/version.py,sha256=d4QHYmS_30j0hPN8NmNPnQ_Z0TphDRbu4MtQj9cT9e8,22
+aiocorenlp-1.0.1.dist-info/LICENSE.md,sha256=duLFR4EUQZmbE-INUZbmqvJiNglnaN_o-f3VoLArL6g,1076
+aiocorenlp-1.0.1.dist-info/METADATA,sha256=mKW0Af-fkl0ouxvVMzVt5gd2i4KWMdxtqFTrrpgcxEM,5635
+aiocorenlp-1.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+aiocorenlp-1.0.1.dist-info/top_level.txt,sha256=iS5DD3nQPPZkiKSfb_bxwTM7sLFm-8Vl3KiyB6tMz_4,11
+aiocorenlp-1.0.1.dist-info/RECORD,,
