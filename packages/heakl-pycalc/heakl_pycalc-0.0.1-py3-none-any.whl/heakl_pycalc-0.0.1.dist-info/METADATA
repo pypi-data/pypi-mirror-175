@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: heakl-pycalc
+Version: 0.0.1
+Summary: Read the simple api for calculations
+Author-email: Ahmed Heakl <ahmed.heakl@ejust.edu.eg>
+Keywords: calculations,addition,subtraction
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: build
+Requires-Dist: build ; extra == 'build'
+Requires-Dist: twine ; extra == 'build'
+Provides-Extra: dev
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: bumpver ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+
