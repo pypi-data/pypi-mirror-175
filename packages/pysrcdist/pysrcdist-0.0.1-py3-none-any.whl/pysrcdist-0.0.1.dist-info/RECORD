@@ -1,0 +1,10 @@
+ar/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ar/apache-arrow-9.0.0.zip,sha256=-yRp6b_rPppF8eMIb1NqMp1ZoO_TyQVDbTtujdAwvkE,23419500
+ar/folly-v2022.10.31.00.zip,sha256=ofakX1oExG7wJiGMPaKacmI7mmjE6wvlQtJoV1FP9zI,5329611
+ar/tbb-v2021.7.0.zip,sha256=Vf5BHQSu_EzIHpo45THt27Av9ZiogGwOdY4LWypQm4A,3320730
+ar/thrift-v0.17.0.zip,sha256=neDqxCercYXmlYuOIPQAZSuJHFn-tnQz_MTPqcTGANA,4987547
+pysrcdist-0.0.1.dist-info/LICENSE.txt,sha256=ceC9ZJOV9H6CtQDcYmHOS46NA3dHJ_WD4J9blH513pc,1081
+pysrcdist-0.0.1.dist-info/METADATA,sha256=ooPF0nslp2ga40Hh9qELf3nrPEgySKsV_PWXclY2pgg,654
+pysrcdist-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+pysrcdist-0.0.1.dist-info/top_level.txt,sha256=K3uZJ5jk08sEHiH4-594pc3AhrdrHiXijuSovRdycNw,3
+pysrcdist-0.0.1.dist-info/RECORD,,
