@@ -1,0 +1,17 @@
+AUTHORS.rst
+CHANGES.rst
+LICENSE
+MANIFEST.in
+README.rst
+dev-requirements.txt
+setup.cfg
+setup.py
+dpac_tcxparser.egg-info/PKG-INFO
+dpac_tcxparser.egg-info/SOURCES.txt
+dpac_tcxparser.egg-info/dependency_links.txt
+dpac_tcxparser.egg-info/not-zip-safe
+dpac_tcxparser.egg-info/requires.txt
+dpac_tcxparser.egg-info/top_level.txt
+tcxparser/__init__.py
+tcxparser/exceptions.py
+tcxparser/tcxparser.py
