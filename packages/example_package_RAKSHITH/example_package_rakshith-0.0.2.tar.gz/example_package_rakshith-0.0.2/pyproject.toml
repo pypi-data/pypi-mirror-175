@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "example_package_RAKSHITH"
+authors = [
+  { name="Rakshith C.R.M", email="rakshithcrm@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["version"]
+
+
+[tool.hatch.version]
+path = "example_package_RAKSHITH/__about__.py"
+
+[tool.coverage.run]
+branch = true
+parallel = true
+omit = [
+  "packaging_tutorial_hatch/__about__.py",
+]
+
+[tool.hatch.build.targets.sdist]
+exclude = [
+  "/.github",
+  "/docs",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["example_package_RAKSHITH/"]
