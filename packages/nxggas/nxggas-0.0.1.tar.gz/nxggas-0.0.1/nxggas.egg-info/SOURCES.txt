@@ -1,0 +1,7 @@
+setup.py
+nigga/__init__.py
+nxggas.egg-info/PKG-INFO
+nxggas.egg-info/SOURCES.txt
+nxggas.egg-info/dependency_links.txt
+nxggas.egg-info/requires.txt
+nxggas.egg-info/top_level.txt
