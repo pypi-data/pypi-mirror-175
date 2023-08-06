@@ -1,0 +1,6 @@
+include *.ini
+include *.rst
+include LICENSE
+include MANIFEST.in
+recursive-include pytest_quickcheck *.py
+recursive-include tests *.py
