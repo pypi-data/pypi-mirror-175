@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+src/pdflayoutxt/__init__.py
+src/pdflayoutxt/main.py
+src/pdflayoutxt/utils.py
+src/pdflayoutxt.egg-info/PKG-INFO
+src/pdflayoutxt.egg-info/SOURCES.txt
+src/pdflayoutxt.egg-info/dependency_links.txt
+src/pdflayoutxt.egg-info/requires.txt
+src/pdflayoutxt.egg-info/top_level.txt
