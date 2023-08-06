@@ -1,0 +1,2 @@
+[console_scripts]
+svgpdtools = svgpdtools.terminal_command:main
