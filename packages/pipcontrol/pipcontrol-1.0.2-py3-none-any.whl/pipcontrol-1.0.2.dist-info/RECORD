@@ -1,0 +1,8 @@
+manager/__init__.py,sha256=chBSzfHbJvXNFtB98G0CZSvqYXoIs1uUvZAE56muchg,1183
+manager/manager.py,sha256=2s8LFOfYvQpb8E_aS9UuGRVbQPxEdq9n7W7aIdZFFTQ,3329
+pipcontrol/__init__.py,sha256=chBSzfHbJvXNFtB98G0CZSvqYXoIs1uUvZAE56muchg,1183
+pipcontrol/manager.py,sha256=2s8LFOfYvQpb8E_aS9UuGRVbQPxEdq9n7W7aIdZFFTQ,3329
+pipcontrol-1.0.2.dist-info/METADATA,sha256=hBSYOT3Jd4SaNXGz5q6vhr4y593vp34UP4SgMvumKNs,1211
+pipcontrol-1.0.2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+pipcontrol-1.0.2.dist-info/top_level.txt,sha256=aoLIRPjHZlnOQSVclxIqnHH2hdafh9iWx082-NUaPEQ,11
+pipcontrol-1.0.2.dist-info/RECORD,,
