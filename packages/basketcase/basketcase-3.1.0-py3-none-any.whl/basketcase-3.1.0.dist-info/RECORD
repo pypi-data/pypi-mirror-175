@@ -1,0 +1,11 @@
+basketcase/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+basketcase/__main__.py,sha256=H01PBOdzoD45EqHCG4Q_dp9ADLEtDdGdcs3MJo4dO08,724
+basketcase/authenticator.py,sha256=lBQx9HzVXdaVfkwrLSkDVEH_9Z_tA05T0Uf5qD-Vomk,5226
+basketcase/basketcase.py,sha256=MCdLbA3jBNqjJmfIvNQCB-oF4u751fImgz57nHDSJcI,2377
+basketcase/extractor.py,sha256=14uUAuHOPIjyJfFk-o4KDjPk_zJiYYWkNWadVy6TT2s,4126
+basketcase/storage.py,sha256=xyVKXMjhrFu9tUU_D1rcWf9R9G1p2t0OR8C8k82m3BM,3212
+basketcase-3.1.0.dist-info/METADATA,sha256=rhq7kUeLrUMI9gSa1RcRGAIIZlPuVgMbLaUl36EoEsA,3637
+basketcase-3.1.0.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+basketcase-3.1.0.dist-info/entry_points.txt,sha256=3o6YbRcrXHLHf1f9mhwjMjbWoWv-tcDRBkHPVvnO_PU,56
+basketcase-3.1.0.dist-info/licenses/LICENSE,sha256=hFU-c1eP4nN-EArsdiGexRWkKBc0Ic4fm8elfb-0vAs,1062
+basketcase-3.1.0.dist-info/RECORD,,
