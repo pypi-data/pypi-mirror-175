@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: aiaa-framework
+Version: 0.0.4.post1
+Summary: Framework for Koerber Python AI-AA team to simplify data IO and cloud usage.
+Author: Körber Supply Chain Software
+Maintainer: Körber Supply Chain Software
+License: Apache 2.0
+License-File: LICENSE.md
