@@ -1,0 +1,15 @@
+aio9p/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aio9p/constant.py,sha256=OqmuDnBeBRmrHeb1fo0Lw2Q5GC8UIzX84mr4Ck2crNs,3990
+aio9p/dialect/Py9P2000.py,sha256=KiiQGih--SwVUoskI1dN6DFdpKAZz8oSrTTrZ5d45SI,9858
+aio9p/dialect/Py9P2000u.py,sha256=PnM1s6-LDhV4wocu5KbIfP6HL88ZqT0zLJdvpZlwqdo,6488
+aio9p/dialect/__init__.py,sha256=YsM2pX5qnhdoB-bP8Crdm5JbhvINsAWPZM_3dkpVPz8,147
+aio9p/example/__init__.py,sha256=4so6W9G76dET2AfA_SQvdb5iKZm8givt3K0oYu6iLUc,1018
+aio9p/example/simple.py,sha256=5Zwubz0jVs9qrMbY9LZBBlgaBA-ClhISkIK75Sr25GA,9204
+aio9p/example/simple_u.py,sha256=_LVJRt42Sbs0mhweEN5XW3m0mse0UkDPRMe61NPYRSE,5818
+aio9p/helper.py,sha256=hBsnaVuqXE8A64XLTc2XNJUCAmFBG3UWpxd8irFASMo,2943
+aio9p/protocol.py,sha256=ADrx77uSpa_LXHs9hXhVpvGjJDqju83B5d59EzWsiSU,4746
+aio9p/stat.py,sha256=8dC83VSPz-_JcQVP3ro-_Yih8NQS3DtkGicRWz-Fo5g,7391
+aio9p-0.2.0.dist-info/LICENSE,sha256=DZak_2itbUtvHzD3E7GNUYSRK6jdOJ-GqncQ2weavLA,34523
+aio9p-0.2.0.dist-info/WHEEL,sha256=bbU3AyvhQ312rVm7zzRQjs6axI1UYWC3nmFA2E6FFSI,88
+aio9p-0.2.0.dist-info/METADATA,sha256=4UPEtvul2LTvRfAlo-Uaep7cBb8jJDbsXOax1MW8OO8,761
+aio9p-0.2.0.dist-info/RECORD,,
