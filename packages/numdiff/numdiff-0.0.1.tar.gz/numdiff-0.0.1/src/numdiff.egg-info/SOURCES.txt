@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+src/numdiff/__about__.py
+src/numdiff/__init__.py
+src/numdiff/log.py
+src/numdiff.egg-info/PKG-INFO
+src/numdiff.egg-info/SOURCES.txt
+src/numdiff.egg-info/dependency_links.txt
+src/numdiff.egg-info/requires.txt
+src/numdiff.egg-info/top_level.txt
+test/test.py

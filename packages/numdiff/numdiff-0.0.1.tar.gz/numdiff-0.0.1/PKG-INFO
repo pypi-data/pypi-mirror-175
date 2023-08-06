@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: numdiff
+Version: 0.0.1
+Summary: Numerical backends in Python
+Home-page: https://gitlab.com/benvial/numdiff
+Author: Benjamin Vial
+License: GPL-3.0-or-later
+Project-URL: Code, https://gitlab.com/benvial/numdiff
+Project-URL: Documentation, https://gitlab.com/benvial/numdiff
+Project-URL: Issues, https://gitlab.com/benvial/numdiff/issues
+Keywords: numerical backends,auto-differentiation,linear algebra
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Provides-Extra: gpu
+Provides-Extra: magma
+
+
+
+=================================================================
+numdiff: a package for easily switching Python numerical backends
+=================================================================
+
+
+
+License
+=======
+
+
+
+This software is published under the `GPLv3 license <https://www.gnu.org/licenses/gpl-3.0.en.html>`_.
+
+

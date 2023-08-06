@@ -1,0 +1,16 @@
+numpy>=1.9
+scipy>=1.0
+autograd>=1.4
+jax
+jaxlib
+torch
+colorlog
+
+[:python_version < "3.8"]
+importlib_metadata
+
+[gpu]
+jax[cuda]
+
+[magma]
+scikit-cuda
