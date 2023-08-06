@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gacha-exp-calc
+Version: 1.0.0rc0
+Summary: See readme
+Author-email: Dg_Han <1500723170@qq.com>
+Project-URL: Homepage, https://github.com/Dg-Han/gacha-expectation
+Project-URL: Bug Tracker, https://github.com/Dg-Han/gacha-expectation/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Other/Nonlisted Topic
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
