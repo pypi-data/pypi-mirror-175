@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.cfg
+setup.py
+arSort/__init__.py
+arSort.egg-info/PKG-INFO
+arSort.egg-info/SOURCES.txt
+arSort.egg-info/dependency_links.txt
+arSort.egg-info/top_level.txt
