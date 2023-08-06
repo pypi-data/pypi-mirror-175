@@ -1,0 +1,12 @@
+demonlist/__init__.py,sha256=ip-jv4zZCa7B2DJJlZpRScGeALqMvxSnXSl_HZnOx8k,34
+demonlist/client.py,sha256=bjDchvfAhDbm7KM7mJ6uKGd5VGSux6_I1eXpbe2BJjM,1979
+demonlist/demonlist.py,sha256=qQEd8KXOyGMC3ACI_EmkVsAP0o5cTdcle_gpKf0Q4Oo,19090
+demonlist/endpoints.py,sha256=PhRA6IaMiUt_1ALN9DtDAkM4WCkuSys9lKKIXKII9jc,2286
+demonlist/enums.py,sha256=9XDJx2Smo-dtXUOuy04SHJeKYqJlkiyxttfFJLCUoz4,1369
+demonlist/exceptions.py,sha256=UMDR1WZpzdGmp60sgg5CEKTUvoq0VkWQrVa_bm7ENJs,274
+demonlist/utils.py,sha256=m2iyCgKlTy9LkuqJcQ6PK8CgIDLVlhx_dCFEZKoRly0,2190
+demonlist-0.11.dist-info/LICENSE,sha256=KM26E_2DEetDgUfYLAeUcaOFI87oBF6PHPRbHewIXY0,1071
+demonlist-0.11.dist-info/METADATA,sha256=poVXWYF_3FQ9qh7Ea1kzbLoG_4QgPGyN1HLpkwiiX4I,438
+demonlist-0.11.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+demonlist-0.11.dist-info/top_level.txt,sha256=O3-UGOMApnBhRFKV3mlWSYgCV4OYFm4TbTdlp_Z60E4,10
+demonlist-0.11.dist-info/RECORD,,
