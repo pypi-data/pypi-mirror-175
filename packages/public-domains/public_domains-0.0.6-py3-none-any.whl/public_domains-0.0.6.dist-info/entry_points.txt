@@ -1,0 +1,2 @@
+[console_scripts]
+public_domains = public_domains:main
