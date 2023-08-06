@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+XTLLib/SetVars.py
+XTLLib/__init__.py
+XTLLib.egg-info/PKG-INFO
+XTLLib.egg-info/SOURCES.txt
+XTLLib.egg-info/dependency_links.txt
+XTLLib.egg-info/requires.txt
+XTLLib.egg-info/top_level.txt
