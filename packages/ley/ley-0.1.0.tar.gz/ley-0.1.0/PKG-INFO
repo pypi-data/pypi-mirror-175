@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: ley
+Version: 0.1.0
+Summary: A package for communicating with the Citadel backend.
+License: MIT
+Author: Miles van der Lely
+Author-email: milesvanderlely@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: jsonschema (>=4.17.0,<5.0.0)
+Requires-Dist: websockets (>=10.4,<11.0)
+Description-Content-Type: text/markdown
+
+# citadel
+
+A package for communicating with the Citadel backend.
+
+## Installation
+
+```bash
+$ pip install citadel
+```
+
+## Usage
+
+- TODO
+
+## Contributing
+
+Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
+
+## License
+
+`citadel` was created by Miles van der Lely. It is licensed under the terms of the MIT license.
+
+## Credits
+
+`citadel` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+
