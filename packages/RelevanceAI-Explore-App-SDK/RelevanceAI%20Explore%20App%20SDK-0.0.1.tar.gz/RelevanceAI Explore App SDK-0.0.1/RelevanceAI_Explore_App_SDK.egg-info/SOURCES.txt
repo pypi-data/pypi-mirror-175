@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+RelevanceAI_Explore_App_SDK.egg-info/PKG-INFO
+RelevanceAI_Explore_App_SDK.egg-info/SOURCES.txt
+RelevanceAI_Explore_App_SDK.egg-info/dependency_links.txt
+RelevanceAI_Explore_App_SDK.egg-info/requires.txt
+RelevanceAI_Explore_App_SDK.egg-info/top_level.txt
+src/__init__.py
+tests/__init__.py
