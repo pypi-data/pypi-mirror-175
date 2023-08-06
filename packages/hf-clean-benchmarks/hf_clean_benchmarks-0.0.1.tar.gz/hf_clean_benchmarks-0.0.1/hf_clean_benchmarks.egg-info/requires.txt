@@ -1,0 +1,6 @@
+datasets
+datasketch
+fastcore
+rich
+
+[dev]

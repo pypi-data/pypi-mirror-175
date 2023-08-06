@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+hf_clean_benchmarks/__init__.py
+hf_clean_benchmarks/_modidx.py
+hf_clean_benchmarks/cli.py
+hf_clean_benchmarks/core.py
+hf_clean_benchmarks.egg-info/PKG-INFO
+hf_clean_benchmarks.egg-info/SOURCES.txt
+hf_clean_benchmarks.egg-info/dependency_links.txt
+hf_clean_benchmarks.egg-info/entry_points.txt
+hf_clean_benchmarks.egg-info/not-zip-safe
+hf_clean_benchmarks.egg-info/requires.txt
+hf_clean_benchmarks.egg-info/top_level.txt
