@@ -1,0 +1,8 @@
+rclone_manager/__init__.py,sha256=3goJNJdH_eDQw1WYj67q4ut69hYm5hpzBjAfQsyzcVM,84
+rclone_manager/rclone.py,sha256=ijkPKT738DgtJLCTGIeil7x3ILrtEpl-CHUa7IR9ngE,2170
+rclone_manager/task.py,sha256=zTdqiy1vB2G9YKi_uR7hP8KqZ7RdsaxsxWWDM1ub55o,930
+rclone_manager-0.0.2.dist-info/LICENSE,sha256=fxuL5kofnFGhEGZGm-ielhS4SbJWnu-Mu-7DBvFyh-k,1072
+rclone_manager-0.0.2.dist-info/METADATA,sha256=ufeNPMijU4h_4isueXCy9G-QqOeipjjjofCi4QrD6bw,1273
+rclone_manager-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+rclone_manager-0.0.2.dist-info/top_level.txt,sha256=bolHy3EiDkiLdbBhPY-_gFbK_D1_SzkXHi0yawf4FdQ,15
+rclone_manager-0.0.2.dist-info/RECORD,,
