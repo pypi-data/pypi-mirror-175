@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: wotoplatform
+Version: 0.0.25
+Summary: 
+Home-page: https://github.com/ALiwoto/wotoplatform-Py
+Keywords: api
+Author: AliWoto
+Author-email: woto@kaizoku.cyou
+Requires-Python: >=3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: pydantic (>=1.8.2)
+Requires-Dist: pysocks (>=1.7.1)
+Description-Content-Type: text/markdown
+
+
+### python library for woto-platform
+
