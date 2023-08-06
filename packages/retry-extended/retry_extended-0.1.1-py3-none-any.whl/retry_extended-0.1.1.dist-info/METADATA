@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: retry-extended
+Version: 0.1.1
+Summary: Retry API compatible extended library
+Home-page: https://github.com/strollby/retry-extended
+License: Apache-2.0
+Keywords: retry,retry-extended,python-retry
+Author: Strollby Developers
+Author-email: backend.developers@strollby.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Bug Tracker, https://github.com/strollby/retry-extended/issues
+Project-URL: Documentation, https://github.com/strollby/retry-extended
+Project-URL: Repository, https://github.com/strollby/retry-extended
+Description-Content-Type: text/markdown
+
+# Retry Extended
+[![Lint](https://github.com/strollby/retry-extended/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/strollby/retry-extended/actions/workflows/lint.yml)
+[![Test Package](https://github.com/strollby/retry-extended/actions/workflows/test.yml/badge.svg)](https://github.com/strollby/retry-extended/actions/workflows/test.yml)
+
+
+
+Retry API compatible maintained project
+
