@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: nalogapi
+Version: 0.1.0
+Summary: Unofficial synchronous wrapper for lknpd.nalog.ru API written in Python
+License: MIT
+Author: Mike Ovchinnikov
+Author-email: mixao@yandex.ru
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: requests (>=2.28.1,<3.0.0)
+Description-Content-Type: text/markdown
+
+# Неофициальная синхронная обёртка для API сервиса lknpd.nalog.ru на Python.
+
+Служит для автоматизации отправки информации о доходах самозанятых и получения информации о созданных чеках.
+
+Inspired by [https://github.com/alexstep/moy-nalog](https://github.com/alexstep/moy-nalog)
+
+## Использование
+Установите пакет
+```bash
+pip install nalogapi
+```
+
+Инициализаци и авторизация
+```python
+from nalogapi import NalogAPI
+NalogAPI.configure("inn", "password") #password that used in lkfl
+```
+
+Отправка информации о доходе
+```python
+NalogAPI.addIncome(datetime.utcnow(), 1.0, "Предоставление информационных услуг #970/2495")
+```
+
+Функция возвращает ссылку на чек вида [https://lknpd.nalog.ru/api/v1/receipt/344111066022/200egltxe8/print](https://lknpd.nalog.ru/api/v1/receipt/344111066022/200egltxe8/print)
