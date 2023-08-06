@@ -1,0 +1,14 @@
+esbonio/tutorial.py,sha256=fcIcU0EIOqkoX0mOFw3BiNtd37V6R7nSYvYLX8Td8XE,20384
+esbonio/relevant_to/__init__.py,sha256=W3dQ8m5K0nJefUcDMoRTdqh_P_vW757-pnqrTDGc5ik,6232
+esbonio/tutorial_demo/extensions/tutorial/formatting-example.ipynb,sha256=viNmiLkjfXheTs4wwDMBBxbGbmzhh2Ns6nsWoulcCUs,7326
+esbonio/tutorial_demo/extensions/tutorial/hello-world.ipynb,sha256=EGmdO-1Zjwf4iOMg0Fk9JXeiWjLGqT_jWJAXHhyPIpg,453
+esbonio/tutorial_demo/extensions/tutorial/solution-example.ipynb,sha256=TI7eEvRtdzCAe2ghGQP95x5lmdN9zKs0EkYO1fnaclc,4498
+esbonio/tutorial_demo/resources/extensions/tutorial/formatting-example/vscode-screenshot.png,sha256=OE0zZdQYaC1pq6e-UiCYSXExP-HDANtQk9GMi6ygPuA,404453
+esbonio/tutorial_demo/resources/extensions/tutorial/solution-example/solution-example-soln-01.py,sha256=srHU2opq_ILS0OvQjp1W3cq2_XjU2cLUxoEJWim23-o,36
+esbonio/tutorial_demo/resources/extensions/tutorial/solution-example/solution-example-soln-02.py,sha256=XrFxFMJZXf98JoOXUYf2YvrqEKSGTvvNGLahdKzRBq8,525
+esbonio/tutorial_demo/resources/extensions/tutorial/solution-example/solution-example-soln-03.py,sha256=GQE2t5H1Sv0HRD6yhIWV0j5LmiKjD6-ZtVfClad82Vg,97
+esbonio_extensions-0.2.2.dist-info/LICENSE,sha256=-F3I9VFOt13JHqw-4tKIN5FresFxlCV5b-fdghhv7pY,1068
+esbonio_extensions-0.2.2.dist-info/METADATA,sha256=F1E-nv4oxs1BoUBAKiIpFi3w-iFifDessey-V3afNvw,1301
+esbonio_extensions-0.2.2.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+esbonio_extensions-0.2.2.dist-info/top_level.txt,sha256=PTKOVzn-MCju7LM_jsbK1aRTFJfAUeyWDB8NrNj7JmI,8
+esbonio_extensions-0.2.2.dist-info/RECORD,,
