@@ -1,0 +1,13 @@
+ks_constants/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ks_constants/devs.py,sha256=3VMOtQE6S8CbmPAw6ZFkl_DqLT7u_Xx8z3yTB9HC6fA,246
+ks_constants/locale.py,sha256=wCBNOK9lJJ5Dfj6qcxk7c0xSyM1DaKSDRYYkkOEB6QU,87
+ks_constants/map_switch.py,sha256=ppVb3Do949Tb6MDr4UFEJ8DAVcDaB-JKvTJtLgMEmTI,838
+ks_constants/maps.py,sha256=j63BN2cjt2YODIdHrV73ReNZkb64uZFtyuusBNqnh1g,5652
+ks_constants/regions.py,sha256=ZPm8UWSH5ewzYMEWPyo_I7ibctgiCF-_ybyfkrEdPpg,912
+ks_constants/roles.py,sha256=q05WDzMef2_hfsMu5ucJdoauOwLNJzq7Q3Ce67bycek,7789
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/basic_tests.py,sha256=pGBSE-d3pUeW3BF336h2dx5R7bhKGpnbL-MzvIMYsVs,1828
+KS_Constants-1.2.16.dist-info/METADATA,sha256=VbKBCXVNiMhq6DC_VRd4tlRCsvtqu6LoznS-rRQzw6E,237
+KS_Constants-1.2.16.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+KS_Constants-1.2.16.dist-info/top_level.txt,sha256=TinE6l8s8X2bJW1rzHIF0PVUlzcTygSX5bHBeLaJYPI,19
+KS_Constants-1.2.16.dist-info/RECORD,,
