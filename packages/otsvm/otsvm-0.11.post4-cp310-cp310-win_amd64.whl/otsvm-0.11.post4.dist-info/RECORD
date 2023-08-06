@@ -1,0 +1,7 @@
+otsvm/_otsvm.pyd,sha256=FRAT2Z4vYtywBdzgk0j2uUW1t-WFTUu3EYnPm-JphEc=,947547
+otsvm/otsvm.py,sha256=RK1n7i8ASW4K6BzR1JN_V5nFHdu7nustIW0qPnb4ny4=,35765
+otsvm/libotsvm.dll,sha256=0Fc1BPRKmKTz4gzIzNSuJFlWb0YEuVHcrMORhqZFGp0=,543468
+otsvm/__init__.py,sha256=XGal9iYASEUURcmcro60osxaCTUnC1fK2j9gR-MEpwE=,638
+otsvm-0.11.post4.dist-info/WHEEL,sha256=AZhNL47hR_4Dc3F35inmFwmd8WvMxgxS_8qQcNYgCEE=,66
+otsvm-0.11.post4.dist-info/RECORD,,
+otsvm-0.11.post4.dist-info/METADATA,sha256=Z3yuhkLTZ93250ks1JR9z0DnwN5hFQE2wFihROpf9w4=,1657
