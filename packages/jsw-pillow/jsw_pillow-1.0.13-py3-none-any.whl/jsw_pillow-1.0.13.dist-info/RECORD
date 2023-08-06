@@ -1,0 +1,8 @@
+jsw_pillow/__init__.py,sha256=dSS5SFAAeAIGboR6koMGTnrchVRH5n1w5lUjMsdUi6g,176
+jsw_pillow/modules/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+jsw_pillow/modules/fonts/qnhghp.ttf,sha256=1W5iX2XNXHNIXjGDGkbGEqC2gNLbEDiGUnCG_vPXQlY,4247512
+jsw_pillow/modules/im2b64.py,sha256=bxplPXcRDk21sFQDX4MU9Op5Oa_w1i1sEOa6HasSy38,164
+jsw_pillow/modules/watermark.py,sha256=kbrKyZLPDq-WgYBy6mrsAiTbq1DXVY1rWTo0vgUtUi4,7842
+jsw_pillow-1.0.13.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+jsw_pillow-1.0.13.dist-info/METADATA,sha256=NEG7Y1jYKLkctaarwVzkpex1pZB3Ge6qEcozc5Q3aOg,1438
+jsw_pillow-1.0.13.dist-info/RECORD,,
