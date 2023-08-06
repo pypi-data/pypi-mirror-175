@@ -1,0 +1,2 @@
+[console_scripts]
+releaserabbit = releaserabbit:main
