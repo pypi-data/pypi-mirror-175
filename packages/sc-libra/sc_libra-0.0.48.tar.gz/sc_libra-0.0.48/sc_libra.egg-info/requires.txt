@@ -1,0 +1,10 @@
+anndata
+numpy
+pandas
+leidenalg
+tensorflow
+keras
+scanpy
+scipy
+sklearn
+rpy2
