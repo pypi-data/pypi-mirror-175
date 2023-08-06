@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling", "matplotlib"]
+build-backend = "hatchling.build"
+[project]
+name = "dsagraph"
+version = "0.0.5"
+authors = [
+  { name="Aryan Koul", email="aryankoul290301@gmail.com" },
+  { name="Manaswee Koli", email="manasweekoli@gmail.com" },
+  { name="Jignesh Mathure", email="jigmaths2487@gmail.com" },
+  { name="Mithun Kuthully", email="kuthully.mithun@gmail.com" },
+]
+description = "This is a graph library which allows user to make a graph, plot the graph and also make a adjacency list and matrix of the graph."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Aryan-Koul29/DsaGraph"
+"Bug Tracker" = "https://github.com/Aryan-Koul29/DsaGraph/issues"
