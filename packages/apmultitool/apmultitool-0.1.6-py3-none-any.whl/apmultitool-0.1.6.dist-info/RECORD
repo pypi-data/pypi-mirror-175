@@ -1,0 +1,14 @@
+multitool/__init__.py,sha256=HKo2bLAHxKY2LpH1Ca42iDHMC9n5snu-IKS6WmO80mE,34
+multitool/__main__.py,sha256=eX9b7q3VUKUCBAXl2bHNaFJ8gJfbGEKGAFhC6deebkQ,110
+multitool/cli.py,sha256=41F-o0ractoQZt7MzFefHYHRoC8xmrgBszv7HPBmpMM,5087
+multitool/runner.py,sha256=vZn0x5dlmZjJoi4xGpomrSKpnFfzNQaKlc-HU181yoU,11719
+multitool/version.py,sha256=rPSfWgIeq2YWVPyESOAwCBt8vftsTpIkuLAGDEzyRQc,22
+multitool/assets/Synonyms.json,sha256=hmESoJPJa4zrAgUovFOxDK1c-4YqTlsFMt6ylEaWgSQ,19007701
+multitool/assets/Words_Frequency.json,sha256=5juSvMwa9VY9ppxHDqj4Y63gPY39yuRalIS-fooIxP0,512547
+multitool/assets/Words_Length.json,sha256=Z-ixw-cYTCVFQ9B6O3-VTL7IDFoJy1FFIBQLW2PfDb8,391173
+apmultitool-0.1.6.dist-info/LICENSE,sha256=TBgUQwbanviy0aPxyVZGfpRPMiWgGrehjuGwGCjThlo,1121
+apmultitool-0.1.6.dist-info/METADATA,sha256=B02OsC1x8LUHN2uCqIhi0-Xml7RO0-wIR5Alk2-AbB0,4332
+apmultitool-0.1.6.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+apmultitool-0.1.6.dist-info/entry_points.txt,sha256=oepwbhGqHGi1ae-5EpaUsqZAy5G8dj5iov8H9haN7OM,80
+apmultitool-0.1.6.dist-info/top_level.txt,sha256=m5htEMt-s30vWPmkmIyK7w6RCFJzyZLvK1WcGjRofDE,10
+apmultitool-0.1.6.dist-info/RECORD,,
