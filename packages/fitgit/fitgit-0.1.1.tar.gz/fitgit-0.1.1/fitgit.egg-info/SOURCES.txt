@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+fitgit/Commit.py
+fitgit/__init__.py
+fitgit/_api_functions.py
+fitgit/_json_stringify_deterministic.py
+fitgit/version.py
+fitgit.egg-info/PKG-INFO
+fitgit.egg-info/SOURCES.txt
+fitgit.egg-info/dependency_links.txt
+fitgit.egg-info/requires.txt
+fitgit.egg-info/top_level.txt
