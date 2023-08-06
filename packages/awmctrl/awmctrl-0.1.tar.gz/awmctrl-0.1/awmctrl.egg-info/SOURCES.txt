@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+awmctrl.py
+pyproject.toml
+awmctrl.egg-info/PKG-INFO
+awmctrl.egg-info/SOURCES.txt
+awmctrl.egg-info/dependency_links.txt
+awmctrl.egg-info/entry_points.txt
+awmctrl.egg-info/requires.txt
+awmctrl.egg-info/top_level.txt
