@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: tardir
+Version: 0.0.1
+Author-email: James Addison <james@reciperadar.com>
+License: AGPL-3.0-or-later
+Project-URL: Homepage, https://pypi.org/project/tardir/
+Project-URL: Source, https://github.com/openculinary/tardir.git/
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# RecipeRadar TARDIR
+
+Time And Relative Dimensions In Recipes
+
+TARDIR is a collection management and assessment engine for food recipes sourced from the World Wide Web.
