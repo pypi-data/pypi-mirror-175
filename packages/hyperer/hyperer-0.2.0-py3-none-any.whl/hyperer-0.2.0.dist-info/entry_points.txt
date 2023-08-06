@@ -1,0 +1,4 @@
+[console_scripts]
+hyperer-cargo=hyperer.cargo:main
+hyperer-rg=hyperer.rg:main
+
