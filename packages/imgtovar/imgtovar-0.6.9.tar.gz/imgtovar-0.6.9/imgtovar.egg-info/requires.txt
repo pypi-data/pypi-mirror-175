@@ -1,0 +1,8 @@
+tensorflow>=2.8.0
+keras==2.9
+deepface>=0.0.75
+PyMuPDF==1.20.1
+dlib>=19.24.0
+torch==1.7.1
+torchvision==0.8.2
+yolov5==6.1.5
