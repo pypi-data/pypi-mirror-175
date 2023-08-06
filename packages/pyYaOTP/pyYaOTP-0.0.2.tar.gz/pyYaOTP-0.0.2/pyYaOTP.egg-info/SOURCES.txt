@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pyYaOTP/__init__.py
+pyYaOTP/main.py
+pyYaOTP.egg-info/PKG-INFO
+pyYaOTP.egg-info/SOURCES.txt
+pyYaOTP.egg-info/dependency_links.txt
+pyYaOTP.egg-info/top_level.txt
