@@ -1,0 +1,8 @@
+README.md
+setup.py
+Check_Covid.egg-info/PKG-INFO
+Check_Covid.egg-info/SOURCES.txt
+Check_Covid.egg-info/dependency_links.txt
+Check_Covid.egg-info/requires.txt
+Check_Covid.egg-info/top_level.txt
+check_covid/__init__.py
