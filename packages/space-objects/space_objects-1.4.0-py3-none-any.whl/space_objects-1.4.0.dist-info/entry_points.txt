@@ -1,0 +1,3 @@
+[console_scripts]
+space-objects=space_objects.scripts.cli:cli
+
