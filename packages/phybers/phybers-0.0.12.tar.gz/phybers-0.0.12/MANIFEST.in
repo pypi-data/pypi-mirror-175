@@ -1,0 +1,13 @@
+recursive-include src/phybers/clustering/*
+graft src/phybers/clustering/*
+
+recursive-include src/phybers/segment/*
+graft src/phybers/segment/*
+
+recursive-include src/phybers/utils/*
+graft src/phybers/utils/*
+
+recursive-include src/phybers/fibervis/*
+graft src/phybers/fibervis/*
+
+include src/phybers/__init__.py
