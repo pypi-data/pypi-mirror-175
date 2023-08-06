@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/house_prices/__init__.py
+src/house_prices/inference.py
+src/house_prices/preprocess.py
+src/house_prices/setup.py
+src/house_prices/train.py
+src/nithesh_house_prices.egg-info/PKG-INFO
+src/nithesh_house_prices.egg-info/SOURCES.txt
+src/nithesh_house_prices.egg-info/dependency_links.txt
+src/nithesh_house_prices.egg-info/top_level.txt
