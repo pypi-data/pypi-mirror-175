@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SapGuiLibraryExtended
+Version: 0.4.5
+Summary: SOVOS SAP GUI Library for Robot Framework
+Home-page: https://SovosGvatLatam@dev.azure.com/SovosGvatLatam/"SAP%20Labs"/_git/SovosSAPLibrary
+Author: Daniela Silva
+Author-email: daniela.silva@sovos.com
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown
+
+Library to run Robot Framework on SAP GUI
