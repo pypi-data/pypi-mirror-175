@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+example_mig_pur_py.egg-info/PKG-INFO
+example_mig_pur_py.egg-info/SOURCES.txt
+example_mig_pur_py.egg-info/dependency_links.txt
+example_mig_pur_py.egg-info/requires.txt
+example_mig_pur_py.egg-info/top_level.txt
