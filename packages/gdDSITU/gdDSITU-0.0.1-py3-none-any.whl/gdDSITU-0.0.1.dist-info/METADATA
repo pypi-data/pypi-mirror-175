@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: gdDSITU
+Version: 0.0.1
+Summary: Do u have a good day in DSI TU?
+Home-page: 
+Author: Thanaraklee
+Author-email: bzank.lee@hotmail.com
+License: MIT
+Keywords: YouHaveGooddayinDSITU
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
