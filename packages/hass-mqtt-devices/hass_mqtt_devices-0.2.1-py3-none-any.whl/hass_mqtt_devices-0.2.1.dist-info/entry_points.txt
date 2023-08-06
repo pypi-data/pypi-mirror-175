@@ -1,0 +1,5 @@
+[console_scripts]
+hmd=hass_mqtt_devices.cli.main_driver:hmd_driver
+hmd-create-binary-sensor=hass_mqtt_devices.cli.sensors:create_binary_sensor
+hmd-create-device=hass_mqtt_devices.cli.device_driver:create_device
+
