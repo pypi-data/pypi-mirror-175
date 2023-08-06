@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+flawunicode/__init__.py
+flawunicode/detection.py
+flawunicode.egg-info/PKG-INFO
+flawunicode.egg-info/SOURCES.txt
+flawunicode.egg-info/dependency_links.txt
+flawunicode.egg-info/top_level.txt
+flawunicode/resources/high_freq_2gram.json.gz
+flawunicode/resources/neg_freq_3gram.json.gz
