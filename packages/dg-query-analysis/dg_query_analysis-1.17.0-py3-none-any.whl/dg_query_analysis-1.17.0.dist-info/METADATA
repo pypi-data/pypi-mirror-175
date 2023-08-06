@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dg-query-analysis
+Version: 1.17.0
+Summary: version
+Home-page: https://pypi.org/project/dg_query_analysis
+Author: zhouyu
+Author-email: zhouyu@datagrand.com
+Requires-Python: >=3.6.0
+Requires-Dist: requests (==2.21.0)
+Requires-Dist: jieba (==0.42.1)
+Requires-Dist: pyahocorasick (==1.4.0)
+Requires-Dist: query-toolkits (==1.0.9)
+
