@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: url_cleaner
+Version: 0.0.1
+Summary: A package for removing tracing parameters from URLs. This package supports automatically updating filtering rules from Adguard
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Author-email: phoenix000 <phoenix000.taipei@gmail.com>
+License-File: LICENCE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# URL Cleaner
+
+A package for removing tracing parameters from URLs. This package supports:
+- Automatically updating filtering rules from Adguard.
+- Custom filtering rules.
+- Host pathname specific filtering.
