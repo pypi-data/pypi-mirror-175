@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gacha_exp_calc"
+version = "1.0.0rc0"
+authors = [
+  { name="Dg_Han", email="1500723170@qq.com" },
+]
+description = "See readme"
+readme = "readme.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Other/Nonlisted Topic",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Dg-Han/gacha-expectation"
+"Bug Tracker" = "https://github.com/Dg-Han/gacha-expectation/issues"

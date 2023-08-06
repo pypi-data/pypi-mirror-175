@@ -1,0 +1,9 @@
+LICENSE.txt
+pyproject.toml
+src/gacha_exp_calc/__init__.py
+src/gacha_exp_calc/gacha_func.py
+src/gacha_exp_calc/gacha_type.py
+src/gacha_exp_calc.egg-info/PKG-INFO
+src/gacha_exp_calc.egg-info/SOURCES.txt
+src/gacha_exp_calc.egg-info/dependency_links.txt
+src/gacha_exp_calc.egg-info/top_level.txt
