@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: neaty
+Version: 0.1.1
+Summary: neaty - Neaty logger
+Home-page: https://gitlab.com/vornet/python/python-neaty
+Author: UNKNOWN
+Author-email: Alois Mahdal <netvor+neaty@vornet.cz>
+License: LGPLv2
+Description: 
+        __VDK_PYLIB_DESCRIPTION__
+        
+Platform: UNKNOWN
+Requires: __VDK_PYLIB_REQUIRES_PYSTUFF__
