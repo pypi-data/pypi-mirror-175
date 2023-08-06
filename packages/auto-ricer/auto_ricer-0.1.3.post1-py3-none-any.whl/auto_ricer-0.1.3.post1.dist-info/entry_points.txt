@@ -1,0 +1,3 @@
+[console_scripts]
+auto-ricer=auto_ricer.autoricer:cli
+
