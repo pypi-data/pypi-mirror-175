@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/ls_vo.py
+src/list_visible_only_dir_content.egg-info/PKG-INFO
+src/list_visible_only_dir_content.egg-info/SOURCES.txt
+src/list_visible_only_dir_content.egg-info/dependency_links.txt
+src/list_visible_only_dir_content.egg-info/top_level.txt
