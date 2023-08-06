@@ -1,0 +1,15 @@
+autocompleter/__init__.py,sha256=U3yJoSwMZXKCH2Ow7bb7suBOcAj5BW3zvQbDPGOb9J0,768
+autocompleter/apps.py,sha256=Ivzx-V8giSs2SElWHVsj-dM26g2kYzMbroAfvasDFaA,398
+autocompleter/base.py,sha256=UFR1ea7G3zTpc91Q-50w0BZPsrLZ4BQYkLv_paAZbSU,40923
+autocompleter/registry.py,sha256=Vsyl6LmfXsPQ-7R7bEucq0vOlhva8BT9y4lPVVpiS-Y,8740
+autocompleter/settings.py,sha256=AUSJXr2LZdwcA1VTmdinO4NYlrBU7KvcyeMzLzBi78M,2307
+autocompleter/urls.py,sha256=q2DIQi6FxqT1BggUkhwY0Y7te5HuBSXE8T1HuNnGUSk,357
+autocompleter/utils.py,sha256=7BI4hBC-yU49dRR8gBXkMEvrFwOPou8FxPKC_gUyRvs,8566
+autocompleter/views.py,sha256=fRjFj6xfZ61orG6bNljkDv_boBxLU16pPEQX7D6MiXw,2214
+autocompleter/management/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+autocompleter/management/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+autocompleter/management/commands/autocompleter_init.py,sha256=gOndhMPExi-N0RD-1TnN8-sB09PgRxj62_k8Df8n1S0,2497
+django_redis_autocompleter-1.0.1.dist-info/METADATA,sha256=cX2bO638YUsaBJjhgT-EEz4xWvTk-laMSaVxawEBnN0,1346
+django_redis_autocompleter-1.0.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+django_redis_autocompleter-1.0.1.dist-info/top_level.txt,sha256=vZyfMl0L9b4KXE8JcTKyji8vGODEKSARf4tfphKWWd8,14
+django_redis_autocompleter-1.0.1.dist-info/RECORD,,
