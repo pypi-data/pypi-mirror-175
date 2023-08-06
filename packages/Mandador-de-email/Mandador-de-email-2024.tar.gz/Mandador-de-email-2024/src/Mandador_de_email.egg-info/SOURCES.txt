@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/Mandador-de-email/Mandador_de_email.py
+src/Mandador-de-email/__init__.py
+src/Mandador_de_email.egg-info/PKG-INFO
+src/Mandador_de_email.egg-info/SOURCES.txt
+src/Mandador_de_email.egg-info/dependency_links.txt
+src/Mandador_de_email.egg-info/top_level.txt
