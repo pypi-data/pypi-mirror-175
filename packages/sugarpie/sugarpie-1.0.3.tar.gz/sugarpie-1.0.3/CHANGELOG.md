@@ -1,0 +1,11 @@
+1.0.3:
+- Update the systemd examples to better practices.
+1.0.2:
+- Add the documentation to activate I2C on the Raspberry Pi.
+1.0.1:
+- Add a table documenting the I2C registers.
+1.0.0:
+- Add the boot watchdog feature (it has an [open issue](https://github.com/PiSugar/pisugar-power-manager-rs/issues/81))
+- breaking change in the API that triggers a major version number bump:
+	- the call to turn_on / off_system_watchdog() is now replaced
+	  with switch_system_watchdog('on' / 'off')
