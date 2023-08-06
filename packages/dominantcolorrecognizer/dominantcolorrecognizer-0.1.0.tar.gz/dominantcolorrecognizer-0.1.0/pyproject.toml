@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "dominantcolorrecognizer"
+version = "0.1.0"
+description = "Python library created to obtain a specific number of dominant colors from an image."
+authors = ["Wojciech Batorski <wojciech.batorski@bitapps.fi>"]
+readme = "README.md"
+license = "Bitapps"
+packages = [ {include = "DominantColourRecognizer"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+black = "^22.10.0"
+mypy = "^0.990"
+isort = "^5.10.1"
+pendulum = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

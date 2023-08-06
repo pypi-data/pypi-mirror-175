@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: dominantcolorrecognizer
+Version: 0.1.0
+Summary: Python library created to obtain a specific number of dominant colors from an image.
+License: Bitapps
+Author: Wojciech Batorski
+Author-email: wojciech.batorski@bitapps.fi
+Requires-Python: >=3.10,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: black (>=22.10.0,<23.0.0)
+Requires-Dist: isort (>=5.10.1,<6.0.0)
+Requires-Dist: mypy (>=0.990,<0.991)
+Requires-Dist: pendulum (>=2.1.2,<3.0.0)
+Description-Content-Type: text/markdown
+
+# Dominant Color Recognizer
+
+
+
+## General info
+DCR is a Python library created to obtain a specific number of dominant colors from image.
+You can define number of colors and color model in which values will be returned.
+
+Currently supported color models:
+| Color model  | Example         |
+|--------------|-----------------|
+|    HEX       | #0040ff         |
+|    RGB       | rgb(0, 64, 255) |
+
+
+## Instalation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/getting-started/) to install DCR library:
+```commandline
+pip install dcr
+```
+
