@@ -1,0 +1,3 @@
+include a_pandas_ex_xml2df/requirements.txt
+include a_pandas_ex_xml2df/thirdparty.json
+include a_pandas_ex_xml2df/README.MD
