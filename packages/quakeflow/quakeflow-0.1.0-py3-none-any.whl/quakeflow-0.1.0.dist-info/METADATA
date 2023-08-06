@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: quakeflow
+Version: 0.1.0
+Description-Content-Type: text/markdown
+Requires-Dist: obspy
+Requires-Dist: h5py
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+
+quakeflow
