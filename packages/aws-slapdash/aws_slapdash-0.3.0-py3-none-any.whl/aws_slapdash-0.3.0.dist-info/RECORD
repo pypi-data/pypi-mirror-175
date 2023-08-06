@@ -1,0 +1,15 @@
+aws_slapdash/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_slapdash/aws.py,sha256=JezktT2c2Ia2oHeZ-4lOdHQ1h9j_31lFcJf8_5J2-tw,2268
+aws_slapdash/cloudformation.py,sha256=DfZw9YewpZvD5N1DPPPv6TYPTYBPoPzTkFzhTIfvmmQ,2501
+aws_slapdash/configure.py,sha256=uEoMwbqRedQZ4k609PVo5xvyH0tDSLGoz7fjmuxaCs0,3584
+aws_slapdash/dynamodb.py,sha256=JxOf3ml7aNKXoa4WPAW_tjfxjTt7G_G-ETdLaDPn_8k,3360
+aws_slapdash/ec2.py,sha256=YYpUnwMmIqrzJgEfEit-cqGra7XssBEkFW5xZaskCwI,3887
+aws_slapdash/ecs.py,sha256=zyLJu8XrUuacrmh65NjH9fXrA8cjxpNymg2s5fE1WPc,4369
+aws_slapdash/secretsmanager.py,sha256=cXlrBq3w5IDbuKWXVE8BGUUPfcfyuk32jw_e4Dlcy0Q,2901
+aws_slapdash/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_slapdash/utils/aws.py,sha256=5-vW6HkIV3-awSpLeu7ZpMuu2EPszwKOPbG8vLp9cA4,1871
+aws_slapdash/utils/command.py,sha256=DY_Z-I3ot5ZjkdNz6Cg_Fs0-ubV7W8gJbNerhCZVCtY,627
+aws_slapdash/utils/slapdash.py,sha256=2k8Q9l1RqBeZfvo6VV44Y1OsgxUHb1jEq3hxQN6PX2o,289
+aws_slapdash-0.3.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+aws_slapdash-0.3.0.dist-info/METADATA,sha256=zf4omfPsrbcCWyFUTPUsoGPZIAFWjLPIoi6wVIpP0g4,598
+aws_slapdash-0.3.0.dist-info/RECORD,,
