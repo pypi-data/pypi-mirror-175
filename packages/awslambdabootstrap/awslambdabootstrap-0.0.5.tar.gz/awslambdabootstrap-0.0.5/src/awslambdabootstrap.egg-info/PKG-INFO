@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: awslambdabootstrap
+Version: 0.0.5
+Summary: A library simplifying the boiler plate for python aws lambda functions
+Home-page: https://github.com/malachantrio/aws-lambda-bootstrap
+Author: James Davies
+Author-email: james.davies@made.com
+License: GPLv3+
+Keywords: example project
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# aws-lambda-bootstrap
