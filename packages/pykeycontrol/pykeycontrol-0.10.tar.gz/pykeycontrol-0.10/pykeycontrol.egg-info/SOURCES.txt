@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pykeycontrol/README.MD
+pykeycontrol/__init__.py
+pykeycontrol/requirements.txt
+pykeycontrol/thirdparty.json
+pykeycontrol.egg-info/PKG-INFO
+pykeycontrol.egg-info/SOURCES.txt
+pykeycontrol.egg-info/dependency_links.txt
+pykeycontrol.egg-info/requires.txt
+pykeycontrol.egg-info/top_level.txt

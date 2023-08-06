@@ -1,0 +1,3 @@
+include pykeycontrol/requirements.txt
+include pykeycontrol/thirdparty.json
+include pykeycontrol/README.MD

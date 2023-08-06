@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: pykeycontrol
+Version: 0.10
+Summary: Start/stop functions/methods with hotkeys!
+Home-page: https://github.com/hansalemaos/pykeycontrol
+Author: Johannes Fischer
+Author-email: <aulasparticularesdealemaosp@gmail.com>
+License: MIT
+Keywords: keyboard,start,stop
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Editors :: Text Processing
+Classifier: Topic :: Text Processing :: General
+Classifier: Topic :: Text Processing :: Indexing
+Classifier: Topic :: Text Processing :: Filters
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
+License-File: LICENSE.rst
+
+
+# Start/stop functions/methods with hotkeys!
+
+```python
+$pip install pykeycontrol
+from pykeycontrol import StopStart
+from time import sleep
+def testest2():
+    startstop = StopStart(hotkey_enable="ctrl+alt+p",
+                          hotkey_disable="ctrl+alt+o",
+                          hotkey_hc_exit="ctrl+alt+e", )
+    startstop.reset_all_hotkeys().add_hotkeys()
+    startstop.stop = False
+    while startstop.stop is False:
+        print('baba')
+        sleep(1)
+		
+		
+		
+class NewClass:
+    def __init__(self):
+        self.startstop = StopStart(hotkey_enable="ctrl+alt+p",
+                                   hotkey_disable="ctrl+alt+o",
+                                   hotkey_hc_exit="ctrl+alt+e", )
+        self.startstop.add_hotkeys()
+        self.startstop.stop = False
+    def testest(self):
+        while self.startstop.stop is False:
+            print('baba')
+            sleep(1)
+			
+			
+testest2()
+baba
+baba
+baba
+baba
+baba
+HARDCORE EXIT! FTW!
+Process finished with exit code 1   #"ctrl+alt+e"
+
+nac=NewClass()
+nac.testest()
+baba
+baba
+baba
+baba
+baba
+baba
+baba
+baba
+Disabled! #"ctrl+alt+o"
+
+```
