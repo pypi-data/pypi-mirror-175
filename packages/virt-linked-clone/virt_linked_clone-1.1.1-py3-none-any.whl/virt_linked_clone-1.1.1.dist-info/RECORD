@@ -1,0 +1,12 @@
+virt_linked_clone/__init__.py,sha256=MRU8iU4F73srR0fqJeeZ9XxdxjYHlSA-4SQUTSEEoSY,85
+virt_linked_clone/__main__.py,sha256=8RfXVzGs_HvrjWZso3qYDrYH9ysIR2JoBcYZ_t3mRvw,59
+virt_linked_clone/cli.py,sha256=WBqtFVkDh6AWJAk0IY-oiAwrIIlrPpOaTzfz_UWiL7c,2346
+virt_linked_clone/version.py,sha256=E-6wAZjiLRVInABFxrWoqdYlO_t-zVhK8XNfNnaDyzI,22
+virt_linked_clone/virt_linked_clone.py,sha256=0nsRtFLx5i7vJ4MC_jV0bPhlYVj0ojCHh3jJJL9K99o,6629
+virt_linked_clone/zsh_completion.sh,sha256=ggNmK-VwVNTg7TfjhkekqnPrsg-aSVH0-u0EIhLJnXk,562
+virt_linked_clone-1.1.1.dist-info/LICENSE,sha256=hLwHVcuHwmjDAIYniweLbpZJE56BjLPOT8eHknusK0I,1067
+virt_linked_clone-1.1.1.dist-info/METADATA,sha256=x-CVcSfSnWZEKpmlI2Iq1VlfcUeV2YdbKzCvOvXAAbM,2261
+virt_linked_clone-1.1.1.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+virt_linked_clone-1.1.1.dist-info/entry_points.txt,sha256=bzbcnHjcmcqDj97he2xsyJ9AMW6cymiL5gmuUT6tL7s,65
+virt_linked_clone-1.1.1.dist-info/top_level.txt,sha256=ZScC0VK2x1xgA623WD4wwrqu0f1xibhxmkfXusd92aA,18
+virt_linked_clone-1.1.1.dist-info/RECORD,,
