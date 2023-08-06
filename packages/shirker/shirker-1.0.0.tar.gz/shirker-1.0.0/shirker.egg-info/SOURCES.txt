@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+shirker/__init__.py
+shirker/main.py
+shirker.egg-info/PKG-INFO
+shirker.egg-info/SOURCES.txt
+shirker.egg-info/dependency_links.txt
+shirker.egg-info/entry_points.txt
+shirker.egg-info/requires.txt
+shirker.egg-info/top_level.txt

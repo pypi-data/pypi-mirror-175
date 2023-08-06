@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: shirker
+Version: 1.0.0
+Summary: run command and send stdout+stderr to slack
+Home-page: http://github.com/drorspei/shirker
+Author: Dror Speiser
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# slacker
+run command and send stdout+stderr to slack

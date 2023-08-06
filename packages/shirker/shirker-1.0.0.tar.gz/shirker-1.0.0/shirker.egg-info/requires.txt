@@ -1,0 +1,2 @@
+fsspec
+urllib3
