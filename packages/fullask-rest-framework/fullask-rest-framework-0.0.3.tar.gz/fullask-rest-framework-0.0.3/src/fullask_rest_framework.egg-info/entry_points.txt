@@ -1,0 +1,3 @@
+[console_scripts]
+frf-admin = fullask_rest_framework.cli:main
+
