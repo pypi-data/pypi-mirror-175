@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: easy-events
+Version: 1.0.1
+Summary: An universal wrapper (and useful tool) to make event / commands in python
+Home-page: https://github.com/ThePhoenix78/Commands
+Author: ThePhoenix78
+Author-email: thephoenix788@gmail.com
+License: MIT
+Download-URL: https://github.com/ThePhoenix78/Commands/tarball/master
+Description: An universal wrapper (and useful tool) to make event / commands in python
+Keywords: wrapper,event,commands,command
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
