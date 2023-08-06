@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: contract-deploy-tools
+Version: 0.11.1
+Summary: Compile, test and deploy smart contracts
+Home-page: https://github.com/trustlines-protocol/contract-deploy-tools
+Author: Trustlines-Network
+Author-email: contact@brainbot.com
+License: MIT
+Keywords: ethereum compile test deploy
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst; charset=UTF-8
+License-File: LICENSE
+Requires-Dist: py-solc-x
+Requires-Dist: web3 (<6.0.0,>=5.21.0)
+Requires-Dist: eth-tester[py-evm] (>=0.6.0b6)
+Requires-Dist: eth-utils
+Requires-Dist: eth-keyfile
+Requires-Dist: click
+
+# contract-deploy-tools
+Tools around compiling, deploying and testing smart contracts on an ethereum chain with python.
+
+# Installation
+```bash
+pip install -r dev-requirements.txt -e .
+```
+
+# Run test
+```bash
+pytest
+```
