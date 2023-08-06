@@ -1,0 +1,44 @@
+{
+  "name": "@deathbeds/ipydrawio-pdf",
+  "version": "1.2.2",
+  "homepage": "https://ipydrawio.rtfd.io",
+  "bugs": {
+    "url": "https://github.com/deathbeds/ipydrawio/issues"
+  },
+  "main": "lib/index.js",
+  "files": [
+    "{lib,schema,style,src}/**/*.{ts,tsx,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,css}"
+  ],
+  "dependencies": {
+    "@jupyterlab/application": "^3.1.0"
+  },
+  "devDependencies": {
+    "@deathbeds/ipydrawio": "^1.2.2",
+    "@jupyterlab/builder": "^3.4.0"
+  },
+  "jupyterlab": {
+    "extension": "lib/plugin.js",
+    "outputDir": "../../py_packages/ipydrawio-export/_/ipydrawio-pdf",
+    "sharedPackages": {
+      "@deathbeds/ipydrawio": {
+        "bundled": false,
+        "singleton": true
+      }
+    },
+    "discovery": {
+      "server": {
+        "base": {
+          "name": "ipydrawio-export"
+        },
+        "managers": [
+          "pip",
+          "conda"
+        ]
+      }
+    },
+    "_build": {
+      "load": "static/remoteEntry.aaae5653dd69b7dedcd0.js",
+      "extension": "./extension"
+    }
+  }
+}

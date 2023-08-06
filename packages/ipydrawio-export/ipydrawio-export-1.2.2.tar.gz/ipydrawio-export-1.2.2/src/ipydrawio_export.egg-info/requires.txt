@@ -1,0 +1,9 @@
+ipydrawio==1.2.2
+lxml
+pillow
+pypdf2
+requests_cache
+
+[test]
+pytest
+pytest-console-scripts
