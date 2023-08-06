@@ -1,0 +1,15 @@
+pandas
+matplotlib
+paho-mqtt
+numpy
+scipy
+scikit-learn
+matplotlib
+logging
+Werkzeug
+flask
+Flask-API
+concurrent_log_handler
+requests
+waitress
+nltk
