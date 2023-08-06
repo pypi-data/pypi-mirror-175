@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: lui-calculator
+Version: 0.1.1
+Summary: powerful calculator from strings with sympy
+Author: NiniKo
+License: MIT
+Platform: unix
+Platform: linux
+Platform: osx
+Platform: cygwin
+Platform: win32
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: sympy (>=1.11)
+Requires-Dist: requests (>=2.28)
+Requires-Dist: types-requests (>=2.28)
+Requires-Dist: numpy (>=1.23)
+Requires-Dist: matplotlib (>=3.6)
+Provides-Extra: testing
+Requires-Dist: pytest (>=7.0) ; extra == 'testing'
+Requires-Dist: pytest-cov (>=4.0) ; extra == 'testing'
+Requires-Dist: mypy (>=0.982) ; extra == 'testing'
+Requires-Dist: flake8 (>=5.0) ; extra == 'testing'
+Requires-Dist: tox (>=3.27) ; extra == 'testing'
+
+![Tests](https://github.com/Sky-NiniKo/LUI-calculator/actions/workflows/tests.yml/badge.svg)
+# LUI-calculator
+LUI-calculator is a calculator for _Low User Interactivity_ environments, so basically you input a one line calculation, and it output in text or an image.
+Based on [sympy](https://github.com/sympy/sympy), it can do a lot of cool calculation.
+
+Some examples.
+```
+1+1 => 2
+sqrt(2)+pi => √2 + π ≈ 4.555806215962888
+cos 5 => cos(5) ≈ 0.28366218546322625
+1/5 => 1/5 = 0.2
+1/3 => 1/3 ≈ 0.3333333333333333
+e^(pi*i) => -1
+3x=5 => {5/3}
+```
