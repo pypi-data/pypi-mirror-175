@@ -1,0 +1,14 @@
+dash_marvinjs/DashMarvinJS.py,sha256=z3y7VDrFvcbljU_GEp1gDO6g_h0evX41TIReg-OLqcw,4298
+dash_marvinjs/__init__.py,sha256=X18-pd4rXHvD3oI38YpipOsWE-Zlf39zB7KCPm99tBw,1677
+dash_marvinjs/_imports_.py,sha256=YuAsQv_5L5iRodEyeUiLj7kGZpm3XLKbPbiNamSMIBY,72
+dash_marvinjs/dash_marvinjs.min.js,sha256=elJcJBMNAQ7cjVHay-2QVBdS5jaC1ecqm8yKToS0UlA,5042
+dash_marvinjs/dash_marvinjs.min.js.map,sha256=tjZuCz8B40U8YTeqX63E0o-fBDnDjW2fpMOWa9hMZHQ,16667
+dash_marvinjs/decorators.py,sha256=DrpKFQh8H9Ytyi01T8o7lzAVySkbOd0aGoLoshzrwBY,4879
+dash_marvinjs/metadata.json,sha256=KPaQzIMQB3wSQVSkVYkard0B7wM1p11IhpmC6Jyh3hA,6650
+dash_marvinjs/package-info.json,sha256=a4bxgR9vgQPawmy8Wv0m3rO-SDMXqTdXgRpidV23030,1449
+dash_marvinjs/services.py,sha256=LO1fTDIycDvqxVjHRlrdFDleZk2koMSh47qDLGpAmi0,882
+dash_marvinjs-0.5.0.dist-info/LICENSE,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+dash_marvinjs-0.5.0.dist-info/METADATA,sha256=gEqcg1iSp0bpgFNsHYE54OkaV-XYkao56n876bZlKnU,230
+dash_marvinjs-0.5.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+dash_marvinjs-0.5.0.dist-info/top_level.txt,sha256=-g3cG9sb6w_l-QTJ9yqyGRD1j38sIUewiq7-bfhtwmY,14
+dash_marvinjs-0.5.0.dist-info/RECORD,,
