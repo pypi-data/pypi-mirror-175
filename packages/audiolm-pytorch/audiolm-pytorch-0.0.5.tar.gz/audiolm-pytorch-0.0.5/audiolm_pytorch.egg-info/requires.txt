@@ -1,0 +1,6 @@
+accelerate
+einops>=0.5
+ema-pytorch
+fairseq
+torch>=1.6
+vector-quantize-pytorch>=0.10.5
