@@ -1,0 +1,14 @@
+easyclient/__init__.py,sha256=IPldCeaEqwsNLYKDJ2ms4nYhDVHCYEeRS7UjWovyhqM,249
+easyclient/statics.py,sha256=PxUcWbZhWI82iLa00LbGe_EM5j6-2jw7NfzFzsTzB-Y,67
+easyclient/utils.py,sha256=otiojeThif_kUz5R9VZz49QeaNeLn2zVAeNq5vER8Zw,1375
+easyclient/client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+easyclient/client/base/__init__.py,sha256=iM96Oj3wyZurzU7lWiQnGO3fx9uEb5PxX5XS10hl_Zk,170
+easyclient/client/base/auth.py,sha256=2tQbYsZSkHQBRInbn-BkfzUxA6dPkJo-Vq4rddiDNxE,2715
+easyclient/client/base/client.py,sha256=P4Tr4BXD0gV92UlLt7AM3UcvhICgx_etaur6ag6sreE,171
+easyclient/client/rest/__init__.py,sha256=jKL7ZcJH7vDSou3YlRD-Ca2M0ApOOJ4a4CSdPYo_x5I,89
+easyclient/client/rest/client.py,sha256=XO5EMVG7xL1o4etbwQTQk6h0e0FmzEYkPG1FBuhBeRg,24768
+easyclient/parameters/__init__.py,sha256=f_ofg1d5qHNOv79Oaak3DB96v_uwjOWthj-oeeX2eaA,2725
+easyclient-0.1.1.dist-info/METADATA,sha256=yGAqJ30nZB9ZhDRd-8izXunjtr-UPqVWKFnqlQtUQ3Q,1761
+easyclient-0.1.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+easyclient-0.1.1.dist-info/top_level.txt,sha256=gFvSRsY4c0ykERwEY2yCz_OGj1Fq_E6l-8cpDSaArGA,11
+easyclient-0.1.1.dist-info/RECORD,,
