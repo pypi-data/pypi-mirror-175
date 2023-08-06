@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: libpythonpro-gwp
+Version: 0.1
+Summary: Módulo para exemplificar construção de projetos Python no curso PyTools
+Home-page: https://github.com/gabrielwp87/libpythonpro
+Author: Gabriel Wagner Piazenski
+Author-email: gabrielpiazenski@gmail.com
+License: GNU AFFERO GENERAL PUBLIC LICENSE
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Framework :: Pytest
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# libpythonpro
+MÃ³dulo para exemplificar a construÃ§Ã£o de projetos Python no curso PyTools
+
+Nesse curso Ã© ensinado como contribuir com projetos de cÃ³digo aberto 
+
+Link para o curso [Python Pro](https://pythonpro.com.br/)
+
+Suportada versÃ£o 3 de Python
+
+Para instalar:
+``` console
+py -3 -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements-dev.txt
+
+```
+
+Para conferir qualidade do cÃ³digo:
+
+``` console
+flake8
+```
+
+TÃ³picos a serem abordados:
+ 1. Git
+ 2. Virtualenv
+ 3. Pip
+ 4. GitHub Actions CI
+
