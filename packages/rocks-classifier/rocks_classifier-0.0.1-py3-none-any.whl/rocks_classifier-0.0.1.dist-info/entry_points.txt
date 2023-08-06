@@ -1,0 +1,2 @@
+[nbdev]
+rocks_classifier = rocks_classifier._modidx:d

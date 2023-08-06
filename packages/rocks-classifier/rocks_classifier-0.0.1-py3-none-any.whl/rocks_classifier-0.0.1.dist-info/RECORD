@@ -1,0 +1,13 @@
+rocks_classifier/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rocks_classifier/_modidx.py,sha256=pZuSvcW4EOWRBJg07KyvJzx0cs6GPFmZ_K2vc2nOo8c,1673
+rocks_classifier/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rocks_classifier/data/download.py,sha256=L1c7xOE9TT8TAdzYhn9xVki-Kxafe8AYLQa1on_X1YY,1376
+rocks_classifier/data/preprocess.py,sha256=rP-p7mcZlgBjrKszofaydbKauOmdgMGKWOSLkAzcFao,271
+rocks_classifier/data/utils.py,sha256=LxKbTiLct9gHd9PLjzniDG-D6gifcV-dbhhKZfwD2S0,2993
+src/bot.py,sha256=EbdEAkYDNLQb4YyJ5hnRP-56bwN3T73KD0b7MIfDZz4,2560
+rocks_classifier-0.0.1.dist-info/LICENSE,sha256=P1Lyu6rP36GiZY9_9UPNAcloBC7vPZLqMIzUbU76l2s,1069
+rocks_classifier-0.0.1.dist-info/METADATA,sha256=7mXBgSx3bFF8nwcB_v32DVQaWcHU6kKZ1qILmDBeTRw,16409
+rocks_classifier-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+rocks_classifier-0.0.1.dist-info/entry_points.txt,sha256=jl8IEqQJ4O0d0Mt5iHiBe0Dd_Fijc5tOT6IurmyNpM0,54
+rocks_classifier-0.0.1.dist-info/top_level.txt,sha256=HFoPkCH5APqFQoOxifuGgXREj4LkQLrlNYdOSIK-piU,17
+rocks_classifier-0.0.1.dist-info/RECORD,,
