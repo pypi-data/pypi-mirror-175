@@ -1,0 +1,3 @@
+[console_scripts]
+breakthecode = breakthecode.__main__:main
+

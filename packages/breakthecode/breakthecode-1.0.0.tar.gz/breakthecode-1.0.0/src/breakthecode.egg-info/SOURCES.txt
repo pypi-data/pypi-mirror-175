@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/breakthecode/__init__.py
+src/breakthecode/__main__.py
+src/breakthecode/cli.py
+src/breakthecode/constraints.py
+src/breakthecode/model.py
+src/breakthecode.egg-info/PKG-INFO
+src/breakthecode.egg-info/SOURCES.txt
+src/breakthecode.egg-info/dependency_links.txt
+src/breakthecode.egg-info/entry_points.txt
+src/breakthecode.egg-info/requires.txt
+src/breakthecode.egg-info/top_level.txt
