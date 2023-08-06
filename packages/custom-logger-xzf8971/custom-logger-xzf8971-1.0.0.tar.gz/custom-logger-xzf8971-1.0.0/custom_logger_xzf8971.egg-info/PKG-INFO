@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: custom-logger-xzf8971
+Version: 1.0.0
+Summary: Just a very simple wrapper to configure a thread safe logger.
+Author-email: Zifeng <zifeng.xu@foxmail.com>
+Project-URL: Homepage, https://github.com/xzf89718/custom-logger-xzf8971
+Project-URL: Bug Tracker, https://github.com/xzf89718/custom-logger-xzf8971/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# custom-logger-xzf8971
+Just a very simple wrapper to configure a thread safe logger.
+
+# Usage
+<font color='red'>The logger_name must be exclusive!</font>
+```python
+from custom_logger import CustomLoggerWrapper
+
+loggerWrapper = CustomLoggerWrapper(logger_name="example_logger" logger_level=logging.INFO, logger_propagate=False, logger_fmt="%(asctime)s - %(levelname)s - %(message)s", log_filename="mylog.log")
+loggerWrapper.InitLogger()
+logger = loggerWrapper.GetInitedLogger()
+logger.info("example")
+```

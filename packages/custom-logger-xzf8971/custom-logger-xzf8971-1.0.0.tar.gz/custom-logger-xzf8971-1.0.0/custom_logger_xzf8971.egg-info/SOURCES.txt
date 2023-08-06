@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+custom_logger/__init__.py
+custom_logger_xzf8971.egg-info/PKG-INFO
+custom_logger_xzf8971.egg-info/SOURCES.txt
+custom_logger_xzf8971.egg-info/dependency_links.txt
+custom_logger_xzf8971.egg-info/not-zip-safe
+custom_logger_xzf8971.egg-info/top_level.txt
