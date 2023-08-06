@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+axeman/__init__.py
+axeman/certlib.py
+axeman/core.py
+gantiAxeman.egg-info/PKG-INFO
+gantiAxeman.egg-info/SOURCES.txt
+gantiAxeman.egg-info/dependency_links.txt
+gantiAxeman.egg-info/entry_points.txt
+gantiAxeman.egg-info/requires.txt
+gantiAxeman.egg-info/top_level.txt
