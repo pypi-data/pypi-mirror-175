@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: hpc-workshop
+Version: 1.1.0
+Summary: A helper program for the HPC workshop at the 2022 Ubuntu Summit - Prague
+Author: Jason C. Nucciarone
+Author-email: nucci.programming@gmail.com
+License: Apache-2.0
+Keywords: tutorial,learning,hpc
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: craft-cli
+Requires-Dist: pylxd
+
