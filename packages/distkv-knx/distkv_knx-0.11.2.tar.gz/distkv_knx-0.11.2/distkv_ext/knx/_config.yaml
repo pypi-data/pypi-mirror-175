@@ -1,0 +1,6 @@
+knx:
+  prefix: !P :.distkv.knx
+  server_default:
+    port: 3671
+  poll: 10
+  count: true  # Pulses up=True/down=False/both=None, default Up
