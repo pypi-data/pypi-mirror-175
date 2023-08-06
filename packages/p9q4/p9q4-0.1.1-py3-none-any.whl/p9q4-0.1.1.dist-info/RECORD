@@ -1,0 +1,10 @@
+imdb/__init__.py,sha256=DXd5vH2_Yz5gVng9a1duSwwvtXP8HQVxdEGPgOF_p34,42
+imdb/__main__.py,sha256=D-sFc6RVTnCOG0bGnISZxkm0HJW5zLPb0Ua8KwCdAfg,570
+imdb/api.py,sha256=8-uW2tMdiXuw4Kk6HaEY0u5bvpDhy2lJdKBv4N4XnK4,323
+imdb/imdb.py,sha256=o3H1okSn0ZYyszXu3cZL8R5_3bdUmw7Uw0mwAhGS_7M,543
+p9q4-0.1.1.dist-info/LICENSE,sha256=N3beGHuPutadbDtSf2wM8Ma7qTM6UdwPpmfVNDaEu04,17
+p9q4-0.1.1.dist-info/METADATA,sha256=F7ccQX9FeN9U1VKzHbmbEPgDNNKG7E-f_MWCZcmo3Qg,718
+p9q4-0.1.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+p9q4-0.1.1.dist-info/entry_points.txt,sha256=v-HG0MPyGwhQ-7aVxbKZWYWL2dmLa98-6TxqkQlC1LU,47
+p9q4-0.1.1.dist-info/top_level.txt,sha256=L5m5gPwYS8sLwc0o4BbulTmfyRr2WZ4Du-AYAKsIfio,5
+p9q4-0.1.1.dist-info/RECORD,,
