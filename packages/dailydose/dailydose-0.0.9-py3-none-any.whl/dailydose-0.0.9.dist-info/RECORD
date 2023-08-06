@@ -1,0 +1,12 @@
+dailydose/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dailydose/__main__.py,sha256=hVVXLWuOUzApAXHDakN_VZnK50mvXF9xC2MjtY0RsAk,3189
+dailydose/battleship.py,sha256=apH72Cevs1RHYakyhmh3pvixgVKKziZTKTr79yo_G7A,6123
+dailydose/fact.py,sha256=R-ixDbouOwyvBWZE5b-6QkL4idesN2S3ShpsF8cNPGw,53498
+dailydose/hang.py,sha256=4ejSzfjTzkl6x7LUFsOqEdbO0NS14IXn2rEE_bCfrrU,2443
+dailydose/news.py,sha256=V1cQMhCLvVpm4of4gcrpcAoZFsBEzCLxu3KgK8TJK8U,2849
+dailydose-0.0.9.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+dailydose-0.0.9.dist-info/METADATA,sha256=lVbki2etcvwn2Nd-LyBVJ6I7WpRVd061VVSil4FyNTc,45854
+dailydose-0.0.9.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+dailydose-0.0.9.dist-info/entry_points.txt,sha256=jg8DQgi87sMsjrTLN8D6xzeEGMeCFBKwtv3EzCQpRao,56
+dailydose-0.0.9.dist-info/top_level.txt,sha256=5zH_C5OrnQi3uFINT-5kYU4oquZZjjEGowvvECbT6lU,10
+dailydose-0.0.9.dist-info/RECORD,,
