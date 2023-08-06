@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+swing/__init__.py
+swing/exceptions.py
+swing/flusher.py
+swing/formatter.py
+swing/handler.py
+swing/logger.py
+swing/sender.py
+swing_python_handler.egg-info/PKG-INFO
+swing_python_handler.egg-info/SOURCES.txt
+swing_python_handler.egg-info/dependency_links.txt
+swing_python_handler.egg-info/requires.txt
+swing_python_handler.egg-info/top_level.txt
