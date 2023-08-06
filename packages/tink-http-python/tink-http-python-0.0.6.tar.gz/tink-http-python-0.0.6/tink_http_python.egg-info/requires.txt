@@ -1,0 +1,4 @@
+tink-python-api-types
+requests
+dataclass-map-and-log==1.1.2
+pyhumps
