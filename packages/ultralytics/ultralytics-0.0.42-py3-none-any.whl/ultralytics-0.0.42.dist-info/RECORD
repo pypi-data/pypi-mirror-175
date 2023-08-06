@@ -1,0 +1,16 @@
+ultralytics/__init__.py,sha256=Ol8y4NLcnfIjm33kq2-AIAaNowkoIin3MnEy6s1Ho7w,3465
+ultralytics/auth.py,sha256=dG8GbTSOZuEzG-3GHPIUo0O1EYNTkdVcITsDJbAtgHE,2844
+ultralytics/config.py,sha256=VWYhi154jX7I0BcdE4WNNMReBcojk5YNcWiAKU0eSrM,392
+ultralytics/hub_logger.py,sha256=AKNhEX_lLZV7nlwkubfcVzV434zzKd42g487_cdqcmc,4723
+ultralytics/main.py,sha256=OU5iGF5iSCQdOi2Am9y8DjwlDozzdWExyGV41ypUDt0,971
+ultralytics/trainer.py,sha256=Yu15v_UTdR_vyQT6-UBNX7f8hLNJv3ZRGcaum3cZTUY,2189
+ultralytics/yolov5_wrapper.py,sha256=c3KHN-IAxcjQNQ70wiDT7pa_-NDvJOPpwOWh6FgpgEE,2255
+ultralytics/yolov5_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ultralytics/yolov5_utils/general.py,sha256=u-d1Z7LthyDZ0P8ON7dlQKzvZ_SPx3gTxdknuy1ALmA,6892
+ultralytics/yolov5_utils/hub_utils.py,sha256=Js7yKhRf_wgGuHdbdwdrHfnVZHif5oeCGIS7_nRF6JY,3337
+ultralytics/yolov5_utils/torch_utils.py,sha256=enajrGufpm_F6KdBdWvPu-gbRQCJ3bEZIL2jhrUVqU4,1930
+ultralytics-0.0.42.dist-info/LICENSE,sha256=tuCqgNCg5frU4LLbZsiBqkh9hLN6hintARIIC0hawDM,22
+ultralytics-0.0.42.dist-info/METADATA,sha256=n_BmComXDuzyVzuqzCTOQomtBjXcuO2L5WdQOUCAnmU,9639
+ultralytics-0.0.42.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+ultralytics-0.0.42.dist-info/top_level.txt,sha256=XP49TwiMw4QGsvTLSYiJhz1xF_k7ev5mQ8jJXaXi45Q,12
+ultralytics-0.0.42.dist-info/RECORD,,
