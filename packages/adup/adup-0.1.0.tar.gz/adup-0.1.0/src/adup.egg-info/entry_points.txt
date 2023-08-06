@@ -1,0 +1,5 @@
+[console_scripts]
+adup = adup.cli:cli
+adup-cp = adup.cli:cp
+adup-rm = adup.cli:rm
+adup-update = adup.cli:update

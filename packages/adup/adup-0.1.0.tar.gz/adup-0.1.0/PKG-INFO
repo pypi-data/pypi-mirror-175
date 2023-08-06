@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: adup
+Version: 0.1.0
+Summary: Advanced Duplicate Finder
+Home-page: https://github.com/oorabona/adup
+Author: Olivier Orabona
+Author-email: olivier.orabona@gmail.com
+Maintainer: Olivier Orabona
+Maintainer-email: olivier.orabona@gmail.com
+License: GPL-3.0
+Project-URL: Source, https://github.com/oorabona/adup
+Project-URL: Tracker, https://github.com/oorabona/adup/issues
+Project-URL: Changelog, https://github.com/oorabona/adup/releases
+Keywords: files,dupe,find
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Shells
+Classifier: Topic :: System :: System Shells
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: docs
+Provides-Extra: testing
+License-File: LICENSE
+
+# adup
+All Auto Dupes Finder
