@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlgym
+Version: 0.0.63
+Summary: MLgym, a python framework for distributeda and reproducible machine learning model training in research.
+Home-page: https://github.com/mlgym/mlgym
+Author: Max Luebbering
+License: UNKNOWN
+Description: long_description
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
