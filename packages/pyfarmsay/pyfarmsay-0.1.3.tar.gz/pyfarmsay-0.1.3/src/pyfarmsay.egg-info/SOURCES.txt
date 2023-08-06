@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/pyfarmsay/__init__.py
+src/pyfarmsay/__main__.py
+src/pyfarmsay/animals.py
+src/pyfarmsay/pyfarmsay.py
+src/pyfarmsay/util.py
+src/pyfarmsay.egg-info/PKG-INFO
+src/pyfarmsay.egg-info/SOURCES.txt
+src/pyfarmsay.egg-info/dependency_links.txt
+src/pyfarmsay.egg-info/entry_points.txt
+src/pyfarmsay.egg-info/requires.txt
+src/pyfarmsay.egg-info/top_level.txt
