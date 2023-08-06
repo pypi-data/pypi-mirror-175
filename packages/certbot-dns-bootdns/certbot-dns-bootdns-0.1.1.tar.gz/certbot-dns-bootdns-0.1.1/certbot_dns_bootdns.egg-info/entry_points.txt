@@ -1,0 +1,2 @@
+[certbot.plugins]
+dns-bootdns = certbot_dns_bootdns:Authenticator
