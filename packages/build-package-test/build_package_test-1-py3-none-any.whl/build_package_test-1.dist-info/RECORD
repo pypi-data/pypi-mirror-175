@@ -1,0 +1,6 @@
+build package/__init__.py,sha256=sSl8QrruDB47W9MhudrSxDeC_I_ZO4s2Efn4UXy9RBU,37
+build package/test_package.py,sha256=ystixmR4Hic2j7sUYTUdsn1Av0PnpQmgq4uCE8YY_30,38
+build_package_test-1.dist-info/METADATA,sha256=fJ9qYZI0H0cJEJ3a7Y_1_DD_LhNeNx5VWNQskNl5c9k,545
+build_package_test-1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+build_package_test-1.dist-info/top_level.txt,sha256=kJDEFaUuLIbWxkN6dSbiiPtHyBS0a9cnyfggWKMKDD8,14
+build_package_test-1.dist-info/RECORD,,
