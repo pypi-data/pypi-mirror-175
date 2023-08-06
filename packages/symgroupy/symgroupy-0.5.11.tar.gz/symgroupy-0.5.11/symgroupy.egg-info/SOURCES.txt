@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+setup.py
+symgrouplib.pyf
+src/connectivity.F
+src/jacobi.F
+src/linear_algebra.F
+src/mass.F
+src/measure.F
+src/operations.F
+src/radius.F
+src/symgrouplib.F
+symgroupy/__init__.py
+symgroupy.egg-info/PKG-INFO
+symgroupy.egg-info/SOURCES.txt
+symgroupy.egg-info/dependency_links.txt
+symgroupy.egg-info/top_level.txt
