@@ -1,0 +1,7 @@
+README.md
+setup.py
+trojclient.egg-info/PKG-INFO
+trojclient.egg-info/SOURCES.txt
+trojclient.egg-info/dependency_links.txt
+trojclient.egg-info/requires.txt
+trojclient.egg-info/top_level.txt
