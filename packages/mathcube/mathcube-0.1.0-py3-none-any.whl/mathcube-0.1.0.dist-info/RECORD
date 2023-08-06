@@ -1,0 +1,14 @@
+mathcube/__init__.py,sha256=2s5U4L_st3CDCp3encmlNZDUd_5OmGYIQCY3R7ejTBw,47
+mathcube/equation.py,sha256=uWjpMhTgO9KIHrUTEShduKqp5-1jhOqrjC8D5cqSpmM,2919
+mathcube/geometry.py,sha256=AUGjhm3fi-mZK-hrDmk8S-Qu1cLVAasBGZXLr7vcp_U,6093
+mathcube/output.py,sha256=jbUvVJuhL7oGL4K3r2KumMZQqoH_A-vfvWPVOMbv0WA,3938
+mathcube/stepbystep/__init__.py,sha256=Byrp1MFsUVtHxVuIF_OCTKl-BkgHUyS3cb-IRy5W_7Q,27
+mathcube/stepbystep/polynomials.py,sha256=svji1Qgf3EJBfb1MePseJ7OWgrsQIYLkL42nv9-u83I,1827
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_equation.py,sha256=fFgHYEc14BwODzGfG98CG2Gtxyium9UJ1QnEjYPdCG4,3583
+tests/test_output.py,sha256=03xq99utnCdAW7FvDtvgBJWGmC3jQf79VLZ2OwOaTXU,880
+mathcube-0.1.0.dist-info/LICENSE,sha256=ACwmltkrXIz5VsEQcrqljq-fat6ZXAMepjXGoe40KtE,1069
+mathcube-0.1.0.dist-info/METADATA,sha256=hJzEHn-pMfo5gKe4neQoXbYO2pIUDC5D6XojEd3zYWY,482
+mathcube-0.1.0.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+mathcube-0.1.0.dist-info/top_level.txt,sha256=EIlwDf1bkcIj9J8LJjo6238P_RtSjKyGfFiRLvAySqs,15
+mathcube-0.1.0.dist-info/RECORD,,
