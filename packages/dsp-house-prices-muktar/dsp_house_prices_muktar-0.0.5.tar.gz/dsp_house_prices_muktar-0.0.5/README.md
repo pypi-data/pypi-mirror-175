@@ -1,0 +1,1 @@
+A package that helps load, preprocess, train and predict house prices when given a csv file.
