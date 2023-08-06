@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "maxhk"
+version = "0.1.0-3"
+description = "Set of miscelaneous utils."
+authors = ["Max"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/maximehk/maxhk_pypi"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
