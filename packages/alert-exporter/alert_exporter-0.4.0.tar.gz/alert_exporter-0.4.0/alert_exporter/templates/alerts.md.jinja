@@ -1,0 +1,33 @@
+# List of monitoring alerts
+{% for alert_type, data in alerts.items() %}
+{%- if data -%}
+- [{{ alert_type|capitalize }} alerts](#{{ alert_type }}-alerts)
+{%- endif %}
+{% endfor -%}
+
+{%- if alerts.cloudwatch -%}
+## Cloudwatch alerts
+|Name|Description|Type|Region|Rule|
+|---|---|---|---|---|
+{%- for alert in alerts.cloudwatch %}
+|{{ alert.name }}|{{ alert.description }}|{{ alert.type }}|{{ alert.region }}|<code>{{ alert.rule }}</code>|
+{%- endfor %}
+{%- endif %}
+
+{%- if alerts.pingdom -%}
+## Pingdom alerts
+|URL|Threshold|Paused|Name|Type|Tags|
+|---|---|---|---|---|---|
+{% for check in alerts.pingdom -%}
+|{{ check.url }}|{{ check.responsetime_threshold }}|{{ check.paused }}|{{ check.name }}|{{ check.type.keys()|first }}|{{ check.tags|join(', ') }}|
+{% endfor -%}
+{% endif -%}
+
+{%- if alerts.prometheus -%}
+## Prometheus alerts
+|PrometheusRule|Group/Name|Summary|Description|Expr|For|Severity|Runbook|
+|---|---|---|---|---|---|---|---|
+{% for alert in alerts.prometheus -%}
+|{{ alert.promRuleName }}|{{ alert.name }}|{{ alert.summary.replace("|", "\|") }}|{{ alert.description.replace("\n", " ").replace("|", "\|") }}|<code>{{ alert.expr.replace("\n", " ") }}</code>|{{ alert.for }}|{{ alert.severity }}|{{ '[' + alert.runbook +'](' + alert.runbook + ')' if alert.runbook.startswith("http") else alert.runbook }}|
+{% endfor -%}
+{% endif -%}
