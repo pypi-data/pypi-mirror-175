@@ -1,0 +1,4 @@
+[console_scripts]
+max_yaml=myaml:main
+setup_files=static.setup_files:main
+
