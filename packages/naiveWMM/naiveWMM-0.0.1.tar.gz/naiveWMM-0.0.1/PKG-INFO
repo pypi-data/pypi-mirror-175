@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: naiveWMM
+Version: 0.0.1
+Summary: This program  determines matching positions of patterns in a sequence
+Author-email: Clabe Wekesa <simiyu86wekesa@gmail.com>
+Project-URL: Homepage, https://github.com/Clabe1986/naiveWMM
+Project-URL: Bug Tracker, https://github.com/Clabe1986/naiveWMM/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# patternMatch
+This program uses hamming distance, naive exact matching and reverse complement to determine matching positions of a pattern in a sequence.
+
+# installation
+pip install naiveWMM
+
+# Usage
+naive_with_mismatch (sequence, pattern)

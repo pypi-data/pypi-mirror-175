@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/naiveWMM/__init__.py
+src/naiveWMM/naiveWMM.py
+src/naiveWMM.egg-info/PKG-INFO
+src/naiveWMM.egg-info/SOURCES.txt
+src/naiveWMM.egg-info/dependency_links.txt
+src/naiveWMM.egg-info/top_level.txt
