@@ -1,0 +1,2 @@
+[napari.plugin]
+napari-assistant-plugin-generator = napari_assistant_plugin_generator._napari_plugin

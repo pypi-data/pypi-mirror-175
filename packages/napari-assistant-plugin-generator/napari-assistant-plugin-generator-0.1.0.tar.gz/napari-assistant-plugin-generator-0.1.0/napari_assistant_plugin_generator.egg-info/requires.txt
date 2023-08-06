@@ -1,0 +1,10 @@
+napari-plugin-engine>=0.1.4
+magicgui
+numpy!=1.19.4
+jupytext
+jupyter
+dask
+autopep8
+cookiecutter
+napari-tools-menu
+napari-assistant>=0.4.1
