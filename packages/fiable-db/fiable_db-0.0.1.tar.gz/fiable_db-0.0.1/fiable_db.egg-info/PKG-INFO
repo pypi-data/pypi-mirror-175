@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: fiable-db
+Version: 0.0.1
+Summary:  Immutable NoSQL database in a plain file 
+Home-page: https://github.com/tanrax/fiableDB
+Author: Andros Fenollosa
+Author-email: andros@fenollosa.email
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: database,immutable,nosql,json
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >3.7
