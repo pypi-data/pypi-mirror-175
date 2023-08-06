@@ -1,0 +1,58 @@
+# Path should define a keyword defined in paths.
+# This will be used as the default path
+path: local
+paths:
+    local: /path/to/local_data/
+    remote: /path/to/remote_data/
+
+# Here path is a keyword which has to be in paths,
+# this allows easy use of multiple paths by using
+# the -P flag:
+#
+# airway stages -P remote
+#
+# when you want to work on the remote data path
+# without having to write out the entire path.
+# Remove 'remote' if you only have a single data location.
+# You may also define as many as you need.
+# 
+# The reason for this is to have a small file sample on
+# local machine on an SSD for easy debugging, and then
+# the full data on a remote NAS. Allowing easy switching
+# between paths.
+
+
+# Number of threads to be used, note that each patient
+# only ever gets 1 thread, so all parallelization is per
+# patient. Increase this if you have more threads.
+workers: 8
+
+# Whether data should be overwritten by rerunning stages
+# generally useful to set it to True, but for safety 
+# False is preferred
+force: True
+
+# Whether only a single patient should be computed all
+# the time. Generally no reason to change this.
+single: False
+
+# May be specified to use a different executable for 
+# Blender (such as /usr/bin/blender or /snap/bin/blender)
+# Both Blender <=2.79 and >=2.80 should work, although if it
+# doesn't you may specify a different executable here.
+# Will not be needed if you never use blender in this project.
+blender: /usr/bin/blender
+
+# Whether STDOUT and STDERR should always be printed when running airway
+verbose: False
+
+# Whether stages should be removed before running them,
+# WARNING: setting this to True can delete important data!
+clean: False
+
+# Whether a profiler should be run when running airway to find out
+# where the most time is spent. (Currently WIP)
+profile: False
+
+# How many log files should be saved at most in ./logs/
+max_log_files: 10
