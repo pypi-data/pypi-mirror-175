@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: rohr
+Version: 0.1.1
+Summary: Build easy data processing pipelines in python.
+License: MIT
+Author-email: Paul Frische <paul@paulfrische.xyz>
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+# rohr
+
+Build easy data processing pipelines in python.
+
