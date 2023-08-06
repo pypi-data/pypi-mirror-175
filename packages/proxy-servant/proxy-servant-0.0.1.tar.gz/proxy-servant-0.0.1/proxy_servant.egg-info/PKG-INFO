@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: proxy-servant
+Version: 0.0.1
+Summary: proxy-servant is your best friend that will give you a working proxy every time you request it
+Home-page: https://github.com/FizzyShow/proxy_servant
+Download-URL: https://pypi.org/project/proxy_servant/
+Author: Dmitriy Popov
+Author-email: dpopov@fizdm.ru
+License: MIT
+Keywords: Proxy,Proxy Checker,Proxy Servant,Servant,Python 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# proxy-servant
+proxy-servant is your best friend that will give you a working proxy every time you request it
+
+
+# Change log
+
+## [0.0.1] - 2022-11-04
+
+### Added
+- 
+
+### Changed
+- 
+
+### Removed
+- 
