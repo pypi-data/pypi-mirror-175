@@ -1,0 +1,12 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/oisin/__init__.py
+src/oisin/corpus.py
+src/oisin/main.py
+src/oisin/poetry.py
+src/oisin/wfc.py
+src/oisin.egg-info/PKG-INFO
+src/oisin.egg-info/SOURCES.txt
+src/oisin.egg-info/dependency_links.txt
+src/oisin.egg-info/top_level.txt

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "oisin"
+version = "0.1.1"
+authors = [
+  { name="mewo2 & inpv", email="inpv@protonmail.ch" },
+]
+description = "This is inpv's fork of mewo2's code for performing the WaveFunctionCollapse algorithm on poems. It mashes up sentence fragments from a given corpus to produce poems with fixed metric forms."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/oisin"
+"Bug Tracker" = "https://github.com/pypa/oisin/issues"
