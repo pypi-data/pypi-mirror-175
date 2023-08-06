@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+    </head> 
+    <body>
+        <script>            
+            const hashParams = new URLSearchParams(window.location.hash.substring(1))                        
+            opener.postMessage(Object.fromEntries(hashParams.entries()), location.origin)
+        </script>
+    </body>
+</html>
