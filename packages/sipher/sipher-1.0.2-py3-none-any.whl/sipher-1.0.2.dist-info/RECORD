@@ -1,0 +1,13 @@
+sipher/__init__.py,sha256=6MVkiwVWBhjdL04Eh7ojXkbs_ldlRxpQ0YbrE1bGRWQ,289
+sipher/__main__.py,sha256=k4lM37z3shPyXGeDuzC9vrOsMDokD-lN49EyycimEvM,3404
+sipher/_base64.py,sha256=Dvibape6iTW7AcWvNK4dUPSF3JbLtg1caxfIeKT3XMc,1286
+sipher/_morse.py,sha256=_9e6x9C5BozWTHCK04PKNFIdikxe5wrPKtBGshLBCvw,2497
+sipher/_rsa.py,sha256=QcyyPOE3Gv-fqk3Oz7Ow5XL7S_WwOecpk3SeFOL5rbQ,3255
+sipher/_sipher.py,sha256=8RJGyDBBb5puoY9TrQEtkPhlb8HAEIIo64EGSpRYvHQ,1702
+sipher/sipherutil.py,sha256=3DiviV5d1Stau6geWU9m131ip1gZ0xeK1wKhYQQ5EJk,1247
+sipher-1.0.2.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+sipher-1.0.2.dist-info/METADATA,sha256=11NVmVzSwcuHiD4Nc6i2YVZLOYfriCy4h_Sj2ph-FVQ,2578
+sipher-1.0.2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+sipher-1.0.2.dist-info/entry_points.txt,sha256=F38V4Yd3_Kb7V_CNlARluuzLgkMfcb8vJVctxLJqk_k,48
+sipher-1.0.2.dist-info/top_level.txt,sha256=F4mkI6HXwgByAuu0SOM_qe4xVZu-VRxtZ565BnoEcpg,7
+sipher-1.0.2.dist-info/RECORD,,
