@@ -1,0 +1,17 @@
+ctypedffi/__init__.py,sha256=hV5oa2uxh2Kp4OpxfWW1h53Y4A4wvMI3CXmMN5s5UMg,332
+ctypedffi/_metadata.py,sha256=lKjD3gEHkM2xsPdjvYmpOIg7nFcm06oyj9OruadmAvY,399
+ctypedffi/ctypes.py,sha256=0dxHXiywMbfGEu4hX6bH7CU9jgnHiRS6QuuokqajVOI,7689
+ctypedffi/cython.py,sha256=zGq4syHjfxAorCMRC5DjKYqUGdst_Ap4Ps75LGGTojM,2648
+ctypedffi/library.py,sha256=lI_Q0XnYLpOh0l2BZXIhFrLRazdk2e2Uxpq1k81DWoc,2327
+ctypedffi/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ctypedffi/string.py,sha256=qivMYDxaAiidZH77hKI9q9LsvWLrnEftvhupue6ozPc,14116
+ctypedffi/struct.py,sha256=VnYjQXt_AMJE1GMAxcfx6fmUCHoGJ7QKFdjYWKrgnJk,1953
+ctypedffi/types.py,sha256=BgyhiNdRW45RjJPV6thpMhgqinszsY7xGEhm15RzNkE,4286
+ctypedffi/utils.py,sha256=3m6IZsXZ6V2_PNugKAHZOOAQXHF42L65FVtUFB23JeI,5214
+ctypedffi/libs/__init__.py,sha256=1ody7kkfxb-8gTLGpagEo3HiX0wI81WM5pn52zhDhFM,58
+ctypedffi/libs/py_capsule.py,sha256=8iGELPXGKMeu3RhKvjc5KohhOW7Vv3l9U6u8JHTjUX0,375
+ctypedffi-1.0.1.dist-info/LICENSE,sha256=c7zRrcdsvNZLijyo88GQRpJcrBlQTR-ANFAUH1PCi24,1088
+ctypedffi-1.0.1.dist-info/METADATA,sha256=EERMrF1dfaOMtlF7IjX-SMIV4zNb37pwDY4_OjtHjHY,1196
+ctypedffi-1.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+ctypedffi-1.0.1.dist-info/top_level.txt,sha256=Wjn81UPYCTzdevjRBdW9wsb6nZC9nzr27C1fmNQsGtM,10
+ctypedffi-1.0.1.dist-info/RECORD,,
