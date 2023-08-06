@@ -1,0 +1,6 @@
+django-mptt
+django-sekizai
+Markdown
+bleach[css]
+django
+sorl-thumbnail
