@@ -1,0 +1,36 @@
+This is an optimal pricing model and loan allotment model based on ROI.
+
+There are two functions within, one for each model.
+
+calc_new_prod_price(var_cost_list, max_qty, max_price, fixed_cost, profit_margin)
+
+This function has to be called for determining the optimal price of a new product entering the market.
+It takes the following arguments:
+
+var_cost_list : (compulsory) Takes a list of variable cost inputs per unit of product.
+
+max_qty : (compulsory) Takes an integer input of the maximum quantity that can be produced of the product.
+
+max_price : (compulsory) Takes a numeric input of the maximum price that can be set for the product
+based on precedent or industry standards.
+
+fixed_cost : (compulsory) Takes a numeric input of the fixed costs incurred while producing the product
+regardless of the quantity produced.
+
+profit_margin : (optional) Takes a numeric input and allows the user to provide their desired profit margins for
+optimal pricing. In case it is left blank, a default profit margin will be calculated via mathematical formulas.
+
+
+loan_alloc(total_fund, percent_alloc, i, signs)
+
+This function has to be called for estimating the loan allotment for each category.
+The function takes the following arguments:
+
+total_fund: (Compulsory) Takes a numeric input of the total fund that the bank has available for loan allotment. 
+
+percent_alloc: (Compulsory) Takes a list input of numeric data for the percentage of the total fund allotted to each loan category. 
+
+i: (Compulsory) Takes a list input of numeric data for the Rate of Interest associated with each loan category.
+
+signs: (Compulsory) Takes a list input of string type for the sign of the constraint i.e. “<=“ or “>=“
+

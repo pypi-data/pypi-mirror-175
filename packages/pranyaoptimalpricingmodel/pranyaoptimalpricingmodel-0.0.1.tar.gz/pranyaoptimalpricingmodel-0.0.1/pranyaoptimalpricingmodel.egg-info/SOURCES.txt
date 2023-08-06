@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+optimalpricingmodel/__init__.py
+pranyaoptimalpricingmodel.egg-info/PKG-INFO
+pranyaoptimalpricingmodel.egg-info/SOURCES.txt
+pranyaoptimalpricingmodel.egg-info/dependency_links.txt
+pranyaoptimalpricingmodel.egg-info/requires.txt
+pranyaoptimalpricingmodel.egg-info/top_level.txt
