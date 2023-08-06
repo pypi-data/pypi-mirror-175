@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+wxpayzhiyan/__init__.py
+wxpayzhiyan.egg-info/PKG-INFO
+wxpayzhiyan.egg-info/SOURCES.txt
+wxpayzhiyan.egg-info/dependency_links.txt
+wxpayzhiyan.egg-info/not-zip-safe
+wxpayzhiyan.egg-info/top_level.txt
