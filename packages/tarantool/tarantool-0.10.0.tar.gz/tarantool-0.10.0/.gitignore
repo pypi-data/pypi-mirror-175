@@ -1,0 +1,43 @@
+*.pyc
+*.pyo
+*.wpr
+*~
+/build/
+/dist/
+/MANIFEST
+*.snap
+sophia
+*.egg-info
+.tox
+
+*.xlog
+*.snap
+*.vylog
+
+# Vim Swap files
+*.sw[a-z]
+.idea
+
+venv/*
+
+.eggs
+
+tarantool/version.py
+pip_dist
+
+# Cannot ignore a directory and negate a single file
+# https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+rpm/SOURCES
+rpm/SRPMS
+rpm/BUILDROOT
+rpm/BUILD
+rpm/RPMS
+
+rpm_dist
+
+debian/python3-tarantool
+debian/*debhelper*
+debian/files
+debian/*.substvars
+
+deb_dist
