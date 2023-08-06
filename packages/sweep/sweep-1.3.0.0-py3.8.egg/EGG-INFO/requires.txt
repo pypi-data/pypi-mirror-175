@@ -1,0 +1,6 @@
+numpy
+Biopython
+scipy
+more_itertools
+tqdm
+requests
