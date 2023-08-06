@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: area_calculator_planefigures
+Version: 0.0.1
+Summary: Area Calculator Package for flat figures
+Home-page: https://github.com/NathanniPadua/dio_desafio_criando_o_meu_primeiro_pacote_Python.git
+Author: Nathanni
+Author-email: nathannivpadua@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# area_calculator_planefigures
+
+Description. 
+The package area_calculator is used to calculate the areas of plane figures:
+- Triangle 
+- Rectangle 
+- Square
+- Circle
+- Trapezoid 
+- Rhombus
+	
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install area_calculator_planefigures
+
+```bash
+pip install area_calculator_planefigures
+```
+
+## Usage
+
+```python
+from area_calculator_planefigures import area_formulas
+area_formulas.my_function()
+```
+
+## Author
+Nathanni
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
