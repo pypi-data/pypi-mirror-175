@@ -1,0 +1,14 @@
+pyipcore/__init__.py,sha256=fWZZ4bMllP2RCLh8sZKwkVZNV3cA4ZvL1NNGPCbeEyc,100
+pyipcore/ipb.py,sha256=mBxAY15zbOnh-WHFEpzWTaoBEpr6kgQMj8NpsR_TLm0,7684
+pyipcore/ipc_img.py,sha256=BKXaSw1sDV-51XgO5JA6mgDq7UpM1nWuPnkRJeLf-TA,4958
+pyipcore/ipg.py,sha256=E7HDgwWFhYH1e4c8ueraGtbdrPYV_k2_T-Lc_ZsJ81Q,16444
+pyipcore/ipui_ipc_lib.py,sha256=MNGmKuv6kOHLRrH_Acx0WymCejOm2MsdBSZqyfoQcOQ,8055
+pyipcore/ipui_main.py,sha256=sKCF0a36_c6Ko3P97HzfTVDYatCbh6N9QFx6DEf6TiU,12261
+pyipcore/parsetab.py,sha256=ddSfkuJbWZxyiEMk8R7I9VYYWGUz-2M259SbPT84FFo,217548
+pyipcore/ui_ipc_lib.py,sha256=7HwbsKKIh5GC-1G1L9URNeuOYUjNImoJpZaa821Rt74,5459
+pyipcore/ui_main.py,sha256=sbAssGcrlNgPMBZomxtUu6UNxsZvgNjVUUmwnLPIQf0,6920
+pyipcore-0.3.1.dist-info/METADATA,sha256=HpUN05tDfDVx6vC6eiGzhVRhEp5lGo0jkfLgg-2pL-s,676
+pyipcore-0.3.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyipcore-0.3.1.dist-info/entry_points.txt,sha256=dpgKnT_ctaS_b-vO-Q3b8hHUKtD7zfuDamjV7GH4_gQ,91
+pyipcore-0.3.1.dist-info/top_level.txt,sha256=IAIFhN6cCzwJt1UlHA_KZ0BlsgsxBGOfW03po2BBJUs,9
+pyipcore-0.3.1.dist-info/RECORD,,
