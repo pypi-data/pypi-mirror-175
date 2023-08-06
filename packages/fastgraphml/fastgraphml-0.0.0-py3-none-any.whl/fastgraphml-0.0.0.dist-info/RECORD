@@ -1,0 +1,15 @@
+fastgraphml/__init__.py,sha256=Fy9FLbR4cLflS4Wr8EJaG2Rafu_qGeUKwOfhIc4jvcQ,362
+fastgraphml/graph_embeddings/__init__.py,sha256=dnkf1LAEBoCCYS0uhBuFKM5luM3Uz5LcL4uDL7jh4Ho,303
+fastgraphml/graph_embeddings/utils.py,sha256=iliT_QPeA616Xxa_XEBjge4WhUyWR0bRpVlK4nNPVdM,13386
+fastgraphml/graph_embeddings/downstream_tasks/__init__.py,sha256=-qbHmF7mxYE-vv2RvtDL2eIBtAPzoKO-8oUYnJSUtYg,290
+fastgraphml/graph_embeddings/downstream_tasks/similarity_search.py,sha256=mA7CBX6mIlWFToyPTuLAO-bHeYdGVEErE_HTRlyUnBQ,2568
+fastgraphml/graph_embeddings/downstream_tasks/visualization.py,sha256=ESYU1zPBwLpYi1RtqsE4wCD3YfOFiy9UmKXgMEKfPKw,2814
+fastgraphml/graph_embeddings/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fastgraphml/graph_embeddings/models/dmgi.py,sha256=t6VpyRIK_6v_v-Bx8pQd5_sQjSbWQXGt7By5TmF1R6o,11945
+fastgraphml/graph_embeddings/models/gat.py,sha256=kn-iRqEEOuHTNZyaT8KdCn2B00YStsK7vrmMvkAur64,12820
+fastgraphml/graph_embeddings/models/graph_sage.py,sha256=IT6YquEcP9Q18X_H-_ExJzf1tpT-xQU8HD4f0O3UNcc,11817
+fastgraphml/graph_embeddings/models/metapath2vec.py,sha256=nIo1El7BsPCQv16ssIAWnK_2yW9RZVHvY3mCCuTQkzo,13067
+fastgraphml-0.0.0.dist-info/METADATA,sha256=2Q4XMuhxqWU1Lf8mS9vvKkAikkhhyO3CEAFAKc_XWjI,8542
+fastgraphml-0.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+fastgraphml-0.0.0.dist-info/top_level.txt,sha256=muyFKTHag7bPmpkHLfSFPKTZIKGdLT34UDQghzbGB3c,12
+fastgraphml-0.0.0.dist-info/RECORD,,
