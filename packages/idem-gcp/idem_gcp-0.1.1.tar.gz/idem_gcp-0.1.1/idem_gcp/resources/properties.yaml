@@ -1,0 +1,227 @@
+# TODO: check for nested create-only properties
+
+# TODO: Make sure to check if these properties correspond correctly to the JSON schema
+# e.g. according to the GCP docs for storage.bucket.instert https://cloud.google.com/storage/docs/json_api/v1/buckets/insert
+# we have the properties
+#    - customPlacementConfig
+#    - dataLocations
+# but according to the schema, dataLocations is a nested object of customPlacementConfig
+
+# TODO: Don't add projection
+
+compute.zoneOperations:
+  get:
+    - project
+    - zone
+    - operation
+
+compute.instances:
+  get:
+    - project
+    - zone
+    - instance
+  insert:
+#    path parameters
+    - project
+    - zone
+#    query parameters
+    - requestId
+    - sourceInstanceTemplate
+    - sourceMachineImage
+#    body
+    - name
+    - description
+    - tags
+    - machineType
+    - status
+    - canIpForward
+    - networkInterfaces
+    - disks
+    - metadata
+    - serviceAccounts
+    - scheduling
+    - labels
+    - params
+    - labelFingerprint
+    - minCpuPlatform
+    - guestAccelerators
+    - deletionProtection
+    - resourcePolicies
+    - sourceMachineImage
+    - reservationAffinity
+    - hostname
+    - displayDevice
+    - shieldedInstanceConfig
+    - shieldedInstanceIntegrityPolicy
+    - sourceMachineImageEncryptionKey
+    - confidentialInstanceConfig
+    - fingerprint
+    - privateIpv6GoogleAccess
+    - advancedMachineFeatures
+    - networkPerformanceConfig
+    - keyRevocationActionType
+  update:
+#   path parameters
+    - project
+    - zone
+    - instance
+#   query parameters
+    - requestId
+    - mostDisruptiveAllowedAction
+    - minimalAction
+#   body
+    - name
+    - description
+    - tags
+    - machineType
+    - status
+    - canIpForward
+    - networkInterfaces
+    - disks
+    - metadata
+    - serviceAccounts
+    - scheduling
+    - labels
+    - params
+    - labelFingerprint
+    - minCpuPlatform
+    - guestAccelerators
+    - deletionProtection
+    - resourcePolicies
+    - sourceMachineImage
+    - reservationAffinity
+    - hostname
+    - displayDevice
+    - shieldedInstanceConfig
+    - shieldedInstanceIntegrityPolicy
+    - sourceMachineImageEncryptionKey
+    - confidentialInstanceConfig
+    - fingerprint
+    - privateIpv6GoogleAccess
+    - advancedMachineFeatures
+    - networkPerformanceConfig
+    - keyRevocationActionType
+  delete:
+#   path parameters
+    - project
+    - zone
+    - resourceId
+#   query parameters
+    - requestId
+#  resource_id:
+#    - name
+#    - resourceId
+  exclude_paths:
+    - fingerprint
+    - label_fingerprint
+    - network_interfaces[].fingerprint
+    - network_interfaces[].network_ip
+    - network_interfaces[].access_configs[].nat_ip
+
+compute.disks:
+  get:
+    - project
+    - zone
+    - resourceId
+  insert:
+#    path parameters
+    - project
+    - zone
+#    query parameters
+    - requestId
+    - sourceImage
+#    body
+    - name
+    - description
+    - sizeGb
+    - sourceSnapshot
+    - sourceStorageObject
+    - options
+    - sourceImage
+    - type
+    - licenses
+    - guestOsFeatures
+    - diskEncryptionKey
+    - sourceImageEncryptionKey
+    - sourceSnapshotEncryptionKey
+    - labels
+    - labelFingerprint
+    - replicaZones
+    - licenseCodes
+    - physicalBlockSizeBytes
+    - resourcePolicies
+    - sourceDisk
+    - provisionedIops
+    - locationHint
+    - architecture
+    - params
+  delete:
+#   path parameters
+    - project
+    - zone
+    - resourceId
+#   query parameters
+    - requestId
+  exclude_paths:
+    - labelFingerprint
+
+storage.buckets:
+  get:
+    - bucket
+#    - ifMetagenerationMatch
+#    - ifMetagenerationNotMatch
+  insert:
+#    - project
+#    - predefinedAcl
+#    - predefinedDefaultObjectAcl
+    - name
+    - acl
+    - billing
+    - cors
+    - customPlacementConfig
+    - defaultEventBasedHold
+    - defaultObjectAcl
+    - encryption
+    - iamConfiguration
+    - labels
+    - lifecycle
+    - location
+    - logging
+    - retentionPolicy
+    - rpo
+    - storageClass
+    - versioning
+    - website
+  update:
+    - bucket # TODO: this is equal to name from insert so perhaps we should annotate equivalent properties with different names from the different methods
+#    - ifMetagenerationMatch
+#    - ifMetagenerationNotMatch
+#    - predefinedAcl
+    - acl
+    - billing
+    - cors
+    - defaultEventBasedHold
+    - defaultObjectAcl
+    - encryption
+    - iamConfiguration
+    - labels
+    - lifecycle
+    - logging
+    - retentionPolicy
+    - rpo
+    - storageClass
+    - versioning
+    - website
+  delete:
+    - bucket
+#    - ifMetagenerationMatch
+#    - ifMetagenerationNotMatch
+  equivalent_properties:
+    - [metageneration, ifMetagenerationMatch, ifMetagenerationNotMatch]
+    - [bucket, name]
+#  resource_id:
+#      - name
+#      - bucket
+#    metageneration:
+#      - ifMetagenerationMatch
+#      - ifMetagenerationNotMatch
