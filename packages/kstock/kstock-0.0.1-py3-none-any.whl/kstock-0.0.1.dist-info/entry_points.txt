@@ -1,0 +1,3 @@
+[console_scripts]
+dump_tdx_candle_file = kstock.commands.dump_tdx_candle_file:main
+
