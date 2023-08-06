@@ -1,0 +1,12 @@
+iman/Audio.py,sha256=1LC7gKJhHp683MzSNlUc0mCxCpTh7MINeaSUiQ3Sspk,11046
+iman/__init__.py,sha256=P639xPn6LVrI5O2pHRBFf1tnGTT3MtKxlYrBNMvR0Q0,4121
+iman/gpu_info.py,sha256=zauRuTqTyXvNCnJIw56IXY4ukNPNA72cc9R--csgNI4,15317
+iman/info.py,sha256=toslbNNJeJlIU_PRu7XzDCcVWaM9xg2Lh5n1a7PpBZk,1172
+iman/metrics.py,sha256=zIOfIjjXLwNW0Lv6NNtHNjyD_dQFbVl9DxwATRiiVU8,2440
+iman/tsne.py,sha256=tsKPRz5pl8_brqj1z1oLW0ZUJDWoKqsw_ZJroEttuHs,329
+iman/web.py,sha256=-fIXKubVwjqokdoJsluLppeArjRZbawrsJ3Lnlt76rM,1412
+iman/xvector.py,sha256=_4fQSoVPD1U2kxaQHFXiK8nai22gsXGsiJ-No7l2g2o,7159
+iman-0.0.12.dist-info/METADATA,sha256=nxnFQNViAwgdQknCdHDOCDswZaJ7uir3MT_vdYAPq9Q,1969
+iman-0.0.12.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+iman-0.0.12.dist-info/top_level.txt,sha256=uu42R9eDQtXEStvNse_JxTYG_twSL7ZJ0HwUyFWypKE,5
+iman-0.0.12.dist-info/RECORD,,
