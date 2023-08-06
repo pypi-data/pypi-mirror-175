@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rediscreen
+Version: 0.0.1
+Summary: 
+Author: Eli Cohen
+Author-email: amihai.cohen@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: redis (>=4.3.4,<5.0.0)
+Requires-Dist: textual[dev] (>=0.3.0,<0.4.0)
