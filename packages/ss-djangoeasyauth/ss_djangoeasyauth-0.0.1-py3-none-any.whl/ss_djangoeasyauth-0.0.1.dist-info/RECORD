@@ -1,0 +1,10 @@
+src/djangoeasyauth/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/djangoeasyauth/models.py,sha256=2r_5LyaLkZaFin-tw24onDqfQnr4vzjl_y7j_fkor6o,2898
+src/djangoeasyauth/renderers.py,sha256=dvSHGdg7pn2WlVke09ItD1s6egBH-ja8zlrH44FE67k,949
+src/djangoeasyauth/serializers.py,sha256=vNdAmFfcC39NP9u4yTZ3uDmJ-2S0swfR-mnP4BY3PPQ,4438
+src/djangoeasyauth/utils.py,sha256=-C_-hoDgEy2Vb5Q4d655CjbhTQbaty2tnk26iShWnec,536
+src/djangoeasyauth/views.py,sha256=NXKCoCiHVqgYKhv3SH2i7wsh8lkEAzYu_jWkzZd9QfI,3277
+ss_djangoeasyauth-0.0.1.dist-info/METADATA,sha256=rbYHo4sz4E2l1TlD2Af0V5n9HMzUU8O07ano9NaNsMw,1278
+ss_djangoeasyauth-0.0.1.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+ss_djangoeasyauth-0.0.1.dist-info/licenses/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+ss_djangoeasyauth-0.0.1.dist-info/RECORD,,
