@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: python-call-golang-postgres-sub
+Version: 1.0
+Summary: 通过golang监听postgres的notify
+Home-page: https://github.com/bzl19951110/python_call_golang_postgres_sub
+Author: A-bian
+Author-email: 1079942574@qq.com
+License: UNKNOWN
+Keywords: pg,sub,postgres
+Platform: UNKNOWN
+
+UNKNOWN
+
+
