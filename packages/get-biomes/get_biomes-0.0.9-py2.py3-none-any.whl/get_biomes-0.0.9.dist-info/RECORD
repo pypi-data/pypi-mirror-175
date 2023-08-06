@@ -1,0 +1,10 @@
+get_biomes/__init__.py,sha256=t9KZdp_DIvv91kyAlbqfXkrky_63qicYujvE-nd8xlM,93
+get_biomes/__main__.py,sha256=fmTrLTX4TMZklxzmjKzlqtyjuj74JuptSsonzfEtcs8,3057
+get_biomes/_version.py,sha256=X9FNP31-uzznjlgrpV8vYVl3GMYqtovHWnoaoHhmgn8,497
+get_biomes/utils.py,sha256=QNn19mZ4dmaq1nU-1cyIY_V0eWqopQEr6kC9j_T5OPY,10923
+get_biomes-0.0.9.dist-info/LICENSE,sha256=FhLv2iFNLLOs8rCjlC7lHr1-pZ4UvS7cETEr1hQ5q-0,1575
+get_biomes-0.0.9.dist-info/METADATA,sha256=3hVY0p30PlSRBAZEFWJ6-LzW5LQj520KhKZ1I_VXmzY,523
+get_biomes-0.0.9.dist-info/WHEEL,sha256=Ow1Agppnny4NfvfZK4t6N-TUVQfFCpnFCb5wBX-uuec,110
+get_biomes-0.0.9.dist-info/entry_points.txt,sha256=W4DkVszInhLhV7MEBYVkv5bCJLSFcid_WQhUGUhi5Dk,56
+get_biomes-0.0.9.dist-info/top_level.txt,sha256=eftvVIiytdsw094AHyggUsHTVI_pMxJg9aHwF_Pm27o,11
+get_biomes-0.0.9.dist-info/RECORD,,
