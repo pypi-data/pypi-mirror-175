@@ -1,0 +1,4 @@
+Bhaskara.egg-info/PKG-INFO
+Bhaskara.egg-info/SOURCES.txt
+Bhaskara.egg-info/dependency_links.txt
+Bhaskara.egg-info/top_level.txt
