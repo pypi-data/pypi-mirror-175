@@ -1,0 +1,15 @@
+graft src/plaster_pastedeploy
+graft tests
+graft .github
+
+include README.rst
+include CHANGES.rst
+include LICENSE.txt
+include CONTRIBUTING.rst
+include CONTRIBUTORS.txt
+
+include pyproject.toml
+include .coveragerc .flake8 pytest.ini
+include tox.ini
+
+recursive-exclude * __pycache__ *.py[cod]
