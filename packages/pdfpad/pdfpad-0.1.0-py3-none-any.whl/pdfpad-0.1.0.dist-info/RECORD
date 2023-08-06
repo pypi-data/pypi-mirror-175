@@ -1,0 +1,10 @@
+pdfpad/__init__.py,sha256=dyvge-GgUpT3BeDwm_Lss1xqNlxAQdt63WJ7QcuZ_O4,24
+pdfpad/__version__.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+pdfpad/entrypoint.py,sha256=FpkzKsbJYP0j1lDKizHFSpflvsxIhQ6o6KQduVygJZg,708
+pdfpad/interface.py,sha256=qXzHOFpUeiQQnpm6F77aApjO5oUkRphJd_Uzjfm1gEM,3498
+pdfpad-0.1.0.dist-info/LICENSE,sha256=f7zm2kY2Br6-VgTdVcFTRd2AHBJ3eGEctBd3rJpSKEM,1071
+pdfpad-0.1.0.dist-info/METADATA,sha256=1lxli7Tdj9w6P2xpY03gVVbjK-vSyW7hcDGu884yRYs,744
+pdfpad-0.1.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+pdfpad-0.1.0.dist-info/entry_points.txt,sha256=PUwRrRaIbACmkmAgdBvcukQYus0SVK2WLHjwK_TWXZM,56
+pdfpad-0.1.0.dist-info/top_level.txt,sha256=_mguSsY4tpnVwWdFrJx2tR1IaReWzFghkC7ZSzxn3hw,7
+pdfpad-0.1.0.dist-info/RECORD,,
