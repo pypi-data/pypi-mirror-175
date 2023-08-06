@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/autolabsubmit/__init__.py
+src/autolabsubmit/autolab.py
+src/ubit_autolab_auto_submit.egg-info/PKG-INFO
+src/ubit_autolab_auto_submit.egg-info/SOURCES.txt
+src/ubit_autolab_auto_submit.egg-info/dependency_links.txt
+src/ubit_autolab_auto_submit.egg-info/requires.txt
+src/ubit_autolab_auto_submit.egg-info/top_level.txt
