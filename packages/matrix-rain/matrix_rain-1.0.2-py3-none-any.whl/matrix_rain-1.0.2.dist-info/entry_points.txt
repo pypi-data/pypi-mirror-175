@@ -1,0 +1,4 @@
+[console_scripts]
+matrix-rain=matrix_rain.main:app
+matrix_rain=matrix_rain.main:app
+
