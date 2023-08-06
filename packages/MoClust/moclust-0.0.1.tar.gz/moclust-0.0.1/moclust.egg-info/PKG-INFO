@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: moclust
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/ddb-qiwang/MoClust
+Author: yuanmusu
+Author-email: yuanmusu@pku.edu.cn
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+A deep learning-based clustering method for single-cell multi-omics data
