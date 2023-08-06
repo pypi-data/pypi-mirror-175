@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: python-cli-handler
+Version: 0.1.1
+Summary: Support scheduling of task via command line interface.
+Home-page: https://github.com/hoangthanhlamm/python-cli-scheduler
+Author: Lam Hoang
+Author-email: hoangthanhlamm@gmail.com
+Project-URL: Bug Tracker, https://github.com/hoangthanhlamm/python-cli-scheduler
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# CLI Scheduler
+
+Library support scheduling of task via command line interface.
+
+## Installation
+```shell
+pip3 install python-cli-scheduler
+```
+
+## Example
+
+### Use with decorator
+
+### Use with cli job class
+
+Example job to print a random number every minute.
