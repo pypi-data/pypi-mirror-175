@@ -1,0 +1,5 @@
+[console_scripts]
+scTSS = scTSS.bin.scTSS_main:main
+scTSS-count = scTSS.bin.count:main
+scTSS-plot = scTSS.bin.plot:main
+scTSS-quant = scTSS.bin.quant:main
