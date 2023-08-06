@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: steampunk-scanner
+Version: 0.4.0
+Summary: Quality scanner for Ansible Playbooks
+Home-page: https://pypi.org/project/steampunk-spotter/
+Author: XLAB d.o.o.
+Author-email: pypi@xlab.si
+Project-URL: Source Code, https://github.com/xlab-steampunk/steampunk-scanner-cli
+Project-URL: Bug Tracker, https://github.com/xlab-steampunk/steampunk-scanner-cli/issues
+Project-URL: Documentation, https://github.com/xlab-steampunk/steampunk-scanner-cli
+Keywords: ansible,automation,scanner,quality,playbook
+Classifier: Development Status :: 7 - Inactive
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Bug Tracking
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Framework :: Ansible
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Steampunk Scanner CLI (archived)
+
+This project archives the very first version of Steampunk Scanner CLI, which has 
+been later renamed to Steampunk Spotter CLI because Steampunk Scanner has been
+relabelled to [Steampunk Spotter].
+
+The source has been moved to GitLab ([gitlab.com/xlab-steampunk/spotter-cli]).
+The CLI Python package has been renamed to [steampunk-spotter].
+Installing the old [steampunk-scanner] Python package will now install 
+[steampunk-spotter] Python package.
+
+[Steampunk Spotter] provides an Assisted Automation Writing tool that analyzes 
+and offers recommendations for your Ansible Playbooks.
+The Steampunk Spotter CLI enables the use from the console with the ability 
+to scan Ansible content such as playbooks, roles, collections or task files.
+
+## Acknowledgement
+This tool was created by [XLAB Steampunk], IT automation specialist and 
+leading expert in building Enterprise Ansible Collections.
+
+[Steampunk Spotter]: https://spotter.steampunk.si/
+[gitlab.com/xlab-steampunk/spotter-cli]: https://gitlab.com/xlab-steampunk/spotter-cli
+[steampunk-spotter]: https://pypi.org/project/steampunk-spotter/
+[steampunk-scanner]: https://pypi.org/project/steampunk-scanner/
+[XLAB Steampunk]: https://steampunk.si/

@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+setup.cfg
+setup.py
+.github/workflows/ci_cd.yml
+steampunk_scanner.egg-info/PKG-INFO
+steampunk_scanner.egg-info/SOURCES.txt
+steampunk_scanner.egg-info/dependency_links.txt
+steampunk_scanner.egg-info/requires.txt
+steampunk_scanner.egg-info/top_level.txt
+steampunk_scanner.egg-info/zip-safe
