@@ -1,0 +1,2 @@
+[console_scripts]
+s = pocket.__main__:main
