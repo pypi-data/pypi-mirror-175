@@ -1,0 +1,10 @@
+README.md
+setup.py
+pysitech/Calc.py
+pysitech/__init__.py
+pysitech/poc.py
+pysitech.egg-info/PKG-INFO
+pysitech.egg-info/SOURCES.txt
+pysitech.egg-info/dependency_links.txt
+pysitech.egg-info/requires.txt
+pysitech.egg-info/top_level.txt
