@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/wintrymodels/__init__.py
+src/wintrymodels/dbcontext.py
+src/wintrymodels/transaction.py
+src/wintrymodels.egg-info/PKG-INFO
+src/wintrymodels.egg-info/SOURCES.txt
+src/wintrymodels.egg-info/dependency_links.txt
+src/wintrymodels.egg-info/requires.txt
+src/wintrymodels.egg-info/top_level.txt
