@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pklManager
+Version: 0.0.7
+Summary: You can easly manage pkl and load pkls.
+Home-page: https://github.com/june9713/pklmanager.git
+Author: PJ_9713
+Author-email: june9713@gmail.com
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# pklmanager
+save pkl in safe ways, load pkl in correct ways.
