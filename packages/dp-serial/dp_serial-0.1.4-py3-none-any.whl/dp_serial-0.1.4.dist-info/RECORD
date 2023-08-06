@@ -1,0 +1,14 @@
+dp_serial/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dp_serial/client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dp_serial/client/client.py,sha256=bWtW-XObQz-9UqMu2iuqPl2epjTM4JWkLKwYl365kG0,5166
+dp_serial/client/diffprivlib.py,sha256=RBYAuHTwkTmQhaUgTApdul6PqqYdTQX7O5x4Y7wIdxc,1438
+dp_serial/opendp_logger/__init__.py,sha256=TY1bFltj9icIx0qGMkjw8HZ_Jjus3w3p2RLEb64k7lk,150
+dp_serial/opendp_logger/comb.py,sha256=w206ZPx71cSEK5OfJjbQoLRdRyvh5dhTFpl002nVl-0,165
+dp_serial/opendp_logger/meas.py,sha256=ydIuJ-3t8FsHXe5K3AUTNh8azP5-HalgRVZRZQbnQzc,202
+dp_serial/opendp_logger/mods.py,sha256=p3XjIHk20tsERCttblqWttvhka00zBWCeZG6jbD5mL4,2899
+dp_serial/opendp_logger/trans.py,sha256=6MRuei4-X9c6dqMyjB5RAAA1nx8jioW1ZjNQ9jPayww,212
+dp_serial-0.1.4.dist-info/LICENSE.md,sha256=D_s8JbDIEX0IEU7hhmNMf_mp73EQnjP3tpF_p7poJwE,1066
+dp_serial-0.1.4.dist-info/METADATA,sha256=aTOtHCDRAu08GPnG3we4st_0giqsHa1oABCVjPXUeEo,1148
+dp_serial-0.1.4.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+dp_serial-0.1.4.dist-info/top_level.txt,sha256=oCGQTXJUGSqAIVZSeNwyCqusLnGdg5iJaJpqSp9LZUk,10
+dp_serial-0.1.4.dist-info/RECORD,,
