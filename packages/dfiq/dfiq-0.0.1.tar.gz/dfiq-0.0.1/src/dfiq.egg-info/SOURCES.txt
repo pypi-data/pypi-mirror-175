@@ -1,0 +1,6 @@
+pyproject.toml
+src/dfiq/__init__.py
+src/dfiq.egg-info/PKG-INFO
+src/dfiq.egg-info/SOURCES.txt
+src/dfiq.egg-info/dependency_links.txt
+src/dfiq.egg-info/top_level.txt
