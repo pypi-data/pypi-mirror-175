@@ -1,0 +1,52 @@
+#+TITLE: README
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description-][Description 😊]]
+  - [[#maintainers-][Maintainers 👨👩👧👦]]
+- [[#prerequisites-][Prerequisites 🏁]]
+- [[#installation-][Installation ✅]]
+- [[#usage-][Usage 😁]]
+- [[#run-tests-][Run tests ⚙]]
+  - [[#clone-the-repository][Clone the repository]]
+  - [[#run-unit-tests][run unit tests]]
+
+* Description 😊
+DataMovies is a data-science focused library that allows you to request movies/series dataset via ImDb's API.
+
+Available for now:
++ search all users reviews for a specific movie
++ search all ratings distributions for a specific movie
+  + statistic by ratings
+  + ratings per age range for man
+  + ratings per age range for woman
+  + ratings per age range for all
+
+** Maintainers 👨👩👧👦
++ [[https://github.com/rizerkrof][@rizerkrof]]
++ [[https://github.com/Zuwhity][@Zuwhity]]
++ [[https://github.com/HaozGU][@HaozGU]]
+
+* Prerequisites 🏁
++ Python >= 3.8
++ pip
+
+* Installation ✅
+From [[https://pypi.org/project/dataMovies/][official repository]]:
+#+begin_src sh
+pip install dataMovies
+#+end_src
+
+* Usage 😁
+Look at the [[https://github.com/rizerkrof/libray-dataMovies/tree/main/example][example]] to know more about the use. Do not forget to check the [[https://rizerkrof.github.io/libray-dataMovies/dataMovies/dataMovies.html][documentation]] to see all features information!
+
+* Run tests ⚙
+** Clone the repository
+#+begin_src sh
+git clone https://github.com/rizerkrof/libray-dataMovies.git
+cd libray-dataMovies
+#+end_src
+** run unit tests
+#+begin_src sh
+python3 -m unittest discover --top-level-directory=. --start-directory=./tests/tests_dataMovies/
+#+end_src
