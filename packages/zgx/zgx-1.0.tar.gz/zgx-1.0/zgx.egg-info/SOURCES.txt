@@ -1,0 +1,8 @@
+setup.py
+zgx/__init__.py
+zgx/add_num.py
+zgx/setup.py
+zgx.egg-info/PKG-INFO
+zgx.egg-info/SOURCES.txt
+zgx.egg-info/dependency_links.txt
+zgx.egg-info/top_level.txt
