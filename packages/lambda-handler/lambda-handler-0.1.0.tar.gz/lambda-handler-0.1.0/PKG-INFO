@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: lambda-handler
+Version: 0.1.0
+Summary: A Python package for routing and validating AWS events inside a Lambda function
+License: Apache 2.0
+Author: Matthew Badger
+Author-email: matt@branchenergy.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: fastapi
+Requires-Dist: pydantic (>=1.10.2,<2.0.0)
