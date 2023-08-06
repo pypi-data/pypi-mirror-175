@@ -1,0 +1,2 @@
+[console_scripts]
+dotmgr = dotmgr.cli:main

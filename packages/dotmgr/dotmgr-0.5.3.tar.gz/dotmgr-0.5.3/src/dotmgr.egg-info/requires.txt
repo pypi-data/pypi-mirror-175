@@ -1,0 +1,12 @@
+gitpython
+
+[dev]
+build
+mypy
+pylint
+pytest-cov
+recommonmark
+sphinx
+sphinx-pyproject
+sphinx-rtd-theme
+twine

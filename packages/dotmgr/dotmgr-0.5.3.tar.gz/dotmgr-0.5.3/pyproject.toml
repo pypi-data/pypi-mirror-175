@@ -1,0 +1,53 @@
+[project]
+name = "dotmgr"
+version = "0.5.3"
+description = "A small script that can help you maintain your dotfiles across several devices"
+keywords = ["dotmgr", "dotfile", "management"]
+license = { file = "LICENSE" }
+readme = "README.md"
+authors = [
+    { name = "Sebastian Neuser", email = "haggl@sineband.de" },
+]
+requires-python = ">=3.6"
+dependencies = [
+    "gitpython",
+]
+
+[project.urls]
+repository = "https://gitlab.com/haggl/dotmgr"
+documentation = "https://haggl.gitlab.io/dotmgr"
+
+[project.optional-dependencies]
+dev = [
+    "build",
+    "mypy",
+    "pylint",
+    "pytest-cov",
+    "recommonmark",
+    "sphinx",
+    "sphinx-pyproject",
+    "sphinx-rtd-theme",
+    "twine",
+]
+
+[project.scripts]
+dotmgr = "dotmgr.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "--cov=dotmgr --cov-report=term --cov-report=html:coverage"
+
+[tool.sphinx-pyproject]
+project = "dotmgr"
+extensions = [
+    "recommonmark",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",
+]
+html_theme = "sphinx_rtd_theme"

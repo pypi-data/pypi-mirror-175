@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/dotmgr/__init__.py
+src/dotmgr/cli.py
+src/dotmgr/manager.py
+src/dotmgr/paths.py
+src/dotmgr/repository.py
+src/dotmgr/transformer.py
+src/dotmgr.egg-info/PKG-INFO
+src/dotmgr.egg-info/SOURCES.txt
+src/dotmgr.egg-info/dependency_links.txt
+src/dotmgr.egg-info/entry_points.txt
+src/dotmgr.egg-info/requires.txt
+src/dotmgr.egg-info/top_level.txt
