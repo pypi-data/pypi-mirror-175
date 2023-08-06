@@ -1,0 +1,6 @@
+torch
+numpy
+Pillow
+diffusers>=0.4.1
+librosa
+datasets
