@@ -1,0 +1,2 @@
+[console_scripts]
+TRSpeaks = TRS:main
