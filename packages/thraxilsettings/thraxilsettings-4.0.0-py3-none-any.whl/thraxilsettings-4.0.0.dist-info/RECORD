@@ -1,0 +1,12 @@
+thraxilsettings/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+thraxilsettings/__init__.pyc,sha256=w9_LApwF0SgfTVqlGwMFZU72XoJH5jHaPH5KOw-O99E,155
+thraxilsettings/compose.py,sha256=kQdAu1YIWNZqT0aP-zGjoS4lRe5hqEsKA6PxkZ1ce-c,702
+thraxilsettings/docker.py,sha256=g5tXDfI4gvsVG5NTff5kDNu_ttQC0IGoV2qxYsfH3F4,3434
+thraxilsettings/production.py,sha256=ibKk-PFV-GanKj6nq0ZcMebbT8FN1_ubzl2HyMuyks4,2003
+thraxilsettings/shared.py,sha256=3IMMIKJp_1WoWNFnQOIvu9MBAcx7K2OG2xb2l-_GJPI,5009
+thraxilsettings/shared.pyc,sha256=Nq8F3y_TMkjRUzFGOes63UipJvV1tmiHG0GjgglNqX4,4722
+thraxilsettings/test2.pyc,sha256=GlloA7bCOqb6Q2o1DMc9kFbPqGbZAs1_N-X4PZoO38s,398
+thraxilsettings-4.0.0.dist-info/METADATA,sha256=RHYuSyEZ6NJGmdq7pfgqXYknaBcUaC8E31GpXTp92BU,561
+thraxilsettings-4.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+thraxilsettings-4.0.0.dist-info/top_level.txt,sha256=tsu5qUDkNSEInMsgsmPr9v522H5BfCQKHjIckddbNaM,16
+thraxilsettings-4.0.0.dist-info/RECORD,,
