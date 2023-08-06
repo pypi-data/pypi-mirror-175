@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ???
+cp gnu.env build.env
+INSTALL_DIR=??? ./build.sh -lpy
