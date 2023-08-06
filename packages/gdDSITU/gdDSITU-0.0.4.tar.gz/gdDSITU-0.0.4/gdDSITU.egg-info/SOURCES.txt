@@ -1,0 +1,11 @@
+README.txt
+setup.py
+gdDSITU/__init__.py
+gdDSITU.egg-info/PKG-INFO
+gdDSITU.egg-info/SOURCES.txt
+gdDSITU.egg-info/dependency_links.txt
+gdDSITU.egg-info/top_level.txt
+gddsitu.egg-info/PKG-INFO
+gddsitu.egg-info/SOURCES.txt
+gddsitu.egg-info/dependency_links.txt
+gddsitu.egg-info/top_level.txt
