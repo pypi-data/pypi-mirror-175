@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: perso-vcs
+Version: 0.0.0a0
+Summary: Version control system for Perso.
+Author: Moonsik Park
+Author-email: moonsik.park@estsoft.com
+Requires-Python: >=3.7,<=3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: click (>=8.1.3,<9.0.0)
+Requires-Dist: pydantic (>=1.10.2,<2.0.0)
+Requires-Dist: tomli (>=2.0.1,<3.0.0); python_version < "3.11"
+Description-Content-Type: text/markdown
+
+# Perso.VCS Module
+
+[![pipeline status](https://git.estsoft.com/hunet-ai/Perso.VCS/badges/master/pipeline.svg)](https://git.estsoft.com/hunet-ai/Perso.VCS/commits/master)
+[![coverage report](https://git.estsoft.com/hunet-ai/Perso.VCS/badges/master/coverage.svg)](https://git.estsoft.com/hunet-ai/Perso.VCS/commits/master)
+
+Perso.VCS Module (`perso.vcs`) is a python module for version control of Perso.
+
+## Install
+
+### From PyPI
+
+`pip insall perso.vcs`
+
+### From source
+
+Use of virtual environment is strongly encouraged.
+
+```bash
+git clone https://github.com/moonsikpark/perso.vcs
+cd perso.vcs
+python -m pip install -U pip setuptools poetry
+poetry install
+```
+
