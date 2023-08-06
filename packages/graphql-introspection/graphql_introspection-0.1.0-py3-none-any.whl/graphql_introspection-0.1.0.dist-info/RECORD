@@ -1,0 +1,10 @@
+graphql_introspection/GraphQL.py,sha256=nzSuU1rUVsmq5nEKuIF_Gc53PCwlKImwwZhc4q11edU,1456
+graphql_introspection/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+graphql_introspection/src/display.py,sha256=PLcKJKR-obaAOdUk74ZjAyboChjpEx2MLxPOpT6a12M,1216
+graphql_introspection/src/parser.py,sha256=MJf7sf6wRQ2FLV4MgdkMHbPy4auxBwmuFvPhiSfHSBU,234
+graphql_introspection/src/request.py,sha256=uffn1OBaCb5VBG9xdyoiFGzXk95SbPH4B_TofuaA6CA,574
+graphql_introspection/src/utils.py,sha256=UtZWAEbMOVSrCVSRnAlBdBi33Z3ghCFHYmbiimfu_sw,3933
+graphql_introspection-0.1.0.dist-info/METADATA,sha256=rjI9ze0fn8IAGn3apUF1bJTK1RJfB3kxJSlCL0Sisps,741
+graphql_introspection-0.1.0.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+graphql_introspection-0.1.0.dist-info/licenses/LICENSE,sha256=myOhoZT3n1YETTY1XOcbX7LsB0aWS-eBgZRNYp0V3cY,12
+graphql_introspection-0.1.0.dist-info/RECORD,,
