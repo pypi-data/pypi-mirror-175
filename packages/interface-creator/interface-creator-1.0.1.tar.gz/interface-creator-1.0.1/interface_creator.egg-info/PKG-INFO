@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: interface-creator
+Version: 1.0.1
+Summary: Creates interfaces from python files
+Author: Zackary W
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# InterfaceCreator
+
+a simple utility to create an interface based on the source module
+
+# Notes
+* achieved using `ast` and `autopep8`(for formatting/ optional)
+
+# How To Use
+click shell help
+```
+infCreate --help
+```
+
+common usage
+```
+infCreate ./source.py ./target.py
+```
+

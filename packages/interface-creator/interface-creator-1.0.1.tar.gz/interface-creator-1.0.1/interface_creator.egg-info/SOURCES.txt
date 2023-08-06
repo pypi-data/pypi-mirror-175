@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+InterfaceCreator/__init__.py
+InterfaceCreator/cli.py
+interface_creator.egg-info/PKG-INFO
+interface_creator.egg-info/SOURCES.txt
+interface_creator.egg-info/dependency_links.txt
+interface_creator.egg-info/entry_points.txt
+interface_creator.egg-info/requires.txt
+interface_creator.egg-info/top_level.txt
