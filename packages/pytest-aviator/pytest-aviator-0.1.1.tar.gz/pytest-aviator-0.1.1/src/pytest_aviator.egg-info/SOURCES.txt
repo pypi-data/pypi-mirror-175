@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/__init__.py
+src/pytest_aviator/__init__.py
+src/pytest_aviator/attributes.py
+src/pytest_aviator/runner.py
+src/pytest_aviator.egg-info/PKG-INFO
+src/pytest_aviator.egg-info/SOURCES.txt
+src/pytest_aviator.egg-info/dependency_links.txt
+src/pytest_aviator.egg-info/entry_points.txt
+src/pytest_aviator.egg-info/requires.txt
+src/pytest_aviator.egg-info/top_level.txt
