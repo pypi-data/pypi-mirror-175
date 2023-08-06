@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pycraters
+Version: 0.0.4
+Summary: A Python framework designed to automate the most common tasks associated with the extraction and upscaling of statistics of single-impact crater functions to inform coefficients of continuum equations describing surface morphology evolution.
+Author: Scott Norris
+Author-email: <snorris@mail.smu.edu>
+Keywords: craters,education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: lmfit
+Requires-Dist: uncertainties
+
