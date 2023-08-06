@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: ffed
+Version: 0.1.1
+Summary: A full-fledged encoder decoder
+License: MIT
+Author: Sahil Rawat
+Author-email: sahil.rawat.1603@gmail.com
+Requires-Python: >=3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: click (>=8.1.3,<9.0.0)
+Description-Content-Type: text/markdown
+
+# ffed (full-fledged encoder decoder)
+
+## Installation
+
+```shell
+pip install ffed
+```
+
+## Usage
+
+```shell
+# To get the help section
+ffed --help
+
+# To get the help section of specific sub command
+ffed encode --help
+```
+
