@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: pypivot
+Version: 0.1.2
+Summary: Pivot, unpivot, melt, and tranform data
+Author-email: Carl Anderson <carl@dumpsterfire.dev>
