@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+lindy.egg-info/PKG-INFO
+lindy.egg-info/SOURCES.txt
+lindy.egg-info/dependency_links.txt
+lindy.egg-info/top_level.txt
