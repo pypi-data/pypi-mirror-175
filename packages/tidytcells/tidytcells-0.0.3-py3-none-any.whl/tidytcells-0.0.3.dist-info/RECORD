@@ -1,0 +1,13 @@
+tidytcells/__init__.py,sha256=SzDa5PxXgvI_HmlB1jz0RIA1At4thYpLk_QTNBcVH9U,64
+tidytcells/mhc.py,sha256=JpBjelnhUHrR5MrxZvKrof6CwS93eYsSGMYazOkRiq4,7886
+tidytcells/tcr.py,sha256=xf5ZmhvkprWr5RP5Mm94ykCY57xCUY5jm-GYnsbm_1o,6756
+tidytcells/resources/mhc_alleles_homosapiens.json,sha256=5lKOVAVW12xSPmtTweuIEOHf3e2H9ukXBgNvlwTpD28,556862
+tidytcells/resources/mhc_synonyms_homosapiens.json,sha256=FD2QalKrVeLC70lCPe4V0eRznK3IcrAJbLYAonnTAtA,925
+tidytcells/resources/tcr_alleles_homosapiens.json,sha256=0eop64QE5kNvoE9rMx8lrrH6MQqlYN4z2pLihzojR3o,8424
+tidytcells/resources/tcr_d_designations_homosapiens.json,sha256=mAzP6LR6BxOUDo37aTCprxrdxqF1o_kYi9Egg5s_KsA,99
+tidytcells/resources/tcr_synonyms_homosapiens.json,sha256=b6_bSFv3Eu8OkU5Mpseraf4dHXQbpv1EZaqDOWTm1Oc,42563
+tidytcells-0.0.3.dist-info/LICENSE.txt,sha256=FY2Gxf5nKGloBCrk7PBQ1n8LTR2x8i3EIO2cUL9WIvE,1068
+tidytcells-0.0.3.dist-info/METADATA,sha256=AzW5BIrsqn9JL4tVfMLfAysBxqp8T1LYBIvtnOTXfU8,5262
+tidytcells-0.0.3.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+tidytcells-0.0.3.dist-info/top_level.txt,sha256=igXdVB29fieqs0GIkDpW-TrRSqyH82WyQbPoLFg6hFk,11
+tidytcells-0.0.3.dist-info/RECORD,,
