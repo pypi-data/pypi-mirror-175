@@ -1,0 +1,5 @@
+example_deploy_project_r/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+example_deploy_project_r/example_r.py,sha256=50b7t4z8U1nnMlsVBDgos3j_LmDEaKlv1CRAqUbUugE,42
+example_deploy_project_r-1.1.7.dist-info/METADATA,sha256=-sWKSFK97NqXD1yRLMgQzh7AnbJoODaKouMZPTRxpWM,1042
+example_deploy_project_r-1.1.7.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+example_deploy_project_r-1.1.7.dist-info/RECORD,,
