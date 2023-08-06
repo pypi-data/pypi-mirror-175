@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+model_csv.egg-info/PKG-INFO
+model_csv.egg-info/SOURCES.txt
+model_csv.egg-info/dependency_links.txt
+model_csv.egg-info/top_level.txt
