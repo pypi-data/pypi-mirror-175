@@ -1,0 +1,9 @@
+README.md
+setup.py
+apsfacenet/__init__.py
+apsfacenet/face_v2.py
+apsfacenet.egg-info/PKG-INFO
+apsfacenet.egg-info/SOURCES.txt
+apsfacenet.egg-info/dependency_links.txt
+apsfacenet.egg-info/requires.txt
+apsfacenet.egg-info/top_level.txt
