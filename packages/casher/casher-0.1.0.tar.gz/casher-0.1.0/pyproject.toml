@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "casher"
+version = "0.1.0"
+description = "Module for creating cache files, folders and etc"
+authors = ["assertionLimit <markushasorokin@yandex.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+toml = "^0.10.2"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: casher
+Version: 0.1.0
+Summary: Module for creating cache files, folders and etc
+License: MIT
+Author: assertionLimit
+Author-email: markushasorokin@yandex.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: toml (>=0.10.2,<0.11.0)
+Description-Content-Type: text/markdown
+
+
+# Casher
+
+Python small module for creating cache files, folders and etc. Main purpose is to save data from
+class, dict, object to local file and fast load it when required.
+
+
+
