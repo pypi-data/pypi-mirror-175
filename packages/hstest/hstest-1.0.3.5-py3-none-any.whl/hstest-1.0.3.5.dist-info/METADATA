@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hstest
+Version: 1.0.3.5
+Summary: Test Package
+Home-page: https://pypi.org/manage/projects/
+Author: hasic
+Author-email: oilbread@naver.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: ctgan
+Requires-Dist: pycaret[full]
+Requires-Dist: jinja2 (==3.1.2)
+Requires-Dist: markupsafe (==2.0.1)
+Requires-Dist: xgboost
+
+UNKNOWN
+
