@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+setup.py
+src/nanoyc/ydb/__init__.py
+src/nanoydb.egg-info/PKG-INFO
+src/nanoydb.egg-info/SOURCES.txt
+src/nanoydb.egg-info/dependency_links.txt
+src/nanoydb.egg-info/requires.txt
+src/nanoydb.egg-info/top_level.txt

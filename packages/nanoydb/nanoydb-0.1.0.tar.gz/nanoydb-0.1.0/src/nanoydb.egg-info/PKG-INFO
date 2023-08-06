@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: nanoydb
+Version: 0.1.0
+Summary: A nano package for working with YDB Yandex Serverless Database
+Author: Dima Frolenko
+Author-email: orangefrol@gmail.com
+License: LICENSE.txt
+Description-Content-Type: text/plain
+License-File: LICENSE.txt
+
+from nanoydb import Ydb
+
+query="SELECT 30.0 as query_result"
+
+ydb=Ydb(
+    ydb_endpoint='...',
+    ydb_database='...'
+)
+
+result=ydb.doquery(query)
+val=result.get_single_value('query_result')
+
+print(val)
+#>30.0
