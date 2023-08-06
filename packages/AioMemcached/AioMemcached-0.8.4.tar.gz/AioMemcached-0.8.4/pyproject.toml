@@ -1,0 +1,46 @@
+[build-system]
+# https://peps.python.org/pep-0621
+# https://setuptools.pypa.io/en/latest/userguide/quickstart.html
+# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AioMemcached"
+description = "A pure-Python(3.7+) asyncio memcached client, fork from aiomcache."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "BSD" }
+authors = [
+    { name = "Rex Zhang" },
+    { email = "rex.zhang@gmail.com" }
+]
+keywords = ["webdav", "asgi", "asyncio"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "Framework :: AsyncIO",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+
+]
+
+dynamic = ["version"]
+
+[project.urls]
+homepage = "https://github.com/rexzhang/aiomemcached"
+repository = "https://github.com/rexzhang/aiomemcached"
+changelog = "https://github.com/rexzhang/aiomemcached/blob/main/CHANGES.rst"
+
+[tool.setuptools]
+packages = ["aiomemcached"]
+
+[tool.setuptools.dynamic]
+version = { attr = "aiomemcached.__version__" }
+
+[tool.pytest.ini_options]
+pythonpath = "."
+asyncio_mode = "auto"
+addopts = "--cov=aiomemcached --cov-report html"
+
+[tool.isort]
+profile = "black"
