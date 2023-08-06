@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nuzlocke Display</title>
+</head>
+<body onload="startRefresh()">
+<div id="data"></div>
+<script>
+    function startRefresh() {
+        console.log('updating')
+        fetch('/nuzlocke/display/static').then(r => r.text()).then(text => {
+            document.getElementById('data').innerHTML = text
+        })
+        setTimeout(startRefresh, {{timeout}})
+    }
+</script>
+</body>
+</html>

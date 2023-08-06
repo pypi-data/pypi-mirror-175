@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nuzlocke Display</title>
+    <style>
+        body {
+            background-color: #550000;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .pokemon {
+            table-layout: fixed;
+            width: 100%;
+            position: absolute;
+            top: 0;
+        }
+
+        .badges {
+            table-layout: fixed;
+            width: 100%;
+            font-family: Archangelsk, sans-serif;
+            font-size: 7vw;
+            color: white;
+            position: absolute;
+            bottom: 0;
+        }
+
+        th {
+            padding: 0;
+        }
+
+        td {
+            padding: 0;
+            line-height: 0;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        img.gray {
+            filter: grayscale(1);
+        }
+
+        th.current {
+            background-color: white;
+            color: #550000;
+        }
+    </style>
+</head>
+<body>
+{% if running %}
+<table class="pokemon">
+    <tr>
+        {% for pokemon in pokemons %}
+        <td>
+            {% if pokemon is not none %}
+            <img src="{{pokemon['image']}}" alt="{{pokemon['name']}}"/>
+            {% endif %}
+        </td>
+        {% endfor %}
+    </tr>
+</table>
+
+<table class="badges">
+    <tr>
+        {% for badge in badges %}
+        <th class="{% if loop.index == badge_progress+1 %}current{% endif %}">{{badge['cap']}}</th>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for badge in badges %}
+        <td>
+            <img src="{{badge['image']}}" alt="{{badge['name']}}"
+                 class="{% if loop.index > badge_progress %}gray{% endif %}"/>
+        </td>
+        {% endfor %}
+    </tr>
+</table>
+{% endif %}
+</body>
+</html>
