@@ -1,0 +1,10 @@
+README.md
+setup.py
+cnn/__init__.py
+preprocess/__init__.py
+preprocess/readData.py
+preprocess/readWAVdata.py
+wal_phonoPy.egg-info/PKG-INFO
+wal_phonoPy.egg-info/SOURCES.txt
+wal_phonoPy.egg-info/dependency_links.txt
+wal_phonoPy.egg-info/top_level.txt
