@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+constructs/cdk_opinionated_constructs.egg-info/PKG-INFO
+constructs/cdk_opinionated_constructs.egg-info/SOURCES.txt
+constructs/cdk_opinionated_constructs.egg-info/dependency_links.txt
+constructs/cdk_opinionated_constructs.egg-info/requires.txt
+constructs/cdk_opinionated_constructs.egg-info/top_level.txt
