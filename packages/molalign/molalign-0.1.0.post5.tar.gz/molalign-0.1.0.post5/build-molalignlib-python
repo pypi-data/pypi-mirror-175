@@ -1,0 +1,5 @@
+#!/bin/bash
+git clone https://github.com/qcuaeh/molalign.git
+cd molalign
+ln -s gnu.env build.env
+./build.sh -l
