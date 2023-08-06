@@ -1,0 +1,8 @@
+setup.py
+loosenesspgmdata/__init__.py
+loosenesspgmdata/looseness.py
+loosenesspgmdata.egg-info/PKG-INFO
+loosenesspgmdata.egg-info/SOURCES.txt
+loosenesspgmdata.egg-info/dependency_links.txt
+loosenesspgmdata.egg-info/requires.txt
+loosenesspgmdata.egg-info/top_level.txt
