@@ -1,0 +1,8 @@
+pyzmq
+pyyaml
+psutil
+pyqtgraph>=0.13
+pyqt5==5.15.2
+pytest
+matplotlib
+testfixtures
