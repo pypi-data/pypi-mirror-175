@@ -1,0 +1,9 @@
+postgres_dynamic/__init__.py,sha256=dpSQnFVYx-Wry8-BA_6Lb8iyBVMdis3HydlBAuBRrFI,104
+postgres_dynamic/pgd_connection.py,sha256=muVm_BDzj25BMLrW6PhYacVGyFIfxvHxMz1KHGJDQS8,734
+postgres_dynamic/pgd_get.py,sha256=wiLKPeAzObXY_lzYcDXncPp5iyDXNrwkRC5EkKWktHo,9014
+postgres_dynamic/pgd_transaction.py,sha256=27l055IWTEVfrIRk1ivv4hrX0x5hJ99L5uA27l3fJx4,5152
+postgres_dynamic-0.0.8.dist-info/LICENSE,sha256=3wvZ_BtbPyJ1QY8vVy9vDiMed11GALHWkSv9Z83QMyY,1098
+postgres_dynamic-0.0.8.dist-info/METADATA,sha256=grct2OqfVJELglxAtsyeYII5HSQba4h42KdGM6QWfho,14874
+postgres_dynamic-0.0.8.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+postgres_dynamic-0.0.8.dist-info/top_level.txt,sha256=Z9Du50f2-cJBU3wuuZZ5ZcUkfMNekA7vPfvR8lrI8Hg,17
+postgres_dynamic-0.0.8.dist-info/RECORD,,
