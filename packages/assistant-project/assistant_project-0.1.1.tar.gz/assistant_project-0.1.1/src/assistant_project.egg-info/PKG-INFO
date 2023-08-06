@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: assistant-project
+Version: 0.1.1
+Summary: Python Library for the EU ASSISTANT-Project
+Author-email: Nikolas Laudenbach <nikolas.laudenbach@tum.de>
+Project-URL: Homepage, https://assistant-project.eu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+## Python Library for the EU ASSISTANT Project
+
+This library contains the following sublibraries:
+1. [**graphdb**](#graphdb)
+
+### GraphDB <a name="graphdb"/>
+Enables using the Rest API for [OntoText GraphDB](https://www.ontotext.com/products/graphdb/) to Up-/Download files to
+and from the selected graph inside a repository. 
+
+With OntoRefine you can upload a file and map the keywords, preprocessing the data for uploading it to a graph.
+
+---
+For more information about the project go to the [ASSISTANT Homepage](https://assistant-project.eu).
+
