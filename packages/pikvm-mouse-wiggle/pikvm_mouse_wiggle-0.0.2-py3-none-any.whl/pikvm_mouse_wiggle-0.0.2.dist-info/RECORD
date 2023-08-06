@@ -1,0 +1,11 @@
+pikvm_mouse_wiggle/__init__.py,sha256=32HWGyjfrsMNf3SP8LFsojH-4eDVxlFJjxm2J5rbGFE,45
+pikvm_mouse_wiggle/main.py,sha256=88LEFkkgqntsVGRlqU4sWSmpAxctS7z2R0uii2nroQ0,996
+pikvm_mouse_wiggle/wiggle.py,sha256=jiJ-_AOYu0edO_rP2408MT59dwNWgUYQmDRlxVeA5wg,1157
+pikvm_mouse_wiggle/_internal/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pikvm_mouse_wiggle/_internal/main.py,sha256=K1_ROsu5EX1f_yG2XAPt9mas-qdbhyV4zDv-K1EDPec,958
+pikvm_mouse_wiggle-0.0.2.dist-info/LICENSE,sha256=7_xOqUdIpwZ3k3p428rkLU7bci15kb0TewQ17VrGT-4,1078
+pikvm_mouse_wiggle-0.0.2.dist-info/METADATA,sha256=G8zzZT-r7nbo3cOTEp2x5ukwmm3pS2F0Szv6ZtfaTKs,2372
+pikvm_mouse_wiggle-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pikvm_mouse_wiggle-0.0.2.dist-info/entry_points.txt,sha256=mnVyFxhDLgiuFhO4x1_xjEMR3Hvb6Zxz1qPo3K8VZYc,78
+pikvm_mouse_wiggle-0.0.2.dist-info/top_level.txt,sha256=X8taJQGUMAyj56t-D-49LqO8ILRpEiPWDm892cg8pQY,19
+pikvm_mouse_wiggle-0.0.2.dist-info/RECORD,,

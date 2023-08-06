@@ -1,0 +1,2 @@
+[console_scripts]
+pikvm-mouse-wiggle = pikvm_mouse_wiggle._internal.main:main
