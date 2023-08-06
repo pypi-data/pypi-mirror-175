@@ -1,0 +1,10 @@
+glopan/__init__.py,sha256=kecz-l-ayEh50ttz9uuY9P32gS9sDlJbldD72Tjzd1c,503
+glopan/__main__.py,sha256=SNFinBC2LaI2Q4lLhqB5PF0Q4H84CzgrXafMDsyGSH8,186
+glopan/cli.py,sha256=tuTJvx2c2x3vl4RLMXK08sT8tjU1P8XcJlufQrGnmiM,4846
+glopan/config.py,sha256=3ZJa5GRyRVCZt2pZuy-MHHpyEbLS8RZ06GSlsE33378,1857
+glopan/glopan.py,sha256=Dl6TIvj0GCcyTuA8D7EUtq8Gfuqkv5-X0KU3_4GOTEI,3684
+glopan-0.0.3.dist-info/entry_points.txt,sha256=0ULf0-gNgrG0pQS2Un-3RwM4BN_LAou9VKsnyql7-ZU,42
+glopan-0.0.3.dist-info/LICENSE,sha256=sR4vbcZWCb9mYemBQmX8y01-wveTgD3MhsE6lILnVNM,1068
+glopan-0.0.3.dist-info/WHEEL,sha256=rSgq_JpHF9fHR1lx53qwg_1-2LypZE_qmcuXbVUq948,81
+glopan-0.0.3.dist-info/METADATA,sha256=et_8Bl9SUCOu7V3UJtGMQ5WbKvX0mYclotWxvZswAQY,2001
+glopan-0.0.3.dist-info/RECORD,,
