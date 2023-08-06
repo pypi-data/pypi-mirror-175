@@ -1,0 +1,11 @@
+.gitignore
+LICENSE
+README.md
+setup.cfg
+setup.py
+renju/__init__.py
+renju/board.py
+renju.egg-info/PKG-INFO
+renju.egg-info/SOURCES.txt
+renju.egg-info/dependency_links.txt
+renju.egg-info/top_level.txt
