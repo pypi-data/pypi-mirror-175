@@ -1,0 +1,8 @@
+lovesay/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lovesay/cli.py,sha256=eL2vu-_XY6mtNpmr78YevZjZ9OIQ1z1x2eluGWTMBpI,850
+lovesay/love.py,sha256=Co2avm3VLXqqbUP0UkWpAQdebdl7Y6yny2UGWJPzMHs,5240
+lovesay-0.3.8.dist-info/entry_points.txt,sha256=OZBNhH_KQiErS4zAN9vKXqwBi-E35jlUvh2HN5qfnL0,44
+lovesay-0.3.8.dist-info/LICENSE,sha256=-_AT2q4CsawINsA0IdtJc4sDwPVRgy8zLFZKAH86zxA,1065
+lovesay-0.3.8.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+lovesay-0.3.8.dist-info/METADATA,sha256=TjsFBrNyhU_PjH2cO6atgGrfMGhElSGuEcCCbJW8so0,4408
+lovesay-0.3.8.dist-info/RECORD,,
