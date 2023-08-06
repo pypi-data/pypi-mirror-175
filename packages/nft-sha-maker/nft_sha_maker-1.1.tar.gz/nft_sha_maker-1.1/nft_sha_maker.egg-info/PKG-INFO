@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: nft-sha-maker
+Version: 1.1
+Summary:  A package that calculates the SHA256 from a CSV file
+Author: Samuel .O. Bamgbose
+Author-email: bsaintdesigns@gmail.com
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >= 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt

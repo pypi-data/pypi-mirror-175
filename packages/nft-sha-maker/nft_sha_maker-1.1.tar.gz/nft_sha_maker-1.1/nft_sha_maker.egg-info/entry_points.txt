@@ -1,0 +1,2 @@
+[console_scripts]
+nft_sha_maker = nft_sha_maker:__main__
