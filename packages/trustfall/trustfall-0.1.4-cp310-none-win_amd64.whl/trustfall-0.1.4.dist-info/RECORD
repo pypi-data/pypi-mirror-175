@@ -1,0 +1,12 @@
+trustfall-0.1.4.dist-info/METADATA,sha256=tO0jkOV7es1GcEuxcKfa2QKpGQsYG_JjslJdsp0ZBWA,2582
+trustfall-0.1.4.dist-info/WHEEL,sha256=keLBtIOE7ZgLyd8Cijw37iqv72a2jhfxMdDu8Unr7zo,96
+trustfall/adapter.py,sha256=T45yFEWfCwhNbI69V_Z8gX1qVopvH0efXc1sC3DRw2w,6828
+trustfall/execution.py,sha256=fRkcO6XQ-rDpnNkxu6Zl8h5SdSw8mFlyjf8BbvvanH4,647
+trustfall/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+trustfall/tests/numbers_adapter.py,sha256=dS9tm0MP0bMo7SLkwYytRP68ZXCdeynQN6N_kazGyZM,3122
+trustfall/tests/test_execution.py,sha256=Dp9ufo9-7ENrxQV7zDek7kmO0AxK_t0_m8ei4FIz878,7302
+trustfall/tests/test_schema.py,sha256=WIutwSCIStzE2hhwS0el4aIQGGElhFXGhntfJ0IUwDY,885
+trustfall/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+trustfall/__init__.py,sha256=saGjAEdmzJ-6C906F_uc4kZC6UgF9BB0dLCm-MHazYI,877
+trustfall/trustfall.cp310-win_amd64.pyd,sha256=cz_Q95UCk5c5wgBSdAJLy1qO_WVOHHZFM7CTdoHoV3Y,3267584
+trustfall-0.1.4.dist-info/RECORD,,
