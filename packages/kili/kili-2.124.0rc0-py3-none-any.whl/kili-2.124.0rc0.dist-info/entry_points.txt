@@ -1,0 +1,2 @@
+[console_scripts]
+kili = kili.cli:main
