@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyanist
+Version: 0.1.0
+Summary: Pyanist allows using chorded typing in addition to normal typing in order to improve your typing speed
+Author: Dániel Kántor
+Author-email: git@daniel-kantor.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: keyboard (>=0.13.5,<0.14.0)
