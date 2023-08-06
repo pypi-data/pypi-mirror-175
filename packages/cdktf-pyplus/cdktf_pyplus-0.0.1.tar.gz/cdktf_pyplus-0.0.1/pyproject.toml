@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "cdktf-pyplus"
+version = "0.0.1"
+description = "A python lib to help build cdktf project"
+authors = ["jingwei zhu <jingwei.zhu@outlook.com>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+cdktf = "^0.13.2"
+pytest = "^7.2.0"
+cdktf-cdktf-provider-aws = "^10.0.2"
+cdktf-cdktf-provider-random = "^3.0.11"
+boto3 = "^1.26.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = {version = "^22.10.0", allow-prereleases = true}
+isort = {version = "^5.10.1", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+
+[[tool.poetry.source]]
+name = "aliyun"
+url = "http://mirrors.aliyun.com/pypi/simple"
+default = true
