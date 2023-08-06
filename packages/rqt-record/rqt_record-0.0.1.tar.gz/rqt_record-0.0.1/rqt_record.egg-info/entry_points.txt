@@ -1,0 +1,3 @@
+[console_scripts]
+rqt_record = rqt_record.main:main
+
