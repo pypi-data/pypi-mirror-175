@@ -1,0 +1,11 @@
+mudata/__init__.py,sha256=-763Y-Zp6Vr_-HW7aIrdF1hLKgdVRFDzrA2eihjobAg,243
+mudata/_core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mudata/_core/config.py,sha256=Gntdw1qISFaQiTD2uWjBg0ZsAejy4jduRIkBhEbYPEI,1598
+mudata/_core/file_backing.py,sha256=wAsKr-YCJWTjiRSiZj-mN4qghqX8RNllhmcdp3AgWaI,3561
+mudata/_core/io.py,sha256=bPsXiXSmzibBv0gaC9EtF5YTwAflZIXcxSaqqmRrcIQ,19473
+mudata/_core/mudata.py,sha256=C-lwIJvj3o8d6tY1vxdkOqpVDkw9mZJlNlRyBsf0x2o,51789
+mudata/_core/repr.py,sha256=7018E-mvgU2GfphGgxiYE4vYsMLJ_pXex8vcXUmeLJQ,8343
+mudata/_core/utils.py,sha256=RNgaKM7sk58jBeCrUuE7ipw460tP8UWhUXLBLBSPXcY,662
+mudata-0.2.1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+mudata-0.2.1.dist-info/METADATA,sha256=5zPiPKuFKB0o9HuC9GTbxpye3135xZdIHch6zs6ZbcE,3757
+mudata-0.2.1.dist-info/RECORD,,
