@@ -1,0 +1,11 @@
+emusica/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+emusica/argparse_prueba.py,sha256=-gwvtOAcCWBU1ZnjR4DD9CrhrpPC4JOxnX71dqXr6Yc,533
+emusica/descargar_audio.py,sha256=86k3So1SSkWIiWx12AZMCkaRuq-yPkI68V1hxHDMt4E,1315
+emusica/emusica.py,sha256=aMwfdi21QZ997KoyNYExyWBwnQAiuUyHJcMn6FNUGOQ,6546
+emusica/pruebas.py,sha256=CCPrJSqawlaAXvmyzF2GhpXXQnb-AMLbFCR9uicrEUs,102
+emusica-0.0.4.dist-info/LICENCE,sha256=MjaSjB2tKTjD1X0HGDHS9uPt15WNEmux9OG4Jc5Cr_8,1064
+emusica-0.0.4.dist-info/METADATA,sha256=MEeAlU5U90TzK7ZAm9OCP3XUusAbLboDNI5hGUNrYEg,1827
+emusica-0.0.4.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+emusica-0.0.4.dist-info/entry_points.txt,sha256=3OJZDTM0jgeV0zNzCmbXAA5x25rZ30E28jboJLGz0Yg,49
+emusica-0.0.4.dist-info/top_level.txt,sha256=QkAVZ_iCix_A8Oewpjgv4peQJ1VpPMvm-xOqOJl5dIE,8
+emusica-0.0.4.dist-info/RECORD,,
