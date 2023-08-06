@@ -1,0 +1,5 @@
+setup.py
+yinstruments.egg-info/PKG-INFO
+yinstruments.egg-info/SOURCES.txt
+yinstruments.egg-info/dependency_links.txt
+yinstruments.egg-info/top_level.txt
