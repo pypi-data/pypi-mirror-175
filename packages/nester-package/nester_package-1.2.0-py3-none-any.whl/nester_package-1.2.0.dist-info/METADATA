@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: nester-package
+Version: 1.2.0
+Summary: Printing each items in list (nested or not) on new line with or without required tab spaces
+Home-page: 
+Author: SonaM
+Author-email: sonalimetkar1@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+Refer :
+https://packaging.python.org/en/latest/tutorials/packaging-projects/#uploading-the-distribution-archives
