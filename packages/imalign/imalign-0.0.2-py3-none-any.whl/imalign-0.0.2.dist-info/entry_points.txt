@@ -1,0 +1,2 @@
+[console_scripts]
+imalign = imalign.main:main
