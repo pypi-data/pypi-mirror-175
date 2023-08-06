@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: polygphys
+Version: 4.6.8
+Summary: =?utf-8?q?Outils_pour_des_programmes_=C3=A0_l=27interne_du_d=C3=A9partement_de_physique_de_Polytechnique_Montr=C3=A9al=2E?=
+Author: =?utf-8?q?=C3=89mile_Jetzer?=
+Author-email: emile.jetzer@polymtl.ca
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: sqlalchemy
+Requires-Dist: openpyxl
+Requires-Dist: xlwt
+Requires-Dist: gitpython
+Requires-Dist: pyserial
+Requires-Dist: pyusb
+Requires-Dist: pyvisa-py
+Requires-Dist: pyvisa
+Requires-Dist: zipp
+Requires-Dist: importlib-metadata
+Requires-Dist: docutils
+Requires-Dist: tornado
+Requires-Dist: cryptography
+Requires-Dist: toml
+Requires-Dist: keyring
+Requires-Dist: numpy (==1.22.1)
+Requires-Dist: brotli
+Requires-Dist: Cython
+Requires-Dist: lockfile
+Requires-Dist: lxml
+Requires-Dist: mock
+Requires-Dist: ordereddict
+Requires-Dist: protobuf
+Requires-Dist: pyOpenSSL
+Requires-Dist: simplejson
+Requires-Dist: wincertstore
+Requires-Dist: python-pptx
+Requires-Dist: unoconv
+Requires-Dist: paramiko
+Requires-Dist: databases
+Requires-Dist: ics
+Requires-Dist: matplotlib
+Requires-Dist: plistop (>=0.2)
+Requires-Dist: python-usbtmc
+Requires-Dist: schedule
+Requires-Dist: pymysql
+Requires-Dist: requests
+
