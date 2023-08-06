@@ -1,0 +1,5 @@
+setup.py
+JarvisInOne.egg-info/PKG-INFO
+JarvisInOne.egg-info/SOURCES.txt
+JarvisInOne.egg-info/dependency_links.txt
+JarvisInOne.egg-info/top_level.txt
