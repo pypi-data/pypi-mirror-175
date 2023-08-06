@@ -1,0 +1,31 @@
+INTRODUCTION
+
+I am drona (Data Reader Of New Age). 
+
+I have many experiences to share with data science and machine learning aspirants. 
+
+I am always with you to make your learning journey superfast and structured.
+
+I am equiped with 'tellme' question answering model and 'letsread' easy study model.
+
+INSTALLATION
+
+In python environment, you can call me with following two lines
+
+pip install drona
+
+from drona import tellme, letsread
+
+USE
+
+You can ask me any data science and machine learning related question during your learning journey.
+
+e.g.
+
+tellme("What are the main subjects of data science?")
+
+From version 12.0.0, you can smoothly read any topic of data science using 'letsread' model
+
+e.g.
+
+letsread("python")
