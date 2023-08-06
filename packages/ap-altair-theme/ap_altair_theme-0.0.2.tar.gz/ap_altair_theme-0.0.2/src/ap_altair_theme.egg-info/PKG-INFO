@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: ap-altair-theme
+Version: 0.0.2
+Summary: A package that formats Altair charts to AP visual style.
+Home-page: https://datateam.inside.ap.org/
+Author: Kavish Harjai
+Author-email: kharjai@ap.org
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Multimedia :: Graphics :: Presentation
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AP Altair Theme Package
+
+A package that formats Altair charts to AP visual style. 
+
+# As a package:
+
+`>>> import ap_altair_theme`
+`>>> ap_altair_theme.ap_theme()`
+
+
+
