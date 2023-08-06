@@ -1,0 +1,5 @@
+[console_scripts]
+obs=examples.xair-obs.__main__:main
+x32=scripts:test_x32
+xair=scripts:test_xair
+
