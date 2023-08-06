@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "transportlib"
+version = "0.1.2"
+description = "Transports for Data Pipelines"
+authors = ["ken ho <kenho811job@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/kenho811/flux_infra"
+repository = "https://github.com/kenho811/flux_infra"
+
+[tool.poetry.dependencies]
+python = ">=3.7,<4.0"
+psycopg2 = "^2.9.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
