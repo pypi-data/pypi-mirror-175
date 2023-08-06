@@ -1,0 +1,10 @@
+zopfli/__version__.py,sha256=R5OHoU8qSdqdRcqag6Xu9YFzqaVEIPd9L82Ty0i-fFQ,58
+zopfli/_zopfli.cpython-38-x86_64-linux-gnu.so,sha256=Sc6Ko0eHK1TO4bj1_bG9dpnzA4AppDxYUglCEriJoBs,2961728
+zopfli/_zopfli.pyi,sha256=qSY9VGsTwKKX4DDUAJHoGYkp_ZwRJFI0L5fgd03pk6Y,1566
+zopfli/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zopfli/__init__.py,sha256=fa0gh8tnRxD_fAPxRD0EKpAvhd574D9JUp_o-o05wb8,10575
+zopflipy-1.8.dist-info/LICENSE.txt,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+zopflipy-1.8.dist-info/top_level.txt,sha256=8YLCDfhyb5xGrhwj1iQPEqZp7N4B4bA2qj6u2hwTF5s,7
+zopflipy-1.8.dist-info/WHEEL,sha256=HgPhKGGvdy1pm4RYGMHDSAvkMQu1m3EgL1wKy_GBDAI,148
+zopflipy-1.8.dist-info/RECORD,,
+zopflipy-1.8.dist-info/METADATA,sha256=C8aas080mZfwwUv0LafCbaljaxACr-2V9UkvKxKAxP8,3488
