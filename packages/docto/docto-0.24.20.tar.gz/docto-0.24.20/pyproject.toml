@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "docto"
+version = "0.24.20"
+description = "dependancy confusion test"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
