@@ -1,0 +1,11 @@
+setup.py
+mad_distributions/Binomialdistribution.py
+mad_distributions/Gaussiandistribution.py
+mad_distributions/Generaldistribution.py
+mad_distributions/Poissondistribution.py
+mad_distributions/__init__.py
+mad_distributions.egg-info/PKG-INFO
+mad_distributions.egg-info/SOURCES.txt
+mad_distributions.egg-info/dependency_links.txt
+mad_distributions.egg-info/not-zip-safe
+mad_distributions.egg-info/top_level.txt
