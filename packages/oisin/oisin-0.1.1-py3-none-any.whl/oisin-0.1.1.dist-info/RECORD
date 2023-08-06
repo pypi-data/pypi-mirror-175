@@ -1,0 +1,10 @@
+oisin/__init__.py,sha256=PkxQ_KyiLUpy92MT9NQ5wAWm-G8DPoDflSMgiH2dSpk,111
+oisin/corpus.py,sha256=IAgsqUhrwR2lCpDbcfdTtSYFGzYTlz0pRg-_HbjVC_g,1600
+oisin/main.py,sha256=JIkLglwvBkouv-HphLFP9h4bhXQeaOOizY0owNlbFZU,441
+oisin/poetry.py,sha256=QDqSomUl2mGGWK1yyQDKnKtq-qUX5SVq940rhSN7bQs,10754
+oisin/wfc.py,sha256=rZyNmEcHFXxbdeAiOoksHH3rQbLTfskjp7aB601hwas,6470
+oisin-0.1.1.dist-info/LICENSE.md,sha256=7tUdo62hh-GHsvy7IUEwIXRy_MMOWFswPUV0dy08-8c,1145
+oisin-0.1.1.dist-info/METADATA,sha256=5EsU8-gzK1qtkM2lvUYApPU9SoWIH9PK85dZK7FU3n0,2078
+oisin-0.1.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+oisin-0.1.1.dist-info/top_level.txt,sha256=ztXlFgqMdr35yRrTaRMFeMIURbeOY8CLScC9SYeSh7A,6
+oisin-0.1.1.dist-info/RECORD,,
