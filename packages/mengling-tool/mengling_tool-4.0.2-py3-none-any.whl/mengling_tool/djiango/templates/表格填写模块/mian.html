@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block mainbody %}
+    {% include '表格填写模块/view.html' %}
+    {% include '表格填写模块/action.html' %}
+    <script>
+        add_windows(document.querySelector("#find_div > div:nth-child(6) > button.am-btn.am-btn-default.am-btn-success.tpl-table-list-field.am-icon-plus"),
+            '测试体', 'console.log(111);')
+    </script>
+{% endblock %}
+
+
