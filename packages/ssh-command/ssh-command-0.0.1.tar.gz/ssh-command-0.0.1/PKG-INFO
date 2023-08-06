@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ssh-command
+Version: 0.0.1
+Summary: ssh command python module
+Author: wangziling100
+Author-email: wangziling100@163.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
