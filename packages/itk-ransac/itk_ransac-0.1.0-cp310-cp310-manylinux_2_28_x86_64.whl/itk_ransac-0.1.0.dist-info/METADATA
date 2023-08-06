@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: itk-ransac
+Version: 0.1.0
+Summary: This is a template that serves as a starting point for a new module.
+Home-page: https://itk.org/
+Download-URL: https://github.com/PranjalSahu/ITKRANSAC.git
+Author: Pranjal Sahu
+Author-email: pranjalsahu5@gmail.com
+License: Apache
+Keywords: ITK InsightToolkit
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: C++
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Operating System :: Android
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+License-File: LICENSE
+Requires-Dist: itk (>=5.3rc3)
+
+ITK is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis. Developed through extreme programming methodologies, ITK employs leading-edge algorithms for registering and segmenting multidimensional scientific images.
