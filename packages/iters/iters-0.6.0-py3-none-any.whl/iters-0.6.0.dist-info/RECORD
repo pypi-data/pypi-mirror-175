@@ -1,0 +1,13 @@
+iters/__init__.py,sha256=teS0b3z9V0xwQhgmy6Og5-CWMzoEQZtNANwlyr64fr4,1568
+iters/async_iters.py,sha256=uoTOpJ1NGLKk7y1jep6gGfsYz9s5Do8wexrTDTYeN3I,92297
+iters/async_utils.py,sha256=3MuSI6PZ1a9cTGi2n81PX71wKb0IOUagvsmnGtAwREw,121400
+iters/concurrent.py,sha256=gyctcrnnam474BfoL99oXJOXSa8lAU7GXaPtAPIUHUw,8192
+iters/iters.py,sha256=UCWu-CUcs4E1CSxI1OkF80lOg1WdqPLep5EcqgeiaxI,97178
+iters/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+iters/types.py,sha256=kvbRtHzO-a0RjgvSQ02pKq0BosWCWJsZcC8R1E2VX0M,3000
+iters/typing.py,sha256=pT7OaxDCzqUVEMOpCA5d9wKa9U93J_hp2GkOl81iLPw,5809
+iters/utils.py,sha256=uB6HNaDeJn3CPxFkcYQLpddr3scENx-SCB1XF5_LpNc,62864
+iters-0.6.0.dist-info/LICENSE,sha256=oKER-cen6VBIE7a8DYNRxjIWE23q17GEyfOplwMxGA0,1092
+iters-0.6.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+iters-0.6.0.dist-info/METADATA,sha256=IL6gqRP8CRF-OKg9SXVytAc3oJEZ5Wgex1Zy0ejPCs8,4904
+iters-0.6.0.dist-info/RECORD,,
