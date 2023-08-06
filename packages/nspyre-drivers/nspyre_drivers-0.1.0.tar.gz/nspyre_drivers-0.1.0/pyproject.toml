@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "nspyre-drivers"
+version = "0.1.0"
+description = "A set of Python drivers for lab instrumentation."
+authors = [
+	"Jacob Feder <jacobsfeder@gmail.com>",
+	"Ben Soloway <bensoloway@uchicago.edu>"
+]
+maintainers = [
+	"Jacob Feder <jacobsfeder@gmail.com>"
+]
+readme = "README.md"
+packages = [{include = "src/drivers"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pyvisa = "*"
+
+[tool.poetry.extras]
+agiltron-ffsw = ["pyserial"]
+agiltron = ["nspyre-drivers[agiltron-ffsw]"]
+arduino-arduino_gpio = ["pyserial"]
+beaglebone-beaglebone_gpio = []
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: nspyre-drivers
+Version: 0.1.0
+Summary: A set of Python drivers for lab instrumentation.
+Author: Jacob Feder
+Author-email: jacobsfeder@gmail.com
+Maintainer: Jacob Feder
+Maintainer-email: jacobsfeder@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Provides-Extra: agiltron
+Provides-Extra: agiltron-ffsw
+Provides-Extra: arduino-arduino-gpio
+Provides-Extra: beaglebone-beaglebone-gpio
+Requires-Dist: pyvisa
+Description-Content-Type: text/markdown
+
+# drivers
+A set of Python drivers for lab instrumentation. These drivers are associated 
+with [nspyre](https://nspyre.readthedocs.io/en/latest/), but are also suitable 
+for general usage.
+
+If you want to contribute driver code, please submit it as a 
+[pull request](http://TODO). 
