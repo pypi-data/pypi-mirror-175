@@ -1,0 +1,4 @@
+tink-python-api-types
+requests
+requests-oauthlib
+pyhumps
