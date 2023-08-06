@@ -1,0 +1,13 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+get_the_hell_out_of_here/README.MD
+get_the_hell_out_of_here/__init__.py
+get_the_hell_out_of_here/requirements.txt
+get_the_hell_out_of_here/thirdparty.json
+get_the_hell_out_of_here.egg-info/PKG-INFO
+get_the_hell_out_of_here.egg-info/SOURCES.txt
+get_the_hell_out_of_here.egg-info/dependency_links.txt
+get_the_hell_out_of_here.egg-info/top_level.txt

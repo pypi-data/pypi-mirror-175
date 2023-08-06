@@ -1,0 +1,3 @@
+include get_the_hell_out_of_here/requirements.txt
+include get_the_hell_out_of_here/thirdparty.json
+include get_the_hell_out_of_here/README.MD
