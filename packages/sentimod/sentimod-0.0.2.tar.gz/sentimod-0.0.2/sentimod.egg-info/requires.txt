@@ -1,0 +1,7 @@
+requests
+pandas
+google-search-results
+snscrape
+tweet-preprocessor
+matplotlib
+numpy

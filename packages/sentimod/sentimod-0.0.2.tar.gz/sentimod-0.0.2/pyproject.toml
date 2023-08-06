@@ -1,0 +1,47 @@
+[project]
+name="sentimod"
+version="0.0.2"
+authors = [
+  { name="Hamid Moradi", email="hordimad21@gmail.com" },
+]
+description = "small sentiment analysis package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests",
+    "pandas",
+    "google-search-results",
+    "snscrape",
+    "tweet-preprocessor",
+    "matplotlib",
+    "numpy",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+target_version = ['py38', 'py39', 'py310']
+preview = true
+exclude = '''
+/(
+    \.eggs         # exclude a few common directories in the
+  | \.git          # root of the project
+  | \.mypy_cache
+  | \.vscode
+  | build
+  | dist
+  | doc/tutorial
+  | doc/_build
+  | doc/auto_examples
+  | sklearn/externals
+  | asv_benchmarks/env
+)/
+'''
