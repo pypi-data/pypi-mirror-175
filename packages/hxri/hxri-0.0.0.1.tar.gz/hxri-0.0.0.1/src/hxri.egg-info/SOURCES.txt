@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/hxri/__init__.py
+src/hxri/test.py
+src/hxri.egg-info/PKG-INFO
+src/hxri.egg-info/SOURCES.txt
+src/hxri.egg-info/dependency_links.txt
+src/hxri.egg-info/requires.txt
+src/hxri.egg-info/top_level.txt
