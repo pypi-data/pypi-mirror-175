@@ -1,0 +1,17 @@
+discordBotTranslation/__init__.py,sha256=6Muf88Q9yK8-RLxtCA3nqF8tWrJqNsew6xe_Ex3dGFk,93
+discordBotTranslation/disnake.py,sha256=rL_V0q6Xwu5le413-W1sAgbONVkHzHThTjeb4TB5GAE,2994
+discordBotTranslation/exceptions.py,sha256=EqLjI1mN4_IrW87zmAMIvYMjzqNovvcrDWxB3B_wSxI,233
+discordBotTranslation/formatting.py,sha256=5cwKY0NWd9MvASH8haWiwOy0EGRQ9WcBdfCfGB5U1dg,1712
+discordBotTranslation/main.py,sha256=9Gya5L-01EL8I3ro64-YMS8MZlbW9U28Z7WGVo5tpRs,3986
+discordBotTranslation/type.py,sha256=UzcJxVRazLpGKn3ptF_TUwcOnBTyAdoEbf471rY0CKc,58
+distrans/__init__.py,sha256=6Muf88Q9yK8-RLxtCA3nqF8tWrJqNsew6xe_Ex3dGFk,93
+distrans/disnake.py,sha256=xjtzRYcvK5PLkNIaESzkEGPvanqf9tOoZMezv1eZmGw,2978
+distrans/exceptions.py,sha256=EqLjI1mN4_IrW87zmAMIvYMjzqNovvcrDWxB3B_wSxI,233
+distrans/formatting.py,sha256=5cwKY0NWd9MvASH8haWiwOy0EGRQ9WcBdfCfGB5U1dg,1712
+distrans/main.py,sha256=Ow2ohGpufpa4QJI-QmOUSxWU9f9y21z7OHo1TTr57sY,4262
+distrans/type.py,sha256=UzcJxVRazLpGKn3ptF_TUwcOnBTyAdoEbf471rY0CKc,58
+distrans-1.0.0.dist-info/METADATA,sha256=l5db_4LsXE367jpfSttzf2LV2Wg3Pscaq1ZMR5AlS84,2086
+distrans-1.0.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+distrans-1.0.0.dist-info/license.txt,sha256=blDehosNgNf1sfHlpdfhqQeq9qaXWuQGA4Dm7BXuvKg,1090
+distrans-1.0.0.dist-info/top_level.txt,sha256=Qb-YcPXtDinI6IZ8erMWr2-Fh6m_5ZhpyStkwCWI1ZM,9
+distrans-1.0.0.dist-info/RECORD,,
