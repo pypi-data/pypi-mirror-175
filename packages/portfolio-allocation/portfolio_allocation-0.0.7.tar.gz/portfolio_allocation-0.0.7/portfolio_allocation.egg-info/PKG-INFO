@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: portfolio-allocation
+Version: 0.0.7
+Summary: Calculates currency, country and industry allocations for portfolio of ETFs and mutual funds
+Home-page: https://github.com/fertkir/portfolio-allocation
+Author: Kirill Fertikov
+Author-email: kirill.fertikov@gmail.com
+Project-URL: Bug Reports, https://github.com/fertkir/portfolio-allocation/issues
+Project-URL: Source, https://github.com/fertkir/portfolio-allocation
+Keywords: etf allocation moex tinkoff finex gnucash
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# portfolio-allocation
+Calculates currency, country and industry allocations for portfolio of ETFs and mutual funds
