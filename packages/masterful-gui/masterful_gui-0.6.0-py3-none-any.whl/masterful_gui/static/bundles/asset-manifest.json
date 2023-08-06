@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/bundles/static/css/main.cc2fd95f.chunk.css",
+    "main.js": "/static/bundles/js/main.402de63d.chunk.js",
+    "main.js.map": "/static/bundles/js/main.402de63d.chunk.js.map",
+    "runtime-main.js": "/static/bundles/js/runtime-main.f279966b.js",
+    "runtime-main.js.map": "/static/bundles/js/runtime-main.f279966b.js.map",
+    "static/css/2.36489daf.chunk.css": "/static/bundles/static/css/2.36489daf.chunk.css",
+    "js/2.01e374bc.chunk.js": "/static/bundles/js/2.01e374bc.chunk.js",
+    "js/2.01e374bc.chunk.js.map": "/static/bundles/js/2.01e374bc.chunk.js.map",
+    "index.html": "/static/bundles/index.html",
+    "js/2.01e374bc.chunk.js.LICENSE.txt": "/static/bundles/js/2.01e374bc.chunk.js.LICENSE.txt",
+    "media/all.css": "/static/bundles/media/fa-solid-900.9ae050d1.woff2",
+    "media/masterful_ai_logo.svg": "/static/bundles/media/masterful_ai_logo.b2d31b9a.svg",
+    "precache-manifest.53a3f14710fc83946a0b7f079b001628.js": "/static/bundles/precache-manifest.53a3f14710fc83946a0b7f079b001628.js",
+    "service-worker.js": "/static/bundles/service-worker.js",
+    "static/css/2.36489daf.chunk.css.map": "/static/bundles/static/css/2.36489daf.chunk.css.map",
+    "static/css/main.cc2fd95f.chunk.css.map": "/static/bundles/static/css/main.cc2fd95f.chunk.css.map"
+  },
+  "entrypoints": [
+    "js/runtime-main.f279966b.js",
+    "static/css/2.36489daf.chunk.css",
+    "js/2.01e374bc.chunk.js",
+    "static/css/main.cc2fd95f.chunk.css",
+    "js/main.402de63d.chunk.js"
+  ]
+}
