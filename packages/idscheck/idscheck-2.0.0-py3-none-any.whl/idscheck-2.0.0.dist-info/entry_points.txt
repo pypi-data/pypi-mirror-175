@@ -1,0 +1,6 @@
+[console_scripts]
+ids = idscheck.idscheck:cmd
+idsgpu = idscheck.idscheck:gpu
+idsquery = idscheck.idscheck:query
+idstop = idscheck.idscheck:top
+idstopall = idscheck.idscheck:topall
