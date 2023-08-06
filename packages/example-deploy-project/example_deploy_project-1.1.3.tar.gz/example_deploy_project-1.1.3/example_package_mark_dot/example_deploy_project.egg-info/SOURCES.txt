@@ -1,0 +1,6 @@
+README.md
+setup.py
+example_package_mark_dot/example_deploy_project.egg-info/PKG-INFO
+example_package_mark_dot/example_deploy_project.egg-info/SOURCES.txt
+example_package_mark_dot/example_deploy_project.egg-info/dependency_links.txt
+example_package_mark_dot/example_deploy_project.egg-info/top_level.txt
