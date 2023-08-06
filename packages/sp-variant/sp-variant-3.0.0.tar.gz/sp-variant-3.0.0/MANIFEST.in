@@ -1,0 +1,5 @@
+include .editorconfig
+include NEWS.md
+include tox.ini
+recursive-include data *
+recursive-include python *.py *.typed
