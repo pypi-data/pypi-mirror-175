@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+common_cents/common_cents.egg-info/PKG-INFO
+common_cents/common_cents.egg-info/SOURCES.txt
+common_cents/common_cents.egg-info/dependency_links.txt
+common_cents/common_cents.egg-info/top_level.txt
