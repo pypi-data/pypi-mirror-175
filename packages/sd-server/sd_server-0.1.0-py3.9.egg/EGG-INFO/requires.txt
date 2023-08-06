@@ -1,0 +1,11 @@
+fastapi
+pyngrok
+nest-asyncio
+uvicorn
+starlette==0.20.4
+pillow
+numpy
+diffusers
+transformers
+torch
+accelerate
