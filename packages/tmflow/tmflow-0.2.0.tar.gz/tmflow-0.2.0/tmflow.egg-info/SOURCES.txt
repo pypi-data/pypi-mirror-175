@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+tmflow/__init__.py
+tmflow.egg-info/PKG-INFO
+tmflow.egg-info/SOURCES.txt
+tmflow.egg-info/dependency_links.txt
+tmflow.egg-info/requires.txt
+tmflow.egg-info/top_level.txt
+tmflow/learn/__init__.py
+tmflow/learn/base_polynomial_layer.py
+tmflow/learn/kronecker_polynomial_layer.py
+tmflow/learn/polynomial_layer.py
+tmflow/utils/__init__.py
+tmflow/utils/convert_initial_weights.py
