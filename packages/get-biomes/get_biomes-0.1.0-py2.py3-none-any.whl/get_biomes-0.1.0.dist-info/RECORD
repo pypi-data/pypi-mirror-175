@@ -1,0 +1,11 @@
+get_biomes/__init__.py,sha256=t9KZdp_DIvv91kyAlbqfXkrky_63qicYujvE-nd8xlM,93
+get_biomes/__main__.py,sha256=CG95n55_052kie333il05mHupx7NdZ-ypNfAdttVvg8,5243
+get_biomes/_version.py,sha256=pwz_eG6YhUJEINjdKRG19d51fzojSCtGgM292JHCTRE,497
+get_biomes/defaults.py,sha256=Z1HBKODZ3TldQm0FvraEyp1barzhJ0-_nqKiFzeYL0Y,4154
+get_biomes/utils.py,sha256=THpXM0W7cnqzlj61PvGYXSktWNSiyiWoKHQVh-RImCU,13657
+get_biomes-0.1.0.dist-info/LICENSE,sha256=FhLv2iFNLLOs8rCjlC7lHr1-pZ4UvS7cETEr1hQ5q-0,1575
+get_biomes-0.1.0.dist-info/METADATA,sha256=fpUDkiXdKWVEdc9IUoG9bK-ptZxykjxGWv18DJWyUeA,522
+get_biomes-0.1.0.dist-info/WHEEL,sha256=Ow1Agppnny4NfvfZK4t6N-TUVQfFCpnFCb5wBX-uuec,110
+get_biomes-0.1.0.dist-info/entry_points.txt,sha256=W4DkVszInhLhV7MEBYVkv5bCJLSFcid_WQhUGUhi5Dk,56
+get_biomes-0.1.0.dist-info/top_level.txt,sha256=eftvVIiytdsw094AHyggUsHTVI_pMxJg9aHwF_Pm27o,11
+get_biomes-0.1.0.dist-info/RECORD,,
