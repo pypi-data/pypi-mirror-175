@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PyPI-nester
+Version: 1.3.1
+Summary: Printing each items in list (nested or not) on new line with or without required tab spaces
+Home-page: 
+Author: SonaM
+Author-email: sonalimetkar1@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+Refer for commands:
+https://packaging.python.org/en/latest/tutorials/packaging-projects/#uploading-the-distribution-archives
+
+This function takes a positional arguments called "the_list","indent" and "level", 'the_list' is
+any Python list (of - possibly - nested lists). Each data item in the 
+provided list is (recursively) printed to the screen on it's own line.
+A second argument 'indent' is set to default value 'False', which means indentation or tab-stops are not required
+by default. If user wants to add indentation while printing the nested list it should be set to 'True'.
+A Third argument 'level' is used to insert required number of tab_stops when nested list is encountered.
