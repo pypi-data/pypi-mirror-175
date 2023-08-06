@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: goldnlp
+Version: 0.0.1
+Summary: Golden's NLP/NLU library focused on state-of-the-art NLP Tasks.
+Author: aychang95
+Requires-Python: >=3.7.10,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: docs
+Provides-Extra: linkprediction
+Provides-Extra: topicmodel
+Provides-Extra: torch
+Provides-Extra: webextract
+Requires-Dist: Jinja2 (<3.0)
+Requires-Dist: MarkupSafe (<=2.0.1)
+Requires-Dist: Pyphen (==0.9.5)
+Requires-Dist: blis (<=0.7.5)
+Requires-Dist: boilerpy3 (>=1.0.5,<2.0.0); extra == "webextract"
+Requires-Dist: boto3 (>=1.21.23,<2.0.0)
+Requires-Dist: certifi (==2017.4.17)
+Requires-Dist: dateparser (==1.0.0)
+Requires-Dist: elasticsearch-dsl (==7.3.0)
+Requires-Dist: extruct (>=0.13.0,<0.14.0); extra == "webextract"
+Requires-Dist: fastapi (>=0.67.0,<0.68.0)
+Requires-Dist: fastnn (>=0.3.0,<0.4.0)
+Requires-Dist: fold-to-ascii (==1.0.2.post1)
+Requires-Dist: gensim (>=3.8.3,<4.0.0); extra == "topicmodel"
+Requires-Dist: ipywidgets (>=7.6.3,<8.0.0)
+Requires-Dist: jupyterlab (>=3.0.0,<4.0.0)
+Requires-Dist: langdetect (==1.0.7)
+Requires-Dist: matplotlib (==3.4.2)
+Requires-Dist: mkdocs-material (>=8.1.6,<9.0.0); extra == "docs"
+Requires-Dist: mkdocs-render-swagger-plugin (>=0.0.3,<0.0.4); extra == "docs"
+Requires-Dist: mkdocstrings (>=0.17.0,<0.18.0); extra == "docs"
+Requires-Dist: mmh3 (>=3.0.0,<4.0.0)
+Requires-Dist: networkx (>=2.6.3,<3.0.0); extra == "linkprediction"
+Requires-Dist: nltk (>=3.6.2,<4.0.0)
+Requires-Dist: numba (>=0.55.2,<0.56.0)
+Requires-Dist: numpy (==1.21.6)
+Requires-Dist: openai (>=0.15.0,<0.16.0)
+Requires-Dist: pandas (==1.3.0)
+Requires-Dist: pillow (>=8.3.1,<9.0.0)
+Requires-Dist: probablepeople (==0.5.4)
+Requires-Dist: psycopg[pool] (>=3.0.15,<4.0.0)
+Requires-Dist: python-dotenv (>=0.19.2,<0.20.0)
+Requires-Dist: pytidylib (>=0.3.2,<0.4.0); extra == "webextract"
+Requires-Dist: pyvis (>=0.1.9,<0.2.0)
+Requires-Dist: scikit-learn (==0.24.2)
+Requires-Dist: scipy (>=1.7.0,<2.0.0)
+Requires-Dist: simhash (==1.9.0)
+Requires-Dist: spacy (>=3.1.0,<3.2.0)
+Requires-Dist: textdistance (>=4.3.0,<5.0.0)
+Requires-Dist: top2vec (>=1.0.24,<2.0.0); extra == "topicmodel"
+Requires-Dist: torch (>=1.0.0,<2.0.0); extra == "torch"
+Requires-Dist: torchvision (<1.0.0); extra == "torch"
+Requires-Dist: tqdm (>=4.63.0,<5.0.0)
+Requires-Dist: uvicorn (>=0.14.0,<0.15.0)
+Requires-Dist: wheel (>=0.36.2,<0.37.0)
