@@ -1,0 +1,23 @@
+{
+    "image": "ubuntu:22.04",
+    "features": {
+        "https://ghcr.io/devcontainers/features/docker-in-docker:1": {
+            "version": "latest",
+            "moby": false
+        },
+        "https://ghcr.io/devcontainers/features/python:1": {
+            "version": "os-provided"
+        }
+    },
+    "extensions": [
+        "ms-python.python",
+        "ms-vscode-remote.remote-containers",
+        "redhat.vscode-yaml",
+        "ms-python.black-formatter",
+        "ms-python.vscode-pylance",
+        "nicohlr.pycharm",
+        "usernamehw.errorlens",
+        "DavidAnson.vscode-markdownlint"
+    ],
+    "postCreateCommand": "/bin/bash -ex ./.devcontainer/setup.sh > postCreateCommand.log"
+}
