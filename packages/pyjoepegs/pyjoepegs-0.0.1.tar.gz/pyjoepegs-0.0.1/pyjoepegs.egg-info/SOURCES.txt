@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pyjoepegs/__init__.py
+pyjoepegs.egg-info/PKG-INFO
+pyjoepegs.egg-info/SOURCES.txt
+pyjoepegs.egg-info/dependency_links.txt
+pyjoepegs.egg-info/requires.txt
+pyjoepegs.egg-info/top_level.txt
