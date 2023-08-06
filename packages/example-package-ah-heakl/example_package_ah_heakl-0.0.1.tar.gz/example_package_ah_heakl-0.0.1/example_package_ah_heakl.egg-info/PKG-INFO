@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: example-package-ah-heakl
+Version: 0.0.1
+Summary: Basic library add_one
+Home-page: UNKNOWN
+Author: Ahmed Heakl
+Author-email: ahmed.heakl@ejust.edu.eg
+License: UNKNOWN
+Description: basic library for testing pypi
+Keywords: python,add_one
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
