@@ -1,0 +1,2 @@
+[console_scripts]
+ptulsconv = ptulsconv.__main__:main
