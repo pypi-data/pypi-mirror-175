@@ -1,0 +1,10 @@
+qorus_remote/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+qorus_remote/tools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+qorus_remote/tools/make_release.py,sha256=wr_4NxLW-YcT_WZ9_tCQH3HwvMiXcA2d42wAAHkQ9t0,27496
+qorus_remote/tools/qorus_remote_commands.py,sha256=CwG_4ti2_bzgSRI1KIGQUzBls_yRfr8nzFhXrqqTmHE,14502
+qorus_remote/tools/templates/install.sh,sha256=p5i9QeMFpBWreiiq4gdm1_MFkuc_PYotXSyMRHaVi2w,12378
+qorus_remote-1.0.0.dist-info/entry_points.txt,sha256=JifuP78s1LAuBQTMNTtNRR0f6M2R-GoUChzKLcQD0SY,137
+qorus_remote-1.0.0.dist-info/LICENSE,sha256=XMclsDm6lHlb6USA9avVtSv-tMX3ONeeJfoeHEqYzW4,1082
+qorus_remote-1.0.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+qorus_remote-1.0.0.dist-info/METADATA,sha256=oIBFS7KMsVFv1LwSX7Fdm11dWMEtSJo3I3gTcvr6aHM,4137
+qorus_remote-1.0.0.dist-info/RECORD,,
