@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+pipcontrol.egg-info/PKG-INFO
+pipcontrol.egg-info/SOURCES.txt
+pipcontrol.egg-info/dependency_links.txt
+pipcontrol.egg-info/not-zip-safe
+pipcontrol.egg-info/top_level.txt

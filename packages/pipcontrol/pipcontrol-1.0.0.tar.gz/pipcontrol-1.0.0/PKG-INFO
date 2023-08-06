@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: pipcontrol
+Version: 1.0.0
+Summary: simple python package installer
+Home-page: https://github.com/labov/python-pip-controller
+Author: Mingoo Lee
+Author-email: labovming@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Python-Package-Manager
+
+This is a python module pip manager using list of package names
+This package is developed for use in small projects with less package version dependency.
+This package cannot manage package version.
+
+## How to work
+
+get list of installed packages
+chetehck package is installed
+install package if not installed
+
+## How to use
+
+install(package_list=["p1", "p2"])
+
+uninstall(package_list=["p1", "p2"])
+
+install(package_list=["p1", "p2"], upgrade=True, python_cmd="python3.10")
+
+uninstall(package_list=["p1", "p2"], python_cmd="python3.10")
