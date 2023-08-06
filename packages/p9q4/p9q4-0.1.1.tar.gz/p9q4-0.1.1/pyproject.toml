@@ -1,0 +1,53 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "p9q4"
+version = "0.1.1"
+description = "Gets the rating of movies from imdb.com"
+readme = "README.md"
+authors = [{ name = "Louis Gonzalez", email = "gonza533@purdue.edu" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Framework :: FastAPI",
+]
+keywords = ["example", "imdb", "tutorial", "FILL IN"]
+dependencies = [
+    "lxml >= 4.9.1",
+    "requests >= 2.28.1",
+    "fastapi >= 0.85.2",
+    "Jinja2 >= 3.1.2",
+    "uvicorn[standard]",
+    "rich >= 12.6.0",
+]
+requires-python = ">=3.10"
+[tool.bumpver]
+current_version = "0.1.1"
+version_pattern = "MAJOR.MINOR.PATCH[PYTAGNUM]"
+commit_message = "bump version {old_version} -> {new_version}"
+commit = true
+tag = true
+push = false
+
+[tool.bumpver.file_patterns]
+"pyproject.toml" = [
+    'current_version = "{version}"',
+    'version = "{version}"',
+]
+
+"imdb/__init__.py" = [
+    "{version}",
+]
+
+"README.md" = [
+    "{version}",
+    "{pep440_version}",
+]
+
+[project.scripts]
+run_api = "imdb.__main__:main"
+
