@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: call_polygon_api
+Version: 0.0.1
+Summary: A package to call the polygon api
+Author: <Jiayue Li & Max>
+Author-email: <jl12143@nyu.edu>
+License: MIT
+Keywords: api
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+A package that repeatedly calls the polygon api every 1 seconds for 24 hours, stores the results, and protects the key information

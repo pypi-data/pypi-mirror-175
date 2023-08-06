@@ -1,0 +1,1 @@
+This main function repeatedly calls the polygon api every 1 seconds for 24 hours and stores the results from the website. This function is part of Max¡¯s code. We make it a library to protect the key information.
