@@ -1,0 +1,10 @@
+xvdl/__init__.py,sha256=j7lyj0QlirDe5UCyuYuV5HJeh0304VF7GlfBt4xy5XY,167
+xvdl/configLog.yaml,sha256=j-FywL0HOWpZ7XvdZ3U3EMLTMdGNHXo2mATJN8vITJk,430
+xvdl/configlogger.py,sha256=MpIphI_QWI7jRSZmCitPeIp6uOKYwKEO7pQNlknlXfU,1008
+xvdl/main.py,sha256=Ew0usx2jcxLY9LZC_tKdOS-m8CAOJm_j6lIkDY-Ytw0,7268
+xvdl/utils.py,sha256=3kHIKxnyIujcBOdXsAhkVmS5N0QHmlTvl_YuELzHXRk,4603
+xvdl-0.1.0.dist-info/entry_points.txt,sha256=GR-o3mEipCa3Bmnz26wWjOfFtRcygVx160bn9yiMwHA,38
+xvdl-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+xvdl-0.1.0.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+xvdl-0.1.0.dist-info/METADATA,sha256=jV7ZpRXjdTJ1Su4_kMSrrEzeZrRjb7LL0b-mdCo-1jE,899
+xvdl-0.1.0.dist-info/RECORD,,

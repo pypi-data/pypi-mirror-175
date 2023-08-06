@@ -1,0 +1,3 @@
+[console_scripts]
+xvdl=xvdl.main:app
+
