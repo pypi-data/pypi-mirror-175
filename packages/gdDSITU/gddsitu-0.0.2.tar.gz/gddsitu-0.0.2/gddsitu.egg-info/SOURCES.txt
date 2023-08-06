@@ -1,0 +1,5 @@
+setup.py
+gddsitu.egg-info/PKG-INFO
+gddsitu.egg-info/SOURCES.txt
+gddsitu.egg-info/dependency_links.txt
+gddsitu.egg-info/top_level.txt
