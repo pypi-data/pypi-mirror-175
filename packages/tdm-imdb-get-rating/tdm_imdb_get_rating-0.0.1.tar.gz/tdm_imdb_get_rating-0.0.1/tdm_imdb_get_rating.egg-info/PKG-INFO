@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: tdm-imdb-get-rating
+Version: 0.0.1
+Summary: Gets the IMDB rating of a movie given its id.
+Author-email: Bradley Chang <chang713@purdue.edu>
+Keywords: example,imdb,tutorial
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
