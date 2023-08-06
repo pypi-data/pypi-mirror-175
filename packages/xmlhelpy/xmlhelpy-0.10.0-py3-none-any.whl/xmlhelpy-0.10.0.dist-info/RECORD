@@ -1,0 +1,12 @@
+xmlhelpy/__init__.py,sha256=WN7NCtUapRenbuZnWJo8GQPWcjpAVAhz4yY1ew32B1o,1111
+xmlhelpy/core.py,sha256=hizIlEBteaW1Vbbt1UfTknRRw07N8-c6-UqXaIvQcxM,10275
+xmlhelpy/decorators.py,sha256=Yo4tkWIobp57siY-OqaE4YxL3Gnkjp3tU4Z2fzjevnE,11435
+xmlhelpy/formatting.py,sha256=z5WSjNge8effMbo1Ll-Dvwg9lz59MJPrUzqf7-G0U3w,2502
+xmlhelpy/types.py,sha256=m2r0cFvTyF2YF5lPnAooGkgk_R11zlC-nP5A2XdoyPM,7925
+xmlhelpy/version.py,sha256=hkNQVRAYeREKhMpOWwuNvqc8-tt2dcBcul0F2-Tgg7A,622
+xmlhelpy-0.10.0.dist-info/AUTHORS.md,sha256=WB6jxk0ds_W89Imteny3Q0FnElMGI6c6W3P_oDh7OZ8,270
+xmlhelpy-0.10.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+xmlhelpy-0.10.0.dist-info/METADATA,sha256=HwHWfDbd9Cf3LUms2Gj0CBFJvlumLr0NugC2i-uWq-A,9694
+xmlhelpy-0.10.0.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+xmlhelpy-0.10.0.dist-info/top_level.txt,sha256=lLM0gegxJ4pjetNVrZKgyT60X7c7szF_4sdcADlPD6s,9
+xmlhelpy-0.10.0.dist-info/RECORD,,
