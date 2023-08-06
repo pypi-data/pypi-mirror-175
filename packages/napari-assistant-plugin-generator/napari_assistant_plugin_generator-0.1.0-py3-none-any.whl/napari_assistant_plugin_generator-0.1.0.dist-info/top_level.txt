@@ -1,0 +1,1 @@
+napari_assistant_plugin_generator
