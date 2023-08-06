@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: rdp-algo
+Version: 0.1.0
+Summary: Ramer-Douglas-Peuker algorithm python implementation
+Home-page: https://github.com/Flowake/rdp-algo
+Author: Florian Stasse
+Author-email: florian.stasse@proton.me
+License: MIT
+Platform: Linux
+Platform: Windows
+Platform: MacOs
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: pre-commit ; extra == 'dev'
+Provides-Extra: lint
+Requires-Dist: black ; extra == 'lint'
+Requires-Dist: flake8 ; extra == 'lint'
+Requires-Dist: pylint ; extra == 'lint'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+
+# rdp-algo
+
+Ramer-Douglas-Peuker python implementation
+
+# Dev
+
+This project uses Poetry.
