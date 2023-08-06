@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: oxidizer
+Version: 0.0.1
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+# OXIDIZER
+A Python Packackage Utilizing Rust for Distributed Data Engineering and Analysis
+
+
+## COMPONENTS  
+### OXIDIZER  
+- Converting the user program into tasks.  
+- Scheduling those tasks on the executors with the help of the watch dog.
+
+### WATCH DOG
+- Analyze agents and scale containers / pods / etc.
+- Performance UI  
+
+### AGENTS
+- To run the tasks and return the results to the oxidizer.  
+- It provides in-memory storage for the RDD data set and data frames that are cached by the user.
+
+## CI / CD  
+
+## SANDBOX  
+
+
