@@ -1,0 +1,12 @@
+uptobox/Client.py,sha256=ihK9G2FqNIzk5zW2iIKZPR1wvQ9FXqhcUwvLdrFfcuk,10736
+uptobox/Constants.py,sha256=YRZSz4c0y9G47-6W8Ebbo7YJIZz-ECOrcZcbOFq5Wzg,1225
+uptobox/Core.py,sha256=NOhbULc8Zq-2CZu7rDiLqs86bzIkUUvfECDWawHDxdE,3398
+uptobox/Error.py,sha256=gKHBTPHPUEZag7uqjSehqH1OIlrWXdzbWCZHSQaTqv0,1472
+uptobox/Gateway.py,sha256=DFdvPhOVTYZORT4RwdvEtzj6uyK5PvJvju80eb12E8k,2970
+uptobox/Types.py,sha256=j7F9R-F7NdF6NlNRElkJV-JFY1KBj6WxL19hlLqetHk,6104
+uptobox/__init__.py,sha256=JVx9v92kK3djfdMK7ponCEA9gyzoBZ-36LmJOenyLd4,1366
+uptobox-1.0.6.dist-info/LICENSE,sha256=Em1mxqkdZ_Hfhjio7CUe0ixjeo68Zr99JyvEXNsTzt8,1081
+uptobox-1.0.6.dist-info/METADATA,sha256=29V9GZuWv7baFYr-FTjmJCBL3XrKrfvUQqv6_IpiI9o,1328
+uptobox-1.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+uptobox-1.0.6.dist-info/top_level.txt,sha256=oUXuoqP4-i9vUEeyqMx8edsVHQTi-ijBw4rDKwaLnzM,8
+uptobox-1.0.6.dist-info/RECORD,,
