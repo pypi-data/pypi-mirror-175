@@ -1,0 +1,4 @@
+boto3
+onelogin==2.0.4
+keyring
+requests
