@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: filedgr-nft-protobuf
+Version: 1.0.0
+Summary: Serialization/Deserialization package for Filedgr NFTs
+Author-email: Filedgr <code@filedgr.com>
+Project-URL: repository, https://github.com/Filedgr/filedgr-nft-protobuf-python
+Keywords: filedgr,nft,serialization
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: build
+Provides-Extra: dev
+License-File: LICENSE
+
+# filedgr-nft-protobuf-python
+
+This package wraps the serialization and deserialization of a Filedgr NFT URI. The protobuf package is used to allow a basic versioning from the beginning, and errorless multi-platform serialization/deserilaization.
+
+The fields encoded in the NFT URI are:
+- The NFT ID, which should be unique as per convention it will be complemented by a range of technical utility tokens. These can include transaction tokens for NFT updates and Access tokens for token gating.
+- The Campaign ID: A unique ID for a NFT campaign, or user of suctomer.
+- The NFT URI: as in other NFTs the link to actual object of the NFT.
+
