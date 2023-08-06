@@ -1,0 +1,11 @@
+BiVFM/__init__.py,sha256=UmPvPZSa4il7XR7eykSGvW1O6CLIVnfs5RmdXvTM9cQ,157
+BiVFM/config_transfer.py,sha256=Bwhz_QBePQz5VZrrCteXPW97bq9CVcgulvbZrKj7068,2523
+BiVFM/feature_engineering.py,sha256=kQnURIScjguBJPbf_gCCB093e7GMC-1yfYjhxXBsIr4,3601
+BiVFM/func.py,sha256=tp7VBNzY8D1R8hwIIeqHOakYBfLfSUFjtTROY15WGQk,14757
+BiVFM/model.py,sha256=-fd6vOmJZ0yE7ir3de9Q3drKKaDkh7TKwyZkbXwcF4s,15221
+BiVFM/olga_func.py,sha256=kj5n_ZJwmjPXbx1VMCiBXN5c_JCjgnmUxJRirvhd-Oo,10535
+BiVFM/train_func.py,sha256=4w6zGQ2dEaa8nPxbQaCi4SR3eU7c4sPafjlsFuMsDIg,13058
+HVFM-1.0.0.dist-info/METADATA,sha256=DIYEDggkvkd-Ne8RbnAHfsH3luCt3FAWDbssrt7rhw8,3093
+HVFM-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+HVFM-1.0.0.dist-info/top_level.txt,sha256=VAr0aihjtU3oEw_S567xgLt6U01zg9Hy6XRariCb7_E,6
+HVFM-1.0.0.dist-info/RECORD,,
