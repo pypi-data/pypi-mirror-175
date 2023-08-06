@@ -1,0 +1,16 @@
+
+{% load dashboard_tags %}
+
+<!-- Breadcrumbs -->
+<div class="mt-2">
+  <div class="col">
+    <nav aria-label="breadcrumb">
+      {% get_breadcrumbs request.path as items %}
+      <ul class="breadcrumb">
+        {% for item in items %}
+          <li class="breadcrumb-item {% if forloop.last %} active {% endif %}">{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</div>

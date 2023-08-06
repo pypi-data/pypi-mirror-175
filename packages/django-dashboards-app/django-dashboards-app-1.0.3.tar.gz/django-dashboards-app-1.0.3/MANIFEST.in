@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE.txt
+include CHANGELOG.rst
+recursive-include django_dashboards_app/static *
+recursive-include django_dashboards_app/templates *

@@ -1,0 +1,42 @@
+
+{% load static %}
+{% load dashboard_tags %}
+
+<div class="dropdown">
+    <a class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <span class="fa-solid fa-sort"></span>
+    </a>
+    <ul class="dropdown-menu">
+        {% for field in model_fields %}
+        <li class="d-flex justify-content-center;">
+
+            {% if order == field.name or order == '-'|add:field.name %}
+                <a class="dropdown-item d-flex justify-content-between" href="{{ request.path }}?page={{ page_obj.number }}&paginate_by={{ paginator.per_page }}&order={% get_order order %}{{ filters }}">
+            {% else %}
+                <a class="dropdown-item d-flex justify-content-between" href="{{ request.path }}?page={{ page_obj.number }}&paginate_by={{ paginator.per_page }}&order={{ field.name }}{{ filters }}">
+            {% endif %}
+
+                {{ field.verbose_name }}
+                
+                <div class="d-flex flex-column 
+                    {% if order == field.name or order == '-'|add:field.name %}
+                        order-active
+                    {% else%}
+                        order-inactive
+                    {% endif %}">
+                    {% if order == field.name %}
+                    <span class="fa-solid fa-sort-up"></span>
+                    {% elif order == '-'|add:field.name %}
+                    <span class="fa-solid fa-sort-down"></span>
+                    {% else %}
+                    <span class="fa-solid fa-sort"></span>
+                    {% endif %}
+                </div>
+                
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+<div class="modal-dialog modal-lg">
+  <div class="modal-content">
+      <div class="container-fluid">
+        <div class="row my-2 d-flex justify-content-around">
+          {% for app in apps %}
+            <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-2">
+              <div class="card">
+                <div class="card-body text-center">
+                  {% with app|add:':home' as element_redirect %}
+                  <a href="{% url element_redirect %}">
+                    <h5 class="card-title">
+                      {{ app|title }}
+                    </h5>
+                  </a>
+                  {% endwith %}
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+
+{% endblock content %}

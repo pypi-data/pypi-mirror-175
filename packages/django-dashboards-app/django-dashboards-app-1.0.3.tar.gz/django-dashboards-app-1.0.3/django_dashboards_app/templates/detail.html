@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+    <!-- Header -->
+    <div class="container-fluid">
+
+        <form>
+            <div class="row mt-2">
+                <div class="col mb-3">
+                    <h1>Deatil {{ model_name }}</h1>
+                </div>
+                <div class="col mb-3 d-flex justify-content-end">
+                    <a class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn" href="{{ object.get_update_url }}">
+                        <span class="fa-solid fa-pencil"></span>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Element -->
+            <div class="row mt-2">
+                {% include 'alerts.html' %}
+                {% include template_form_name %}
+            </div>
+        </form>
+
+    </div>
+
+{% endblock content %}

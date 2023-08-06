@@ -1,0 +1,24 @@
+{% load static %}
+
+<div class="dropdown">
+    <a class="btn btn-outline-primary" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <span class="fa-solid fa-ellipsis"></span>
+    </a>
+    <ul class="dropdown-menu">
+        <li>
+            <a class="dropdown-item" href="{{ object.get_detail_url }}">
+                Detail
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-item" href="{{ object.get_update_url }}">
+                Update
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-item" onclick="openCustomModal('{{ object.get_delete_url }}')">
+                Delete
+            </a>
+        </li>
+    </ul>
+</div>

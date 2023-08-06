@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+    <!-- Header -->
+    <div class="row mt-2">
+        <div class="col mb-3">
+            <h1>{{ model_name_verbose_plural }}</h1>
+        </div>
+        <div class="col mb-3 d-flex justify-content-end">
+            {% include  'ordering.html' %}
+
+            {% with app_name|add:':'|add:model_name|lower|add:'_filter' as element_filter %}
+            <a class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn" onclick="openCustomModal('{% url element_filter %}')" title="Filtrar">
+                <span class="fa-solid fa-filter"></span>
+            </a>
+            {% endwith %}
+            
+            {% with app_name|add:':'|add:model_name|lower|add:'_create' as element_create %}
+            <a class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn" href="{% url element_create %}">
+                <span class="fa-solid fa-plus"></span>
+            </a>
+            {% endwith %}
+        </div>
+    </div>
+    
+    {% include 'alerts.html' %}
+
+    <!-- Filters -->
+    <div class="row mt-2">
+        {% include 'filters.html' %}
+    </div>
+
+    <!-- Elements -->
+    <div class="row mt-2">
+        {% for object in object_list %}
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">
+                {% include template_preview_name %}
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Pagination -->
+    <div class="row mt-2">
+        {% include  'pagination.html' %}
+        <div class="col"></div>
+    </div>
+
+{% endblock content %}

@@ -1,0 +1,20 @@
+{% load dashboard_tags %}
+
+<!-- Navbar -->
+<nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+    <div class="position-sticky pt-3 sidebar-sticky">
+        <ul class="nav flex-column">
+
+            {% for item in navbar %}
+                {% with app_name|add:':'|add:item.name|lower|add:'_list' as model_url %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url model_url %}">
+                        <span data-feather="file" class="align-text-bottom"></span>
+                        {{ item.verbose_name }}
+                    </a>
+                </li>
+                {% endwith %}
+            {% endfor %}
+        </ul>
+    </div>
+  </nav>

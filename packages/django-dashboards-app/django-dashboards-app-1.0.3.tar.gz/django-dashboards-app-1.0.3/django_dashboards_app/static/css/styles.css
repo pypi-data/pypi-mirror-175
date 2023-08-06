@@ -1,0 +1,18 @@
+
+.dd-color-red {
+    color: red;
+}
+
+.dd-order-inactive {
+    color: var(--bs-secondary);
+    opacity: 50%;
+}
+
+.dd-list-action-btn {
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.dd-bg-white {
+    background-color: white;
+}

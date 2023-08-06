@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+<div class="modal-dialog modal-lg">
+  <div class="modal-content">
+      
+      {% with app_name|add:':'|add:model_name|lower|add:'_filter' as element_filter %}
+      <form method="POST" action="{% url element_filter %}">
+        {% endwith %}
+        {% csrf_token %}
+        
+        <div class="modal-header">
+          <h4 class="modal-title">Filter {{ model_name_verbose_plural }}</h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            {% include 'form.html' %}
+        </div>
+        
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn">
+            <span class="fa-solid fa-filter"></span>
+          </button>
+        </div>
+
+      </form>
+      
+
+    </div>
+  </div>
+  
+
+{% endblock content %}

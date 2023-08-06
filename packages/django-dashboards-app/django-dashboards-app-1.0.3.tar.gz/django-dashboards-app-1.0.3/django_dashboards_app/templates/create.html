@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+    <!-- Header -->
+    <div class="container-fluid">
+        {% with app_name|add:':'|add:model_name|lower|add:'_create' as element_create %}
+        <form method="POST" action="{% url element_create %}">
+        {% endwith %}
+            {% csrf_token %}
+            <div class="row mt-2">
+                <div class="col mb-3">
+                    <h1>Create {{ model_name }}</h1>
+                </div>
+                <div class="col mb-3 d-flex justify-content-end">
+                    <button type="submit" class="btn btn-outline-primary">
+                        Cancel
+                    </button>
+                    <button type="submit" class="btn btn-primary">
+                        Save
+                    </button>
+                </div>
+            </div>
+
+            <!-- Element -->
+            <div class="row mt-2">
+                {% include template_form_name %}
+            </div>
+        </form>
+    </div>
+
+{% endblock content %}

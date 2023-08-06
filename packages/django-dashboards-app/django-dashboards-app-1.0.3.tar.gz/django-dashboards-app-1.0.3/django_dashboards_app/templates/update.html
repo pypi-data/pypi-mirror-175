@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load widget_tweaks %}
+{% load dashboard_tags %}
+
+{% block content %}
+
+    <!-- Header -->
+    <div class="container-fluid">
+        <form method="POST" action="{{ object.get_update_url }}">
+            {% csrf_token %}
+            <div class="row mt-2">
+                <div class="col mb-3">
+                    <h1>Update {{ model_name }}</h1>
+                </div>
+                <div class="col mb-3 d-flex justify-content-end">
+                    <!--
+                    <button type="button" class="btn btn-outline-danger d-flex justify-content-center align-items-center mx-1 dd-list-action-btn">
+                        <span class="fa-solid fa-xmark"></span>
+                    </button>
+                    -->
+                    <button type="submit" class="btn btn-outline-primary d-flex justify-content-center align-items-center mx-1 dd-list-action-btn">
+                        <span class="fa-solid fa-floppy-disk"></span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Element -->
+            <div class="row mt-2">
+                {% include template_form_name %}
+            </div>
+        </form>
+    </div>
+
+{% endblock content %}

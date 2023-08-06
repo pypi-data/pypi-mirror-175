@@ -1,0 +1,42 @@
+
+<!-- Alerts -->
+<div id="alerts_col" class="col">
+    {% if messages %}
+        {% for message in messages %}
+
+            {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}
+                <div class="alert alert-danger">
+            {% elif message.level == DEFAULT_MESSAGE_LEVELS.SUCCESS %}
+                <div class="alert alert-success">
+            {% elif message.level == DEFAULT_MESSAGE_LEVELS.INFO %}
+                <div class="alert alert-primary">
+            {% elif message.level == DEFAULT_MESSAGE_LEVELS.WARNING %}
+                <div class="alert alert-warning">
+            {% endif %}
+                
+                {{ message }}
+            </div>
+
+        {% endfor %}
+    {% endif %}
+</div>
+
+<script type="text/javascript">
+
+    var js_alerts = [];
+
+    {% for message in messages %}
+        js_alerts.push('{{ message }}');
+    {% endfor %}
+
+    if (js_alerts.length != 0 ) {
+
+      document.getElementById("alerts_col").style.display = "block";
+
+      setTimeout ( function() {
+        document.getElementById("alerts_col").style.display = "none";
+      }, 5000);
+
+    }
+
+  </script>
