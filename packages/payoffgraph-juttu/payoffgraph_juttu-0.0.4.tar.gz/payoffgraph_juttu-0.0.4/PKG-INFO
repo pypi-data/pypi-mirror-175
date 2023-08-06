@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: payoffgraph_juttu
+Version: 0.0.4
+Summary: Get the most beautiful Payoff Chart using a single simple function
+Author: Juttu G Anurag
+License: UNKNOWN
+Keywords: payoff graph,options,opstra,sensibull
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Get the most beautiful Payoff Chart using a single simple function
+
+
+## Usage
+
+- Make sure you have Python installed in your system.
+- Run Following command in the CMD.
+ ```
+  pip install payoffgraph-juttu
+  ```
+
