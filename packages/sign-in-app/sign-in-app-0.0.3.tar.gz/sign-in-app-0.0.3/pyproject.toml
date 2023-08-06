@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "sign-in-app"
+version = "0.0.3"
+authors = [
+  { name="Scott Gruenewald", email="s.gruenewald.work@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+
+license = { file = "LICENSE" }
+
+
+keywords = ["sign", "in"]
+
+
+
+dependencies = [
+    "requests",
+    "python-dateutil"
+]
+
+
+[project.urls]
+"Homepage" = "https://pypi.org/manage/project/sign-in-app"
+"Bug Tracker" = "https://github.com/scottgruenewald/sign_in_app_old/issues"
+
+
+[project.scripts]
+realpython = "reader.__main__:main"
