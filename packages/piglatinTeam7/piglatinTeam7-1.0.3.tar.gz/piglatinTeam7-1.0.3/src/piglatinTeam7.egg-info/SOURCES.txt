@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/piglatinTeam7/__init__.py
+src/piglatinTeam7/__main__.py
+src/piglatinTeam7/pig.py
+src/piglatinTeam7.egg-info/PKG-INFO
+src/piglatinTeam7.egg-info/SOURCES.txt
+src/piglatinTeam7.egg-info/dependency_links.txt
+src/piglatinTeam7.egg-info/entry_points.txt
+src/piglatinTeam7.egg-info/requires.txt
+src/piglatinTeam7.egg-info/top_level.txt
