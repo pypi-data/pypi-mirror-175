@@ -1,0 +1,3 @@
+[console_scripts]
+ka=kiera.main:main
+
