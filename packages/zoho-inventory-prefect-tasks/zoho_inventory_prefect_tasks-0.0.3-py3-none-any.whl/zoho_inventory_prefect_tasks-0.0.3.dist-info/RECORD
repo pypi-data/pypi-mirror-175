@@ -1,0 +1,13 @@
+zoho_inventory_prefect_tasks/__init__.py,sha256=NhAvKvZRoTsInqB13mqlNlNBDan_YyFy5hcFr0ZnR_E,718
+zoho_inventory_prefect_tasks/_version.py,sha256=yAbR1QvbbHt6Fh2CuHGkw-7oxr1YejVf2AA9xcJXkf0,497
+zoho_inventory_prefect_tasks/tasks/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zoho_inventory_prefect_tasks/tasks/contact_persons.py,sha256=Aj4B3tfYNP7vo9y9E7KAjnYoY9ohbhP1I-adpSru8yk,3391
+zoho_inventory_prefect_tasks/tasks/contacts.py,sha256=SgwFHYgHKh0359tV-p2iSLO4D6YI40WedmlODpAlaZ4,6294
+zoho_inventory_prefect_tasks/tasks/items.py,sha256=oeaFGJO_JY663brbOWcuM0g_tC57BkelxZHmIijvRr8,4072
+zoho_inventory_prefect_tasks/tasks/sales_orders.py,sha256=AtRbhHLKcsuvLn2MvaSiDMV696otfmYuQOgLvd408js,3908
+zoho_inventory_prefect_tasks/tasks/shipment_orders.py,sha256=rm1MTgdE5ivtUFgWstxdwl39P4Ybd1SQW89zyR2kUPk,2381
+zoho_inventory_prefect_tasks-0.0.3.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+zoho_inventory_prefect_tasks-0.0.3.dist-info/METADATA,sha256=RO2yG85NMPu25P28G-EAWMRPZC3QIMlhOIwE-7_rwZ0,800
+zoho_inventory_prefect_tasks-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+zoho_inventory_prefect_tasks-0.0.3.dist-info/top_level.txt,sha256=cWz--IPSUiXEoU1SYRoO9tkgB72qxCJHrE3iVOQK5zI,29
+zoho_inventory_prefect_tasks-0.0.3.dist-info/RECORD,,
