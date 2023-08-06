@@ -1,0 +1,159 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:faf0f001-9289-4e0f-9b69-02c6f51ffbd6",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2022-11-07T22:21:55.905693+00:00",
+    "tools": [
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-bom",
+        "version": "3.6.3"
+      },
+      {
+        "vendor": "CycloneDX",
+        "name": "cyclonedx-python-lib",
+        "version": "2.7.1",
+        "externalReferences": [
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions",
+            "type": "build-system"
+          },
+          {
+            "url": "https://pypi.org/project/cyclonedx-python-lib/",
+            "type": "distribution"
+          },
+          {
+            "url": "https://cyclonedx.github.io/cyclonedx-python-lib/",
+            "type": "documentation"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues",
+            "type": "issue-tracker"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE",
+            "type": "license"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md",
+            "type": "release-notes"
+          },
+          {
+            "url": "https://github.com/CycloneDX/cyclonedx-python-lib",
+            "type": "vcs"
+          },
+          {
+            "url": "https://cyclonedx.org",
+            "type": "website"
+          }
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "d5638ac2-b88d-4697-8008-9603f0b8e9b0",
+      "name": "atlassian-python-api",
+      "version": "3.28.1",
+      "purl": "pkg:pypi/atlassian-python-api@3.28.1"
+    },
+    {
+      "type": "library",
+      "bom-ref": "675458a9-1b10-4b0e-bb1a-67583e9bff59",
+      "name": "cogapp",
+      "version": "3.3.0",
+      "purl": "pkg:pypi/cogapp@3.3.0"
+    },
+    {
+      "type": "library",
+      "bom-ref": "7b1eb882-92e5-4783-8c5c-d85a84542846",
+      "name": "defusedxml",
+      "version": "0.7.1",
+      "purl": "pkg:pypi/defusedxml@0.7.1"
+    },
+    {
+      "type": "library",
+      "bom-ref": "b1a99916-1566-410a-8af7-cfe334de6037",
+      "name": "jmespath",
+      "version": "1.0.1",
+      "purl": "pkg:pypi/jmespath@1.0.1"
+    },
+    {
+      "type": "library",
+      "bom-ref": "dcc7540c-f74f-4de4-a07e-d23fb5bb5dff",
+      "name": "openpyxl",
+      "version": "3.0.10",
+      "purl": "pkg:pypi/openpyxl@3.0.10"
+    },
+    {
+      "type": "library",
+      "bom-ref": "147bb3fb-f50e-431c-af3d-4ba5ad6423c5",
+      "name": "pydantic",
+      "version": "1.10.2",
+      "purl": "pkg:pypi/pydantic@1.10.2"
+    },
+    {
+      "type": "library",
+      "bom-ref": "bd2f98ea-e16e-407b-ac1a-16696a3f135c",
+      "name": "requests-cache",
+      "version": "0.9.7",
+      "purl": "pkg:pypi/requests-cache@0.9.7"
+    },
+    {
+      "type": "library",
+      "bom-ref": "420b7152-f4e8-45ee-aaad-c20401806f2c",
+      "name": "scooby",
+      "version": "0.7.0",
+      "purl": "pkg:pypi/scooby@0.7.0"
+    },
+    {
+      "type": "library",
+      "bom-ref": "eebffc49-41ad-41b1-ba77-19d6ce95ba9e",
+      "name": "typer",
+      "version": "0.6.1",
+      "purl": "pkg:pypi/typer@0.6.1"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "d5638ac2-b88d-4697-8008-9603f0b8e9b0",
+      "dependsOn": []
+    },
+    {
+      "ref": "675458a9-1b10-4b0e-bb1a-67583e9bff59",
+      "dependsOn": []
+    },
+    {
+      "ref": "7b1eb882-92e5-4783-8c5c-d85a84542846",
+      "dependsOn": []
+    },
+    {
+      "ref": "b1a99916-1566-410a-8af7-cfe334de6037",
+      "dependsOn": []
+    },
+    {
+      "ref": "dcc7540c-f74f-4de4-a07e-d23fb5bb5dff",
+      "dependsOn": []
+    },
+    {
+      "ref": "147bb3fb-f50e-431c-af3d-4ba5ad6423c5",
+      "dependsOn": []
+    },
+    {
+      "ref": "bd2f98ea-e16e-407b-ac1a-16696a3f135c",
+      "dependsOn": []
+    },
+    {
+      "ref": "420b7152-f4e8-45ee-aaad-c20401806f2c",
+      "dependsOn": []
+    },
+    {
+      "ref": "eebffc49-41ad-41b1-ba77-19d6ce95ba9e",
+      "dependsOn": []
+    }
+  ]
+}
