@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: chembl-structure-pipeline
+Version: 1.1.0
+Summary: ChEMBL Structure Pipeline
+Home-page: https://www.ebi.ac.uk/chembl/
+Author: Greg Landrum
+Author-email: greg.landrum@t5informatics.com
+License: MIT
+License-File: LICENSE
