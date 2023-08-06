@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: wizardai
+Version: 0.0.1
+Summary: Wizard AI Core Package
+Home-page: https://www.thewizard.ai/
+Author: Adam Brownell
+Author-email: adam@thewizard.ai
+Keywords: python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
+
+## Core Wizard AI Package
+
+Wizard AI makes Machine Learning Model Validation & Reporting simple and easy.
+
