@@ -1,0 +1,11 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+SpectroMap.egg-info/PKG-INFO
+SpectroMap.egg-info/SOURCES.txt
+SpectroMap.egg-info/dependency_links.txt
+SpectroMap.egg-info/requires.txt
+SpectroMap.egg-info/top_level.txt
+spectromap/__init__.py
+spectromap/spectromap.py
