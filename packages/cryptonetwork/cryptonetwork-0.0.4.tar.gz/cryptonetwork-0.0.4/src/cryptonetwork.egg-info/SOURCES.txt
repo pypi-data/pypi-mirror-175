@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/cryptonet/__init__.py
+src/cryptonet/main.py
+src/cryptonet/matrix.py
+src/cryptonetwork.egg-info/PKG-INFO
+src/cryptonetwork.egg-info/SOURCES.txt
+src/cryptonetwork.egg-info/dependency_links.txt
+src/cryptonetwork.egg-info/top_level.txt
