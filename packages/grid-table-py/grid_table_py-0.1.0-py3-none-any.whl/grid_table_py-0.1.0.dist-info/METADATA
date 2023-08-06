@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: grid-table-py
+Version: 0.1.0
+Summary: 
+License: MIT
+Author: FSharp4
+Author-email: 33583307+FSharp4@users.noreply.github.com
+Requires-Python: >=3.11,<3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: pandas (>=1.5.1,<2.0.0)
+Requires-Dist: tabulate (>=0.9.0,<0.10.0)
+Description-Content-Type: text/markdown
+
+# grid-table-py
+
+```shell
+grid_table_py input.md output.md
+```
+
+**Arguments**(Positional):
+1. Path to input Markdown file
+2. Path to file to place output Markdown
+
+This is a library and command-line tool for converting Markdown files with pipe tables to Markdown files with grid 
+tables. Both the pipe tables and the grid tables must be compatible with 
+[Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown). 
+(This notably supports tables formatted for github-flavored markdown.)
+
+Released under MIT License. Author @FSharp4
+

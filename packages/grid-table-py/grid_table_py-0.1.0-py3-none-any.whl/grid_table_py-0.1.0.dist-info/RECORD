@@ -1,0 +1,9 @@
+grid_table_py/__init__.py,sha256=CCILQGvm9WC7r0QAYMSmwDdcyktPPSAwour0ML33860,40
+grid_table_py/grid_table_py.py,sha256=WCv7qYiWOHBeFm_Pe-nnjGuU5Q4tAqZDQC3ZMz_tGd4,1883
+grid_table_py/support/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+grid_table_py/support/markdown_table_builder.py,sha256=ioga151mO5muF2GRddeOzUW6ywsBoEU_JxTd348AU04,6435
+grid_table_py/support/table_ingest.py,sha256=8Qvx7xKFJCSG10IISSGTe1sKF6yhapsFyrs9CRO9uic,3647
+grid_table_py-0.1.0.dist-info/entry_points.txt,sha256=xHgFsCRx6GwncU1QACdNRzK0g2xLVGp2dTF7Gj25Z6I,65
+grid_table_py-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+grid_table_py-0.1.0.dist-info/METADATA,sha256=0BSNbAMzR2nfw4ddy8DNnl2jn8t2CBt1ucjwIO0g2SM,996
+grid_table_py-0.1.0.dist-info/RECORD,,
