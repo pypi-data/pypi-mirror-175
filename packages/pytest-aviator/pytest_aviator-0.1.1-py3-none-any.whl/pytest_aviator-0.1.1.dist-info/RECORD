@@ -1,0 +1,10 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytest_aviator/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytest_aviator/attributes.py,sha256=ipMZ3PktheVvcq5V5PG8jM4N5bThQrdsKuwnHP5D0q8,1386
+pytest_aviator/runner.py,sha256=G-nrXz17R-9f2w8GUJlR0_Rrraxjy-7OymCQz4UnoN0,15038
+pytest_aviator-0.1.1.dist-info/LICENSE,sha256=vfRmy7A0F4k6rAPkiSxM1ddqNtHmLnA5BOKDTtJUssM,1082
+pytest_aviator-0.1.1.dist-info/METADATA,sha256=3foEcfNguU1Sc84lvg0kfo6Vh4xkOPdvc9boBfKehLU,6251
+pytest_aviator-0.1.1.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+pytest_aviator-0.1.1.dist-info/entry_points.txt,sha256=fvPlcmvuvIln6Wj_azUsLdWHILcakuAhXjVPuCtFXVc,50
+pytest_aviator-0.1.1.dist-info/top_level.txt,sha256=5_g9oCzPXTwXLbL5Hg6e_F_87OsFuEgoWUuweh9jYN4,24
+pytest_aviator-0.1.1.dist-info/RECORD,,
