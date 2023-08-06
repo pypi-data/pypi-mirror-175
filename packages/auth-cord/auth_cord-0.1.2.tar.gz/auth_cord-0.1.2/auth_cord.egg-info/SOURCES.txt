@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+auth_cord/__init__.py
+auth_cord/authorization.py
+auth_cord/client.py
+auth_cord/connection.py
+auth_cord/guild.py
+auth_cord/token.py
+auth_cord/user.py
+auth_cord.egg-info/PKG-INFO
+auth_cord.egg-info/SOURCES.txt
+auth_cord.egg-info/dependency_links.txt
+auth_cord.egg-info/requires.txt
+auth_cord.egg-info/top_level.txt
