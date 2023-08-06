@@ -1,0 +1,8 @@
+README.md
+setup.py
+DE_FOREX_Library.egg-info/PKG-INFO
+DE_FOREX_Library.egg-info/SOURCES.txt
+DE_FOREX_Library.egg-info/dependency_links.txt
+DE_FOREX_Library.egg-info/top_level.txt
+polygon_data/__init__.py
+polygon_data/data_process.py
