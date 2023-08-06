@@ -1,0 +1,3 @@
+[console_scripts]
+deepl-scraper-playwright=deepl_scraper_pw.__main__:app
+
