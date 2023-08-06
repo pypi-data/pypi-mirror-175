@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: py-ballisticcalc-stubs
+Version: 1.0.10
+Summary: PEP561 stub files for the py_ballisticcalc library
+Home-page: https://github.com/o-murphy/py_ballisticcalc-stubs
+Author: o-murphy
+Author-email: thehelixpg@gmail.com
+Maintainer: o-murphy
+Maintainer-email: thehelixpg@gmail.com
+License: UNKNOWN
+Description: # py_ballisticcalc-stubs
+        PEP561 stub files for the [py_ballisticcalc](https://github.com/o-murphy/py_ballisticcalc) library (Python 3.9+)
+        
+        Installation
+        ------------
+        **Stable universal release from PyPi**
+        ```commandline
+        pip install py-ballisticcalc-stubs
+        ```
+        
+Platform: UNKNOWN
+Requires-Python: >= 3.9
+Description-Content-Type: text/markdown
