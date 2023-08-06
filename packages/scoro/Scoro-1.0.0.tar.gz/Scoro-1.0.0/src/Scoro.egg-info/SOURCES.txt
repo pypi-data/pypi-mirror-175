@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/__init__.py
+src/scoro.py
+src/Scoro.egg-info/PKG-INFO
+src/Scoro.egg-info/SOURCES.txt
+src/Scoro.egg-info/dependency_links.txt
+src/Scoro.egg-info/not-zip-safe
+src/Scoro.egg-info/top_level.txt
+src/storage/.gitkeep
+test/__init__.py
+test/test.py
+test/logs/.gitkeep
+test/output/.gitkeep
+test/storage/.gitkeep
