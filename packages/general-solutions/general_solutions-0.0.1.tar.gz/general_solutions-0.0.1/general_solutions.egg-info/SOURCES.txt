@@ -1,0 +1,9 @@
+README.txt
+setup.py
+general_solutions/__init__.py
+general_solutions/gss.py
+general_solutions.egg-info/PKG-INFO
+general_solutions.egg-info/SOURCES.txt
+general_solutions.egg-info/dependency_links.txt
+general_solutions.egg-info/requires.txt
+general_solutions.egg-info/top_level.txt

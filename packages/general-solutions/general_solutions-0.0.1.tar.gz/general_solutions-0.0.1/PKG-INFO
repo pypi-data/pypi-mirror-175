@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: general_solutions
+Version: 0.0.1
+Summary: general solutions
+Author: Wang Mengchang
+Author-email: <wangmengchang@gmail.com>
+Keywords: python,general solutions
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+function to get general solutions to nonhomogeneous linear equations, Ax = b
