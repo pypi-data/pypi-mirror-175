@@ -1,0 +1,4 @@
+#!/Users/ifoundit/.virtualenvs/testcsv2json/bin/python
+import csv2json
+
+csv2json.main()
