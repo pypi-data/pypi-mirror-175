@@ -1,0 +1,8 @@
+build-molalignlib-python
+molalign.py
+setup.cfg
+setup.py
+molalign.egg-info/PKG-INFO
+molalign.egg-info/SOURCES.txt
+molalign.egg-info/dependency_links.txt
+molalign.egg-info/top_level.txt
