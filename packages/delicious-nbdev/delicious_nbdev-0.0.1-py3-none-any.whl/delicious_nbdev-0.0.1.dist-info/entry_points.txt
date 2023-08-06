@@ -1,0 +1,2 @@
+[nbdev]
+delicious_nbdev = delicious_nbdev._modidx:d
