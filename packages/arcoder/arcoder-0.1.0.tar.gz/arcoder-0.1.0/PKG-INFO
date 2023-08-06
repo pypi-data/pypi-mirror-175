@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: arcoder
+Version: 0.1.0
+Summary: Implementation of the ARCoder Transliterated Arabic Name Matching Encoding Algorithm
+Author: Seth Bromberger, Jessica Moore, Sam Hamid
+License: MIT
+Keywords: name matching,Arabic
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# ARCoder
+
+arcoder.py implements an abstract base class called `Encoder` along with two concrete
+implementations: `ARCoder` and `Holmes`. Each has an `encode` method that takes a
+string and encodes it into a series of symbols designed to be used for similarity
+measurements.
+
+```python
+    >>> from arcoder import ARCoder, Holmes
+    >>> a = ARCoder()
+    >>> a.encode("Sohaib")
+    ['suhaeb', 'suhib']
+    >>> h = Holmes()
+    >>> h.encode("Sohaib")
+    ['sohayb']
+```
+
+The ARCoder algorithm is described more fully in
+Moore, J., Hamid, S., and Bromberger, S.: "An Evaluation of Transliterated
+Arabic Name Matching Methods".
+
+The Holmes implementation is derived from
+Holmes, D., Kashfi, S., Aqeel, S. U.: "Transliterated arabic name search",
+_Communications, Internet, and Information Technology_, pp. 267-273. (2004).
+
