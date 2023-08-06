@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ylibrary
+Version: 0.0.1
+Summary: This is a library which consolidates and utilizes multiple functions
+Home-page: 
+Author: Yoan Yordanov
+Author-email: yoan_yordanov@outlook.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
