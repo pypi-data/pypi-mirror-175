@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: xiangmutest
+Version: 1.0.0
+Summary: this is a niubi lib
+Home-page: http://gethub.com.......
+Author: ksy
+Author-email: 22222@qq.com
+License: MIT
+License-File: LICENSE.txt
+
+
+reStructuredText (reST) reStructuredText (reST)
+
+
+Why Should I Use This?
+=======================
+
+**Why Should I Use This**
+
+
+*Why Should I Use This*
+
+
+
+``def test(a, b, c, d):``
+    ``print(a+b+c+d)``
+
+
