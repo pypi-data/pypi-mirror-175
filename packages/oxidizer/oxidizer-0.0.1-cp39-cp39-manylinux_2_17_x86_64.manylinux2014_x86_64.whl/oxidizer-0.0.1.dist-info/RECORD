@@ -1,0 +1,5 @@
+oxidizer-0.0.1.dist-info/METADATA,sha256=mDPCYcR4-vYx0tVHpnWZJa7bIgndFLZzFdTXLAo-dIs,477
+oxidizer-0.0.1.dist-info/WHEEL,sha256=_ACA9XfAeqXxWobwvm3qjdOvYVLZLdz4TAGKT65YnVM,128
+oxidizer/__init__.py,sha256=RQhveaFW02WHXiPqa18_9chsmEaKMNaS6lbqzfCpygE,115
+oxidizer/oxidizer.cpython-39-x86_64-linux-gnu.so,sha256=JTOOnd5b0DULjkFyCWgP4gFPPEvKmo54VVMIh6nxzYk,387464
+oxidizer-0.0.1.dist-info/RECORD,,
