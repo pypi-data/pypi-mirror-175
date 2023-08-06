@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: hubspot_etl_pipeline_automatic_exporter
+Version: 0.0.1
+Summary: The exporter. Run by the cronjob on the server, this will open an automated browser window, login and click the export link on the report page.
+Project-URL: Homepage, https://github.com/wesley950/bookish-disco
+Project-URL: Bug Tracker, https://github.com/wesley950/bookish-disco/issues
+Author-email: Wesley Barros <wesleybarros950@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: python-dotenv
+Requires-Dist: selenium
+Requires-Dist: super-eureka
+Description-Content-Type: text/markdown
+
+# The exporter
+Run by the cronjob on the server, this will open an automated browser window, login and click the export link on the report page
