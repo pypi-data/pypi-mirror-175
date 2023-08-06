@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: kubelink
+Version: 0.0.1
+Summary: kubelink automatically sync files to kubernetes pods
+Home-page: https://github.com/waverage/kubelink
+Author: Volodymyr Tsumanchuk
+Author-email: buorn2011@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+kubelink automatically sync files to kubernetes pods. It speed up your development. You just work with your local files and kubelink automatically syncing them to your kubernetes cluster.
+
+Using kubelink is as simple as:
+1. `kubelink create --name mypreset -s ./ -d /code --namespace default -l "app=backend"` to create a preset with your settings
+2. `kubelink watch mypreset` to start syncing files
+
+
