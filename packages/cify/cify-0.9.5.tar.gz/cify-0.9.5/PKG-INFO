@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: cify
+Version: 0.9.5
+Summary: Python CI Framework
+Home-page: https://computer-science.pages.cs.sun.ac.za/rw771/2022/22628274-AE3-src
+Author: David McCleave
+Author-email: davidjmccleave@gmail.com
+License: MIT
+Keywords: cify,computational intelligence,optimization,nature-inspired
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+A framework that provides the ability to easily and reliably implement nature-inspired optimization meta-heuristics.
