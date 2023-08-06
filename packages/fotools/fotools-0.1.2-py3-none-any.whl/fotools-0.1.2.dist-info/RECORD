@@ -1,0 +1,17 @@
+fotools/__init__.py,sha256=nf4Y2zBnRUY88F0w1-8vWXcl8VfBn-q8RSFRhpMQpjo,84
+fotools/extensions.py,sha256=DVmg_7Z1T-wL6uGjfwNPUoqzazAUyTd4EP3EF3iZEJ8,3774
+fotools/help.py,sha256=cbvhV5J6wFZNavLLkk_aIlmZ0XJDioOBN5Txebx1ZW8,3710
+fotools/installed_extensions/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fotools/installed_extensions/delete.py,sha256=uc4SucP_bX_OFn8KkNYCXorS3E02TdqBwG5fgwAM0Yk,560
+fotools/installed_extensions/pcloud_upload.py,sha256=oqe_YK_m0dZ0XTN1JJITDpTwYqgWzsH1A5JpbsEcsOU,423
+fotools/installed_extensions/search_contents.py,sha256=vLxLKqhDTUcAPowiBSY4stKWb6Luutfdlkt0kQ1ZtmM,954
+fotools/installed_extensions/testextension.py,sha256=adqSmIc3my1zQn9R_DrSR0Ky0Ry0iHdxTcsxaVmqgHs,617
+fotools/installed_extensions/testextension2.py,sha256=q7QxeqZG7gnj-KbUxopmw1gw5Y_klxDDyFdO6ZMwzh0,345
+fotools/main.py,sha256=C541MYDfVL8VfaC0G_1uKMDpEAU0vWZ_UHSXk50nqmM,8937
+fotools/organizer.py,sha256=CZ1BJY0nZdw0zIEVX90BrXgFEYiOlv2due7jQOGRwq4,22539
+fotools/parser.py,sha256=uekAdMMJPkTdwS_gsyVQhXKCPKJUiqMewNzFSrVJKug,4275
+fotools-0.1.2.dist-info/entry_points.txt,sha256=lk5T9Z4xZ2CKwSWuJYz4D-Hnb7d43arykoFNEWMD518,45
+fotools-0.1.2.dist-info/LICENSE,sha256=LXnfv8ovMOibxJlSdxqD2RUu8rwzih04kkpe3qx_rz8,1515
+fotools-0.1.2.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+fotools-0.1.2.dist-info/METADATA,sha256=lKT5bDnrUbp_WXO0OIrIJw0u3VxbFHlRgzDMNQuVfdM,14120
+fotools-0.1.2.dist-info/RECORD,,
