@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/climex/__init__.py
+src/climex/_version.py
+src/climex/classes.py
+src/climex/setup.py
+src/climex.egg-info/PKG-INFO
+src/climex.egg-info/SOURCES.txt
+src/climex.egg-info/dependency_links.txt
+src/climex.egg-info/requires.txt
+src/climex.egg-info/top_level.txt
