@@ -1,0 +1,15 @@
+turbESN/__init__.py,sha256=CljpdIqEdLyaGOTPgaSXgqr8S5Qga-L2f6ORU89a1vo,128
+turbESN/__version__.py,sha256=KJW4sl4fffneKiLqCLGh2xZQbckn6rFU6mXoD9QwOqw,71
+turbESN/_modes.py,sha256=MwyIhvuzak4QQnmIdP5UU3SlGSq_AT5XR4XRwbLMZLA,842
+turbESN/_version.py,sha256=W31rx7ierbvq1m-FexVeYAe0WfxwOlrl1AHjBiLU1zE,73
+turbESN/core.py,sha256=yZSQljeCDOnb56qXVmHvv3EXFdUHRhROv5_SaliG6Rw,57799
+turbESN/cross_validation.py,sha256=Yn7WWsiegtNUWVGXA_7Lm-LqgHSOGjiamgfbQqssfaQ,6983
+turbESN/study.py,sha256=ENexNOS-b5vKn8xjRAkQK3vH9TcSYdZ3Q0dQ6hF6y9c,12912
+turbESN/util.py,sha256=VCXFDZGHB7scqTIFWJmbCuxqCOa5vvn09DZ8z3nRjr0,51592
+turbESN/info/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+turbESN/info/hyperparameters.json,sha256=76OBcCi3hTSgqkbSOMB_gRxbTCdBmQWli1TuLt7WnJY,8613
+turbESN-0.0.1.9.0.5.dist-info/LICENSE,sha256=lRg0YSh9Hresq8EHW6cU2tKLqwQtdFjAiSCK5CfPb9g,1075
+turbESN-0.0.1.9.0.5.dist-info/METADATA,sha256=CNprsR_LrYAqZ_IPGN4Kbmrmo9gt0175-InYQgC-jYk,899
+turbESN-0.0.1.9.0.5.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+turbESN-0.0.1.9.0.5.dist-info/top_level.txt,sha256=op5KRhbmZAeert5cqiFRWxRRUYsG-aLo93XTxjcZeUw,8
+turbESN-0.0.1.9.0.5.dist-info/RECORD,,
