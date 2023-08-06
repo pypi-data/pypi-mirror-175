@@ -1,0 +1,11 @@
+sm_datasets/__init__.py,sha256=HDAlt4ylESDaNDfzG-FZD-ltrX_Y4OuIYR3UQ1RKjVU,66
+sm_datasets/datasets.py,sha256=LOpYHC0FCM_aU0W7-HFwEpqkvSfrUBD6OhYJe-nlXSk,4108
+sm_datasets/helper.py,sha256=NmiBSeeiLyzC03FZtAG1Q7CpFdOSEWrXrfwgN-d4vnA,1072
+sm_datasets/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sm_datasets/migrations/biotables.py,sha256=6LxhY6E1kfbsOwQjtjW3xOqmCAyiuuYnypvMkE6V7t8,7870
+sm_datasets/migrations/semtab2020.py,sha256=bHuteQxWt231iFzjiv7YKEC_ypbZteV-VuJAniMEqms,11547
+sm_datasets/migrations/semtab2020_r4sampled.py,sha256=jii8yPTop7yBIGlTa3bh7GlqCuaoJk3B_7_Tj4b2wBU,665
+sm_datasets/models.py,sha256=y_WSLY_Qk5gpkQu-03_Lg52btj5oqZwEBo4vcXnmwaI,1151
+sm_datasets-1.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+sm_datasets-1.1.0.dist-info/METADATA,sha256=dj9h4Noc3rMBu2MpOnTOjGqWu2aCRGBUYrsTVGTcfzM,831
+sm_datasets-1.1.0.dist-info/RECORD,,
