@@ -1,0 +1,13 @@
+utility_collection/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utility_collection/__main__.py,sha256=6QcjADgy5suXDQOhvTo4aOKu6GNJ2y1dFDHIL_mYuHg,237
+utility_collection/build.py,sha256=92ciyKCZdGdpLTh3zeqEyunYVBxPYHGKZmA3rwPWWcU,311
+utility_collection/common/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utility_collection/common/download.py,sha256=C7iIBAeLaasuQbfqIi6iMQUcWqIypmSSXA7uaoGmR40,1165
+utility_collection/download_file_samples/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utility_collection/download_file_samples/__main__.py,sha256=AIfi2JCiLLH76zuq6EupK7sajFuCSvC2lF9GPQCo4aM,1679
+utility_collection/download_file_samples/settings.py,sha256=hfswr9MKvqt8B9sccLModusJ3-UO11WEKVJ7tDbSI4w,1016
+utility_collection-0.1.1.dist-info/entry_points.txt,sha256=j8Q5nrrHYegNsHWmaoBgpYS4ey2ymtdqED9wACdeM8c,54
+utility_collection-0.1.1.dist-info/LICENSE,sha256=GKfnqXQAAcuRTwCuL29d3vPnCf3T5qCof_2SAFnAQt0,1063
+utility_collection-0.1.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+utility_collection-0.1.1.dist-info/METADATA,sha256=AL85Z7-1WoHT2EWbRzGa13JGFLEDoRZqRpegiH1_V-s,546
+utility_collection-0.1.1.dist-info/RECORD,,
