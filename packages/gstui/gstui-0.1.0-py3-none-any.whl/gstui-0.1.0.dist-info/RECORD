@@ -1,0 +1,10 @@
+gstui/__main__.py,sha256=m0L23iLaWTYRaxoLUCiiY8zEhmZGgk2yCyIzTUTS8_w,63
+gstui/bless.py,sha256=m9fkvk61do0S1dFs1Q_TuOu2Be0a7Gxkaq39CqPV7GM,1970
+gstui/gsclient.py,sha256=4Bd99qhSPJ3qgF1Vnl0IYj0BDcRQd7IJewNNV2cj6yQ,3400
+gstui/gstui.py,sha256=EBLD5RVQPdyfIVetKr6VuHRQd-SBJMhLYGJTVqdd4AE,822
+gstui/ui_base.py,sha256=7Tqr2vbDc_MGimGFpgagY3okFzAJm6OcQMQpSyqFT7w,2290
+gstui-0.1.0.dist-info/entry_points.txt,sha256=pJjAlimwhnsMfI_alVKxMmLRljGta0z_Q7v4wkHaTSw,61
+gstui-0.1.0.dist-info/LICENSE,sha256=HQUL5AaGHpBTqAR5E6dHIyfBgT2DpUT-OPiGb-QMDFA,1099
+gstui-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+gstui-0.1.0.dist-info/METADATA,sha256=SAItIDE5oHjH4_P4fAIqZpgbTJV6ehRXlWxbNMqKlKA,1806
+gstui-0.1.0.dist-info/RECORD,,
