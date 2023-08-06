@@ -1,0 +1,66 @@
+Metadata-Version: 2.1
+Name: chrofile
+Version: 0.0.11
+Summary: chrome profile setting tool
+Home-page: https://github.com/inouve/chrofile
+Author: inovue
+Author-email: info@sinoue.net
+Project-URL: Bug Tracker, https://github.com/inouve/chrofile
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+## 参考
+
+### PyPIパッケージのリリースもバージョニングもGitHub単独で完結させる
+https://zenn.dev/detsu/articles/5d74bf72e96a0f
+
+
+### How can I infinite-scroll a web page using selenium webdriver in python
+https://stackoverflow.com/questions/70906433/how-can-i-infinite-scroll-a-web-page-using-selenium-webdriver-in-python
+
+
+## Chrofile
+Get a list of user profiles for the chrome browser.
+
+## installation
+```
+pip install chrofile
+```
+
+### usage
+```
+from time import sleep
+import chrofile
+
+def main():
+  driver = None
+  try:
+    chrome = chrofile.start()
+    sleep(30)
+    ### some browser controls ###
+  except Exception as e:
+    print(e)
+  finally:
+    if chrome: chrome.quit()
+
+main()
+
+```
+
+
+## Reference
+```
+https://mikebird28.hatenablog.jp/entry/2020/06/15/233447
+```
+
+## Upload PyPI
+```
+pip install pip install setuptools wheel twine
+rm -rf build dist chrofile.egg-info
+
+python setup.py sdist && python setup.py bdist_wheel && python -m twine upload --repository pypi dist/*
+```
