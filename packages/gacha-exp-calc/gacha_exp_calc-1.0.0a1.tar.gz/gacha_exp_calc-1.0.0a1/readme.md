@@ -1,0 +1,40 @@
+# gacha-expectation
+
+This package is built up to serve players with information to gacha and the amount of resource needed to reach the expectation.<br>
+
+## Function
+
+* Class `step` is designed to describe the parameter of pool of gacha, where the probability to get items in the rarest level will increased when you have not got the item with lots of trials.<br>
+
+### Initiate
+
+The Object in `step` should be created with following parameters:
+
+```
+step(p,p_up,ups,thres,most,mg)
+```
+
+> `p` means the probablity to get items which are in the rarest level.<br>
+> `p_up` means the proportion of the probability getting the item(s) which is ***up*** to the `p` mentioned above, and if there are more than one item in ***up***, they share the probability evenly.<br>
+> `ups` means the number of the item(s) in ***up***.<br>
+> `thres` means
+> `most` means the maximum trails number of not getting the rarest items continuously.<br>
+> `mg` means the number of non-***up***.<br>
+
+### Method
+
+The Class `step` has methods `calc` or `smlt`, and they should be used in following ways:<br>
+`Object(step).calc(n,e,t=0,rel_exp=6)`&nbsp;or&nbsp;`Object(step).calc(n,e,t=0,times=100000)`
+
+> `n` means the total trials in the gacha pool.<br>
+> `e` means the ideal result of gacha.<br>
+> `t` means the previous trials spent continuously with no rarest item got.<br>
+> `rel_exp` means the branch whose possibility is smaller than the maxinum possiblity in branches which can reach the ideal result will be ignored to reduce the complexity of calculating time.<br>
+> `times` means the repeat times of simulation.<br>
+
+These methods will return the possibility with 4 decimals accuracy.
+
+## Version
+
+### 1.0.0
+Only provided `step` class and `calc`, `smlt` method.

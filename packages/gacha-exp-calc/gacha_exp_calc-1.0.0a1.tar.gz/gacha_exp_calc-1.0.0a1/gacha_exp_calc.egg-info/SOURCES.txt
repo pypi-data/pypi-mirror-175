@@ -1,0 +1,7 @@
+readme.md
+setup.cfg
+setup.py
+gacha_exp_calc.egg-info/PKG-INFO
+gacha_exp_calc.egg-info/SOURCES.txt
+gacha_exp_calc.egg-info/dependency_links.txt
+gacha_exp_calc.egg-info/top_level.txt
