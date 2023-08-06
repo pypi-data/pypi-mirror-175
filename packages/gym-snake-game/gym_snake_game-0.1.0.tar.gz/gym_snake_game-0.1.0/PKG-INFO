@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: gym_snake_game
+Version: 0.1.0
+Summary: Snake game for OpenAI Gym
+Home-page: https://github.com/NaLooo/Gym_Snake_Game
+Author: Ming Yu
+Author-email: ming.yu@alumni.stonybrook.edu
+License: MIT
+Keywords: ai,rl,snake
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Games/Entertainment :: Arcade
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Gym_Snake_Game
+ Snake game for OpenAI gym
+
+
+## Quick Start
+
+```python
+import gym_snake_game
+import gym
+
+env = gym.make('Snake-v0', render_mode='human')
+d = False
+
+# for human playing
+env.play()
+
+# for ai playing
+while True:
+    s, r, d, t, _info = env.step(env.action_space.sample())
+    if d:
+        env.reset()
+
+```
+
+**Ming Yu**

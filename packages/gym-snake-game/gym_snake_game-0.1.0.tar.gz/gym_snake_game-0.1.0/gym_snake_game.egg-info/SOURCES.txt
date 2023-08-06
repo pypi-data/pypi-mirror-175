@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+gym_snake_game/__init__.py
+gym_snake_game/version.py
+gym_snake_game.egg-info/PKG-INFO
+gym_snake_game.egg-info/SOURCES.txt
+gym_snake_game.egg-info/dependency_links.txt
+gym_snake_game.egg-info/requires.txt
+gym_snake_game.egg-info/top_level.txt
+gym_snake_game/environment/__init__.py
+gym_snake_game/environment/core.py
+gym_snake_game/environment/snake_env.py
+gym_snake_game/environment/utils.py
