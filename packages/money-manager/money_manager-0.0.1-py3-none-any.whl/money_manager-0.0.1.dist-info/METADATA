@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: money-manager
+Version: 0.0.1
+Summary: A package to manage your money.
+Home-page: https://github.com/MRyderOC/mymoney
+Author: Milad Tabrizi
+Author-email: milad@miladtabrizi.com
+License: GPLv3+
+Project-URL: Bug Reports, https://github.com/MRyderOC/mymoney/issues
+Project-URL: Source, https://github.com/MRyderOC/mymoney
+Keywords: finance,expense,money
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+
+# my-money
+A Python package to track your money
