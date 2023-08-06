@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+galerkin_transformer.egg-info/PKG-INFO
+galerkin_transformer.egg-info/SOURCES.txt
+galerkin_transformer.egg-info/dependency_links.txt
+galerkin_transformer.egg-info/requires.txt
+galerkin_transformer.egg-info/top_level.txt
