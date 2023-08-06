@@ -1,0 +1,13 @@
+sharepoint_api/SharePointAPI.py,sha256=gaQmncuZ68yJeKqAbjHllGsHEsugqbRV8gxqCfIUYOU,24864
+sharepoint_api/SharePointList.py,sha256=6i-hDuuHfrBaB9kPYNAtMpF2gtpcAh6gx0h5-jUQCcw,2967
+sharepoint_api/SharePointListItem.py,sha256=fkveVHOcFXVfB9aQ_nzvaRcUs665YGQzqoB1VUBZ1vc,4759
+sharepoint_api/SharePointLists.py,sha256=vzX61w9rykHfj4hION3Qrff1BakR4wBb-OCOcyvDCXI,1605
+sharepoint_api/SharePointTimeRegistration.py,sha256=l4WrDnw3AOheDvGv4mUyO1A4HxxievABONRMi9VJBRM,1249
+sharepoint_api/SharePointUser.py,sha256=w2UsEIiy-DpdJg5jEm0uVpfAjfALPsG9Uc7Wbm0_OeE,721
+sharepoint_api/SharePointUserList.py,sha256=on0Y_e2nVgNDm6GbThHYUgohr8W_cULsN6Sw0Bh3YEU,672
+sharepoint_api/__init__.py,sha256=xcnHesxaq1ZbyDZxJ8nWosIHbz0dr4o7ue10OfVV-Hw,40
+sharepoint_v1_api-0.0.10.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+sharepoint_v1_api-0.0.10.dist-info/METADATA,sha256=E5b4lQwDKRim9ZDRlSxSLTuiNnYvibgE4f4NFW8D5CM,2573
+sharepoint_v1_api-0.0.10.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+sharepoint_v1_api-0.0.10.dist-info/top_level.txt,sha256=2aqHFFcN4A1cPWj5EeXIvIwzC9yra2lI7BS3FdQlLW4,15
+sharepoint_v1_api-0.0.10.dist-info/RECORD,,
