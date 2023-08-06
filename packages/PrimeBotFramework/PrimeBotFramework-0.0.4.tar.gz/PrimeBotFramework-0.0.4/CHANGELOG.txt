@@ -1,0 +1,14 @@
+Change Log
+==========
+
+0.0.1 (2022-11-01)
+------------------
+- First Release
+
+0.0.3 (2022-11-01)
+------------------
+- Fixed ChangeLog
+
+0.0.3 (2022-11-07)
+------------------
+- DeathByCaptcha: Implementação da quebra de captcha por imagem.
