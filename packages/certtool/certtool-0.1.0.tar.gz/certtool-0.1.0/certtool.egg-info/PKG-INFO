@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: certtool
+Version: 0.1.0
+Summary: Easily check certificate status of domains
+Home-page: https://git.sr.ht/~martijnbraam/certtool
+Author: Martijn Braam
+Author-email: martijn@brixit.nl
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+License-File: LICENSE
+
+UNKNOWN
+
