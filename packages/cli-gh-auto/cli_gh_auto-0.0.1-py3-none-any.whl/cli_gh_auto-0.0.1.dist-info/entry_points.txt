@@ -1,0 +1,2 @@
+[console_scripts]
+gh-auto = gh_auto.main:app

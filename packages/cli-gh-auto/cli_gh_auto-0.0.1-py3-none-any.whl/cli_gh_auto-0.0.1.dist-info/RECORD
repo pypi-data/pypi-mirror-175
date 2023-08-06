@@ -1,0 +1,9 @@
+gh_auto/main.py,sha256=6cFX9WYJWH4pScaUDmDeBgQVmCTWS8FFePUey-TWMik,364
+gh_auto/commands/repo.py,sha256=8rlVpvWQQyv7pF7C-QXmLjvQySqpuxeh7b63TqiyUqg,1558
+gh_auto/helpers/authentication.py,sha256=KgbWG_ZROFjG7BYqtA2rIXlpCRpEJEmc-eLCzmo35oI,1207
+cli_gh_auto-0.0.1.dist-info/LICENCE.md,sha256=ebbFnuEw68XHXeJEXEDPNPHNmPTbuX3aFlqyPCdeXyg,1075
+cli_gh_auto-0.0.1.dist-info/METADATA,sha256=1lznPMZ8PAvdkSnp4RYiJqyPyLz58GmG_YvFLRLTc3w,2208
+cli_gh_auto-0.0.1.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+cli_gh_auto-0.0.1.dist-info/entry_points.txt,sha256=QXEW71EYv8X6TKoyW5DDl0gt3XTqORPli0VpGzW3Gcc,45
+cli_gh_auto-0.0.1.dist-info/top_level.txt,sha256=GJd3haI_DToqw7d1tNJW_0hk5lLbpCyOZqHS2URk19g,8
+cli_gh_auto-0.0.1.dist-info/RECORD,,
