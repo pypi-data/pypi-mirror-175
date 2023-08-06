@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: openweatherclass
+Version: 0.4.2
+Summary: An implementation of the Openweather API in Python.
+Project-URL: Homepage, https://github.com/bearhudson/OpenWeatherClass
+Author-email: Brian Hudson <reallybrianhudson@gmail.com>
+License-File: LICENSE
+Description-Content-Type: text/markdown
+
+# A Python implementation of the Open Weather API 
+
+To use ➡️
+
+* install from [PyPi](https://pypi.org/project/openweatherclass/).
+
+[OpenWeather Homepage](https://openweathermap.org/)
+
+```shell
+pip install openweatherclass
+```
+
+* Get an [API](https://openweathermap.org/api) Key
+
+* Initiate the class
+
+```python
+import openweatherclass as owc
+
+weather = owc.OpenWeatherClass(api_key=API_KEY, zipcode='02188', units='imperial')
+print(weather.geo_data['name'])
+print(weather.weather_data['current']['temp'])
+```
