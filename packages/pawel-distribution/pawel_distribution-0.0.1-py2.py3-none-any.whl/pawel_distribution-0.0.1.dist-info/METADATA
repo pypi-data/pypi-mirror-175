@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pawel-distribution
+Version: 0.0.1
+Summary: docstring
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: pandas==1.4.1
