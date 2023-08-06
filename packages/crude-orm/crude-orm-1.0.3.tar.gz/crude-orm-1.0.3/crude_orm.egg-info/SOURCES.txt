@@ -1,0 +1,13 @@
+LICENSE
+README.md
+crude.py
+setup.cfg
+setup.py
+crude_orm.egg-info/PKG-INFO
+crude_orm.egg-info/SOURCES.txt
+crude_orm.egg-info/dependency_links.txt
+crude_orm.egg-info/top_level.txt
+test/test_create.py
+test/test_delete.py
+test/test_read.py
+test/test_update.py

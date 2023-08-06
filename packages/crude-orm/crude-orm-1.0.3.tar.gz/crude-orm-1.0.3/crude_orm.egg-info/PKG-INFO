@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: crude-orm
+Version: 1.0.3
+Summary: A descriptive ORM for Python
+Home-page: https://crudepy.org
+Author: Kristoffer A. Wright
+Author-email: kris.al.wright@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/kawright/crude
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+Crude is a simple, lightweight ORM for Python which owes its ease-of-use to the
+fact that it is a _descriptive_ ORM rather than a _prescriptive_ one. What does
+that mean? It means you can access your entire database programmatically with 
+just a few lines, without having to define any schemas or write any SQL 
+commands.
+
+Visit https://crudepy.net for official documentation and additional information.
+
+Copyright (c) 2022 Kristoffer A. Wright
+
+
