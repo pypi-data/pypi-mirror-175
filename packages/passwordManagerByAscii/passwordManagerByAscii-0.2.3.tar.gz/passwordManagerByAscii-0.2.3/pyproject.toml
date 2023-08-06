@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "passwordManagerByAscii"
+description = "A pacakge that can generate, validate, encode, and decode passwords. built with build using setuptools, uploaded to PyPI using twine, and distributed via pip."
+version = "0.2.3"
+authors = [
+  { name="Victoria Zhang", email="rz1424@nyu.edu" },
+  { name="Tiffany Lee", email="el2765@nyu.edu" },
+  { name="Seok Tae Kim", email="stk319@nyu.edu" },
+  { name="Khalifa AlFalasi", email="ksa330@nyu.edu" },
+  { name="Jenny Shen", email="js10792@nyu.edu" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+keywords = ["python", "package", "build", "tutorial"]
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.urls]
+"Homepage" = "https://github.com/software-students-fall2022/python-package-exercise-project-3-team-11"
+"Repository" = "https://github.com/software-students-fall2022/python-package-exercise-project-3-team-11.git"
+"Bug Tracker" = "https://github.com/software-students-fall2022/python-package-exercise-project-3-team-11/issues"
+
+[project.scripts]
+wisdom = "wisdom.__main__:main"
