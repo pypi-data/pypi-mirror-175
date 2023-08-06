@@ -1,0 +1,10 @@
+fitz/__init__.py,sha256=Aogwi6Bp1Dkmb55dVdZNnR1aInpS4_KE47ptVBxSjsA,20878
+fitz/__main__.py,sha256=1VuqNfmUsaCmrRex0d7pEVK34B7CkvDRPZ0GQckX_E8,39733
+fitz/_fitz.cpython-311-darwin.so,sha256=fKJ_Gb3aKgiEgC5AsXrG4Z-OqM0b1EMmqs_srq55F1g,23650008
+fitz/fitz.py,sha256=3kmWYiunP5v7NF0fyme8sQABVvQIJ03oypm4NYACphk,345764
+fitz/utils.py,sha256=wve4-CKW_IYOedFR_UaqGoYTAkTZb1pFBf8JYqodW4I,178362
+PyMuPDF-1.21.0rc2.dist-info/COPYING,sha256=V8j_M8nAz8PvAOZQocyRDX7keai8UJ9skgmnwqETmdY,34520
+PyMuPDF-1.21.0rc2.dist-info/METADATA,sha256=s34sTvtGkdSDs-LYLZF4l8Fls1JRQ5-PEGRRNPSrbvk,8359
+PyMuPDF-1.21.0rc2.dist-info/WHEEL,sha256=3l2sFXXhmwn6VCsPMLBU2FgMCTSVOaoCxrz-Nap45oI,111
+PyMuPDF-1.21.0rc2.dist-info/top_level.txt,sha256=9uNJ8fT1ilNpuUmRTaqNxkoxurvePTMyiCdNodpKY4I,5
+PyMuPDF-1.21.0rc2.dist-info/RECORD,,
