@@ -1,0 +1,4 @@
+include gnu.env
+include build.sh
+include build.lst
+include source/*.f90
