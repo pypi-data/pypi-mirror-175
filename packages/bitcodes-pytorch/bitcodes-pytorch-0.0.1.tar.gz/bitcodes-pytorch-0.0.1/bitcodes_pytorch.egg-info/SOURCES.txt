@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bitcodes_pytorch/__init__.py
+bitcodes_pytorch/bitcodes.py
+bitcodes_pytorch.egg-info/PKG-INFO
+bitcodes_pytorch.egg-info/SOURCES.txt
+bitcodes_pytorch.egg-info/dependency_links.txt
+bitcodes_pytorch.egg-info/requires.txt
+bitcodes_pytorch.egg-info/top_level.txt
