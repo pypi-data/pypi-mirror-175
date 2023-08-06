@@ -1,0 +1,14 @@
+socialvec/.DS_Store,sha256=P6eaE36bw2o8crsOhnqSqgtIm9Z5MNUomrgd3aiB3rM,6148
+socialvec/SocialVec_political_2020.h5,sha256=HunKXVq_N4qMiGuirnDKkm4-Xi52ED7s4FhisWPt3zI,148008
+socialvec/SocialVec_political_2020_2022.h5,sha256=pQj21asvKPM8-qME7AH0A9Wy3fbTZlRVbIHoSJ_IS58,148008
+socialvec/__init__.py,sha256=9IXL8zRjBL3AJ96ND_KivokuT_RmTiAANy6yo20cxSo,125
+socialvec/cli.py,sha256=K4snM314o3c4Ie583P0y05ZS-l0LIv6anesn8WofGxs,405
+socialvec/config.yaml,sha256=s9-Fd4RCrWgXrH1t6r5pp8T__vpCamDJQAGYZHd7Q-E,599
+socialvec/socialvec.py,sha256=wjccQOq6UfTvdWV_XkK_JvFblTopWhw56d7D3P6AD8c,9427
+socialvec-0.1.4.dist-info/AUTHORS.rst,sha256=O6T226Yt-GFNsF6GEal--jeNl1XpV6ixVeRfx8EivQg,154
+socialvec-0.1.4.dist-info/LICENSE,sha256=pSpIOtPcWehxx0T4p-Y_1aukVbqwC7M6ElF5akGXl5o,1068
+socialvec-0.1.4.dist-info/METADATA,sha256=zfY7IL0-SPi3GMRW8mLm_77OHJlBCNfG5-rNhd6sf_U,1086
+socialvec-0.1.4.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+socialvec-0.1.4.dist-info/entry_points.txt,sha256=oQio5dstYZfh2kcZ-gm9FDaXb-Eq6gujJtgmF5DJJvg,49
+socialvec-0.1.4.dist-info/top_level.txt,sha256=s06aCPWn0lMnLKdU0vCbA7pQhD0DY69ScXnj7TYzJ7A,10
+socialvec-0.1.4.dist-info/RECORD,,
