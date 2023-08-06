@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: jupy5
+Version: 0.0.5
+Summary: A library for creative coding in Python using Jupyter
+Home-page: https://github.com/nickmcintyre/jupy5
+Author: Nick McIntyre
+Author-email: nick@mcintyre.io
+Project-URL: Bug Tracker, https://github.com/nickmcintyre/jupy5/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: ipython (>=8.5.0)
+Requires-Dist: ipycanvas (>=0.13.1)
+
+# jupy5
+> A library for creative coding in Python using Jupyter
+
+This library makes it easy to explore creative coding in Python using Jupyter notebooks. Its design is heavily inspired by [p5.js](https://github.com/processing/p5.js).
+
+```python
+from jupy5 import sketch
+
+with sketch(400, 400) as p5:
+  p5.background('dodgerblue')
+  p5.circle(200, 200, 50)
+  await p5.pause(2)
+```
+
+jupy5 provides a simplified interface to the HTML canvas by wrapping [ipycanvas](https://ipycanvas.readthedocs.io/en/latest/index.html) in a beginner-friendly API.
+
+## Roadmap
+- 2D Primitives
+- Turtles
