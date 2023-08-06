@@ -1,0 +1,10 @@
+click
+imageio
+numpy
+PyWavelets
+rawpy
+scipy
+opencv-python
+
+[:python_version < "3.8"]
+importlib-metadata
