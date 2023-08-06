@@ -1,0 +1,12 @@
+NJUlogin/QRlogin.py,sha256=bYLykm5UpoKJDhIevNjrTUyylvUvoHuFhKoetcO3wvM,4118
+NJUlogin/__init__.py,sha256=lVNbb8xvpFCo1l3xsHolwJpAHj6-J5Rnh4Y-etzmgy0,21
+NJUlogin/utils/__init__.py,sha256=ovguP4wzQEDNguczwiZnhMm4dRRVcvnzmHrfQtlRCNQ,15
+NJUlogin/utils/clear.py,sha256=Yn0lD8Wog0z6aacvfW5vIcQ4B1xnwgu_ab3s0OjGfKc,81
+NJUlogin/utils/config.py,sha256=usVWGfa-WEyKwnTCepbBn3NxhAsgrq24Xybr1iqiS4I,303
+NJUlogin/utils/get_post.py,sha256=oJLOVbw_vjN8tFCyZAOWdRIiATg0RxZV9n6_5RCS6bk,854
+NJUlogin/utils/urls.py,sha256=xAUa_oHK7W2T8d76DwHnkwZxEdfCBLmwyybAVRwC7OU,290
+NJUlogin-1.0.1.dist-info/LICENSE,sha256=38LnZtTemMwsBIJLGk4DSpG-JVOE6Pi95mRLYAE9CUY,1082
+NJUlogin-1.0.1.dist-info/METADATA,sha256=2J0ZEANIDVGZ_f50t_yVRj-DxJFCD6W68vIdbIZEeCs,2031
+NJUlogin-1.0.1.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+NJUlogin-1.0.1.dist-info/top_level.txt,sha256=j81X5f5xhmesgfO5wUqlwwYZJ2PkvOPeOXAg0knWpbY,9
+NJUlogin-1.0.1.dist-info/RECORD,,
