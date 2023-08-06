@@ -1,0 +1,63 @@
+from nanoyc.logging import CloudLogger
+
+logger=CloudLogger(
+    iam_token='t1.9...', # your token
+    log_group_id='e230...' # your cloud logger group id
+    )
+
+logger.trace(message='iam here')
+logger.debug(message='iam here')
+logger.info(message='iam here')
+logger.warn(message='iam here')
+logger.error(message='iam here')
+logger.fatal(message='iam here')
+
+
+#OR
+# if u are using insede cloud function or imside vm
+# apply service account with rights logging.writer
+
+CloudLogger(
+    log_group_id='e230...' # your cloud logger group id
+    ).warn(message='iam here')
+
+
+# OR if you have a service account key
+
+
+sa_key = {
+    "id": "...",
+    "service_account_id": "...",
+    "private_key": "..."
+}
+
+CloudLogger(
+    service_account_key=sa_key,
+    log_group_id='e230...' # your cloud logger group id
+    ).warn(message='iam here')
+
+logger.trace(message='iam here')
+logger.debug(message='iam here')
+logger.info(message='iam here')
+logger.warn(message='iam here')
+logger.error(message='iam here')
+logger.fatal(message='iam here')
+
+
+#OR
+# if you have a service account key file
+# Obtain it with yandex cloud cli
+#account shoud have rights 'logging.writer'
+# >yc iam key create --service-account-name [service_account_name] --output sa_key.json
+
+CloudLogger(
+    service_account_file='sa_key.json',
+    log_group_id='e230...' # your cloud logger group id
+    ).warn(message='iam here')
+
+logger.trace(message='iam here')
+logger.debug(message='iam here')
+logger.info(message='iam here')
+logger.warn(message='iam here')
+logger.error(message='iam here')
+logger.fatal(message='iam here')

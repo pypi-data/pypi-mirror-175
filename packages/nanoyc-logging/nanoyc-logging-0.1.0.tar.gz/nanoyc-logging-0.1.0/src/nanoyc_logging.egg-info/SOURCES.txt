@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+setup.py
+src/nanoyc/logging/__init__.py
+src/nanoyc_logging.egg-info/PKG-INFO
+src/nanoyc_logging.egg-info/SOURCES.txt
+src/nanoyc_logging.egg-info/dependency_links.txt
+src/nanoyc_logging.egg-info/requires.txt
+src/nanoyc_logging.egg-info/top_level.txt
