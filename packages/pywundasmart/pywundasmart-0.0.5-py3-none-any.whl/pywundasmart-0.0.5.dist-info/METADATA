@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pywundasmart
+Version: 0.0.5
+Summary: Python library to interface with Wundasmart heating system
+Project-URL: Homepage, https://github.com/ob0t/pywundasmart
+Project-URL: Bug Tracker, https://github.com/ob0t/pywundasmart/issues
+Author-email: Andy Furnell <andy@pod4.org>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# pywundasmart
+
+This is a python module that wraps API calls to a local wundasmart controller.
