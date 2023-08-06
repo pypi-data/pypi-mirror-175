@@ -1,0 +1,6 @@
+README.md
+setup.py
+larvaworld.egg-info/PKG-INFO
+larvaworld.egg-info/SOURCES.txt
+larvaworld.egg-info/dependency_links.txt
+larvaworld.egg-info/top_level.txt
