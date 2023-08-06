@@ -1,0 +1,8 @@
+twitch_helix/__init__.py,sha256=CSSXKb1ACf7Id5NQlltL1CqvpdEJKlvQRX_p7K6rKyI,32
+twitch_helix/client.py,sha256=ljPD3dEVP6UpbnUZ-BAGIKLFgcvjDRvFo7mXBjyqX_s,7815
+twitch_helix/exceptions.py,sha256=lXEKM27IR2GJ7dmJtWJfpEugHF2l0mSUcTZu7h3U4mI,193
+twitch_helix/models.py,sha256=luPmI7cu7FqXnvBivlR_kn67SPFkAzp3SKnJX4qeRLE,1985
+twitch_helix-0.0.3.dist-info/METADATA,sha256=vhztbUw2PKe-GV-nPBsx4moPTTCtP2QNnY3kUxpiOWo,556
+twitch_helix-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+twitch_helix-0.0.3.dist-info/top_level.txt,sha256=VEba-0psGez9gW_UHMEHBh_6kmESR_cAgB9F_fCl70o,13
+twitch_helix-0.0.3.dist-info/RECORD,,
