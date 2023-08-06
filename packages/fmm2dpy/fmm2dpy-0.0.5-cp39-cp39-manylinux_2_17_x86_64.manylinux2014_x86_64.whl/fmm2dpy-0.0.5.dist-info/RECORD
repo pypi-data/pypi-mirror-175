@@ -1,0 +1,12 @@
+fmm2dpy-0.0.5.dist-info/top_level.txt,sha256=2fkJGbN-Qx76hy_SEdjSfjWhK7zMo4KdMCj_o-HYbU0,8
+fmm2dpy-0.0.5.dist-info/WHEEL,sha256=FNUt4eBsrBVn_Yc5KG3aXtKE40X3uNZrbGLNCbVxyFw,148
+fmm2dpy-0.0.5.dist-info/RECORD,,
+fmm2dpy-0.0.5.dist-info/METADATA,sha256=MZoelX7N1hAtXJs3RUEZWYoajv0Uc59gpNYE2O9zYZI,973
+fmm2dpy.libs/libquadmath-96973f99.so.0.0.0,sha256=l82oXdtRY-Labh7bTh1rVXgzqZpA7aB5rjflA5Rltl0,247608
+fmm2dpy.libs/libgfortran-040039e1.so.5.0.0,sha256=R6s7aClbCjzomQpEjef6sRq928Fg-IlZcsqapxLPhtA,2686064
+fmm2dpy.libs/libgomp-a34b3233.so.1.0.0,sha256=1GXGWfRf6XU3wOEAn66x6m5ApWQt3_3un8G3PAcyQh4,168192
+fmm2dpy/lfmm2d_fortran.cpython-39-x86_64-linux-gnu.so,sha256=xjulUYVRthj_O5ccrU39_PPEmmuGN-OH-_zy9pGf1EY,4409944
+fmm2dpy/hfmm2d_fortran.cpython-39-x86_64-linux-gnu.so,sha256=_EztIZ1_5Vru9hhSLvOjfx95RV3ttkTbTFGYhIBjj2w,1574424
+fmm2dpy/bhfmm2d_fortran.cpython-39-x86_64-linux-gnu.so,sha256=tKYAF05Gu0bxiA_8u6yuQAUHxTQRIC816lgp_cLlAw4,536176
+fmm2dpy/fmm2d.py,sha256=OJaqgcPFfmZNJKIDjH_QMbuYA3iYoDGmJbKqttXY6Ng,83367
+fmm2dpy/__init__.py,sha256=j3y6WATeVGYWgM-rnnHePkranDKVVRd11u1nSw49da4,106
