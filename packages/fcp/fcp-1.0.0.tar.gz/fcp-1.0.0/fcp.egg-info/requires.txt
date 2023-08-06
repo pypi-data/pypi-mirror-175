@@ -1,0 +1,6 @@
+click
+lark
+coloredlogs
+serde
+jinja2
+termcolor
