@@ -1,0 +1,4 @@
+simplepcalculator.egg-info/PKG-INFO
+simplepcalculator.egg-info/SOURCES.txt
+simplepcalculator.egg-info/dependency_links.txt
+simplepcalculator.egg-info/top_level.txt
