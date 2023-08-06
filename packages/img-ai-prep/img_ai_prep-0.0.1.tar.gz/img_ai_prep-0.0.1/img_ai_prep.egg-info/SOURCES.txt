@@ -1,0 +1,12 @@
+README.md
+setup.py
+img_ai_prep/__init__.py
+img_ai_prep/center_detection.py
+img_ai_prep/crop.py
+img_ai_prep/img_ai_prep.py
+img_ai_prep/resize.py
+img_ai_prep.egg-info/PKG-INFO
+img_ai_prep.egg-info/SOURCES.txt
+img_ai_prep.egg-info/dependency_links.txt
+img_ai_prep.egg-info/requires.txt
+img_ai_prep.egg-info/top_level.txt
