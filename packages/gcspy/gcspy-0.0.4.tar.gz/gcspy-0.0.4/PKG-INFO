@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: gcspy
+Version: 0.0.4
+Summary: Python bindings for the Glasgow Constraint Solver
+Home-page: UNKNOWN
+Author: Matthew McIlree
+Author-email: matthew.j.mcilree@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Provides-Extra: test
+License-File: LICENSE
+
+UNKNOWN
+
