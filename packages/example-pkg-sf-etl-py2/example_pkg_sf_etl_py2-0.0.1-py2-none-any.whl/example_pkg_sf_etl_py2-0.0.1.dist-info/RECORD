@@ -1,0 +1,9 @@
+sf_etl_py2/Db2Db.py,sha256=1XdclFXHYaD1BbmBv7LPS5HwYSHU3zVIMpHL4ZmLcMY,26071
+sf_etl_py2/__init__.py,sha256=5FQ0s_2rPa2Vpj_dOhp6usXXAHPT9X-MBVVZLP2Uoqo,23
+test/__init__.py,sha256=5FQ0s_2rPa2Vpj_dOhp6usXXAHPT9X-MBVVZLP2Uoqo,23
+test/test.py,sha256=hX4UoVUthLoXYR71gVxn2BAVolIhWmrCNfyJ2Ukv7pw,78
+example_pkg_sf_etl_py2-0.0.1.dist-info/LICENSE,sha256=HDbMJ7oItmxTn3jVtZFi6jUFAHovset5jzAPUderjOc,1073
+example_pkg_sf_etl_py2-0.0.1.dist-info/METADATA,sha256=5wpPLWYBGGV2qKsXPwiZCUn2kyA7sbToqBdDFXyEumc,362
+example_pkg_sf_etl_py2-0.0.1.dist-info/WHEEL,sha256=1VPi6hfNQaRRNuEdK_3dv9o8COtLGnHWJghhj4CQ28k,92
+example_pkg_sf_etl_py2-0.0.1.dist-info/top_level.txt,sha256=J3fX0N2Ll95YtnSXwvFEVNsha8TMBFnNb3nG6Rg8tEQ,16
+example_pkg_sf_etl_py2-0.0.1.dist-info/RECORD,,
