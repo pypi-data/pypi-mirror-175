@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sort_css_declarations"
+version = "1.0.0"
+authors = [
+    {name="Dániel Májer", email="majerdaniel93@gmail.com"}
+]
+description = "Tool for sorting CSS file declarations."
+readme = "README.md"
+classifiers =[
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage"= "https://github.com/heloint/sort_css_declarations"
+"Bug Tracker" = "https://github.com/heloint/sort_css_declarations/issues"
