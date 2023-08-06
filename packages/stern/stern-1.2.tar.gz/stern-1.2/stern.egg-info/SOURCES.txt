@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+stern/__init__.py
+stern/stern.py
+stern.egg-info/PKG-INFO
+stern.egg-info/SOURCES.txt
+stern.egg-info/dependency_links.txt
+stern.egg-info/top_level.txt
