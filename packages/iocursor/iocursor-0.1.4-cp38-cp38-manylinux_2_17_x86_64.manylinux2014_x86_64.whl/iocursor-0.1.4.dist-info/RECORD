@@ -1,0 +1,11 @@
+iocursor-0.1.4.dist-info/top_level.txt,sha256=FdewTP3CTEdXkzMQuC7X15eORzZEwLbE6MzeAvrtgg0,9
+iocursor-0.1.4.dist-info/WHEEL,sha256=HgPhKGGvdy1pm4RYGMHDSAvkMQu1m3EgL1wKy_GBDAI,148
+iocursor-0.1.4.dist-info/COPYING,sha256=ZpOmgfpnpMMskz4AmELXfRIWrYpxnks-QtljncJKl5M,1077
+iocursor-0.1.4.dist-info/RECORD,,
+iocursor-0.1.4.dist-info/METADATA,sha256=iIxQvI-nIJ54Z5TLSrMzV4F-JzMo7fEKip16KAYmIdk,7060
+iocursor/cursor.h,sha256=cMV1C13hu3D5-LFk1bLjY2oOxP_6xhOpSo98xhUnVrc,694
+iocursor/cursor.cpython-38-x86_64-linux-gnu.so,sha256=y-FxTBSOtJHbOKl5qx-zGpQa0RbL3q41tMJfRIpQf7o,94448
+iocursor/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+iocursor/cursor.pyi,sha256=TUV-XIRkgeWnzgdfaOYjqsRaI32HgLoEZJqCE2YV3Js,1512
+iocursor/cursor.c,sha256=8xWgH0HLv90UKa-qooZbqLk1s1-4VUWkoK_sgiBV0PM,34384
+iocursor/__init__.py,sha256=xCjCb4e3VEIeQRqzB45W6XkfBCacADVr5CG8KsQz11M,343
