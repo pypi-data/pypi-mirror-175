@@ -1,0 +1,11 @@
+httplib2-stubs/METADATA.toml,sha256=gZH76jO1Fs5K4ZdJdpGatCrNgQa93nxMXPz3g2HLd3c,19
+httplib2-stubs/__init__.pyi,sha256=dIl4-4qIDskmqUNO0IRS7STuGszlRbfZxnFb1L64Jqo,5854
+httplib2-stubs/auth.pyi,sha256=KhoBvDly_JZCTouuHDz8WPvRlNOobsiD7VnCKZQpxiE,233
+httplib2-stubs/certs.pyi,sha256=LjzP8w55V7AFHi-hWVlM0MGJ5UD46NLLIl-ddmo374U,170
+httplib2-stubs/error.pyi,sha256=i3fpOMXUDIpg4fW0_eL5lwftz4V7bXNO252gsx7ZbXo,715
+httplib2-stubs/iri2uri.pyi,sha256=ibsiL1qhYVc6h_dz67O0d_OaShjxlmdkwDqXf-927hE,182
+httplib2-stubs/socks.pyi,sha256=3c3vQOFVVA9l5oo_KptXFw7ky0v5U8YSz7P06Sr4qcg,1212
+types_httplib2-0.21.0.1.dist-info/METADATA,sha256=6rtHKe2elqBkpdlxjD-GC558bAjjqSyzv96vi8E6mNg,1180
+types_httplib2-0.21.0.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+types_httplib2-0.21.0.1.dist-info/top_level.txt,sha256=6qn92GB7BTfi50bJk-9qYiOiafgggEG4_Nlqac0N3rs,15
+types_httplib2-0.21.0.1.dist-info/RECORD,,
