@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: cartesian-looper
+Version: 0.1
+Summary: Loop through List and Dictionary to return the cartesian product 
+Home-page: UNKNOWN
+Author: Albin Jo Alex
+Author-email: albinjo12345alex@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+Loop through List and Dictionary to return the cartesian product, loopList() method returns cartesian product of different list, loopDictionary() method returns cartesian product of dictionary items with their name  
+
