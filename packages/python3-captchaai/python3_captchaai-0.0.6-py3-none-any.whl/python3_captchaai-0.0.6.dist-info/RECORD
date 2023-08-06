@@ -1,0 +1,11 @@
+python3_captchaai/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+python3_captchaai/config.py,sha256=eE6PsNupaOQF7c-rXfP6pafmlZ1Q3fKkxEpF9R_W8Pk,241
+python3_captchaai/control.py,sha256=fm9LZXp15ZSMFyFLFOtSv0nBTfvXMb6zA-SPE8HfCcI,2492
+python3_captchaai/enums.py,sha256=sc0OVasTHI_Ie3qtbVATjeDCaS_ufeClFmzT7hPqVQ0,371
+python3_captchaai/hcaptcha.py,sha256=4UcrY-Qkgtm_PRGnNJRMHvkHEvIAkzbXk6rED0Kpqow,7431
+python3_captchaai/image_to_text.py,sha256=dtWnUib-brB_RCW_dlwiASjvu9t4qT4fNxPnIokT3d4,4508
+python3_captchaai/recaptcha.py,sha256=ridaV-x1dD3F4Yf_vmwjOz0LgbK2aF1oztB0MYlUDGY,8318
+python3_captchaai-0.0.6.dist-info/METADATA,sha256=VSFoJsALmuwi814a10yDQtUhLu-OX7AbSDssu4gFomo,3790
+python3_captchaai-0.0.6.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+python3_captchaai-0.0.6.dist-info/top_level.txt,sha256=2moluZ1pflq1TtVtT4xV48cqfuQajLEpo1CKWCQHNEs,18
+python3_captchaai-0.0.6.dist-info/RECORD,,
