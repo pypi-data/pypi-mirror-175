@@ -1,0 +1,4 @@
+[console_scripts]
+yaqd-seek-client=yaqd_seek._seek_compact_client_feed:main
+yaqd-seek-compact=yaqd_seek._seek_compact:SeekCompact.main
+
