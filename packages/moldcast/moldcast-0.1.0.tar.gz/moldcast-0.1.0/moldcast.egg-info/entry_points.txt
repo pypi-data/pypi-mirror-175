@@ -1,0 +1,2 @@
+[console_scripts]
+moldcast = moldcast.__main__:main
