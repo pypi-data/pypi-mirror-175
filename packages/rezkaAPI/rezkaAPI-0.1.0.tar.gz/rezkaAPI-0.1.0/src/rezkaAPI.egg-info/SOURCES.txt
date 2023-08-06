@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/rezkaAPI/__init__.py
+src/rezkaAPI/parser.py
+src/rezkaAPI.egg-info/PKG-INFO
+src/rezkaAPI.egg-info/SOURCES.txt
+src/rezkaAPI.egg-info/dependency_links.txt
+src/rezkaAPI.egg-info/requires.txt
+src/rezkaAPI.egg-info/top_level.txt
