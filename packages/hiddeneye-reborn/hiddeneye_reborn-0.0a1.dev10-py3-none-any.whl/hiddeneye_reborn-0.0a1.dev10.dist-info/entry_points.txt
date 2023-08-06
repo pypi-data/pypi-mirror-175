@@ -1,0 +1,3 @@
+[console_scripts]
+hiddeneye = hiddeneye_reborn.hiddeneye_reborn:main
+hiddeneye-reborn = hiddeneye_reborn.hiddeneye_reborn:main
