@@ -1,0 +1,2 @@
+[console_scripts]
+sort-css-declarations = sort_css_declarations.sort_css_declarations:main
