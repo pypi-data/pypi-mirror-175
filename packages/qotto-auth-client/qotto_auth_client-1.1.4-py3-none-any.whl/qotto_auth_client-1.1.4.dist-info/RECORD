@@ -1,0 +1,13 @@
+LICENSE,sha256=JSmMItQbAbR8WhlfplO4MiZ9dm7a-HpMjskbogHwugs,1062
+qottoauth/__init__.py,sha256=fv6NhueWxI_F0P-6NtmOu01uYJiEv8LAIrzkc8-2Ig0,686
+qottoauth/api/__init__.py,sha256=e9U8zDcpPaQDzAofaGJX0SPJMm9o76BKetYNNpoFPVc,279
+qottoauth/api/base.py,sha256=BddcSNtzKku3mdPiuCyWKvMRyOa9LyVXg0cqAL5LuOM,1250
+qottoauth/api/graphene.py,sha256=MCaJMtGAxmtTdLqm7UpaF0QPVhU8ZBJeb5Z1Rz9hRQI,4713
+qottoauth/api/test.py,sha256=9WQgisvXRClindMcnyuMFs9sqh2xO26TePf9Mu5UIi4,20309
+qottoauth/models.py,sha256=73vPwnnsnKOfq2FoswCDrxwmz3gJ6ba7iTT00EkTu-Q,5719
+qottoauth/py.typed,sha256=bWew9mHgMy8LqMu7RuqQXFXLBxh2CRx0dUbSx-3wE48,27
+qottoauth/service.py,sha256=Vns4vv0VolcA3ynIFvL2Yi2ZwAb-NGsTuL_IZn7ySnk,48849
+qotto_auth_client-1.1.4.dist-info/LICENSE,sha256=JSmMItQbAbR8WhlfplO4MiZ9dm7a-HpMjskbogHwugs,1062
+qotto_auth_client-1.1.4.dist-info/WHEEL,sha256=gSF7fibx4crkLz_A-IKR6kcuq0jJ64KNCkG8_bcaEao,88
+qotto_auth_client-1.1.4.dist-info/METADATA,sha256=TGLMj9Hpq_riu3sBgMIsqqnWmfBWfvlYeIDwqFQ9I4s,1878
+qotto_auth_client-1.1.4.dist-info/RECORD,,
