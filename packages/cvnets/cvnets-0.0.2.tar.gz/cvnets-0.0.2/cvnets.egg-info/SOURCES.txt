@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+cvnets/__init__.py
+cvnets.egg-info/PKG-INFO
+cvnets.egg-info/SOURCES.txt
+cvnets.egg-info/dependency_links.txt
+cvnets.egg-info/top_level.txt
