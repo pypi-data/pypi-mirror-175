@@ -1,0 +1,4 @@
+include cprinter/requirements.txt
+include cprinter/thirdparty.json
+include cprinter/README.MD
+include cprinter/LICENSE
