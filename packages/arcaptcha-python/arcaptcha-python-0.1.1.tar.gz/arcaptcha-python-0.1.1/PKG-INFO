@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: arcaptcha-python
+Version: 0.1.1
+Summary: Python package for Arcaptcha
+Author: ARCaptcha
+Author-email: info@arcaptcha.ir
+Keywords: captcha,api,arcaptcha
+License-File: LICENSE
+
+Validate and display captcha for Arcaptcha
