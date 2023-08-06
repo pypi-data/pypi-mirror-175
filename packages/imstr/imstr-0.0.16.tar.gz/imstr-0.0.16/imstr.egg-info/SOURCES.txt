@@ -1,0 +1,11 @@
+LICENSE
+README.md
+imstr.py
+pyproject.toml
+setup.cfg
+imstr.egg-info/PKG-INFO
+imstr.egg-info/SOURCES.txt
+imstr.egg-info/dependency_links.txt
+imstr.egg-info/entry_points.txt
+imstr.egg-info/requires.txt
+imstr.egg-info/top_level.txt
