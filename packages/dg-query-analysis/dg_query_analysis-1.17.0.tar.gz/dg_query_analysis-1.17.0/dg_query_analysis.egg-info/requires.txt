@@ -1,0 +1,4 @@
+requests==2.21.0
+jieba==0.42.1
+pyahocorasick==1.4.0
+query_toolkits==1.0.9
