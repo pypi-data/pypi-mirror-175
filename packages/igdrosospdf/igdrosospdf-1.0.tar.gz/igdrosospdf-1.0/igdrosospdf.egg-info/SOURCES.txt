@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+igdrosospdf.egg-info/PKG-INFO
+igdrosospdf.egg-info/SOURCES.txt
+igdrosospdf.egg-info/dependency_links.txt
+igdrosospdf.egg-info/top_level.txt
+irenapdf/__init__.py
+irenapdf/pdf2image.py
+irenapdf/pdf2txt.py
