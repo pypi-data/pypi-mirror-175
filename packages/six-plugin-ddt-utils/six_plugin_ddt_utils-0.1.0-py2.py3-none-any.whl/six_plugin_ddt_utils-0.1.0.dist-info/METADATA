@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: six-plugin-ddt-utils
+Version: 0.1.0
+Summary: DDT utils based on SIX.
+License: MIT
+Author: TsangHans
+Author-email: gzzenghan@189.cn
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: mini-six (==0.1.1)
+Requires-Dist: pywin32 (==304)
+Description-Content-Type: text/markdown
+
+# six-plugin-ddt-utils
+DDT utils based on SIX.
+
