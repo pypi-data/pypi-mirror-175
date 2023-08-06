@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: azure-mgmt-testbase
+Version: 1.0.0b2
+Summary: Microsoft Azure Testbase Management Client Library for Python
+Home-page: https://github.com/Azure/azure-sdk-for-python
+Author: Microsoft Corporation
+Author-email: azpysdkhelp@microsoft.com
+License: MIT License
+Keywords: azure,azure sdk
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Microsoft Azure SDK for Python
+
+This is the Microsoft Azure Testbase Management Client Library.
+This package has been tested with Python 3.7+.
+For a more complete view of Azure libraries, see the [azure sdk python release](https://aka.ms/azsdk/python/all).
+
+## _Disclaimer_
+
+_Azure SDK Python packages support for Python 2.7 has ended 01 January 2022. For more information and questions, please refer to https://github.com/Azure/azure-sdk-for-python/issues/20691_
+
+# Usage
+
+
+To learn how to use this package, see the [quickstart guide](https://aka.ms/azsdk/python/mgmt)
+ 
+For docs and references, see [Python SDK References](https://docs.microsoft.com/python/api/overview/azure/)
+Code samples for this package can be found at [Testbase Management](https://docs.microsoft.com/samples/browse/?languages=python&term=Getting%20started%20-%20Managing&terms=Getting%20started%20-%20Managing) on docs.microsoft.com.
+Additional code samples for different Azure services are available at [Samples Repo](https://github.com/Azure-Samples/azure-samples-python-management/tree/main/samples/testbase)
+
+
+# Provide Feedback
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues](https://github.com/Azure/azure-sdk-for-python/issues)
+section of the project. 
+
+
+![Impressions](https://azure-sdk-impressions.azurewebsites.net/api/impressions/azure-sdk-for-python%2Fazure-mgmt-testbase%2FREADME.png)
+
+
+# Release History
+
+## 1.0.0b2 (2022-11-04)
+
+### Features Added
+
+  - Added operation PackagesOperations.run_test
+  - Added operation TestResultsOperations.get_console_log_download_url
+  - Added operation group BillingHubServiceOperations
+  - Model ScriptExecutionResult has a new parameter stderr_log_file_name
+  - Model ScriptExecutionResult has a new parameter stdout_log_file_name
+  - Model TargetOSInfo has a new parameter baseline_o_ss
+  - Model Test has a new parameter validation_result_id
+  - Model TestResultResource has a new parameter interop_media_type
+  - Model TestResultResource has a new parameter interop_media_version
+  - Model TestSummaryResource has a new parameter package_tags
+
+## 1.0.0b1 (2021-06-17)
+
+* Initial Release
