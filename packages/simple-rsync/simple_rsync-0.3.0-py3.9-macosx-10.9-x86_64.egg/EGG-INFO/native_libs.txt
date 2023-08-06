@@ -1,0 +1,1 @@
+simple_rsync/simple_rsync.cpython-39-darwin.so
