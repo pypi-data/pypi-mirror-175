@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: tafuta
+Version: 0.0.1
+Summary: This program  determines matching positions of patterns in a sequence
+Author-email: Clabe Wekesa <simiyu86wekesa@gmail.com>
+Project-URL: Homepage, https://github.com/Clabe1986/tafuta_pattern
+Project-URL: Bug Tracker, https://github.com/Clabe1986/tafuta_pattern/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# tafuta
+This is a simple program that computes hamming distance between two DNA sequences, generates reverse complement of a sequence, determines naive exact matching and naive with mismatch of a pattern in a sequence together with the pattern's reverse complements.
+
+![PAKA](https://myoctocat.com/assets/images/base-octocat.svg) 
+
+## installation
+tafuta_pattern can be installed as follows:
+
+```
+pip install tafuta
+```
+
+## Usage
+### For computation of hamming distances between the two sequences
+```
+from tafuta import paka
+paka.hamming_dist(S1,S2)
+```
+
+### For determining reverse complement of a sequence
+```
+from tafuta import paka
+paka.reverse_complement (S)
+```
+### For determining pattern matching positions in a sequence with naive exact matching
+```
+from tafuta import paka
+paka.naive_exact_match (sequence,pattern)
+```
+### For determining pattern matching positions in a sequence with naive with mismatch together with reverse complement of a pattern
+```
+from tafuta import paka
+paka.naive_with_mismatch (sequence,pattern)
+```
