@@ -1,0 +1,10 @@
+symgroupy/__init__.py,sha256=19Xk_lBPbzqRr4rDysVFiru-HdshVgrgUXFMBTLXT9U,9852
+symgroupy/symgrouplib.cpython-38-darwin.so,sha256=AsAmEZ0ViHgLLqIWfPLeQpXUHtFDBKozdUPNmLgTNsk,149616
+symgroupy/.dylibs/libgfortran.5.dylib,sha256=OVkQXAblQYoHgQlJTW0lKgznotngcIIe45BW7tVTQ1Q,3451168
+symgroupy/.dylibs/libquadmath.0.dylib,sha256=vf8chElteL9fjcxKC8TCRQgh5doD1Bomi9w878eiEAk,386352
+symgroupy/.dylibs/libgcc_s.1.1.dylib,sha256=Z1g7d6wG4uMjzF_PWCTBNMDu1KeLn0gBcKEW1NuT0XQ,185072
+symgroupy-0.5.11.dist-info/RECORD,,
+symgroupy-0.5.11.dist-info/LICENSE,sha256=Y1Z_uu_boe5FXTchq6uoqS5ew23rrrKL8-_xik3TTfY,1097
+symgroupy-0.5.11.dist-info/WHEEL,sha256=pXLpj1wTvqlD6RVUEKOuGQGeFX0NOPyDrsC-9xVDmYU,109
+symgroupy-0.5.11.dist-info/top_level.txt,sha256=V0dnXTXBUT9AMLvPbvZOG1FTxpPr4czUdN4inKF-Gw0,10
+symgroupy-0.5.11.dist-info/METADATA,sha256=m2qgHsPTuOg9KI4noMg2JfFWphewmuZuYQOhdRMVM20,347
