@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: CocCocTokenizer
+Version: 0.1.0
+Summary: CocCocTokenizer deployed by trituenhantao.io.
+Home-page: https://trituenhantao.io
+License: https://github.com/coccoc/coccoc-tokenizer/blob/master/LICENSE
+Description-Content-Type: text/markdown
+Requires-Dist: cython
+
+This project provides tokenizer library for Vietnamese language and 2 command line tools for tokenization and some simple Vietnamese-specific operations with text (i.e. remove diacritics). It is used in Cốc Cốc Search and Ads systems and the main goal in its development was to reach high performance while keeping the quality reasonable for search ranking needs.
+
+Deployed by trituenhantao.io
+
+## Installing
+
+```
+$ pip install CocCocTokenizer
+```
+
+## Using Python bindings
+
+```python
+from CocCocTokenizer import PyTokenizer
+
+# load_nontone_data is True by default
+T = PyTokenizer(load_nontone_data=True)
+
+# tokenize_option:
+# 	0: TOKENIZE_NORMAL (default)
+#	1: TOKENIZE_HOST
+#	2: TOKENIZE_URL
+print(T.word_tokenize("xin chào, tôi là người Việt Nam", tokenize_option=0))
+
+# output: ['xin', 'chào', ',', 'tôi', 'là', 'người', 'Việt_Nam']
+```
+
+## Using the tools
+
+Both tools will show their usage with `--help` option. Both tools can accept either command line arguments or stdin as an input (if both provided, command line arguments are preferred). If stdin is used, each line is considered as one separate argument. The output format is TAB-separated tokens of the original phrase (note that Vietnamese tokens can have whitespaces inside). There's a few examples of usage below.
+
+Tokenize command line argument:
+
+```
+$ tokenizer "Từng bước để trở thành một lập trình viên giỏi"
+từng	bước	để	trở thành	một	lập trình	viên	giỏi
+```
+
+Note that it may take one or two seconds for tokenizer to load due to one comparably big dictionary used to tokenize "sticky phrases" (when people write words without spacing). You can disable it by using `-n` option and the tokenizer will be up in no time. The default behaviour about "sticky phrases" is to only try to split them within urls or domains. With `-n` you can disable it completely and with `-u` you can force using it for the whole text. Compare:
+
+```
+$ tokenizer "toisongohanoi, tôi đăng ký trên thegioididong.vn"
+toisongohanoi	tôi	đăng ký	trên	the gioi	di dong	vn
+
+$ tokenizer -n "toisongohanoi, tôi đăng ký trên thegioididong.vn"
+toisongohanoi	tôi	đăng ký	trên	thegioididong	vn
+
+$ tokenizer -u "toisongohanoi, tôi đăng ký trên thegioididong.vn"
+toi	song	o	ha noi	tôi	đăng ký	trên	the gioi	di dong	vn
+```
+
+To avoid reloading dictionaries for every phrase, you can pass phrases from stdin. Here's an example (note that the first line of output is empty - that means empty result for "/" input line):
+
+```
+$ echo -ne "/\nanh yêu em\nbún chả ở nhà hàng Quán Ăn Ngon ko ngon\n" | tokenizer
+
+anh	yêu	em
+bún	chả	ở	nhà hàng	quán ăn	ngon	ko	ngon
+```
+
+Whitespaces and punctuations are ignored during normal tokenization, but are kept during tokenization for transformation, which is used internally by Coc Coc search engine. To keep punctuations during normal tokenization, except those in segmented URLs, use `-k`. To run tokenization for transformation, use `-t` - notice that this will format result by replacing spaces in multi-syllable tokens with `_` and `_` with `~`.
+
+```
+$ tokenizer "toisongohanoi, tôi đăng ký trên thegioididong.vn" -k
+toisongohanoi   ,       tôi     đăng ký trên    the gioi        di dong vn
+
+$ tokenizer "toisongohanoi, tôi đăng ký trên thegioididong.vn" -t
+toisongohanoi   ,               tôi             đăng_ký         trên            the_gioi        di_dong vn
+```
+
+The usage of `vn_lang_tool` is pretty similar, you can see full list of options for both tools by using:
+
+```
+$ tokenizer --help
+$ vn_lang_tool --help
+```
