@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: funbeav_package
+Version: 0.3
+Summary: TYPE YOUR DESCRIPTION HERE
+Home-page: https://github.com/sidorov97/funbeav
+Author: Sidorov
+Author-email: sidorov_i@rocketdata.iocom
+License: MIT
+Download-URL: https://github.com/sidorov97/funbeav/archive/refs/tags/v03.tar.gz
+Description: UNKNOWN
+Keywords: SOME,SHIT,KEYWORDS
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
