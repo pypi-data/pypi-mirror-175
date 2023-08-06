@@ -1,0 +1,7 @@
+setup.py
+faridasuselessproject/__init__.py
+faridasuselessproject.egg-info/PKG-INFO
+faridasuselessproject.egg-info/SOURCES.txt
+faridasuselessproject.egg-info/dependency_links.txt
+faridasuselessproject.egg-info/requires.txt
+faridasuselessproject.egg-info/top_level.txt
