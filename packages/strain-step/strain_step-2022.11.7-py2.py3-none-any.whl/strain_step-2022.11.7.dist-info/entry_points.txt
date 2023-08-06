@@ -1,0 +1,5 @@
+[org.molssi.seamm]
+Strain = strain_step:StrainStep
+
+[org.molssi.seamm.tk]
+Strain = strain_step:StrainStep
