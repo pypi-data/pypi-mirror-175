@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: py_node_exporter
+Version: 1.0.0
+Summary: Prometheus Node-Exporter Written in Python.
+Author-email: Abdullah Al-Faqeir <abdullah@devloops.net>
+Project-URL: Homepage, https://github.com/AbdullahFaqeir/py-node-exporter
+Project-URL: Bug Tracker, https://github.com/AbdullahFaqeir/py-node-exporter/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## Usage
+```sh
+pip install py-node-exporter
+python -m py-node-exporter [--port 9100]
+```
+
+## info
+```
+https://github.com/prometheus/node_exporter/tree/master/collector
+https://wp.huangshiyang.com/prometheus-python-client-sample-server
+```
