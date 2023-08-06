@@ -1,0 +1,27 @@
+pyyaml
+lxml
+requests
+requests-toolbelt
+user-agent
+arrapi
+tenacity
+
+[:python_version < "3.10"]
+importlib_metadata
+
+[devel]
+requests-mock
+tox
+pytest
+pytest-subtests
+pre-commit
+coverage
+flake8
+autoflake
+autopep8
+flake8-black
+rstcheck
+pip-tools
+pylint
+lxml-stubs
+types-requests
