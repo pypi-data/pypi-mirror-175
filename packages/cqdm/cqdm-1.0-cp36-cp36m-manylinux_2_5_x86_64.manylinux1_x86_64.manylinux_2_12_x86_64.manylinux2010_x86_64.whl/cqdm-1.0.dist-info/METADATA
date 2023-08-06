@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cqdm
+Version: 1.0
+Summary: A drop-in replacement for the popular tqdm library, accelerated with C bindings
+Home-page: https://github.com/n-wach/cqdm
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENCE
+Requires-Dist: tqdm
+
+UNKNOWN
+
