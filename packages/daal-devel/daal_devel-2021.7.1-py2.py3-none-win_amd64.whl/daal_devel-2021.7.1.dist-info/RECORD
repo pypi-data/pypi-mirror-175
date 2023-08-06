@@ -1,0 +1,13 @@
+daal_devel-2021.7.1.data/data/Library/bin/onedal_sequential.1.dll,sha256=DhtUsGNenkdfSkaQ2CDA_EAq8QhA1dRtTxG5jUGHpZ8,28757520
+daal_devel-2021.7.1.data/data/Library/lib/onedal_core_dll.1.lib,sha256=Mx7tJreUe8oPc_XBWVxFANtGrxE7OgfwOSndPOWYDxc,16903116
+daal_devel-2021.7.1.data/data/Library/lib/onedal_core_dll.lib,sha256=Mx7tJreUe8oPc_XBWVxFANtGrxE7OgfwOSndPOWYDxc,16903116
+daal_devel-2021.7.1.data/data/Library/lib/onedal_dll.1.lib,sha256=Hqwv78JfgTegWU4RKEIqBsI61v5cE7BUXlw06ohJfbQ,4211720
+daal_devel-2021.7.1.data/data/Library/lib/onedal_dll.lib,sha256=Hqwv78JfgTegWU4RKEIqBsI61v5cE7BUXlw06ohJfbQ,4211720
+daal_devel-2021.7.1.data/data/Library/lib/onedal_dpc_dll.1.lib,sha256=3WzuTZV-tkQ3CnqYoWmPEo6fTFszL9Rlu0Na_lCwPHQ,4184722
+daal_devel-2021.7.1.data/data/Library/lib/onedal_dpc_dll.lib,sha256=3WzuTZV-tkQ3CnqYoWmPEo6fTFszL9Rlu0Na_lCwPHQ,4184722
+daal_devel-2021.7.1.data/data/Library/lib/onedal_sycl.lib,sha256=Z8u_eK6gipt6Tv5hSlntP-8nYFHvPvMaUuglH8q7hV8,157648458
+daal_devel-2021.7.1.dist-info/LICENSE.txt,sha256=0FHWqv3r5V_hjP6ydXbWRhi10tZNphthT1rPPkZAgA4,4227
+daal_devel-2021.7.1.dist-info/METADATA,sha256=810kd2o9JIzoIrXf7YuV_LrfiVBOLqb0Lzyp2193BvI,1189
+daal_devel-2021.7.1.dist-info/WHEEL,sha256=D6M9IMrphGSXsL89PDlRVAckIDTXwanyW77E3G5c0P0,122
+daal_devel-2021.7.1.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+daal_devel-2021.7.1.dist-info/RECORD,,
