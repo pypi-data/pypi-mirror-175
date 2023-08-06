@@ -1,0 +1,10 @@
+setup.py
+distributions_aug/Binomialdistribution.py
+distributions_aug/Gaussiandistribution.py
+distributions_aug/Generaldistribution.py
+distributions_aug/__init__.py
+distributions_aug.egg-info/PKG-INFO
+distributions_aug.egg-info/SOURCES.txt
+distributions_aug.egg-info/dependency_links.txt
+distributions_aug.egg-info/not-zip-safe
+distributions_aug.egg-info/top_level.txt
