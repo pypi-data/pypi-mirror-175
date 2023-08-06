@@ -1,0 +1,11 @@
+rpy2_arrow/__init__.py,sha256=7EgDv-timUu06OY6bkABnaoin_WSpRfqEKwS3w4SJZ4,22
+rpy2_arrow/arrow.py,sha256=38VKgRNprnzgC8JV-mzoEpDBwAZFTeQxV3YHMtZOM9A,11232
+rpy2_arrow/pyarrow_rarrow.py,sha256=UMdqS1i4S5TNYHlD44jaxsKk6tymxH_LDAXSQoyrC5A,175
+rpy2_arrow/r6b.py,sha256=9NSDTWPwQQqlKZ5omN0Ydk4u5bD0SzSSAYRUbdcKB40,1373
+rpy2_arrow/tests.py,sha256=EzM_v1X2L7p4TbXtUfRNkWKoDuKzjw0Bx35COUX7geQ,4065
+rpy2_arrow/tests_r6b.py,sha256=HhiQmRqioQEpkfbgio4Wxotghm-fT5MS8ExwtCSZkaQ,1115
+rpy2_arrow-0.0.7.dist-info/LICENSE,sha256=FAI9U82j_1d59yCFe4RErVzGJgUw0xDVPHGXI2PZpKs,1061
+rpy2_arrow-0.0.7.dist-info/METADATA,sha256=Sph0N1RJJkewfOhKpfPi_JxTez59oykz0k2S-_W_T98,1784
+rpy2_arrow-0.0.7.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+rpy2_arrow-0.0.7.dist-info/top_level.txt,sha256=3iVDPinUKq5c3fh4Xn3zX3vCPPJ-zitvcLjg4nUgol8,11
+rpy2_arrow-0.0.7.dist-info/RECORD,,
