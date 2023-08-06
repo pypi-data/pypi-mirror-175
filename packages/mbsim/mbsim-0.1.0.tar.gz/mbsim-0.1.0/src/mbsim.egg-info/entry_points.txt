@@ -1,0 +1,6 @@
+[console_scripts]
+mbsim = mbsim.mbsim:main
+
+[mbsim_command]
+sim = mbsim.sim:getargs
+ui = mbsim.ui:getargs
