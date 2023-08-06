@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: isaac-martin-sdk
+Version: 0.1.2
+Summary: 
+Author: Isaac Martin
+Author-email: isaac.gregory.martin@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: dataclasses-json (>=0.5.7,<0.6.0)
+Requires-Dist: requests (>=2.28.1,<3.0.0)
