@@ -1,0 +1,14 @@
+AUTHORS.rst
+HISTORY.rst
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+lurch/__init__.py
+lurch/tests.py
+lurch.egg-info/PKG-INFO
+lurch.egg-info/SOURCES.txt
+lurch.egg-info/dependency_links.txt
+lurch.egg-info/requires.txt
+lurch.egg-info/top_level.txt
