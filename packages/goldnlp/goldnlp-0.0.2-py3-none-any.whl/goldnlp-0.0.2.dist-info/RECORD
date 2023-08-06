@@ -1,0 +1,17 @@
+goldnlp/__init__.py,sha256=OYANJY5854bXtbYaohrGL82GgLZj6b7tbAsBbl4fn7E,235
+goldnlp/classifying.py,sha256=owYYHjAybpH3adXFVf36yXmHvts_HvPtnRWOoEJ2Y9k,4200
+goldnlp/constants.py,sha256=j1IF0AbnNDiwk0jED7DSE-1ZWWxRyZLlhLyL9oUtAgE,17668
+goldnlp/crosslinking.py,sha256=HA18g_Un41pRKghkZ19m87l8ETlQ_3M1ebNAyTMbZLM,16046
+goldnlp/events.py,sha256=B7Z-aZajpIT_3bxjs0MpV7WL8x3yWOLnOFgBoAFXlrk,3795
+goldnlp/extracting.py,sha256=tcBG6C9KZHu_veQntooBNE8gex3lQ8BxfXFo_gbsaZQ,2521
+goldnlp/ngramchunker.py,sha256=Ou8u2891yEMcfEeF6SnfLVuwhwip2joljPz5moditxM,976
+goldnlp/nlpdocument.py,sha256=Efev4Eae8Qv_FpuNjEeTCHSK4keQZdES_r-QqZQeNpI,23315
+goldnlp/quality_check.py,sha256=WaW14CD-YVPO7U2HYTOiREtAEJvv28IJjB1ElHHgIqQ,5665
+goldnlp/spacy_pipeline.py,sha256=vdn9aOAcuNgL_TpoW6G5bXR6gH33kqTdEkMragu790c,23222
+goldnlp/spacy_utils.py,sha256=7-Y-JjC_Edc1qX5S7mf_C74G2fr6aESWTAMaWrcjIZk,2568
+goldnlp/summarizing.py,sha256=XyrMRqiUwSDUeai8AOxO6Ci7iT1l5JG8ojLcyM44hSo,8023
+goldnlp/timer.py,sha256=kLtnTaz69g89noEQ4jTnVIq5zS4dfGzQlrxk8yckogE,2819
+goldnlp/utils.py,sha256=vx6IIp0Q-YsgqWEBTs7E7cPuqU720nXD91F5xXQ0PDA,1563
+goldnlp-0.0.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+goldnlp-0.0.2.dist-info/METADATA,sha256=nHA-HGHUaQVrn_Ozr5TJccYM91ZTRResrYhBjxUnjl4,1985
+goldnlp-0.0.2.dist-info/RECORD,,
