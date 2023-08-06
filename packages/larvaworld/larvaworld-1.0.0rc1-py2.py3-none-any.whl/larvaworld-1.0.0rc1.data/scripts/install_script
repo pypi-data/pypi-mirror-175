@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+echo "hey there, this is my first pip package"
+
+
+git clone https://github.com/nawrotlab/larvaworld.git
+
+
+python3.9 -m venv larvaworld_pkg_venv
+
+source larvaworld_pkg_venv/bin/activate
+
+cd larvaworld
+
+pip install -r requirements.txt
+
+python -m ipykernel install --user --name=larvaworld_pkg_venv
+
