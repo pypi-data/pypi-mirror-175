@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: mlgym
+Version: 0.0.63
+Summary: MLgym, a python framework for distributeda and reproducible machine learning model training in research.
+Home-page: https://github.com/mlgym/mlgym
+Author: Max Luebbering
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Requires-Dist: torch
+Requires-Dist: h5py
+Requires-Dist: tqdm
+Requires-Dist: pyyaml
+Requires-Dist: datastack
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: python-socketio
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: requests
+Requires-Dist: python-multipart
+Requires-Dist: flask
+Requires-Dist: Flask-SocketIO
+Requires-Dist: eventlet
+
+long_description
+
+
