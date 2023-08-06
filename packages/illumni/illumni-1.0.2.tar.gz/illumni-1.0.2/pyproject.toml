@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "illumni"
+version = "1.0.2"
+description = "A web router built on top of flask."
+authors = [{name = "Zenpai", email = "zenpai@zenpaiang.tk"}]
+keywords = ["web", "flask"]
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4==4.11.1",
+    "bs4==0.0.1",
+    "Flask==2.2.2",
+    "itsdangerous==2.1.2",
+    "Jinja2==3.1.2",
+    "MarkupSafe==2.1.1",
+    "soupsieve==2.3.2.post1",
+    "Werkzeug==2.2.2"
+]
+
+[project.urls]
+"Github" = "https://github.com/ZenpaiAng/illumni"
