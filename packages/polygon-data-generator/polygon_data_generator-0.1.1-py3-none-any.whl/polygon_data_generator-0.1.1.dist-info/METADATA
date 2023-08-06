@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: polygon-data-generator
+Version: 0.1.1
+Summary: Demo library for polygon data
+Home-page: https://medium-multiply.readthedocs.io/
+Author: Trishita Singh
+Author-email: ts@nyu.edu
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: datetime
+Requires-Dist: os
+Requires-Dist: time
+Requires-Dist: polygon
+Requires-Dist: sqlalchemy
+Requires-Dist: math
+
+# Installation
+
+pip install polygon_data_generator
+
+# Get started
+currency_pairs = [["AUD", "USD", [], portfolio("AUD", "USD")]] \
+location = os.getcwd() \
+print(location) \
+data_writer(currency_pairs)
+
