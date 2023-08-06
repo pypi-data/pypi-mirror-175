@@ -1,0 +1,8 @@
+README.md
+setup.py
+SapGuiLibraryExtended/SapGuiLibraryExtended.py
+SapGuiLibraryExtended/__init__.py
+SapGuiLibraryExtended.egg-info/PKG-INFO
+SapGuiLibraryExtended.egg-info/SOURCES.txt
+SapGuiLibraryExtended.egg-info/dependency_links.txt
+SapGuiLibraryExtended.egg-info/top_level.txt
