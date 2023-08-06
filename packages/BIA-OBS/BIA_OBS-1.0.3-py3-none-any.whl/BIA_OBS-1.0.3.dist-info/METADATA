@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: BIA-OBS
+Version: 1.0.3
+Summary: Business Impact Assesment
+Home-page: https://mickhilhorst.com
+Author: Mick Hilhorst(LooseDevGoose)
+Author-email: mick.hilhorst@gmail.com
+License: MIT
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: click (==8.1.3)
+Requires-Dist: colorama (==0.4.5)
+Requires-Dist: Flask (==2.2.2)
+Requires-Dist: importlib-metadata (==5.0.0)
+Requires-Dist: itsdangerous (==2.1.2)
+Requires-Dist: Jinja2 (==3.1.2)
+Requires-Dist: MarkupSafe (==2.1.1)
+Requires-Dist: PyYAML (==6.0)
+Requires-Dist: Werkzeug (==2.2.2)
+Requires-Dist: zipp (==3.9.0)
+
+
+    # BIA Toolkit
+
+        ## Functionality
+        This application helps with generating a YAML file for the BIA assesment.
+        You fill in the fields and after pressing the 'Generate YAML' button at the end of the document the application outputs a YAML file based on date/time format to the "/Output" folder in the application folder.
+
+        ## Supported Platforms
+        The application works on both MacOS & Windows OS & Linux (GUI)
+
+        ## Contact
+        Owner: Ferry Stelte
+        Programmer: Mick Hilhorst
+    
+     
