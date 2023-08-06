@@ -1,0 +1,10 @@
+setup.py
+software_manager/Configuration.py
+software_manager/Menu.py
+software_manager/Utils.py
+software_manager/__init__.py
+software_manager.egg-info/PKG-INFO
+software_manager.egg-info/SOURCES.txt
+software_manager.egg-info/dependency_links.txt
+software_manager.egg-info/requires.txt
+software_manager.egg-info/top_level.txt
