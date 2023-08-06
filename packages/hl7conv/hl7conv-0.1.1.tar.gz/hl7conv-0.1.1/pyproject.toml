@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "hl7conv"
+version = "0.1.1"
+description = "Converts hl7 and json formats in both ways"
+authors = ["Ilya Kalosha <kalosha.ilya@yandex.ru>"]
+repository = "https://github.com/IlyaKalosha/hl7conv"
+readme = "README.md"
+keywords = ["hl7", "convert"]
+
+[tool.poetry.dependencies]
+python = "^3.10.4"
+
+[tool.poetry.dev-dependencies]
+ipython = "^8.4.0"
+mypy = "^0.961"
+flake8 = "^4.0.1"
+isort = "^5.10.1"
+safety = "^2.3.1"
+black = "22.10.0"
+
+[tool.poetry.urls]
+"Homepage" = "https://github.com/IlyaKalosha/hl7conv"
+"Change Log" = "https://github.com/IlyaKalosha/hl7conv/releases"
+"Issues" = "https://github.com/IlyaKalosha/hl7conv/issues"
+
+
+[tool.isort]
+atomic = true
+force_grid_wrap = 0
+include_trailing_comma = true
+lines_after_imports = 2
+multi_line_output = 3
+use_parentheses = true
+
+[tool.mypy]
+python_version = "3.10"
+namespace_packages = true
+explicit_package_bases = true
+ignore_missing_imports = true
+follow_imports = "silent"
+strict_optional = false
+warn_unused_configs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+show_error_context = true
+show_error_codes = true
+allow_redefinition = true
+disable_error_code = ["var-annotated", "assignment", "import"]
+cache_dir = "/dev/null"
+pretty = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

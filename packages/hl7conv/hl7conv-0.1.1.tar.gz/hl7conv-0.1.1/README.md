@@ -1,0 +1,1 @@
+The project goal is to implement hl7-to-json, json-to-hl7 converter with validation for hl7 popular versions.

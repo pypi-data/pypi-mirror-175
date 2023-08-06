@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: hl7conv
+Version: 0.1.1
+Summary: Converts hl7 and json formats in both ways
+Home-page: https://github.com/IlyaKalosha/hl7conv
+Keywords: hl7,convert
+Author: Ilya Kalosha
+Author-email: kalosha.ilya@yandex.ru
+Requires-Python: >=3.10.4,<4.0.0
+Classifier: Programming Language :: Python :: 3
+Project-URL: Change Log, https://github.com/IlyaKalosha/hl7conv/releases
+Project-URL: Issues, https://github.com/IlyaKalosha/hl7conv/issues
+Project-URL: Repository, https://github.com/IlyaKalosha/hl7conv
+Description-Content-Type: text/markdown
+
+The project goal is to implement hl7-to-json, json-to-hl7 converter with validation for hl7 popular versions.
