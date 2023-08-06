@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+clg/splitup.py
+clg_splitup.egg-info/PKG-INFO
+clg_splitup.egg-info/SOURCES.txt
+clg_splitup.egg-info/dependency_links.txt
+clg_splitup.egg-info/requires.txt
+clg_splitup.egg-info/top_level.txt
