@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: dp serial
+Version: 0.1.4
+Summary: A serializer of popular differential privacy frameworks(OpenDP, Smartnoise-SDK, Diffprivlib) for remote execution.
+Home-page: https://github.com/ObliviousAI/dp-serializer-client
+Author: Oblivious
+Author-email: hello@oblivious.ai
+License: MIT
+Keywords: opendp smartnoise diffprivlib logger ast
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# Client package for DP Serializer
+Client package for serializing Differential Privacy libs namely: OpenDP, Diffprivlib, Smartnoise-Synth, and Smartnoise-SQL
+
+## Creating client object:
+> client = Client("<https://server_url:port>")
