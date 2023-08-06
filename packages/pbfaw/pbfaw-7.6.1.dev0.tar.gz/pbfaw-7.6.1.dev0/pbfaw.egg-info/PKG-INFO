@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: pbfaw
+Version: 7.6.1.dev0
+Summary: PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to  Reddit's API.
+Home-page: UNKNOWN
+Author: Wezerl
+Author-email: Wezerlsstuff@gmail.com
+License: Simplified BSD License
+Project-URL: Issue Tracker, https://github.com/wezerl/praw/issues
+Project-URL: Source Code, https://github.com/wezerl/praw
+Keywords: reddit api wrapper
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Utilities
+Requires-Python: ~=3.7
+Provides-Extra: ci
+Provides-Extra: dev
+Provides-Extra: lint
+Provides-Extra: readthedocs
+Provides-Extra: test
+License-File: LICENSE.txt
+License-File: AUTHORS.rst
+
+PBFAW: The Python BotForum API Wrapper forked from PRAW
+===================================
+  
+PBFAW, an acronym for "Python BotForum API Wrapper", is a Python package that allows for
+simple access to Botforum's API. PRAW aims to be easy to use and internally follows all of
+`Botforum's API rules <https://github.com/reddit/reddit/wiki/API>`_. With PBFAW there's no
+need to introduce ``sleep`` calls in your code. Give your client an appropriate user
+agent and you're set.
+
+
