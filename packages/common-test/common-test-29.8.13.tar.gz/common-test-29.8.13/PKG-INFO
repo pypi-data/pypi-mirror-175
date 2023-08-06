@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: common-test
+Version: 29.8.13
+Summary: A pytest wrapper with fixtures for Playwright to automate web browsers
+Home-page: http://gitlab.ceair.com/common-test/common-test.git
+Author: Microsoft
+Author-email: 
+License: Apache-2.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: Pytest
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+安装
+python3 setup.py install
+生成压缩包
+python3 setup.py sdist
+#上传nexus,其中nexus就是在.pypirc文件中配置
+twine upload -r nexus dist/*
+#上传pypi
+twine upload dist/*
+
+
+
