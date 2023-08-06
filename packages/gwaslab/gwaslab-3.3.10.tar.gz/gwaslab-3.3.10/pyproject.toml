@@ -1,0 +1,50 @@
+[build-system]
+requires = [
+    "setuptools>42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name="gwaslab"
+version="3.3.10"
+authors=[
+  {name="Yunye",email="yunye@gwaslab.com"},
+]
+description="A collection of handy tools for GWAS"
+readme="README.md"
+classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ]
+dependencies=[
+    "pandas>=1.2.4",
+    "numpy>=1.21.2",
+    "matplotlib>=3.5",
+    "seaborn>=0.11.1",
+    "scipy>=1.6.2",
+    "pySAM",
+    "Biopython",
+    "adjustText",
+    "liftover",
+    "statsmodels>=0.13",
+    "scikit-allel",
+    "pyensembl",
+]
+requires-python=">=3.6"
+
+[tool.setuptools.packages.find]
+where=["src"]
+
+[tool.setuptools.package-data]
+gwaslab = [
+    'data/formatbook.json',
+    'data/reference.json',
+    'data/high_ld/high_ld_hla_hg*.bed.gz',
+    'data/hapmap3_SNPs/*',
+]
+
+[project.urls]
+"Homepage" = "https://cloufield.github.io/gwaslab/"
+"Github" = "https://github.com/Cloufield/gwaslab"
