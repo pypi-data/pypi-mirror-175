@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+requirements.txt
+setup.cfg
+src/SQLDbWrpr.egg-info/PKG-INFO
+src/SQLDbWrpr.egg-info/SOURCES.txt
+src/SQLDbWrpr.egg-info/dependency_links.txt
+src/SQLDbWrpr.egg-info/top_level.txt
