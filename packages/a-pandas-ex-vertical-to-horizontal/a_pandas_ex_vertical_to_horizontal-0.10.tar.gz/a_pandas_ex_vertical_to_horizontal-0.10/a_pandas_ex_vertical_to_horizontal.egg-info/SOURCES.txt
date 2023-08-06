@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+a_pandas_ex_vertical_to_horizontal/README.MD
+a_pandas_ex_vertical_to_horizontal/__init__.py
+a_pandas_ex_vertical_to_horizontal/requirements.txt
+a_pandas_ex_vertical_to_horizontal/thirdparty.json
+a_pandas_ex_vertical_to_horizontal.egg-info/PKG-INFO
+a_pandas_ex_vertical_to_horizontal.egg-info/SOURCES.txt
+a_pandas_ex_vertical_to_horizontal.egg-info/dependency_links.txt
+a_pandas_ex_vertical_to_horizontal.egg-info/requires.txt
+a_pandas_ex_vertical_to_horizontal.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+include a_pandas_ex_vertical_to_horizontal/requirements.txt
+include a_pandas_ex_vertical_to_horizontal/thirdparty.json
+include a_pandas_ex_vertical_to_horizontal/README.MD
