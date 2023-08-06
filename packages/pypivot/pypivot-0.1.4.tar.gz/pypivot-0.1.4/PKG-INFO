@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pypivot
+Version: 0.1.4
+Summary: Pivot, unpivot, melt, and tranform data
+Author-email: Carl Anderson <carl@dumpsterfire.dev>
+Description-Content-Type: text/markdown
+Project-URL: repository, https://github.com/barabo/pivot
+
+# pivot
+A command line tool to transpose lines of text into columns
+
