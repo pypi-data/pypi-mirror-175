@@ -1,0 +1,2 @@
+[console_scripts]
+alpinepkgs = alpinepkgs.cli:cli

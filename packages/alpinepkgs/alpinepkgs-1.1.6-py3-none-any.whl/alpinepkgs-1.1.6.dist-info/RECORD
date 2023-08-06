@@ -1,0 +1,10 @@
+alpinepkgs/__init__.py,sha256=uESDsvlpr0vT_A4_f1I-ltpxTfN6Uw-mDVDvRoXHob0,30
+alpinepkgs/cli.py,sha256=4lux4FSJ6GDo2YNrHSRHAu_RgU5-cDN4ajq5FPDhMjM,391
+alpinepkgs/const.py,sha256=9TV1enjjBhfjTgTItlIcc1WHDE9Tt5Txpt0dQQo5tvc,292
+alpinepkgs/packages.py,sha256=3SlCQ36DdDHXXz7hJBgK2k_HeR5X6oSLLNUi2mh3Vxs,2917
+alpinepkgs-1.1.6.dist-info/LICENSE,sha256=ScY9jcDZdaWykLVqqYA9WYGOZhLqYLo7mkQ0FWTlaq8,1082
+alpinepkgs-1.1.6.dist-info/METADATA,sha256=FhqtmT4faRFcc9x3XolynWGr3tT7xwHXCu2krvaYOzE,3361
+alpinepkgs-1.1.6.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+alpinepkgs-1.1.6.dist-info/entry_points.txt,sha256=Lbgu0xnPS5fBtq7fwPX7SbUlqUSDXOxUmpulMj5OWMA,50
+alpinepkgs-1.1.6.dist-info/top_level.txt,sha256=0-IS7_Q6zpO7USSPjD9e1vaV1K115O6XSFbwLQVT5HY,11
+alpinepkgs-1.1.6.dist-info/RECORD,,
