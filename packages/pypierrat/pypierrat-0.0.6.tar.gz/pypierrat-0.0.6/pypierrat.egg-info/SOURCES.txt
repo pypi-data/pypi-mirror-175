@@ -1,0 +1,14 @@
+LICENSE.md
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pypierrat.egg-info/PKG-INFO
+pypierrat.egg-info/SOURCES.txt
+pypierrat.egg-info/dependency_links.txt
+pypierrat.egg-info/top_level.txt
+src/__init__.py
+src/dfconverter.py
+tests/__init__.py
+tests/test_dfconverter.py
