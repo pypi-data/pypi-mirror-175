@@ -1,0 +1,12 @@
+tink_http_python/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tink_http_python/accounts.py,sha256=SPX8ql8joTLzMiga53KunvVAYFeVK9K4--gJJMX7_DE,660
+tink_http_python/api.py,sha256=NK28ipsvUrW7yI0abQtgmISp-irhKWMa4xvA-lPs9kQ,968
+tink_http_python/transactions.py,sha256=iIqqd4q_PW2NJtbItFeh8MGW39jJvJKdNh1-NeyvDOQ,805
+tink_http_python/authentication/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tink_http_python/authentication/api.py,sha256=QdQI3RwkvrOUeZ_g63vt1nzeTLjF7l3Ubus1gLnRNnk,830
+tink_http_python/authentication/authentication.py,sha256=oTzI1WsN4qMFcy831xyHzWXWSBOX-MuKX0ElDodPWUY,1604
+tink_http_python/authentication/storage.py,sha256=yUI9fX-Fz67sljqMCu_NMTWAeylVMCK8BepXi6M1UwE,328
+tink_http_python-0.0.1.dist-info/METADATA,sha256=UYPnRmxqa76NMDaKzvCqGppxfhmbepidZBMI6ypEC6s,1554
+tink_http_python-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+tink_http_python-0.0.1.dist-info/top_level.txt,sha256=xSyb4WHTE5FFzjGNJtY3BJcmMK7MldiYmYJk0MQFslg,17
+tink_http_python-0.0.1.dist-info/RECORD,,
