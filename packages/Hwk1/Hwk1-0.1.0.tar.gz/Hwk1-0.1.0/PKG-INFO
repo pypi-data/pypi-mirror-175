@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: Hwk1
+Version: 0.1.0
+Summary: Demo library
+Home-page: https://removekey.readthedocs.io/
+Author: Yuxin LUO
+Author-email: yl8221@nyu.edu
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# HW1
+This package is for moving the main function to a library, so the key is no longer exposed. Then, you replace the main function with the name of the library you have created.
+### Installtion
+```
+$ pip install Hwk1
+```
+

@@ -1,0 +1,8 @@
+README.md
+setup.py
+Hwk1/__init__.py
+Hwk1/mynewclass.py
+Hwk1.egg-info/PKG-INFO
+Hwk1.egg-info/SOURCES.txt
+Hwk1.egg-info/dependency_links.txt
+Hwk1.egg-info/top_level.txt
