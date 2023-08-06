@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pypi1108/__init__.py
+pypi1108/__version__.py
+pypi1108/core.py
+pypi1108.egg-info/PKG-INFO
+pypi1108.egg-info/SOURCES.txt
+pypi1108.egg-info/dependency_links.txt
+pypi1108.egg-info/requires.txt
+pypi1108.egg-info/top_level.txt
