@@ -1,0 +1,9 @@
+__init__.py,sha256=8t2ne7pgcxI0SuR7bxr2GY83bKneZQkLCgGn9ou1kYM,36
+owltest.py,sha256=gavljlmM0_OFuHbiSw1IkMgVF0TRzoc03dkNoSVVgBw,3107
+vaip_api_class_mockup.py,sha256=Y7qNDYjlazmVfbv_P-pLvfPJH1UQsb_Ks391b9fAEcA,14971
+vaip_api_noaa_nesdis_ncei-0.0.1/__init__.py,sha256=8t2ne7pgcxI0SuR7bxr2GY83bKneZQkLCgGn9ou1kYM,36
+vaip_api_noaa_nesdis_ncei-0.0.1/owltest.py,sha256=gavljlmM0_OFuHbiSw1IkMgVF0TRzoc03dkNoSVVgBw,3107
+vaip_api_noaa_nesdis_ncei-0.0.1/vaip_api_class_mockup.py,sha256=Y7qNDYjlazmVfbv_P-pLvfPJH1UQsb_Ks391b9fAEcA,14971
+ncap_vaip_api-0.0.1.dist-info/METADATA,sha256=fWRbRNJ-CzL71emxwmCosrE4kC6toK8rWqeuDwq2owc,458
+ncap_vaip_api-0.0.1.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+ncap_vaip_api-0.0.1.dist-info/RECORD,,
