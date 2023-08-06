@@ -1,0 +1,13 @@
+MANIFEST.in
+setup.py
+./management/__init__.py
+./management/commands/__init__.py
+./management/commands/generate.py
+./migrations/__init__.py
+./templatetags/__init__.py
+./templatetags/dashboard_tags.py
+django_dashboards_app.egg-info/PKG-INFO
+django_dashboards_app.egg-info/SOURCES.txt
+django_dashboards_app.egg-info/dependency_links.txt
+django_dashboards_app.egg-info/requires.txt
+django_dashboards_app.egg-info/top_level.txt

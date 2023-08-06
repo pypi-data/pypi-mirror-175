@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: django-dashboards-app
+Version: 1.0.0
+Summary: Django Dashboard
+Home-page: https://gitlab.com/albertosanmartinmartinez/django-dashboards
+Author: Alberto Sanmartin Martinez
+Author-email: info@albertosanmartinmartinez.es
+License: LICENSE.txt
+Description: Django Admin for Developers and Django Dahsboard for Clients
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
