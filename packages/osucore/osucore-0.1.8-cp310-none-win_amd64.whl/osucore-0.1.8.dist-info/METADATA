@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: osucore
+Version: 0.1.8
+Summary: Osu! Replay parser library in rust.
+Author-email: Kevin Lim <kszlim@gmail.com>
+Requires-Python: >=3.8
