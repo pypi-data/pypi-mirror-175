@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+tsp_solutions/__init__.py
+tsp_solutions.egg-info/PKG-INFO
+tsp_solutions.egg-info/SOURCES.txt
+tsp_solutions.egg-info/dependency_links.txt
+tsp_solutions.egg-info/requires.txt
+tsp_solutions.egg-info/top_level.txt

@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: tsp_solutions
+Version: 0.0.2
+Summary: The travelling salesman problem is a np-hard problem with application in supply chain and computer science
+Home-page: https://github.com/projektdexter/tsp
+Author: Shamik Pushkar
+Author-email: shamikpushkar92@gmail.com
+Keywords: python,travelling-salesman-problem,combinatorial-optimization,linear-programming,integer-programming,pulp,optimization,heuristics,metaheuristics,vrp,vehicle-routing-problem
+License-File: LICENSE.txt
+
+
+ The code uses PuLP module to formulate the problem and CPLEX, GUROBI, COIN_CMD, and PULP_solver to find the exact solution of the TSP. 
+ The module also includes heuristics and metaheuristics functions that can be used for large instances.
+ More functions will be added.
+ If you find an error or want to solve problems together write to me @shamikpushkar92@gmail.com.
+
+ The module has two parts:
+
+1. Exact Solution
+tsp_exact uses PuLP module to formulate the problem and CPLEX, GUROBI, COIN_CMD, and PULP_solver to find the exact solution of the TSP. To setup an external solver follow this link.
+
+2. Heuristics & Metaheuristics
+heuristics & metaheuristic functions are local search algorithms that can be used for large instances.
+ 
+ Dependencies include pulp, numpy, pandas, scipy, and copy.
