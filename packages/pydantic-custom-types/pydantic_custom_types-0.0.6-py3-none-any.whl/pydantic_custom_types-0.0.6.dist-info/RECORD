@@ -1,0 +1,11 @@
+pydantic_custom_types/VERSION,sha256=pd00ZUajhDYpNrl6TC9dotPSUwQ-qWeap7l9iVUN_b0,6
+pydantic_custom_types/__init__.py,sha256=zgcJmdw_GpVBTZqpbZsUaAb26Ji4d5rgk4bSzJjQrgo,45
+pydantic_custom_types/base_name.py,sha256=hZKZkr6-gcMH8QqYIWCGlM-7lB8BquFU-bxWUTX5xP0,1503
+pydantic_custom_types/kubernetes/__init__.py,sha256=1mRppHj_STLmnF_B1PlOkGF0iQD7YMpNsA8Xx3NMTkA,68
+pydantic_custom_types/kubernetes/namespace.py,sha256=DWqMj49Ttj51ChRucO5pV9Z1bYh0StJ4pIG6hiZj2fA,540
+pydantic_custom_types/kubernetes/secret.py,sha256=ba6l00jQM6ALXldAsHT_Xosyhyo-dy1_Cf5O6Bo1hTE,572
+pydantic_custom_types/version.py,sha256=8N7o5Cy2XXJUIZM8qHBpfhkG98bIFnHaC0dCaQ_GCw0,250
+pydantic_custom_types-0.0.6.dist-info/LICENSE,sha256=9yuUJeg34M9ZszX2o35uuRa88CVE11YWjRNhOWJ-NIM,1110
+pydantic_custom_types-0.0.6.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+pydantic_custom_types-0.0.6.dist-info/METADATA,sha256=36uPigYbafkSLLu3LW1DuUDDGY1YcEYE_clviy4vXtw,1328
+pydantic_custom_types-0.0.6.dist-info/RECORD,,
