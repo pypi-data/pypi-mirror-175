@@ -1,0 +1,13 @@
+README.md
+setup.py
+crawl_request/__init__.py
+crawl_request.egg-info/PKG-INFO
+crawl_request.egg-info/SOURCES.txt
+crawl_request.egg-info/dependency_links.txt
+crawl_request.egg-info/requires.txt
+crawl_request.egg-info/top_level.txt
+crawl_request/crawl/__init__.py
+crawl_request/crawl/spider.py
+crawl_request/crawl/task.py
+crawl_request/server/__init__.py
+crawl_request/server/server.py
