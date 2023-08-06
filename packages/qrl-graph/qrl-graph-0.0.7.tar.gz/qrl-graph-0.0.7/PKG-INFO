@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: qrl-graph
+Version: 0.0.7
+Summary: Reinforcement Learning Algorithms for the quantum speed up in graphs
+Home-page: https://github.com/JiahaoYao/QRL_graph
+Author: Jimmy
+Author-email: jiahaoyao.math@gmail.com
+License: MIT
+Keywords: quantum computing,variational quantum algorithms,quantum machine learning,Reinforcement Learning,Quspin,Graph
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# QRL_graph
+Reinforcement Learning for the quantum speedup in the graph
+
+Given a graph, we try to compute the classical and quantum critical time. The definition of the criticial time is defined as the hitting time of the endpoints with the probility bigger than $p_0$. 
+
+### Usage
+
+```markdown
+pip install qrl_graph
+```
+
+
