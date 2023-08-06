@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ccprint
+Version: 0.1.5
+Summary: a package to print colorful text in the console
+Home-page: https://github.com/Nico1806/CCPrint
+Author: Nico F.
+Author-email: nicofisseler@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+UNKNOWN
+
