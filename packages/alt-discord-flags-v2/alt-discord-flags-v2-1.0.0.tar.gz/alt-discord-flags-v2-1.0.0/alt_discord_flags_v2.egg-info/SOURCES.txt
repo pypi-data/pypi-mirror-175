@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.py
+alt_discord_flags_v2.egg-info/PKG-INFO
+alt_discord_flags_v2.egg-info/SOURCES.txt
+alt_discord_flags_v2.egg-info/dependency_links.txt
+alt_discord_flags_v2.egg-info/requires.txt
+alt_discord_flags_v2.egg-info/top_level.txt
+discord/ext/flags/__init__.py
+discord/ext/flags/_command.py
+discord/ext/flags/_parser.py
