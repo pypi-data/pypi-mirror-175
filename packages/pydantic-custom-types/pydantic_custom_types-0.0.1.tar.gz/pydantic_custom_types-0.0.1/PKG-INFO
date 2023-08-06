@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pydantic-custom-types
+Version: 0.0.1
+Summary: Custom types for pydantic used in SRE peipelins for validation input vars
+Author: per lejon
+Author-email: per.lejon@netigate.se
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# pydantic custom types
+distributes custom types instead of copy pasting code for pipelines input validation
