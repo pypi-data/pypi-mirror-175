@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ibkrbox
+Version: 0.1.0
+Summary: box spread utility for interactive brokers
+Home-page: https://github.com/asemx/ibkrbox
+Author: asemx
+Author-email: 998264+asemx@users.noreply.github.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: ib-insync (>=0.9.71,<0.10.0)
+Project-URL: Documentation, https://github.com/asemx/ibkrbox/blob/main/README.md
+Project-URL: Repository, https://github.com/asemx/ibkrbox.git
+Description-Content-Type: text/markdown
+
+# ibkrbox
+box spread utility for interactive brokers
+
