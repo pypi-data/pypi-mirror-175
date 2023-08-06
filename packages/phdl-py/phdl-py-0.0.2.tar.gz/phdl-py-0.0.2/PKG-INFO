@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: phdl-py
+Version: 0.0.2
+Summary: Experimental CLI implementation of a video collecter information for the a website.
+Keywords: phdl,video,download,full video
+Author-email: Alejandro Martínez-Valencia <vaf.ss4@gmail.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Dist: selenium>=4.5
+Requires-Dist: ffmpeg-python==0.2.0
+Requires-Dist: PyYAML==6.0
+Requires-Dist: requests>=2.28
+Requires-Dist: tqdm>=4.64
+Requires-Dist: typer[all]>=0.6
+Project-URL: Bug Tracker, https://github.com/alexini-mv/phdl
+Project-URL: Homepage, https://github.com/alexini-mv/phdl
+
+# phdl
+
+Experimental CLI implementation of a video collecter information for the a website.
