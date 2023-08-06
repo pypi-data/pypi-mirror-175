@@ -1,0 +1,96 @@
+[tool.black]
+target-version = [
+    "py38",
+]
+skip-string-normalization = true
+
+[tool.pdm.build]
+includes = []
+
+[tool.pdm.scripts]
+post_install = "pre-commit install"
+clean-build = "rm -rf *.spec dist build"
+clean-docs = "rm -rf docs/*.png site"
+clean-test = "rm -rf .cache .pytest .coverage htmlcov"
+clean-install = "find $(PACKAGES) -name '__pycache__' -delete && rm -rf *.egg-info"
+serve-docs = "mkdocs serve"
+lint = "mypy arger tests"
+
+[tool.pdm.scripts.clean]
+composite = [
+    "clean-build",
+    "clean-docs",
+    "clean-test",
+    "clean-install",
+]
+
+[project]
+authors = [
+    { name = "Noortheen Raja", email = "jnoortheen@gmail.com" },
+]
+requires-python = ">=3.8,<4.0"
+dependencies = [
+    "typing-extensions>3.7.4",
+]
+name = "arger"
+version = "1.4.8"
+description = "Create argparser automatically from functions"
+readme = "README.md"
+keywords = []
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: Freely Distributable",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ipython",
+    "tox",
+    "jupyter",
+    "better-exceptions",
+    "git-changelog",
+]
+lint = [
+    "pydocstyle",
+    "pylint>=2.11",
+]
+test = [
+    "pytest",
+    "pytest-cov",
+    "pytest-describe",
+    "pytest-expecter",
+    "pytest-random",
+    "freezegun",
+    "pytest-lazy-fixture",
+    "nbformat",
+]
+doc = [
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocstrings",
+    "pytkdocs",
+    "mknotebooks",
+    "pymdown-extensions",
+    "pygments",
+]
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+homepage = "https://pypi.org/project/arger"
+repository = "https://github.com/jnoortheen/arger"
+documentation = "https://arger.readthedocs.io"
+
+[build-system]
+requires = [
+    "pdm-pep517>=1.0.0",
+]
+build-backend = "pdm.pep517.api"
