@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: uvicorn-httparse
+Version: 0.0.0
+Summary: ASGI TLS extensions for Uvicorn 🔒
+Author-email: Marcelo Trylesinski <marcelotryle@gmail.com>
+License: MIT
