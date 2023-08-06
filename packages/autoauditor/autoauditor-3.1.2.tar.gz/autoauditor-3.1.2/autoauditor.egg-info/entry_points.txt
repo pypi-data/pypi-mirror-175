@@ -1,0 +1,3 @@
+[console_scripts]
+autoauditor = autoauditor.__main__:main
+query = autoauditor.query:main
