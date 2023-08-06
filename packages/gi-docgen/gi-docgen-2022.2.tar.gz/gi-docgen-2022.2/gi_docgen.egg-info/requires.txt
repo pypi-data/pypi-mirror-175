@@ -1,0 +1,6 @@
+Markdown>=3.2
+MarkupSafe
+Pygments
+jinja2
+toml
+typogrify
