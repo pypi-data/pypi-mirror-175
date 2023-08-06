@@ -1,0 +1,12 @@
+[wrap-git]
+url = https://github.com/lua/lua.git
+revision = c954db39241a8b21d7b32b42b87a066b4708f969
+depth = 1
+patch_directory = lua
+diff_files =
+    lua/patches/0001-Enable-renaming-main-functions.patch,
+    lua/patches/0002-Advanced-history-and-line-completion-support.patch,
+    lua/patches/0003-Add-static-searcher-mechanism.patch,
+    lua/patches/0004-Implement-static-searcher-mechanism.patch,
+    lua/patches/0005-Add-initial-thread-locking-support.patch,
+    lua/patches/9999-Empty.patch
