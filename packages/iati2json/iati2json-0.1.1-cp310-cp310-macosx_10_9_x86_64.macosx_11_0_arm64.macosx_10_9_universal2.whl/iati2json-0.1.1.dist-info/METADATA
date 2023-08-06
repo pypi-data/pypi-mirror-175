@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: iati2json
+Version: 0.1.1
+License-File: LICENSE
+Summary: Iati to JSON converter
+License: MIT
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+# Convert IATI XML to JSON
+
+##  Install
+
+```
+pip install iati2json
+```
+
+##  Usage
+
+### Save to file (fastest option)
+
+```
+import iati2json
+iati2json.convert("my_iati_file.xml", file="converted.json")
+
+```
+
+### Convert to String
+
+```
+import iati2json
+import json
+iati_json_string = iati2json.convert("my_iati_file.xml")
+iati_dict = json.loads(iati_json_string)
+```
+
+### Pretty (indented output)
+
+```
+import iati2json
+iati2json.convert("my_iati_file.xml", file="converted.json", pretty=True)
+
+```
+
