@@ -1,0 +1,2 @@
+[console_scripts]
+djeasy = djeasy.client.management:main
