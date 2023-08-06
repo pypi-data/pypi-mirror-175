@@ -1,0 +1,2 @@
+[nbdev]
+archivematica_omekas = archivematica_omekas._modidx:d
