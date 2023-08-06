@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: apsfacenet
+Version: 0.0.3
+Summary: apS Cattle Face verification System
+Author: Md. Mahadi Hasan Sany
+Author-email: <mahadi15-11173@diu.edu.bd>
+License: UNKNOWN
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: torch (==1.11.0)
+Requires-Dist: pandas (==1.4.2)
+Requires-Dist: torchvision (==0.12.0)
+Requires-Dist: pillow (==9.0.1)
+Requires-Dist: opencv-python (==4.6.0.66)
+Requires-Dist: numpy (==1.21.5)
+
+My first Python package with a slightly longer description
+
