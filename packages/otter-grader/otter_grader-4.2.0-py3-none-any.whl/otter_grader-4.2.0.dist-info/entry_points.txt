@@ -1,0 +1,3 @@
+[console_scripts]
+gmail_oauth2 = otter.plugins.builtin.gmail_notifications.bin.gmail_oauth2:main
+otter = otter.cli:cli
