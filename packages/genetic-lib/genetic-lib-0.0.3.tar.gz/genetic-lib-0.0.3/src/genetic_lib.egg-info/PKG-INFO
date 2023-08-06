@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: genetic-lib
+Version: 0.0.3
+Summary: A Library of Linear and Logistic Regression with Genetic algorithm instead of Gradient Descent
+Home-page: https://github.com/Amaaan09/Genetic-pypi
+Author: Amaan Ansari
+Author-email: m.amaan02@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
