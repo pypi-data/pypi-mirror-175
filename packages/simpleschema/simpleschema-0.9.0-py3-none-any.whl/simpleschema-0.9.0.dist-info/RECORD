@@ -1,0 +1,11 @@
+simpleschema/__init__.py,sha256=7wo-MgfD1-8arrDwZXLQIjRDf5zZseCjX91edyJ-7S8,126
+simpleschema/__version__.py,sha256=MZAhsPStGvt1ram60cw8RsLaZKT-mJ5gLnx-q7lSbqM,64
+simpleschema/exceptions.py,sha256=rIiXX8LGmySod5pA6ZyFxYlG5nqEC6YxgMT2BEmq8bE,2277
+simpleschema/helper_classes.py,sha256=VokjLXewfp8he6w-ihe65rr1iYYxhU7q69FOdzSFPRo,1122
+simpleschema/matchers.py,sha256=qiWyyZuAEO84AkHgPGwS2EUFJqDa-hyRtvj3cRRrWdM,3406
+simpleschema/validate.py,sha256=mEXV-H8toxTg_BV6Vn7CP4yHCIwOAMI9Ossg9_R7h1I,2737
+simpleschema-0.9.0.dist-info/LICENSE,sha256=H6xvvkzKYauNhM4zGJX2m4SX2JXWV0BVecR2lyxmxZo,1064
+simpleschema-0.9.0.dist-info/METADATA,sha256=x2YQZRi1dZKYhkXE1a7ho4r93W1hucfICE2lH32EB6M,3621
+simpleschema-0.9.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+simpleschema-0.9.0.dist-info/top_level.txt,sha256=JGnpJUXJ-abnjEhMcka4T6lASKk6rQ8hGm2x0yNoC5w,13
+simpleschema-0.9.0.dist-info/RECORD,,
