@@ -1,0 +1,12 @@
+pycimg-2.0.0.dist-info/RECORD,,
+pycimg-2.0.0.dist-info/LICENSE,sha256=WJ7YI-moTFb-uVrFjnzzhGJrnL9P2iqQe8NuED3hutI,35141
+pycimg-2.0.0.dist-info/WHEEL,sha256=lSlpYrR-oxBh61iwdN3g2WhXwMfcwegqPpqzsG_VpRc,112
+pycimg-2.0.0.dist-info/top_level.txt,sha256=nJGwnmYhwLLttzBkNlWv_7g-ARYvfz1B_7cOBOknonE,7
+pycimg-2.0.0.dist-info/METADATA,sha256=STSHq-Ala3ULiDTgOzJpncpV3a7luCS-8jjkxlLEupg,2985
+pycimg/__init__.py,sha256=xjbWi25VcP9CZHNtC8CfM48V81kuuK-wKI39qgOvlVU,44
+pycimg/cimg_bindings.cpython-311-darwin.so,sha256=KpOpDqJpepfBER2G3zpSSNquBXp-zLUGru-kzQ1_wwU,8554768
+pycimg/pycimg.py,sha256=hq1UwMiusX2mJewZVoGQKfwx8H_ljjvJdr7WJP2-3yo,9821
+pycimg/.dylibs/libxcb.1.dylib,sha256=YNS3RHSet22Xyze83HU20ALqtSP0iwOHLrZ47LIPjeg,573088
+pycimg/.dylibs/libX11.6.dylib,sha256=IKMkN8pYA6ZKAxoZd-wFiIrfxZR-F-AqhjtM8JFfZJ4,3496640
+pycimg/.dylibs/libpng16.16.dylib,sha256=ncxJCd5OrWgSlJNwdCbtW3uTCpb_DUc5WUUCIa01pvQ,669280
+pycimg/.dylibs/libXau.6.dylib,sha256=pHBIGGjbqpzuTrqCOs895yktf0BSRbLhFTAqxtkxKoM,217776
