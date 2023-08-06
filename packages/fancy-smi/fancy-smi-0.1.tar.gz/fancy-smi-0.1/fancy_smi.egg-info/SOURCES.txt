@@ -1,0 +1,9 @@
+LICENSE
+README.md
+fancy-smi
+setup.py
+fancy_smi.egg-info/PKG-INFO
+fancy_smi.egg-info/SOURCES.txt
+fancy_smi.egg-info/dependency_links.txt
+fancy_smi.egg-info/requires.txt
+fancy_smi.egg-info/top_level.txt
