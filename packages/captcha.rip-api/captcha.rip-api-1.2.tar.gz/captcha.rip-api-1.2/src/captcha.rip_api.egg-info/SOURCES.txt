@@ -1,0 +1,12 @@
+LICENSE.rst
+README.md
+setup.cfg
+setup.py
+src/captcha.rip_api.egg-info/PKG-INFO
+src/captcha.rip_api.egg-info/SOURCES.txt
+src/captcha.rip_api.egg-info/dependency_links.txt
+src/captcha.rip_api.egg-info/requires.txt
+src/captcha.rip_api.egg-info/top_level.txt
+src/captcharip/__init__.py
+src/captcharip/exceptions.py
+src/captcharip/solver.py
