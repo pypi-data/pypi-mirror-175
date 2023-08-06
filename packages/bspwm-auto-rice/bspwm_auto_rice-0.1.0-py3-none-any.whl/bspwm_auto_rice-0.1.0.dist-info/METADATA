@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: bspwm-auto-rice
+Version: 0.1.0
+Summary: 
+Author: AbdelrhmanNile
+Author-email: abdelrhmannile@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: pywal (>=3.3.0,<4.0.0)
+Requires-Dist: rich (>=12.6.0,<13.0.0)
+Requires-Dist: typer (>=0.7.0,<0.8.0)
+Description-Content-Type: text/markdown
+
+
