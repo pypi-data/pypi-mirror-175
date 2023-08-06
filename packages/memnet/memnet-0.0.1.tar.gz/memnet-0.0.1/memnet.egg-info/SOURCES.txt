@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+memnet/__init__.py
+memnet/mapping.py
+memnet/nonidealities.py
+memnet/utils.py
+memnet.egg-info/PKG-INFO
+memnet.egg-info/SOURCES.txt
+memnet.egg-info/dependency_links.txt
+memnet.egg-info/requires.txt
+memnet.egg-info/top_level.txt
