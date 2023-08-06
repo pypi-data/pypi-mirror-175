@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+mqhandler.egg-info/PKG-INFO
+mqhandler.egg-info/SOURCES.txt
+mqhandler.egg-info/dependency_links.txt
+mqhandler.egg-info/requires.txt
+mqhandler.egg-info/top_level.txt
+mqhandler/mappings/genenames_to_orthologs.csv
+mqhandler/mappings/genenames_to_protein.csv
+mqhandler/mappings/genenames_to_reduced_genenames.csv
+mqhandler/mappings/protein_to_genenames.csv
