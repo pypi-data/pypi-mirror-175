@@ -1,0 +1,7 @@
+bazel-bin
+bazel-manipulation
+bazel-out
+figures
+htmlbook
+manipulation
+solutions
