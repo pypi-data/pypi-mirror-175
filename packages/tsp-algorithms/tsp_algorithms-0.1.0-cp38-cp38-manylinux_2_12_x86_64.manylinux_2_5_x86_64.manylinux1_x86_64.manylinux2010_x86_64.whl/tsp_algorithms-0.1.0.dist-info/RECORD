@@ -1,0 +1,9 @@
+tsp_algorithms-0.1.0.dist-info/LICENSE.txt,sha256=_639neWbC0wQ4tXyGV_-z6VG342UghrnlZC9d7hUpow,1077
+tsp_algorithms-0.1.0.dist-info/WHEEL,sha256=rCl7pVaCkScuIRXbx1gEaUnhYKWfAMNKjTjyK81NAMs,214
+tsp_algorithms-0.1.0.dist-info/RECORD,,
+tsp_algorithms-0.1.0.dist-info/METADATA,sha256=ZHchp_hzgw7_6U-zTA2dCjVBpg9TBeW7nFM1M7LhuiU,1798
+tsp_algorithms/ctsp.cpython-38-x86_64-linux-gnu.so,sha256=L0VT4GP53h4li3ojVZfKGrrygV_E0HPMGSqnwdM0Vzg,38608
+tsp_algorithms/__init__.py,sha256=Jfci-XowRqOhFUz08ZPFilLKIpRGtNVNkxpWvMwUEpw,38
+tsp_algorithms/lib/nearest_neighbors.c,sha256=TE7GNz87gK-AtiBPHp2wFhtjuFBZruOyF8JD8yhU40U,1596
+tsp_algorithms/lib/tsp.c,sha256=befyEtmkRdhgX9EJPaP-DrdVxYMNBThctM3Xm2Yi0Yg,1898
+tsp_algorithms/lib/include/nearest_neighbors.h,sha256=uKXCh536h0pi7jvf90eKCjBaJ-jirYEX-wm4PIJayPw,110
