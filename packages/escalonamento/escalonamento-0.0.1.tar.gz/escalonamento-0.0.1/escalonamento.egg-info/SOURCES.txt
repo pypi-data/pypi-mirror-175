@@ -1,0 +1,7 @@
+README.md
+setup.py
+escalonamento.egg-info/PKG-INFO
+escalonamento.egg-info/SOURCES.txt
+escalonamento.egg-info/dependency_links.txt
+escalonamento.egg-info/requires.txt
+escalonamento.egg-info/top_level.txt
