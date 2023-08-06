@@ -1,0 +1,5 @@
+neosynth-3.1.0.dist-info/METADATA,sha256=n4CAqIecr--tsbKU0iLngXdYMGcZhgFHG3Sk6bxs5rE,263
+neosynth-3.1.0.dist-info/WHEEL,sha256=keLBtIOE7ZgLyd8Cijw37iqv72a2jhfxMdDu8Unr7zo,96
+neosynth/__init__.py,sha256=CoPTnf5xnnd3E9MVIT7gGHK995ZhD1iAXPVB49rEoAY,115
+neosynth/neosynth.cp310-win_amd64.pyd,sha256=9lmJ-0aRLlgmwCBFU-LM5tcmrKzSARD8RsjB4Ida5n4,442880
+neosynth-3.1.0.dist-info/RECORD,,
