@@ -1,0 +1,9 @@
+
+[build]
+build
+twine
+
+[dev]
+black
+bumpver
+isort
