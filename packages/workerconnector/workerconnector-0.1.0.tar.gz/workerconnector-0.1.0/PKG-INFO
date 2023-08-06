@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: workerconnector
+Version: 0.1.0
+Summary: 
+Author: redloratech
+Author-email: rede.akbar@loratechai.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: celery[redis] (>=5.2.7,<6.0.0)
+Description-Content-Type: text/markdown
+
+## coming soon
