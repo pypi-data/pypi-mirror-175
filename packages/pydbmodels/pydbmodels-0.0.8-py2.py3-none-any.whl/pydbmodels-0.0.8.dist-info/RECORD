@@ -1,0 +1,15 @@
+pydbmodels/__init__.py,sha256=4TO1YY-Oz05xUFlS_eVHB29IVpxBeOg7xm50PsB9vXc,659
+pydbmodels/settings.py,sha256=v5-dRXHAgK39dgozSPyqSFIRQcKQVLqVCC8ORFp4Gk0,674
+pydbmodels/generators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pydbmodels/generators/generator.py,sha256=sLJKBOlBpOE9OkgL9NnXAR7x_IGfgeB-Wg02Q5EsYx4,1249
+pydbmodels/generators/pydantic/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pydbmodels/generators/pydantic/generator.py,sha256=EdAotWjxv6WePqqE0ntXAabnjD2rgt4GcLi6EKRifeI,2047
+pydbmodels/generators/pydantic/type_map.py,sha256=TjilG_thWd8_Ar5CRSWP4Rez57EHDkQxulJZ0LUFBfY,2083
+pydbmodels/generators/pydantic/templates/_table_templates.j2,sha256=Q9JBQP23_owhd_OnwpFegdisMuBhdmf2lplAhvAoVzI,2914
+pydbmodels/generators/pydantic/templates/models.py,sha256=quPknQXsuiCoQtg39IaJAee0NBD7cW_Fih8Pu9bzfMk,4468
+pydbmodels/generators/types/__init__.py,sha256=UmmTJjL7V7yQ5x8viq1P8EOqu5unB9tR8XdCqpMaHBw,65
+pydbmodels/generators/types/_types.py,sha256=pk7gjQUXwg-WqOZqYjx_v-zzcaSqB7QR_8lDfQOQYW0,599
+pydbmodels-0.0.8.dist-info/METADATA,sha256=yr-z24kGv53ngmCsTcMsNWkikYilpMIp9eRrPRe4r7A,400
+pydbmodels-0.0.8.dist-info/WHEEL,sha256=cdcF4Fbd0FPtw2EMIOwH-3rSOTUdTCeOSXRMD1iLUb8,105
+pydbmodels-0.0.8.dist-info/licenses/LICENSE,sha256=T0eTPzleHkBrtJvHkUXH-RR8DaI_ULFNjLC2aPeExM4,1073
+pydbmodels-0.0.8.dist-info/RECORD,,
