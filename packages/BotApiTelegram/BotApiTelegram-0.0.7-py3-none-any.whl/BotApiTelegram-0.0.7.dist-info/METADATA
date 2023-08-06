@@ -1,0 +1,95 @@
+Metadata-Version: 2.1
+Name: BotApiTelegram
+Version: 0.0.7
+Summary: A python library for Telegram Bot Api.
+Home-page: https://github.com/SastaDev/BotApiTelegram/archive/refs/tags/v0.0.7.tar.gz
+Download-URL: https://github.com/SastaDev/BotApiTelegram
+Author: Sasta Dev
+Author-email: sastadev2007@gmail.com
+License: GNU General Public License v3.0
+Keywords: BotApiTelegram
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+For examples and docs check out:
+* [GitHub-Examples](https://github.com/SastaDev/BotApiTelegram/tree/main/examples).
+* [Docs](https://BotApiTelegram.tk).
+
+# Basic Installization and 'Hello.' reply.
+
+```
+from BotApiTelegram import TelegramBot, filters
+
+bot_token = '' # Your bot token from @BotFather.
+
+bot = TelegramBot('bot_db', bot_token=bot_token)
+
+@bot.on_update(filters.command('start'))
+def on_start(message):
+    message.reply('Hello.')
+
+bot.start_polling()
+
+```
+
+# Creating Buttons.
+
+```
+from BotApiTelegram import TelegramBot, filters
+from BotApiTelegram.types import Button
+
+bot_token = '' # Your bot token from @BotFather.
+
+bot = TelegramBot('bot_db', bot_token=bot_token)
+
+@bot.on_update(filters.command('start'))
+def on_start(message):
+    buttons = [
+        [Button.inline('This is a button', 'callback_data')],
+        [Button.inline('Two buttons', 'callback_data'), Button.inline('In one row.', 'callback_data')],
+        [Button.url('URL Link button', 'https://github.com/SastaDev/BotApiTelegram')]
+        ]
+    message.reply('An Example of inline keyboard buttons.', buttons=buttons)
+
+bot.start_polling()
+
+```
+
+# Adding filters.
+
+```
+from BotApiTelegram import TelegramBot, filters
+
+bot_token = '' # Your bot token from @BotFather.
+
+bot = TelegramBot('bot_db', bot_token=bot_token)
+
+# command '/start', you can change the prefix '/' by passing starts_with in filters.command
+# Example: filters.command('start, starts_with='!')
+@bot.on_update(filters.command('start'))
+def on_start(message):
+    message.reply('Hello by *filters.command*.')
+
+# You can use regex for text, command and callback query data.
+@bot.on_update(filters.regex('^/start'))
+def on_start(message):
+    message.reply('Hello by *filters.regex*.')
+
+# Using filters for callback query.
+@bot.on_update(filters.CallbackQuery('data'))
+def on_callback_query_data(callback_query):
+    callback_query.answer('The callback data is "data".', show_alert=True)
+
+bot.start_polling()
+```
+
+# Links
+**GitHub Repo Link:** [SastaDev/BotApiTelegram](https://github.com/SastaDev/BotApiTelegram).
+**Documentation Link:** [BotApiTelegramDocs](https://BotApiTelegramDocs.tk).
+**Updates Channel on Telegram:** [BotApiTelegram](https://telegram.dog/BotApiTelegram).
+**Help Support Chat on Telegram:** [BotApiTelegramChat](https://telegram.dog/BotApiTelegramChat).
+
