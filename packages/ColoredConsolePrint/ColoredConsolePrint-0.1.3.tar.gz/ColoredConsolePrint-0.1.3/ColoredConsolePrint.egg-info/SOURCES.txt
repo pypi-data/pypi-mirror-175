@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+ColoredConsolePrint.egg-info/PKG-INFO
+ColoredConsolePrint.egg-info/SOURCES.txt
+ColoredConsolePrint.egg-info/dependency_links.txt
+ColoredConsolePrint.egg-info/top_level.txt
+package/CPrint.py
