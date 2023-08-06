@@ -1,0 +1,9 @@
+numpy
+
+[accel]
+stickydesign-accel~=0.9.0.a1
+
+[testing]
+pytest-cov
+pytest-benchmark
+pytest
