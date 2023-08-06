@@ -1,0 +1,6 @@
+aws_priviledge_deescalation/__init__.py,sha256=5jGxXrLf1tH0h7fNHSi6O_gPN4F8T2svMLYT5sJifuo,141
+aws_priviledge_deescalation/priviledge_deescalation.py,sha256=enF_L2XrZajoPyeSYChIR0l4l_oBsbeL8JSd07T4UU0,3788
+bapp_aws_priviledge_deescalation-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+bapp_aws_priviledge_deescalation-0.0.1.dist-info/WHEEL,sha256=gSF7fibx4crkLz_A-IKR6kcuq0jJ64KNCkG8_bcaEao,88
+bapp_aws_priviledge_deescalation-0.0.1.dist-info/METADATA,sha256=siVEGCftjPtQRztK_ahWXdLJ7kNt5zAMMk0f_RvFJGg,741
+bapp_aws_priviledge_deescalation-0.0.1.dist-info/RECORD,,
