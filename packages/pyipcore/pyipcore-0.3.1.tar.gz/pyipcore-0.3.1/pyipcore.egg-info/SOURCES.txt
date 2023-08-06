@@ -1,0 +1,16 @@
+setup.py
+pyipcore/__init__.py
+pyipcore/ipb.py
+pyipcore/ipc_img.py
+pyipcore/ipg.py
+pyipcore/ipui_ipc_lib.py
+pyipcore/ipui_main.py
+pyipcore/parsetab.py
+pyipcore/ui_ipc_lib.py
+pyipcore/ui_main.py
+pyipcore.egg-info/PKG-INFO
+pyipcore.egg-info/SOURCES.txt
+pyipcore.egg-info/dependency_links.txt
+pyipcore.egg-info/entry_points.txt
+pyipcore.egg-info/requires.txt
+pyipcore.egg-info/top_level.txt
