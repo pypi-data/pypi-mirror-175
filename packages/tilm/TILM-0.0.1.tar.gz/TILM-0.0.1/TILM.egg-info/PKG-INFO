@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: TILM
+Version: 0.0.1
+Summary: Text-based web interface for language model
+Home-page: UNKNOWN
+Author: Qingyang Wu
+Author-email: willqywu@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# TILM
+Text-based web interface for language model
+
+
