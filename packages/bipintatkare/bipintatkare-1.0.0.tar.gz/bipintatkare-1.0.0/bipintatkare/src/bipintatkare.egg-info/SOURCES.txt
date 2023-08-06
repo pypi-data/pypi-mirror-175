@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+bipintatkare/src/bipintatkare.egg-info/PKG-INFO
+bipintatkare/src/bipintatkare.egg-info/SOURCES.txt
+bipintatkare/src/bipintatkare.egg-info/dependency_links.txt
+bipintatkare/src/bipintatkare.egg-info/top_level.txt
+bipintatkare/src/bipintatkare.egg-info/SOURCES.txt
