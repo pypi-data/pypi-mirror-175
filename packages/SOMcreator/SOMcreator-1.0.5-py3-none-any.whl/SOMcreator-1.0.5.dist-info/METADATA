@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: SOMcreator
+Version: 1.0.5
+Summary: create simple Datastructures for BIM Models
+License: =?utf-8?q?MIT_License?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_Copyright_=28c=29_2022_Christoph_Mell=C3=BCh?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_Permission_is_hereby_granted=2C_free_of_charge=2C_to_any_person_obtaining_a_copy?=
+ =?utf-8?q?_of_this_software_and_associated_documentation_files_=28the_=22Software=22=29=2C_to_deal?=
+ =?utf-8?q?_in_the_Software_without_restriction=2C_including_without_limitation_the_rights?=
+ =?utf-8?q?_to_use=2C_copy=2C_modify=2C_merge=2C_publish=2C_distribute=2C_sublicense=2C_and/or_sell?=
+ =?utf-8?q?_copies_of_the_Software=2C_and_to_permit_persons_to_whom_the_Software_is?=
+ =?utf-8?q?_furnished_to_do_so=2C_subject_to_the_following_conditions=3A?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_The_above_copyright_notice_and_this_permission_notice_shall_be_included_in_all?=
+ =?utf-8?q?_copies_or_substantial_portions_of_the_Software=2E?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_THE_SOFTWARE_IS_PROVIDED_=22AS_IS=22=2C_WITHOUT_WARRANTY_OF_ANY_KIND=2C_EXPRESS_OR?=
+ =?utf-8?q?_IMPLIED=2C_INCLUDING_BUT_NOT_LIMITED_TO_THE_WARRANTIES_OF_MERCHANTABILITY=2C?=
+ =?utf-8?q?_FITNESS_FOR_A_PARTICULAR_PURPOSE_AND_NONINFRINGEMENT=2E_IN_NO_EVENT_SHALL_THE?=
+ =?utf-8?q?_AUTHORS_OR_COPYRIGHT_HOLDERS_BE_LIABLE_FOR_ANY_CLAIM=2C_DAMAGES_OR_OTHER?=
+ =?utf-8?q?_LIABILITY=2C_WHETHER_IN_AN_ACTION_OF_CONTRACT=2C_TORT_OR_OTHERWISE=2C_ARISING_FROM=2C?=
+ =?utf-8?q?_OUT_OF_OR_IN_CONNECTION_WITH_THE_SOFTWARE_OR_THE_USE_OR_OTHER_DEALINGS_IN_THE?=
+ =?utf-8?q?_SOFTWARE=2E?=
+ =?utf-8?q?_?=
+Keywords: BIM,SOM
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: lxml
+Requires-Dist: jinja2
+Requires-Dist: openpyxl
+
+## README
