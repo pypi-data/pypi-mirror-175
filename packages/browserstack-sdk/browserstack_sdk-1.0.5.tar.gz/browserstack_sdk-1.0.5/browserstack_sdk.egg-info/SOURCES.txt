@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+bin/browserstack-sdk
+browserstack_sdk/__init__.py
+browserstack_sdk/browserstack.yml.sample
+browserstack_sdk.egg-info/PKG-INFO
+browserstack_sdk.egg-info/SOURCES.txt
+browserstack_sdk.egg-info/dependency_links.txt
+browserstack_sdk.egg-info/requires.txt
+browserstack_sdk.egg-info/top_level.txt
