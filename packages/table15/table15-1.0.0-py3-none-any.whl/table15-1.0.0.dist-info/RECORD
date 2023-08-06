@@ -1,0 +1,13 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+table15/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+table15/__main__.py,sha256=x7w7xnzzDjY_ZTJLyXerbq4EEM-KlMmZ7lxHB_kzDU0,91
+table15/runner.py,sha256=3sobz5P1q0AM7Ih9LKPnVPyiqze6OCsp5YFKEvYLr74,2302
+table15/utils/magec_utils.py,sha256=_-76YJ-RJPKsNUs4K6vdGYSAqrfFNuCKHXFvmTmih3g,26596
+table15/utils/pima_utils.py,sha256=YPzk6e6oXHFDkJt_IppUSZ84Ldgg0ASd7Qt610smmvA,8512
+table15/utils/pipeline_utils.py,sha256=ILD-JxzWAwZ_4NanE2gpD2KUcH1SPvL8jIXu3dPdaTA,16745
+table15-1.0.0.dist-info/LICENSE,sha256=YqEgxMW-I7ewuV1YnAfYJFWgSj55E4PqRIqT9VicqdM,1083
+table15-1.0.0.dist-info/METADATA,sha256=mCTMTw3Ikwb_8rMaS8pZVW-y5nXbUa0It3fvy2V4e34,1748
+table15-1.0.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+table15-1.0.0.dist-info/entry_points.txt,sha256=TdZwsO7beDGpJTpKSVkgWnEywawTVI5drAVS103Kd-I,50
+table15-1.0.0.dist-info/top_level.txt,sha256=g7hDB4ev9e2OQ25uBno59rlQ7U1mglpJWYj_jH8liqg,17
+table15-1.0.0.dist-info/RECORD,,
