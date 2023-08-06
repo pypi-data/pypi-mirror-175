@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+cordstore/__init__.py
+cordstore/channel_storage.py
+cordstore/errors.py
+cordstore/uploaded_file.py
+cordstore/webhook_storage.py
+cordstore.egg-info/PKG-INFO
+cordstore.egg-info/SOURCES.txt
+cordstore.egg-info/dependency_links.txt
+cordstore.egg-info/requires.txt
+cordstore.egg-info/top_level.txt
