@@ -1,0 +1,11 @@
+bvlain/README.md,sha256=0rccf90YLbOtCCe6q9-5nwBboK2qwhGzMZpbJyWfPz4,195
+bvlain/__init__.py,sha256=L0x0PnhDwFiM8E5tOsyYtwBSw3zf3lfZWVbCKgGlec4,44
+bvlain/core.py,sha256=_meqS_MlvEmqv78H7QMHsm8vc02fCa0txUklV35RgJc,30744
+bvlain/data/anion.pkl,sha256=heJluQwq8tl_51FyjTM1bkPEe47lMBG2-XTpZPO0FD0,73317
+bvlain/data/cation.pkl,sha256=1d1hsBPbb1no6DXyFSp4JtCaXJEDRTmpvZxoCq4ArY8,81864
+bvlain/data/quantum_n.pkl,sha256=ZrHJPIMAg6XjXW_AMsmteU_LtoYXvo9d-9fQPkRL-jY,3217
+bvlain-0.1.4.dist-info/LICENSE,sha256=snKAXCWnrXyICuT7isA4uZhOEZ2za_1BKaZVbOCMm3s,1074
+bvlain-0.1.4.dist-info/METADATA,sha256=EiY32AifK4EoXt-R8CuZdhulVJcs7zcWPUCXYoA4ewE,878
+bvlain-0.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bvlain-0.1.4.dist-info/top_level.txt,sha256=Yy3xCMI9d0qMqK5RPL2e9UJSYlgRQLjbza8QlDpqZng,7
+bvlain-0.1.4.dist-info/RECORD,,
