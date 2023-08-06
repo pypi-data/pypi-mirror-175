@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: rolos
+Version: 0.1.0
+Summary: root project for Rolos python namespace
+Home-page: https://rolos.com
+License: Apache-2.0
+Author: Andriy Svyetlov
+Author-email: andriy.svyetlov@rolos.com
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development
+Classifier: Topic :: Utilities
+Project-URL: Repository, https://github.com/sit-rolos/rolos
+Description-Content-Type: text/markdown
+
+# rolos
+root project for Rolos python namespace
+
