@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: vaip_api_noaa_nesdis_ncei
+Version: 0.0.1
+Summary: A package representing an API implementation of the vAIP ontology
+Author-email: NCEI <ncap.support@noaa.gov>
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+Use the vAIP API to help build up instances based on the vaip ontology.
+
