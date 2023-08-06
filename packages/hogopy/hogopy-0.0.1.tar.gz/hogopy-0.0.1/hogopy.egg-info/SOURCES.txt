@@ -1,0 +1,6 @@
+hogopy.py
+hogopy.egg-info/PKG-INFO
+hogopy.egg-info/SOURCES.txt
+hogopy.egg-info/dependency_links.txt
+hogopy.egg-info/not-zip-safe
+hogopy.egg-info/top_level.txt
