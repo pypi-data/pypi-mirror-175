@@ -1,0 +1,8 @@
+astrometry_extension.cpython-36m-darwin.so,sha256=K49D5XJ0LpH7P8LGB87BbxRpOrxvKY7m7tjwK1OPit0,1746112
+astrometry/__init__.py,sha256=A184s3QND04TleF4GVIdJ5dTEDNWA3YUPpJIjnZ568I,9027
+astrometry/series.py,sha256=jxjYjErENEcxiAO2KHMyyf1AgeQrYPeXOFUWQLsYrWY,38121
+astrometry-3.0.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+astrometry-3.0.0.dist-info/METADATA,sha256=DECqKscv2BSHPIqIixNQBGzp1-_jXomx4RLtRDOyxhM,33615
+astrometry-3.0.0.dist-info/WHEEL,sha256=ye8A2lA8pjGNe7-ueOpggarJAhczq3EZGqnLZzzfQYQ,110
+astrometry-3.0.0.dist-info/top_level.txt,sha256=X-InsycmPVMeVe2uBm7BEHKMT4UE9YDeb5iyn9ooI5Y,32
+astrometry-3.0.0.dist-info/RECORD,,
