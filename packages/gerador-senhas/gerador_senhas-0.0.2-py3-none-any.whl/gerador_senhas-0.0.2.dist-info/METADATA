@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: gerador-senhas
+Version: 0.0.2
+Summary: Pacote para gerar senhas aleatórias contendo números, letras e caracteres especiais.
+Home-page: https://github.com/Raf-RM/Bootcamp-Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/master/Python-para-cientistas-de-dados/Projeto_Criacao_de_Pacotes_em_Python
+Author: Rafael Rodrigues Mateus
+Author-email: rafael.r.mateus@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+O pacote gerador_senha é utilizado para:
+	- Gerar senhas de tamanhos variádos que podem ou não conter letras, números e caracteres especiais, de acordo com especificações prévias.
+	- Verificar se na senha gerada estão presentes os itens letra, números e caracteres especiais, especificados previamente.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install gerador_senha
+```
+
+## Usage
+
+```python
+from gerador_senhas import construtor_senha
+```
+
+## Author
+Rafael Rodrigues Mateus
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
