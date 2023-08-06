@@ -1,0 +1,10 @@
+grid_table_py/__init__.py,sha256=CCILQGvm9WC7r0QAYMSmwDdcyktPPSAwour0ML33860,40
+grid_table_py/grid_table_py.py,sha256=F4KpyPlHa2wUbavVZRR4QWHcMKLeN8Cqd6i-NcOpJKI,1926
+grid_table_py/support/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+grid_table_py/support/markdown_table_builder.py,sha256=w87g-pNOU0gN1W0TPzA4zoNsO5DA0GM2Ver7XFJ9q8U,6662
+grid_table_py/support/table_ingest.py,sha256=GB-yR0W7BB83ywBW0xEkZ7u2536mzJzKXgPZ2Z8dgGo,3649
+grid_table_py-0.1.1.dist-info/entry_points.txt,sha256=xHgFsCRx6GwncU1QACdNRzK0g2xLVGp2dTF7Gj25Z6I,65
+grid_table_py-0.1.1.dist-info/LICENSE,sha256=D4aLiy9iZBqfOjaAFBVUyDXOJxX1etBFHvEwW2mUVd8,1068
+grid_table_py-0.1.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+grid_table_py-0.1.1.dist-info/METADATA,sha256=hcPB7fSs5SBhKDV-0NoGS0B_HrwGtgcwqX1aXKgpfRk,996
+grid_table_py-0.1.1.dist-info/RECORD,,
