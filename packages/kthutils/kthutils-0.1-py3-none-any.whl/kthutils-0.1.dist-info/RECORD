@@ -1,0 +1,10 @@
+kthutils/.gitignore,sha256=3bFDIcE3M_JBm4BVrgN780to3lLMnZ1kQSo8Cl2iHXs,26
+kthutils/Makefile,sha256=u9YwcnK5SnHE00KYz6ZpyqUmGzqpuJeU0PJTjCG9Vw8,186
+kthutils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kthutils/ug.nw,sha256=OiR_MA_xwtJntpus2NKhu_RRCcLY8kjUYf8OlFsuarc,5516
+kthutils/ug.py,sha256=PwD1L6g6hum_EsdB8MiT7cnlu30p2IcGniZpu8hO49k,3122
+tests/test_ug.py,sha256=SBu2bBToXqDd4iGD53DmoQl-KgA5NQGFCksgVMbAIOg,312
+kthutils-0.1.dist-info/LICENSE,sha256=YNt1pf6VvEcvHLHKzqVOsdXXP5dyh1nz0oDD00evbis,1068
+kthutils-0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+kthutils-0.1.dist-info/METADATA,sha256=UGd8agINLV8RxLlNTz3ZL4T-z2kc_qOsEt9UxxvaZVA,513
+kthutils-0.1.dist-info/RECORD,,
