@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: astream
+Version: 0.1.1
+Summary: 
+Author: Pedro Batista
+Author-email: pedrovhb@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: wrapt (>=1.14.1,<2.0.0)
