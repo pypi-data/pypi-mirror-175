@@ -1,0 +1,9 @@
+markdown
+yamlns
+beautifulsoup4
+decorator
+pytest
+responses
+geocoder
+mkdocs
+mkdocs-material
