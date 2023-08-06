@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+minud.egg-info/PKG-INFO
+minud.egg-info/SOURCES.txt
+minud.egg-info/dependency_links.txt
+minud.egg-info/requires.txt
+minud.egg-info/top_level.txt
