@@ -1,0 +1,9 @@
+memnet/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+memnet/mapping.py,sha256=M1_MRIDFB8ashTeY910xLqn0XXDClongdb1AqvFoSAo,4267
+memnet/nonidealities.py,sha256=tvl9J762bhmDXqG3eowIV3w5e2c8DkajeeFD36An27U,11278
+memnet/utils.py,sha256=erjClck9Cr_ux93f7riMGH5CCpGereO9FuW5pzlpEVE,2799
+memnet-0.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+memnet-0.0.1.dist-info/METADATA,sha256=hHcfd0gzugMhJ70fHWTpadQO8GYio7uM_NMLgFygtIA,1053
+memnet-0.0.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+memnet-0.0.1.dist-info/top_level.txt,sha256=V-sLoHkpnKTY-i53gFKzhpjzmHccLltpNfrAGlgY7c0,7
+memnet-0.0.1.dist-info/RECORD,,

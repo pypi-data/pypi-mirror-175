@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: memnet
+Version: 0.0.1
+Summary: A set of useful classes and functions for dealing with neural networks implented using memristive crossbar arrays.
+Home-page: https://github.com/joksas/memnet
+Author: Dovydas Joksas
+Author-email: dovydas.joksas@ucl.ac.uk
+Project-URL: Bug Tracker, https://github.com/joksas/memnet/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: KDEpy (>=1.1.0)
+Requires-Dist: numpy (>=1.23.4)
+Requires-Dist: scipy (>=1.9.3)
+Requires-Dist: tensorflow-probability (>=0.18.0)
+Requires-Dist: tensorflow (>=2.10.0)
+
+# memnet
+
+memnet (short for "memristive neural network") is a set of useful classes and functions for dealing with neural networks implented using memristive crossbar arrays.
+Initially ported from [this repo](https://github.com/joksas/nonideality-aware-mnn-training).
