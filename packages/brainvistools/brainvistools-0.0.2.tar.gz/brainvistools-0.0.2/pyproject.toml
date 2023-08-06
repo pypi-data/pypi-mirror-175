@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "brainvistools"
+version = "0.0.1"
+authors = [
+  { name="Leon Martin", email="leon.martin@bih-charite.de" },
+]
+description = "Plotting tools for brain visualization"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://git.bihealth.org/martinl/brainvistools"
+"Bug Tracker" = "https://git.bihealth.org/martinl/brainvistoolsissues"

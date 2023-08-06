@@ -1,0 +1,11 @@
+hcp_utils
+matplotlib
+mayavi
+networkx
+nibabel
+nilearn
+nltools
+numpy
+pandas
+pysurfer
+surfer
