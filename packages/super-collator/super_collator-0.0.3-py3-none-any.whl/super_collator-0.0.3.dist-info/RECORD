@@ -1,0 +1,8 @@
+super_collator/__init__.py,sha256=iMtqD4vO0qOAGxIr7Ld5uqs-jLMzHfxdKho1ksBkgjE,45
+super_collator/aligner.py,sha256=Fr1oSMUkZXoqJkKXVKtebSXp2M1c_QWlDUGUuf7bjDg,9039
+super_collator/ngrams.py,sha256=GEMyjGlB_55-rpzczQ0JAH16W3f-W48VzQD9Iemb-dk,1147
+super_collator/super_collator.py,sha256=s5h_xjebk08e-GdySfCY8mpDit8U9tLc9ygvUR5TwoI,756
+super_collator-0.0.3.dist-info/METADATA,sha256=e__731Q9S_usZTmP0Jeiie9A9h8CywUj5yqZNusEowM,2412
+super_collator-0.0.3.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+super_collator-0.0.3.dist-info/licenses/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+super_collator-0.0.3.dist-info/RECORD,,
