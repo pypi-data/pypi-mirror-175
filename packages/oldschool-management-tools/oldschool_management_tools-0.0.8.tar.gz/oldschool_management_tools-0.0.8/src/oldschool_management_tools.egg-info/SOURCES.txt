@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/oldschool_management_tools/mgmt_tools_cmd.py
+src/oldschool_management_tools/oldschool_management_tools.py
+src/oldschool_management_tools.egg-info/PKG-INFO
+src/oldschool_management_tools.egg-info/SOURCES.txt
+src/oldschool_management_tools.egg-info/dependency_links.txt
+src/oldschool_management_tools.egg-info/requires.txt
+src/oldschool_management_tools.egg-info/top_level.txt
+src/oldschool_management_tools/calendar_items/calendar_item.py
+src/oldschool_management_tools/special_prompts/special_prompts.py
