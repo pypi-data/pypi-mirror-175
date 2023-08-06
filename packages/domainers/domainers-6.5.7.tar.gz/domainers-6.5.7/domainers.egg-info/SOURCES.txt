@@ -1,0 +1,13 @@
+README.md
+setup.py
+domainers/__init__.py
+domainers/fetch_and_prepare.py
+domainers/huge_dict.py
+domainers/log_setup.py
+domainers/main.py
+domainers/smaller_dict.py
+domainers.egg-info/PKG-INFO
+domainers.egg-info/SOURCES.txt
+domainers.egg-info/dependency_links.txt
+domainers.egg-info/requires.txt
+domainers.egg-info/top_level.txt
