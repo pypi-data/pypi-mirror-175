@@ -1,0 +1,7 @@
+[project]
+name = "openstat"
+version = "1.5"
+dependencies = [
+    "numpy",
+    "sympy",
+]
