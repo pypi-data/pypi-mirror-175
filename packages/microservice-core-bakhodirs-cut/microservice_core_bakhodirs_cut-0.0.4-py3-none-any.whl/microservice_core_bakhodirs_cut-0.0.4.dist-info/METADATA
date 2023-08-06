@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: microservice_core_bakhodirs_cut
+Version: 0.0.4
+Summary: Microservice Core Package
+Author-email: Bakhodir Ramazonov <boxa.developer@gmail.com>, Tukhtamurod Isroilov <t.isroilov0711@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+# microservice_core
+Core Functionalities Packaged
+
