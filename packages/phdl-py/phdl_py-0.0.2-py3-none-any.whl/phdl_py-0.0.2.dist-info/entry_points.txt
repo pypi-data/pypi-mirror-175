@@ -1,0 +1,3 @@
+[console_scripts]
+phdl=phdl_py.main:app
+
