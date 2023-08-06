@@ -1,0 +1,2 @@
+[console_scripts]
+leeteasy = leeteasy.__main__:main
