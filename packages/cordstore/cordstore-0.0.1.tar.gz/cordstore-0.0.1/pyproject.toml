@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cordstore"
+version = "0.0.1"
+authors = [
+  { name="jxzper" },
+]
+description = "Utilize discord to store files in textchannels using bots or webhooks"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://github.com/jxzper/cordstore"

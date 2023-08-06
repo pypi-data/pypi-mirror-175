@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cordstore
+Version: 0.0.1
+Summary: Utilize discord to store files in textchannels using bots or webhooks
+Home-page: https://github.com/jxzper/cordstore
+Author: jxzper
+License: MIT
+Project-URL: Homepage, https://github.com/jxzper/cordstore
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# CordStore
+Utilize discord to store files in textchannels using bots or webhooks
+
+---
