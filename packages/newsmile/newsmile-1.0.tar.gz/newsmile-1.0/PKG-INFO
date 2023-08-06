@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: newsmile
+Version: 1.0
+Summary: A Package containing tools for decoding/encoding Smile Format data to/from python object
+Project-URL: Smile (data interchange format), https://en.wikipedia.org/wiki/Smile_%28data_interchange_format%29
+Project-URL: Smile Format Specification, https://github.com/FasterXML/smile-format-specification
+Author-email: Laurent Mornet <laurent.mornet@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# NewSmile
+## Another Smile Format Decoder/Encoder for Python 3
+
+### Decoding example
+```python
+from newsmile import SmileDecoder
+decoder = SmileDecoder()
+with open('smile-data-file', 'rb') as smile_file:
+    data = decoder.decode(smile_file.read())
+```
+
+### Encoding example
+```python
+import json
+from newsmile import SmileEncoder
+encoder = SmileEncoder(shared_values=True, encoding='iso-8859-1')
+dico = {'a': 1, 'b': [2, 3, 4], 'c': {'subkey': 'a string'}}
+smile_data = encoder.encode(json.dumps(dico))
+```
+
+### Running tests
+```bash
+cd tests
+```
+```python
+python test.py
+```
