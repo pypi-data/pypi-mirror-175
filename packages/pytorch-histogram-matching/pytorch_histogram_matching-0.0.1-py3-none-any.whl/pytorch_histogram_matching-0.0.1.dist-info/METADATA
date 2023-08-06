@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: pytorch-histogram-matching
+Version: 0.0.1
+Summary: pytorch implementation of histogram matching
+Home-page: https://github.com/nemodleo/pytorch-histogram-matching
+Author: Hyun Park
+Author-email: nemod.leo@snu.ac.kr
+License: MIT
+Keywords: hm color pytorch histogram matching
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >= 3.6
+Description-Content-Type: text/markdown
+
+# pytorch-histogram-matching
+
+## Installation
+```bash
+pip install pytorch_histogram_matching
+```
+
+## Usage
+```python
+from pytorch_histogram_matching import Histogram_Matching
+
+dst = torch.randint(0, 256, (3, 512,512)) / 255.
+ref = torch.randint(0, 256, (3, 512,512)) / 255.
+
+HM = Histogram_Matching()
+rst = HM(dst, ref)
+```
+
+## Test
+```bash
+python test.py
+```
+![img](src/total.jpg)
+
