@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+dataclass_map_and_log/__init__.py
+dataclass_map_and_log/mapper.py
+dataclass_map_and_log.egg-info/PKG-INFO
+dataclass_map_and_log.egg-info/SOURCES.txt
+dataclass_map_and_log.egg-info/dependency_links.txt
+dataclass_map_and_log.egg-info/requires.txt
+dataclass_map_and_log.egg-info/top_level.txt
