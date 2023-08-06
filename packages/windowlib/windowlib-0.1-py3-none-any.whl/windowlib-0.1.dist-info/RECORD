@@ -1,0 +1,11 @@
+concept/__init__.py,sha256=C9gB5ozJLIyBsjp--JUPb3-npIJ8htpMBto8X_yV9p0,58
+concept/character_creator.py,sha256=I1eGF6GDLOYAoJeo9sgrXWshG5iydGEDt7RbxkWhaeA,2304
+windowlib/__init__.py,sha256=8_w9MpQm-9fdH2FprOAa1jt415Nc48dcQ1x_KLD7sx8,92
+windowlib/colors.py,sha256=L0RC50ODVRwwnAPihQfuanZ9TqoOZwxIJ9gLZYVAbeY,2886
+windowlib/errorinterface.py,sha256=T_Qatzh88NayQZX6VSrcieJlM1GXgUqHycLHWP1hDUc,1881
+windowlib/gm.py,sha256=_G-Wuc1lwQe2qlATsr24YTiVDeRKYnxaEllkF2YYy1Q,1555
+windowlib/window.py,sha256=Ah-xqZjV0b1luC-KCAzA8GuLJvBa0yIA73aSfUfLFhA,22639
+windowlib-0.1.dist-info/METADATA,sha256=2kjgevGnKWHelBEcthgSwy9IzMQ_Lqtnno_yHk_pPYQ,216
+windowlib-0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+windowlib-0.1.dist-info/top_level.txt,sha256=7xv_wB5uLiCjS3pXYlFx7HJKlop-ngL1jzZAwclQV7Q,18
+windowlib-0.1.dist-info/RECORD,,
