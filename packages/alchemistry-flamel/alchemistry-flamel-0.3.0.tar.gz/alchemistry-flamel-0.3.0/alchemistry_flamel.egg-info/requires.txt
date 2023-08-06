@@ -1,0 +1,9 @@
+alchemlyb>=1.0
+
+[:python_version < "3.12"]
+importlib-resources
+
+[test]
+pytest>=6.1.2
+pytest-runner
+pytest-mock
