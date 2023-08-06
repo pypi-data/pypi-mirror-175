@@ -1,0 +1,106 @@
+Metadata-Version: 2.1
+Name: apmultitool
+Version: 0.1.7
+Summary: CLI Multitool.
+Home-page: https://github.com/alexpdev/multitool
+Author: alexpdev
+Author-email: alexpdev <alexpdev@pm.me>
+License: =?utf-8?q?The_MIT_License_=28MIT=29?=
+ =?utf-8?b?ID09PT09PT09PT09PT09PT09PT09PQ==?=
+ =?utf-8?q?_?=
+ =?utf-8?b?IENvcHlyaWdodCDCqSBgPHllYXI+YCBgPGNvcHlyaWdodCBob2xkZXJzPmA=?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_Permission_is_hereby_granted=2C_free_of_charge=2C_to_any_person?=
+ =?utf-8?q?_obtaining_a_copy_of_this_software_and_associated_documentation?=
+ =?utf-8?q?_files_=28the_=E2=80=9CSoftware=E2=80=9D=29=2C_to_deal_in_the_Software_without?=
+ =?utf-8?q?_restriction=2C_including_without_limitation_the_rights_to_use=2C?=
+ =?utf-8?q?_copy=2C_modify=2C_merge=2C_publish=2C_distribute=2C_sublicense=2C_and/or_sell?=
+ =?utf-8?q?_copies_of_the_Software=2C_and_to_permit_persons_to_whom_the?=
+ =?utf-8?q?_Software_is_furnished_to_do_so=2C_subject_to_the_following?=
+ =?utf-8?q?_conditions=3A?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_The_above_copyright_notice_and_this_permission_notice_shall_be?=
+ =?utf-8?q?_included_in_all_copies_or_substantial_portions_of_the_Software=2E?=
+ =?utf-8?q?_?=
+ =?utf-8?q?_THE_SOFTWARE_IS_PROVIDED_=E2=80=9CAS_IS=E2=80=9D=2C_WITHOUT_WARRANTY_OF_ANY_KIND=2C?=
+ =?utf-8?q?_EXPRESS_OR_IMPLIED=2C_INCLUDING_BUT_NOT_LIMITED_TO_THE_WARRANTIES?=
+ =?utf-8?q?_OF_MERCHANTABILITY=2C_FITNESS_FOR_A_PARTICULAR_PURPOSE_AND?=
+ =?utf-8?q?_NONINFRINGEMENT=2E_IN_NO_EVENT_SHALL_THE_AUTHORS_OR_COPYRIGHT?=
+ =?utf-8?q?_HOLDERS_BE_LIABLE_FOR_ANY_CLAIM=2C_DAMAGES_OR_OTHER_LIABILITY=2C?=
+ =?utf-8?q?_WHETHER_IN_AN_ACTION_OF_CONTRACT=2C_TORT_OR_OTHERWISE=2C_ARISING?=
+ =?utf-8?q?_FROM=2C_OUT_OF_OR_IN_CONNECTION_WITH_THE_SOFTWARE_OR_THE_USE_OR?=
+ =?utf-8?q?_OTHER_DEALINGS_IN_THE_SOFTWARE=2E?=
+ =?utf-8?q?_?=
+Keywords: CLI
+Classifier: Environment :: Console
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Multitool
+
+![GitHub repo size](https://img.shields.io/github/repo-size/alexpdev/multitool)
+![GitHub contributors](https://img.shields.io/github/contributors/alexpdev/multitool)
+![GitHub stars](https://img.shields.io/github/stars/alexpdev/multitool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alexpdev/multitool?style=social)
+
+`multiTool` is a command line interface with an array of features that can generally make life easier.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* You have `python3` installed
+
+## Installing Multitool
+
+To install `multitool`, follow these steps:
+
+> in a terminal
+
+```bash
+git clone https://github.com/alexpdev/multitool.git
+cd multitool
+python setup.py install
+```
+
+## Using Multitool
+
+To use `multitool`, follow these steps:
+
+### TODO
+
+## Contributing to Multitool
+
+To contribute to `multitool`, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Contact
+
+If you want to contact me you can reach me through Github Issues for the repository.
+
+## License
+
+This project uses the following license: [MIT](https://github.com/alexpdev/multitool/LICENSE.md).
