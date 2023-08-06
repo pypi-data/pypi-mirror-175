@@ -1,0 +1,12 @@
+# Core
+jax
+jaxlib
+equinox
+optax
+
+# Extra
+matplotlib
+jupyter
+jupyterlab
+tqdm
+chainconsumer
