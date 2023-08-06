@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: uvraspy
+Version: 0.0.1
+Summary: A Python package for Raspberry Pi
+Home-page: UNKNOWN
+Author: csM5-22-25
+Author-email: n.aukes@student.utwente.nl
+License: UNKNOWN
+Keywords: python,RasPy,uvedora,pihat,fedora
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+
+
+# UVedora RasPy
+
