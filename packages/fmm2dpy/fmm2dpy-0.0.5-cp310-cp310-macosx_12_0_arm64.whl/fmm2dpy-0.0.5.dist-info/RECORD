@@ -1,0 +1,13 @@
+fmm2dpy-0.0.5.dist-info/RECORD,,
+fmm2dpy-0.0.5.dist-info/WHEEL,sha256=xBRw0o-jUJvuKe0FuacfvvaiffCdrJXjhTli9LcE-Dk,110
+fmm2dpy-0.0.5.dist-info/top_level.txt,sha256=2fkJGbN-Qx76hy_SEdjSfjWhK7zMo4KdMCj_o-HYbU0,8
+fmm2dpy-0.0.5.dist-info/METADATA,sha256=MZoelX7N1hAtXJs3RUEZWYoajv0Uc59gpNYE2O9zYZI,973
+fmm2dpy/__init__.py,sha256=j3y6WATeVGYWgM-rnnHePkranDKVVRd11u1nSw49da4,106
+fmm2dpy/hfmm2d_fortran.cpython-310-darwin.so,sha256=jGL3-FEZ1SAjNqbr0yxM3j91KnSsy0WZBBpxFnjlLqs,645120
+fmm2dpy/fmm2d.py,sha256=OJaqgcPFfmZNJKIDjH_QMbuYA3iYoDGmJbKqttXY6Ng,83367
+fmm2dpy/lfmm2d_fortran.cpython-310-darwin.so,sha256=7fQqmRusU64iCjObwcDbdItyw2DZ8ttywVi5wh7kTZ0,1165952
+fmm2dpy/bhfmm2d_fortran.cpython-310-darwin.so,sha256=m3LmtxJlgTFGcdJtSNrQpIC9L0w3obKAXDSJOdiYk8I,319088
+fmm2dpy/.dylibs/libgfortran.5.dylib,sha256=mpyskRgcAPw9dPWc89BS82u98TRBwgEWALljUuUID58,1857536
+fmm2dpy/.dylibs/libquadmath.0.dylib,sha256=FumegU38Nd6dBaoTWzpVeU2urL-rfhhJhtDW0-QQpJ4,351792
+fmm2dpy/.dylibs/libgcc_s.1.1.dylib,sha256=cstoXHLdm5jr1DPQl5QYnw_HWPTpho-0o6E9tmhOkcg,157600
+fmm2dpy/.dylibs/libgomp.1.dylib,sha256=LBJsDyZE8Zvutnvb4JjPjw8gQxWoZ-tY8qj0rRaxGuw,413552
