@@ -1,0 +1,14 @@
+av
+cvat-sdk
+fire
+natsort
+opencv-python
+
+[dev]
+black
+isort
+jupyter
+pydocstyle
+pylint
+pytest
+pytest-cov
