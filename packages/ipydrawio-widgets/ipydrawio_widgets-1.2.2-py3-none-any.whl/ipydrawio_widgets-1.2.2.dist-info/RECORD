@@ -1,0 +1,12 @@
+ipydrawio_widgets/__init__.py,sha256=TOqPKDFwRtEd66LT4q0odIW-PAyISFcbhRsacahUEN8,790
+ipydrawio_widgets/_version.py,sha256=8g7IbWXu4PdNeoTFUkCHPtiSRlAPkq0cxhybcoonOFc,920
+ipydrawio_widgets/constants.py,sha256=uFEpbHfckTyivipL0yfpbY3apNiLbNEbeqzFKzAAl-A,1267
+ipydrawio_widgets/schema.py,sha256=l86lOrocdPYGI82VS_ISx6Gv_P9dJTNFqR0dVDNe8Fc,906
+ipydrawio_widgets/widget_diagram.py,sha256=fou3q5CmRKYs-g6IkKflZlnpiShW_pMdJeJkuQmoroc,3413
+ipydrawio_widgets/js/package.json,sha256=YRI_WeHgDqkPcnK7CYn0L13ljvZm98in9v7ous_SSIw,2040
+ipydrawio_widgets/js/plugin.json,sha256=Aas70YQ5Bf9Di5iiOEljHF2JR5Qc3nl9DfbpCSSg-Kk,35533
+ipydrawio_widgets-1.2.2.dist-info/LICENSE.txt,sha256=tAkwu8-AdEyGxGoSvJ2gVmQdcicWw3j1ZZueVV74M-E,11357
+ipydrawio_widgets-1.2.2.dist-info/METADATA,sha256=JbG68n_0qKrZXzSKhaXDbvRMhLL8wYdGSEDIciUIHQQ,4587
+ipydrawio_widgets-1.2.2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+ipydrawio_widgets-1.2.2.dist-info/top_level.txt,sha256=YeEFYwjewk-xIbyIMSr2n0aiQVwySaMs45LXi0v9dpo,18
+ipydrawio_widgets-1.2.2.dist-info/RECORD,,
