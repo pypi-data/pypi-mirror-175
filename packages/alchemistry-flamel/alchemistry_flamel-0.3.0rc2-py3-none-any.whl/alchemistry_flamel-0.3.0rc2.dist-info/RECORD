@@ -1,0 +1,13 @@
+flamel/__init__.py,sha256=HIur8vcSMz2lEdbI6QK-e0TRJOSiwapaLWLCXsxjrt8,129
+flamel/_version.py,sha256=GPgS7rgpwPf2ROsJ-5zmIbR_ny8R1c4xpdJeyGNriwQ,25
+flamel/flamel.py,sha256=y7AVXs5B2ojIveE-vVqzR-rc8w0AxLnQ0fB3bhXPffc,6281
+flamel/py.typed,sha256=o_skYYOgBqbwMt-5lUZDunyM7CcemHaJt2k9MsSACeY,61
+flamel/tests/__init__.py,sha256=nRKPWsTbB025bJRfX6ZOZayBVXMs3HMdd_JXUPpjWnA,113
+flamel/tests/test_flamel.py,sha256=ma0AU9Ub4mXJs-QRZ662OKRFbOznKN6WrPCuCJ_WjTg,1498
+alchemistry_flamel-0.3.0rc2.dist-info/AUTHORS,sha256=Thjgiqi192y-2drvxgmICFRkjCOfYAeyvMs92dHBWRw,467
+alchemistry_flamel-0.3.0rc2.dist-info/LICENSE,sha256=6bpohUFn6e2MZj8mH-9hmQpZWHkyT-k4xfL74iG2H28,1457
+alchemistry_flamel-0.3.0rc2.dist-info/METADATA,sha256=iHqMOLdpaeDxGchBDxfyPhUmyEclBbcqtuhd-cufFi4,5245
+alchemistry_flamel-0.3.0rc2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+alchemistry_flamel-0.3.0rc2.dist-info/entry_points.txt,sha256=HNdSdCgeoW_GNZB2Z9P8MaXZjBottEuQEiiFN7eiQzw,46
+alchemistry_flamel-0.3.0rc2.dist-info/top_level.txt,sha256=OSPmQww8ZVwg_Nso6UKjvgaoezWntR-mVvDFpAwJzro,7
+alchemistry_flamel-0.3.0rc2.dist-info/RECORD,,
