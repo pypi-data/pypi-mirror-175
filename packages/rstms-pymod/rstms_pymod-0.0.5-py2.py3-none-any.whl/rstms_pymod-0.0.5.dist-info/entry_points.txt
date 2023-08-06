@@ -1,0 +1,3 @@
+[console_scripts]
+pymod=rstms_pymod:cli
+
