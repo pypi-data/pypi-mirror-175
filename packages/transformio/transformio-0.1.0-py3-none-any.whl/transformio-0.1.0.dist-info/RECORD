@@ -1,0 +1,11 @@
+transformio/__init__.py,sha256=8E8AgCg75gRwPoYHtx7ujle35cq5XuPHLCTN9MtjqgM,111
+transformio/accuracy.py,sha256=s1PByuJPp8iEw26R_N8oDo3GIwxKXuSrkbqUnWV5FCQ,9290
+transformio/imwarp.py,sha256=CsISUWj2oYctouXFjZYOfHt76XBs6kS_q9lanyOPpEg,15922
+transformio/transforms.py,sha256=hn_ZkpbkMwd28AY2VkprTjqLjV5DtQFTnrA7FYrCVSk,23309
+transformio/utils.py,sha256=DAf_XfvlCQE1Mw9OhJMw49gQZLLFOZionfbnGdJibAE,2500
+transformio/vector.py,sha256=-78V65sDv5DyRlmVvjVBLAOSO5wsEECoZpqzMJ7tQ5g,5079
+transformio-0.1.0.dist-info/LICENSE,sha256=4Zk9eq17fPa_4FFnz4xqswvl345wZB93_fGvB50Mk8I,1069
+transformio-0.1.0.dist-info/METADATA,sha256=VCmy1HZngBVgkj_B_94uPQwOEmeZ4LIXDJCMfW2fk9E,703
+transformio-0.1.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+transformio-0.1.0.dist-info/top_level.txt,sha256=SaMTZebCQjWlalCnfTF2mJXNNrbcLJQYriPO6yBVG6M,12
+transformio-0.1.0.dist-info/RECORD,,
