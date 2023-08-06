@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hugie/__init__.py
+hugie/cli.py
+hugie/endpoint.py
+hugie/settings.py
+hugie/utils.py
+hugie.egg-info/PKG-INFO
+hugie.egg-info/SOURCES.txt
+hugie.egg-info/dependency_links.txt
+hugie.egg-info/entry_points.txt
+hugie.egg-info/requires.txt
+hugie.egg-info/top_level.txt
