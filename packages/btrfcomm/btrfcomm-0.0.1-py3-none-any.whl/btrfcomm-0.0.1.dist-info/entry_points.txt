@@ -1,0 +1,2 @@
+[console_scripts]
+btrfcomm = btrfcomm.__main__:main
