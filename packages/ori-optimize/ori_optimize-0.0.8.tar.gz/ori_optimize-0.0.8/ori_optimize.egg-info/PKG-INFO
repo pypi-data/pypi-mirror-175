@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: ori-optimize
+Version: 0.0.8
+Summary: a environment that controls STL model rotate to reach the maximal 3D printing quality.
