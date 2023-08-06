@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+flask_pydantic_serializers/__init__.py
+flask_pydantic_serializers/base.py
+flask_pydantic_serializers/json_mixin.py
+flask_pydantic_serializers/timestamps.py
+flask_pydantic_serializers.egg-info/PKG-INFO
+flask_pydantic_serializers.egg-info/SOURCES.txt
+flask_pydantic_serializers.egg-info/dependency_links.txt
+flask_pydantic_serializers.egg-info/requires.txt
+flask_pydantic_serializers.egg-info/top_level.txt
