@@ -1,0 +1,56 @@
+CHANGES
+=======
+
+1.0.1
+-----
+
+* going pbr
+* option to return the cmat without the mass scaling
+* add pip badge
+
+1.0.0
+-----
+
+* Create LICENSE.txt
+* README typo
+* setup.py
+* clean the tests
+* opti tests upd
+* rename
+* cleanup and README for pip
+* upd
+* mrgd
+* restruc of module
+* upds
+* major bug: X and Y directions in definition of B were swapped
+* check the input operator columnwise
+* all tests running
+* pressure avg test pass -- added subdom test
+* unit test
+* gonna remove the check for inner indices --- some dolfin2018.1
+* going dolfin 2018.1
+* try except for elder fenics versions
+* went python3
+* maybe now need to specify LA-backend here
+* pcmat sparse and test
+* now for fenics 1.7
+* Expressions ready for fenics 1.8
+* new fenics - new plots
+* adaption to fenics v1.7 -- unittest pass
+* sm chngs
+* mods
+* pressure output mat added - plus test case
+* func to assemble mat for local p averages
+* benh14
+* added sparsedense vetmac to lau --- output extract in btu
+* mocking for rtd -- 1st parent module - 2nd submodule
+* mocking for rtd
+* rtd pip file
+* docu
+* home
+* tests to testsfolder
+* routines for testing how in and output are sampled
+* init.py
+* mpi
+* unittests pass
+* ini commi
