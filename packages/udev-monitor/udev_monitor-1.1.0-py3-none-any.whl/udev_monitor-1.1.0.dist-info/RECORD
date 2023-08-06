@@ -1,0 +1,8 @@
+udev_monitor/__init__.py,sha256=xKvXSOK_S1OTTOIuaxHgZZjIL93p2UI3xexCAgfJV6Q,122
+udev_monitor/udev_monitor.py,sha256=BOxCJTewxPC1s_Zzhqlcdcqk5Q4E684B5Ea8OVk2GUs,7884
+udev_monitor-1.1.0.data/scripts/udev_monitor.py,sha256=OmWQ5oC_IsMakUvbIUlVGiVb5QfpofdlqRk3neoi0Mk,7870
+udev_monitor-1.1.0.dist-info/LICENSE,sha256=EkPy3kCsBCM_pRGcN3bDEWEeWNYK8xOl3O2Gsp8ME_8,1551
+udev_monitor-1.1.0.dist-info/METADATA,sha256=vqqDDldv_Ip3GigBXhhfeLej8wcguv5X75VVln-cvgI,3126
+udev_monitor-1.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+udev_monitor-1.1.0.dist-info/top_level.txt,sha256=wC9L57tOTlrAew0tij1ooqdlezgGzEupk8-BW2MtLig,13
+udev_monitor-1.1.0.dist-info/RECORD,,
