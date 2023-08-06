@@ -1,0 +1,16 @@
+.gitignore
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+mdocspoofer/__init__.py
+mdocspoofer/_version.py
+mdocspoofer/mdoc.py
+mdocspoofer/version.py
+mdocspoofer.egg-info/PKG-INFO
+mdocspoofer.egg-info/SOURCES.txt
+mdocspoofer.egg-info/dependency_links.txt
+mdocspoofer.egg-info/entry_points.txt
+mdocspoofer.egg-info/not-zip-safe
+mdocspoofer.egg-info/requires.txt
+mdocspoofer.egg-info/top_level.txt
