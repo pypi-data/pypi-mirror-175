@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: paasify
+Version: 0.1.0
+Summary: Paasify your docker-compose files
+License: Apache License
+Author: MrJK
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: anyconfig (>=0.13.0,<0.14.0)
+Requires-Dist: giturlparse (>=0.10.0,<0.11.0)
+Requires-Dist: jsonnet (>=0.18.0,<0.19.0)
+Requires-Dist: jsonschema (>=4.16.0,<5.0.0)
+Requires-Dist: oschmod (>=0.3.12,<0.4.0)
+Requires-Dist: pydantic (>=1.10.2,<2.0.0)
+Requires-Dist: ruamel.yaml (>=0.17.21,<0.18.0)
+Requires-Dist: semver (>=2.13.0,<3.0.0)
+Requires-Dist: sh (>=1.14.3,<2.0.0)
+Requires-Dist: typer (>=0.6.1,<0.7.0)
