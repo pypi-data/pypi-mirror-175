@@ -1,0 +1,11 @@
+respot/VERSION.txt,sha256=lB08GZ94LIjx5sbW385LyZgwGAfq_R-mg-kqCXOZ7w4,6
+respot/__init__.py,sha256=dn0dNEh17x3BT_I0pVq0u8fIOcOA62I-lXL_KCkVaLM,19
+respot/about.py,sha256=SVSc0geAjRRcOXPzhREUIgqqeenveaAWN6n_iWaa2Ng,584
+respot/gui.py,sha256=-A3cQCH5WMTUFfUq4vKpLVfbqXXfQ3ugIfpGNtQeWHo,30252
+respot/img/no-music.png,sha256=1Qn7vKnCmwJIS8RzRzaqgu9nUtu1nqtUVbBBS2bUCNc,1810
+respotgui-0.1.69.dist-info/LICENSE,sha256=Qkw9eUQT_msmFR_CeGMYlm9OE_fU6AS6bWKS9CEdRgg,11540
+respotgui-0.1.69.dist-info/METADATA,sha256=GBuUN2mUWtLFtX5260ZqTlpvOFTnL96oRgzR-62Ffr4,2543
+respotgui-0.1.69.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+respotgui-0.1.69.dist-info/entry_points.txt,sha256=Djt3noyU_AqNUv4CLhH58wYLzJL-oizFUPH3kFKS5U0,46
+respotgui-0.1.69.dist-info/top_level.txt,sha256=JgYU4pNWBbW-Br3o686RxLygF_65v2V5l0eKiDzIO4Q,7
+respotgui-0.1.69.dist-info/RECORD,,
