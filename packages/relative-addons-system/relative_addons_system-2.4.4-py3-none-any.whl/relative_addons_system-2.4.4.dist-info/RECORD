@@ -1,0 +1,17 @@
+RelativeAddonsSystem/__init__.py,sha256=p4dR0EIxaVNKvUgZuSk8nocNlileKOuzyzyb5NUOu2M,307
+RelativeAddonsSystem/libraries.py,sha256=-6k3G35zj5TsSK4JIDpqA2aGanrqauFRy8cFtSvm3hk,1928
+RelativeAddonsSystem/system.py,sha256=vWaww4ConMEaglrxUqwe0rg4InPDIsDlVc7EJBQ_Kbk,10587
+RelativeAddonsSystem/addon/__init__.py,sha256=3dWocWlyAdnvK0QGPCBH-SVFEzjRPIc2JsOesTmx6T8,5068
+RelativeAddonsSystem/addon/configuration.py,sha256=Z6iGemH8hT-0wMclJ09lKk-Hb9cmaVXIUacEeZf3hXg,1159
+RelativeAddonsSystem/addon/metadata.py,sha256=G21yNOphI-FilcKw8LbvOOnVmQ2E3jDAZjUa3-qibto,1549
+RelativeAddonsSystem/utils/__init__.py,sha256=yFHmuDUgjBrmY9rcBcRG3zqAqCDC7FChBYa362cb6XU,138
+RelativeAddonsSystem/utils/recursive_reload_module.py,sha256=tVIJwkW7AuV_TzE6c1CgHw7PrbpdvGn-jhu67sVojpM,382
+RelativeAddonsSystem/utils/version_checker.py,sha256=G_IOALxjqUtYnsXaALOHjPBtVKMlmq4PK-oddJKbER4,1442
+RelativeAddonsSystem/utils/version_tranform.py,sha256=FzFvlOWp2ZnIKDyUp6wA6O5VZ-8tvGANdeX07HkVHrY,397
+virtualenv/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+virtualenv/lib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+relative_addons_system-2.4.4.dist-info/LICENSE,sha256=LgsSSAMvIPmqFCwn3sbLmpF8PMJYutjAdmkBU_w2RuI,1064
+relative_addons_system-2.4.4.dist-info/METADATA,sha256=O6wtb18pLNhvl44jbwOYfMqErXKry0yvFbRp-DmRzP8,4648
+relative_addons_system-2.4.4.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+relative_addons_system-2.4.4.dist-info/top_level.txt,sha256=LRRehKz_p66Lil3rVClkxLRCa1friQQBStaQOHt2_B0,32
+relative_addons_system-2.4.4.dist-info/RECORD,,
