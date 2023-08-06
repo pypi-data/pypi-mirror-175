@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: vis-method
+Version: 2.9.1
+Summary: method of VIS
+Author: Hieu_black
+Author-email: tranxuanhieuhust@gmail.com
+Keywords: vis
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+
