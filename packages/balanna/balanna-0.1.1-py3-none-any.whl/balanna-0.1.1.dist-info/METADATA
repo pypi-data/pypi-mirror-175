@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: balanna
+Version: 0.1.1
+Summary: Visualization Tools for Humans and Stuff
+Author: Simon Schaefer & Dorian Henning
+Author-email: dorian.henning@gmail.com
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: numpy (>=1.21)
+Requires-Dist: trimesh[easy] (>=3.5.0)
+Requires-Dist: vedo
+Requires-Dist: PyQt5
+
