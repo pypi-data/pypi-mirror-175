@@ -1,0 +1,8 @@
+README.md
+setup.py
+ganzoo/__init__.py
+ganzoo/version.py
+pytorch_gan_zoo.egg-info/PKG-INFO
+pytorch_gan_zoo.egg-info/SOURCES.txt
+pytorch_gan_zoo.egg-info/dependency_links.txt
+pytorch_gan_zoo.egg-info/top_level.txt
