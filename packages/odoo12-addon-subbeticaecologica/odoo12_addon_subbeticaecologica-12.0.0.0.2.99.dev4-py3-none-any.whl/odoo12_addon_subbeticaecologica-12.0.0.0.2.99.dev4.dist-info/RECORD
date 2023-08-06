@@ -1,0 +1,12 @@
+odoo/addons/subbeticaecologica/__init__.py,sha256=RYGen4VvN9c8GXvMfZMuO7ERiyRCUJfuAbgo0aC3DEU,42
+odoo/addons/subbeticaecologica/__manifest__.py,sha256=LljPiZfcC6JVwyvaFJaUd4OsSDr3PYWON7vlWyKZQHo,488
+odoo/addons/subbeticaecologica/i18n/es.po,sha256=I_yHVdWj3tKWLLFUAXVZQcd4lgkPNFjkjsufaHgKR6E,939
+odoo/addons/subbeticaecologica/models/__init__.py,sha256=JHlvNFqmnhIqvnWMbl6ViAJXcRNmFo6FCsVhVMefuq4,22
+odoo/addons/subbeticaecologica/models/product.py,sha256=ojG0W1U7P6Vr-gVyAbKP1Py_4dz8DYnVcwx1xtOYAnM,613
+odoo/addons/subbeticaecologica/report/__init__.py,sha256=ByYRbiCY7uWnvbKwYusgp99HtcOyGnzWogDif_GEsec,26
+odoo/addons/subbeticaecologica/report/sale_report.py,sha256=5YWAixhDfOap2RAAbVRqPC_Z3BfY4RSgpLGmdiE-bZc,516
+odoo/addons/subbeticaecologica/templates/portal_templates.xml,sha256=_2FwpfS6XLCD3lhSh7bIjUzhMqP8G1xN4mdGvzU-XL8,403
+odoo12_addon_subbeticaecologica-12.0.0.0.2.99.dev4.dist-info/METADATA,sha256=RY_bNfYJeMBUTkRjJp3E4PjMcKYDGnPAXGiflVYX4uo,531
+odoo12_addon_subbeticaecologica-12.0.0.0.2.99.dev4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+odoo12_addon_subbeticaecologica-12.0.0.0.2.99.dev4.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo12_addon_subbeticaecologica-12.0.0.0.2.99.dev4.dist-info/RECORD,,
