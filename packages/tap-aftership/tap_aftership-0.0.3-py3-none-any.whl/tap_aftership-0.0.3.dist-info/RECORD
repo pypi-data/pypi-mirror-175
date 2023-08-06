@@ -1,0 +1,13 @@
+tap_aftership/__init__.py,sha256=PN7MjWnmukvD4jR8560nJ_L8QDnHy6sVnH65gjpK5uQ,32
+tap_aftership/client.py,sha256=D0hi7GhKaDGUj9qQeix1HOCitbbIgXQnJh0ZznCBTDc,1357
+tap_aftership/schemas/tracking.json,sha256=i2TTRIRDZ13XxBYmtQo3p_LiBfkKvoD-9cDu96WmABk,7851
+tap_aftership/schemas/trackings.json,sha256=7svGLzCr5SRsuTbF0Gmpqazq5m_JGDrUsUl-Pk96cVc,11176
+tap_aftership/streams.py,sha256=-EMDGfWRPqxKYQRDeXm7suk-clUJBdbpenJ40OUhgS4,1382
+tap_aftership/tap.py,sha256=jNrdOt3gjSovH14p7iw3YlhSwOS8d2_w7T_si40QIRk,1147
+tap_aftership/tests/__init__.py,sha256=v2493NqCaozU1ibCRIQ76VvyieLKRrtAb6bDcxN4NDs,272
+tap_aftership/tests/test_core.py,sha256=XXBCG9Z0L6_N-xDfg_TA-ILa2H6meLkE3upKKRrjoVE,970
+tap_aftership/tests/test_streams.py,sha256=juF7wV25gEyC_B1XyOplSsLQW8peejWXsFa4Ab2HKog,869
+tap_aftership-0.0.3.dist-info/entry_points.txt,sha256=XYV8SJAlJbW6xWPScFiT3EpwcyFkf0bA408YYTVVOLI,68
+tap_aftership-0.0.3.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+tap_aftership-0.0.3.dist-info/METADATA,sha256=1bns02xtq-B90DeJwD5tS8zotDW3i7g61xSfEIoXPec,577
+tap_aftership-0.0.3.dist-info/RECORD,,
