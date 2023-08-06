@@ -1,0 +1,7 @@
+colorama
+
+[dev]
+check-manifest
+
+[test]
+coverage
