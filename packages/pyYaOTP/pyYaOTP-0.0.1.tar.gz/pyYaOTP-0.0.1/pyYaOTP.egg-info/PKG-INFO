@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: pyYaOTP
+Version: 0.0.1
+Summary: Python implementation of Yandex OTP based on KeeYaOtp
+Home-page: https://github.com/WhiteApfel/pyYaOTP
+Author: WhiteApfel
+Author-email: white@pfel.ru
+License: Mozilla Public License 2.0
+Project-URL: Source code, https://github.com/WhiteApfel/pyYaOTP
+Project-URL: Write me, https://t.me/whiteapfel
+Keywords: yandex otp яндекс ключ yaotp
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pyYaOTP
+
+**Python implementation of Yandex OTP (Яндекс.Ключ) based on [KeeYaOtp](https://github.com/norblik/KeeYaOtp)**
+
+## Installation
+
+```shall
+python -m pip install pyYaOTP
+# or
+python -m pip install git+https://github.com/WhiteApfel/pyYaOTP.git
+# or
+git clone https://github.com/WhiteApfel/pyYaOTP.git
+cd pyYaOTP
+python setup.py install
+```
+
+## How to use
+
+```python
+from pyYaOTP import YaOTP
+
+yaotp = YaOTP(pin="<<pin>>", secret="<<secret>>")
+print(yaotp.generate_code())
+```
+
+---
+
+**keywords**: Яндекс.Ключ, Yandex.Key, Yandex OTP, YaOTP
