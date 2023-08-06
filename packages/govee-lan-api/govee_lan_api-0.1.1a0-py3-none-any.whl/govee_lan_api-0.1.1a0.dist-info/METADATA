@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: govee-lan-api
+Version: 0.1.1a0
+Summary: Implementation of the Govee LAN API to control supported Govee products
+License: MIT
+Author: Ryan McDonough
+Author-email: Ryan@r2n.io
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# Govee LAN API Client 
+
+This is a simple API client for [Govee's LAN UDP API](https://app-h5.govee.com/user-manual/wlan-guide)
+
