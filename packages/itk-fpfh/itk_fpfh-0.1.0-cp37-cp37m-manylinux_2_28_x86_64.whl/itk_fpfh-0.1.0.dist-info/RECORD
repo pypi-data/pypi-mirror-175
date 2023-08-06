@@ -1,0 +1,11 @@
+itk_fpfh.libs/libtbb-e251c622.so.12.3,sha256=QW3Q2BukMwPKIl4Dlj9P2mOaQxfan6FTZFjeA8ICdhY,378360
+itk_fpfh-0.1.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+itk_fpfh-0.1.0.dist-info/top_level.txt,sha256=K3Bo2NX2FvAd7ExrYg0rKrdBucaB6n6elW5QBc_g8FA,4
+itk_fpfh-0.1.0.dist-info/WHEEL,sha256=VHkgONuAe6uG3_1GjBCvqmttgGut4UUdQuHT7jYxZck,106
+itk_fpfh-0.1.0.dist-info/RECORD,,
+itk_fpfh-0.1.0.dist-info/METADATA,sha256=7dTSZ5jZXXlkA430wyd3AdpN2r_d346HXubvSLVreOQ,1478
+itk/FpfhPython.py,sha256=zTSxZpP2Qkzuqpk1XT10FvmfX06zr6580a0dcxphuP8,2458
+itk/_FpfhPython.so,sha256=_nagAlL2gn3SGTI-cyHV1Y4thZpHXQE7dnB8ZpYULLQ,1499472
+itk/itkPointFeaturePython.py,sha256=T4ZQYbE0iLvcnMjVIHfcBKtRrY244hfLaP09lk7OX1s,21523
+itk/Configuration/Fpfh_snake_case.py,sha256=czLG6ZwAuYYU3JN1XnqrZAcprgNIW-VKr4QKY2NBHBY,81
+itk/Configuration/FpfhConfig.py,sha256=xUPdmfsVum8KEU0m_FwFAY_q1UnRU2K0fU0k1u1XXno,407
