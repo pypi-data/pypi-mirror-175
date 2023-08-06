@@ -1,0 +1,17 @@
+LarpixParser/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+LarpixParser/charge_calibration.py,sha256=zSezr4Hadazr90ozDQWTBj6S6DQ8b115dZnJnt93CDk,685
+LarpixParser/coord_transform.py,sha256=_su8zNpWLA1ToHs1hjKGOg-7PUoN3LMJxmkpbkgnUoc,117
+LarpixParser/event_parser.py,sha256=1rOFjTy-oFs4a_ofJHXXkFsMwue0csya0CrnSOn-GNM,914
+LarpixParser/geom_dict_loader.py,sha256=7oDMjssxJOtCpxNGK_rWLc-A_e5-0nfy-juQIsUC8Qk,169
+LarpixParser/geom_to_dict.py,sha256=6Bhyv1xYOvap1ZSR1UxDu9v2YqZlE5mVuBRQB23J0zk,3711
+LarpixParser/get_charge.py,sha256=Tfpu-jY4aqo9IYuJ409crlRbjeJZEaclFJ_FgNFdc7A,1400
+LarpixParser/get_raw_coord.py,sha256=TmgZ4T7fV-DOlizM35uChaYH5SjYDkTXZF1IJ5E3lzU,1821
+LarpixParser/get_vdrift.py,sha256=uVBZ26v96nRmvYWOC0HKEwaUoTSY8vV6DxEM_D1Igpc,3422
+LarpixParser/hit_parser.py,sha256=PAfMbHO2KoSJQHnlaCw6Xyowii5fkIIoDcyJh_ut2NI,1637
+LarpixParser/units.py,sha256=J15UON1O_qeH_I8EHCBFfFpRaqyIaR5v7eMihwb3ZLI,1287
+LarpixParser/util.py,sha256=pZ1111Ieh2ho9dfTSLMAZphx3OxoToLNdwxEHQcqLHE,1467
+LarpixParser-0.0.3.dist-info/LICENSE,sha256=GKaVaTqy1XJt9IQmmXDkej9haKsLpc_2OdTR-W2MP8g,1061
+LarpixParser-0.0.3.dist-info/METADATA,sha256=UnHiHjEUjxBW6adQlUvUBYUE3a7m4hmWvNiNeTAewWU,684
+LarpixParser-0.0.3.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+LarpixParser-0.0.3.dist-info/top_level.txt,sha256=-JeJ6uL4hGlTr7IDw-Gt2l5DseTt-sT26DKhbf_IZKQ,13
+LarpixParser-0.0.3.dist-info/RECORD,,
