@@ -1,0 +1,12 @@
+weblogin/.gitignore,sha256=MvXUkCLGQKMae-riVXBBpblbuQMA8UOFwBP25CLWDLI,87
+weblogin/Makefile,sha256=S2m0b6s_ErhwAyH7DMV19KMXkMm4D86STbB12L57LIQ,295
+weblogin/__init__.py,sha256=wkJdjvewbYC3aPPz4Gur9f3d97sVMw6CWzZWQzzSyvQ,1628
+weblogin/init.nw,sha256=btrmZMlv-15UnCAcQQszeJq581AhJJGj3mUSj8KqyVk,2855
+weblogin/kth.nw,sha256=TlLe5E9RQSobmWhjvcBlot9zbUsp1ituynjXpWxgW0U,6319
+weblogin/kth.py,sha256=uskyZcl0hUDu5C_sgjk4Rv_hrbM67Kml0WsiZon6RGs,2835
+weblogin/seamlessaccess.nw,sha256=dwywCFAnaOLn79NM8kAdI7j4Tj74-4qtCvW4sYP28QI,3015
+weblogin/seamlessaccess.py,sha256=DAaO0vc7dnb6M6jfGWtiVQLtkbUHCD73d7y1J7HkP4E,741
+weblogin-1.0.dist-info/LICENSE,sha256=YNt1pf6VvEcvHLHKzqVOsdXXP5dyh1nz0oDD00evbis,1068
+weblogin-1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+weblogin-1.0.dist-info/METADATA,sha256=EbtTbax6mxFnfHkCkGy4D9k15dJvr-vOlj-fuAilJtw,2501
+weblogin-1.0.dist-info/RECORD,,
