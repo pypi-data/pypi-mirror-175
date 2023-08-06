@@ -1,0 +1,19 @@
+[build-system]
+requires = [
+    "setuptools",
+    "wheel",
+    'ShynaTime',
+    'ShynaDatabase',
+    'nltk',
+    'requests',
+    'face_recognition',
+    'googlesearch-python',
+    'wikipedia',
+    'IMDbPY',
+    'wget',
+    'telegram',
+    'feedparser',
+    'google_speech',
+    'haversine'
+]
+build-backend = "setuptools.build_meta"
