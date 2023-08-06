@@ -1,0 +1,13 @@
+bantam/__init__.py,sha256=TxIB2ITyhe5-o9TY_WHzLucdHllZ-P1Przn6SyJ6DH4,202
+bantam/api.py,sha256=JFluj_xk69WVv4U--XssYSwtHlLLf8ci-XfyvH7jcig,9706
+bantam/client.py,sha256=UNeH1O6g5jY9G9zrQXUMoPgcnyempj-3XmCXOg6ugNw,12063
+bantam/conversions.py,sha256=oWq6Ssi0dc4Zbh_c8AwwkK9hKbzVeQLeJbkAA4TVMzo,2234
+bantam/decorators.py,sha256=2rrlWhCGOxPGcFJ0jGT3DztgKbJUIM1tAp8wgtEirAY,3636
+bantam/http.py,sha256=lChNu-VfmJx4GRM8p5sSJ4uXS3T4vCJmcpqTTkaU8E0,38319
+bantam/js.py,sha256=as9xXnO7IAc34RyiSPLbvqXLXnO27a6ReXep3OqiXWM,21842
+bantam/js_async.py,sha256=0ONkCQgfK6gKDkH1SQpph4ByRqkShYU4cPaOsVMakJw,19690
+bantam/pythonclient.py,sha256=FGkLY4buPDXmnz1yVPtVHFEaGfa7OAnxq1AnWe6dJ6w,13103
+bantam-1.1.6.dist-info/METADATA,sha256=877lF2Sj_J8YY7YNOxq21On8NF9QtLLKXf08LVm9nYQ,493
+bantam-1.1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bantam-1.1.6.dist-info/top_level.txt,sha256=ocdkwHgLr2xthuyasQA-mSNCWUYnm4FUVmORFCLi0PI,7
+bantam-1.1.6.dist-info/RECORD,,
