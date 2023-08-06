@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: bobtail
+Version: 0.0.1
+Summary: A little Python http framework
+Home-page: https://github.com/joegasewicz/bobtail
+Author: Joe Gasewicz
+Author-email: joegasewicz@gmail.com
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# Bobtail
+A little Python http framework
+
+
+## Install
+```
+pip install bobtail
+```
+
+### Getting Started
+```python
+
+class Images:
+
+    def get(self):
+        return f"It Works!"
+
+    def post(self):
+        pass
+
+    def delete(self):
+        pass
+
+    def put(self):
+        pass
+
+
+routes = [
+    (Images, "/images")
+]
+
+app = BobTail(routes=routes)
+
+```
