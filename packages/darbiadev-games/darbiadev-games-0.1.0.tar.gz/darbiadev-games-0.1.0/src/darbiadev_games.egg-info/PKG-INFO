@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: darbiadev-games
+Version: 0.1.0
+Summary: Namespace for games
+Author-email: Bradley Reynolds <bradley.reynolds@darbia.dev>
+License: MIT
+Project-URL: repository, https://github.com/darbiadev/darbiadev-utilities/
+Project-URL: documentation, https://docs.darbia.dev/darbiadev-utilities/
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: tests
+Provides-Extra: docs
+License-File: LICENSE
+
+# darbiadev-games
+Namespace for games
