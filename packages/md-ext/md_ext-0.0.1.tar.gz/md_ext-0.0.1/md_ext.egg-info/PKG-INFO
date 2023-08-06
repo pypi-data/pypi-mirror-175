@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: md-ext
+Version: 0.0.1
+Summary: Markdown extensions
+Home-page: https://github.com/omidraha/md_ext
+Author: Omid Raha
+Author-email: or@omidraha.com
+License: UNKNOWN
+Description: README
+        =======
+        
+        Extra third party extensions for python ``Python-Markdown``
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
