@@ -1,0 +1,8 @@
+python_apis/ad_api/__init__.py,sha256=DkwuUo65lthxbynuNziyPQm4yLNYq0O5M1O47q5WHMo,115
+python_apis/ad_api/ad_api.py,sha256=LTKKYuAWKe8WK5fkPNfNTrsl0yT9hNQj_RuqyPMsTXw,7973
+python_apis/ad_api/models/__init__.py,sha256=CVnJV2gMH6GWG9HeQ4bxm2rV4nXKDTd8pxFjyR0PXzM,29
+python_apis/ad_api/models/ad_user.py,sha256=KM2ExfkAJrqrH8MJdMat24ChDWSNeCVhMCVqAQwCEIk,2927
+python_apis-0.1.0.dist-info/LICENSE,sha256=lbnSZX0zmYzIUdUDnV6BNxejUpqZ8eUuB-AFFErU0mI,1087
+python_apis-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+python_apis-0.1.0.dist-info/METADATA,sha256=8Ov5kY0qnu0HQMrsfBSbDS677hWJxMrC4dJMArKcV_U,1224
+python_apis-0.1.0.dist-info/RECORD,,
