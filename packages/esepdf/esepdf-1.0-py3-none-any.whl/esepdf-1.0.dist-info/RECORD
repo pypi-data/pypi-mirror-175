@@ -1,0 +1,8 @@
+esepdf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+esepdf/pdf2image.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+esepdf/pdf2text.py,sha256=9o-C_yy000960khNXqgK2J3zTlqXJ6Lit5Se5fil17c,37
+esepdf-1.0.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+esepdf-1.0.dist-info/METADATA,sha256=Hr4xTmLedNaIT_N_TuAjWs8Vd_7fBOtMNrgh4FdkBwI,71
+esepdf-1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+esepdf-1.0.dist-info/top_level.txt,sha256=NToVIMauwKXV6Um_wF2or86uOBkHltaIqhI1kOUPiqA,7
+esepdf-1.0.dist-info/RECORD,,
