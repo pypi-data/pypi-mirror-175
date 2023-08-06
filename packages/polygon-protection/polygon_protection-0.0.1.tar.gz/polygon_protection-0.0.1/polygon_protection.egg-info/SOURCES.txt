@@ -1,0 +1,9 @@
+README.md
+setup.py
+polygon_protection/__init__.py
+polygon_protection/polygon_protection.py
+polygon_protection.egg-info/PKG-INFO
+polygon_protection.egg-info/SOURCES.txt
+polygon_protection.egg-info/dependency_links.txt
+polygon_protection.egg-info/requires.txt
+polygon_protection.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+sqlalchemy
+polygon-api-client
+polygon
