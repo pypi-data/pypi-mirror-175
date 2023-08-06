@@ -1,0 +1,10 @@
+setup.py
+isaak_stat_distributions/Binomialdistribution.py
+isaak_stat_distributions/Gaussiandistribution.py
+isaak_stat_distributions/Generaldistribution.py
+isaak_stat_distributions/__init__.py
+isaak_stat_distributions.egg-info/PKG-INFO
+isaak_stat_distributions.egg-info/SOURCES.txt
+isaak_stat_distributions.egg-info/dependency_links.txt
+isaak_stat_distributions.egg-info/not-zip-safe
+isaak_stat_distributions.egg-info/top_level.txt
