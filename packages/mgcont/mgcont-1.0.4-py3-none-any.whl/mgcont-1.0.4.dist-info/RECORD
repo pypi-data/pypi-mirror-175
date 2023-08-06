@@ -1,0 +1,13 @@
+mgcont/__init__.py,sha256=d1YTmp5OMlnO03wdhqacsx3DIo4xo0XwUFfIYD8qTZk,3809
+mgcont/__main__.py,sha256=mV9G2n-F8hmFqJEPX_-Ex9egKyfFoYA0jhMBNaS_oFo,56
+mgcont/container.py,sha256=lyg-xkx-ReMRDxF4p6Y3L4InkOcfaA1mfDzdKC4wWas,2350
+mgcont/docker_run.py,sha256=43jdwBE0r27rOsydvYrZ0b7gHOcE2T7yhJc8dLvUKig,2929
+mgcont/docker_utils.py,sha256=Ni6NR4hSUMYjeyvjBYudQHlz0VUiDcbTkZjntTE_1pk,1350
+mgcont/paths.py,sha256=0HMFMNxz3CpOtPLS-d_TGxWnOrUMt5Nmflx7PXVNnz8,369
+mgcont/submission_dir.py,sha256=CyFPc5zZJqvV9D990xizMLJJzapuLDBixOMEsd0Ej1A,1486
+mgcont-1.0.4.dist-info/LICENSE,sha256=ivZMKxp0ueoT2hk_Xxu0astrYankEjgk_HEAXpJWFlA,1057
+mgcont-1.0.4.dist-info/METADATA,sha256=wMCBBc1LPeM-MdMDg9a6l23792rq9xqBlU2BidIMIZA,6186
+mgcont-1.0.4.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+mgcont-1.0.4.dist-info/entry_points.txt,sha256=1i-nAWFLcL8ZA2mUYb--D7-4-UrGMellGTGaAIeHVqI,39
+mgcont-1.0.4.dist-info/top_level.txt,sha256=LyOoMENLgwGq_mHeexXeJb6_k3c41KyTNEpEjoxOcQI,7
+mgcont-1.0.4.dist-info/RECORD,,
