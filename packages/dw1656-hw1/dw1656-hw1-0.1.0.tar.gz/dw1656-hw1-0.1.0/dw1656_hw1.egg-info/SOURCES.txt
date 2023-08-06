@@ -1,0 +1,6 @@
+README.md
+setup.py
+dw1656_hw1.egg-info/PKG-INFO
+dw1656_hw1.egg-info/SOURCES.txt
+dw1656_hw1.egg-info/dependency_links.txt
+dw1656_hw1.egg-info/top_level.txt
