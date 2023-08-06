@@ -1,0 +1,13 @@
+README.md
+license.txt
+setup.cfg
+setup.py
+distributions_fitting_v001/Binomialdistribution.py
+distributions_fitting_v001/Gaussiandistribution.py
+distributions_fitting_v001/Generaldistribution.py
+distributions_fitting_v001/__init__.py
+distributions_fitting_v001.egg-info/PKG-INFO
+distributions_fitting_v001.egg-info/SOURCES.txt
+distributions_fitting_v001.egg-info/dependency_links.txt
+distributions_fitting_v001.egg-info/not-zip-safe
+distributions_fitting_v001.egg-info/top_level.txt
