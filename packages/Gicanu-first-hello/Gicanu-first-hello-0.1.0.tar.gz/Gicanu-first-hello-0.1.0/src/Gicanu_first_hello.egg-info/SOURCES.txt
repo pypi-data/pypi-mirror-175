@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+setup.py
+src/Gicanu_first_hello.egg-info/PKG-INFO
+src/Gicanu_first_hello.egg-info/SOURCES.txt
+src/Gicanu_first_hello.egg-info/dependency_links.txt
+src/Gicanu_first_hello.egg-info/top_level.txt
+src/my_own_package/__init__.py
