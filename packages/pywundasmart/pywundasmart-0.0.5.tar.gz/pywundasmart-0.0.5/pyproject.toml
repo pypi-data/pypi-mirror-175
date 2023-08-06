@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pywundasmart"
+version = "0.0.5"
+authors = [
+  { name="Andy Furnell", email="andy@pod4.org" },
+]
+description = "Python library to interface with Wundasmart heating system"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ob0t/pywundasmart"
+"Bug Tracker" = "https://github.com/ob0t/pywundasmart/issues"
+
