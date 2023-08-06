@@ -1,0 +1,9 @@
+rssdk-0.6.dist-info/LICENSE,sha256=jN9-mMJKp7dDUAaSnXewzPsi-bQRVSNWCaMSkLNKiZw,1073
+rssdk-0.6.dist-info/top_level.txt,sha256=CKISofHSTJF6Am95ZU6MDQI2o0MVCfP6EGdDo4ogxcc,6
+rssdk-0.6.dist-info/WHEEL,sha256=t6-9YS7p2kR7TgHsj0xzX91Y68DDPYcNxX7kjdhcd00,150
+rssdk-0.6.dist-info/RECORD,,
+rssdk-0.6.dist-info/METADATA,sha256=XU6g3o0A7kqIZy3frPDEPKeHUNKOYYJJ1FRehdtPglI,4018
+rssdk/rsdio.cpython-37m-x86_64-linux-gnu.so,sha256=ur-iyjL-2kGSGj9vQlgmjM2zdzinCILCoUBxelpOGA4,1775096
+rssdk/_version.py,sha256=zJJcw_y7sLZpDHCpwn1Z6-50nkMpQ8GzxzM7k7akajI,171
+rssdk/rspoe.cpython-37m-x86_64-linux-gnu.so,sha256=1AWWIsmjndQVzqHYtQRNwOP8T6LoIo3SHrB02Q-xexA,1320648
+rssdk/__init__.py,sha256=7v3sftVk5RHDI6pivIKa98BOxB6O6pfuWDzh15WT2x4,663
