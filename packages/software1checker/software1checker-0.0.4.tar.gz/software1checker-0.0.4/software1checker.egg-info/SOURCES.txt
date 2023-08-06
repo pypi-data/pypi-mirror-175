@@ -1,0 +1,11 @@
+LICENSE.md
+pyproject.toml
+setup.py
+software1checker/__init__.py
+software1checker/__main__.py
+software1checker/main.py
+software1checker.egg-info/PKG-INFO
+software1checker.egg-info/SOURCES.txt
+software1checker.egg-info/dependency_links.txt
+software1checker.egg-info/entry_points.txt
+software1checker.egg-info/top_level.txt
