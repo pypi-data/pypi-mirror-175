@@ -1,0 +1,15 @@
+itk/FpfhPython.py,sha256=z5686-J_CXzBxqvs5gV-X9xVStkaaqVVCbCkEq6pNgc,2537
+itk/_FpfhPython.pyd,sha256=U1JeXTEy-sxLRSq8n8WbI_-kptDNOx8BkITCkAQXaYE,460800
+itk/__init_fpfh__.py,sha256=dWwGYGbNpNz1JdRreBbktXTBU2DngDYn4pr1e2sJul4,1514
+itk/itkPointFeaturePython.py,sha256=WX6d0kXnQ7syZ9u0uaA9kcwoOXoS4NMjNaxwhqBbT7A,22033
+itk/Configuration/FpfhConfig.py,sha256=yBhSp1tL2SxRr60Q1o6zLMJ-LRx-j7GjtaAunWYRuUI,412
+itk/Configuration/Fpfh_snake_case.py,sha256=cxZmLJ4bE-b9T4u2KcEfo5_eUT_dPFkuISZUHMBYGVU,82
+itk_fpfh.libs/.load-order-itk_fpfh-0.1.0,sha256=xEED_EW8Vf_zCWJJr6TSrDWgujMkcujMSwNzmKJYT24,25
+itk_fpfh.libs/msvcp140.dll,sha256=-yRh0b_Ft3GdLOwC_Yl50VmgT3NSprCUEGnqGsdxg8U,567184
+itk_fpfh.libs/tbb12.dll,sha256=bFyLlc8RLnG-b--aIVA9SJOaTSTBe-hhMLmBL4uK0cE,308736
+itk_fpfh-0.1.0.dist-info/DELVEWHEEL,sha256=UUtbMhOHxkAmgQzx9JfYcIvy_oOr_0HeaxljjbADi-k,252
+itk_fpfh-0.1.0.dist-info/LICENSE,sha256=Pd-b5cKP4n2tFDpdx27qJSIq0d1ok0oEcGTlbtL6QMU,11560
+itk_fpfh-0.1.0.dist-info/METADATA,sha256=7dTSZ5jZXXlkA430wyd3AdpN2r_d346HXubvSLVreOQ,1478
+itk_fpfh-0.1.0.dist-info/WHEEL,sha256=NY3UGhex5YPbdHhL1VJVLwxoIwKgweDPDrq4a9lMdeE,93
+itk_fpfh-0.1.0.dist-info/top_level.txt,sha256=K3Bo2NX2FvAd7ExrYg0rKrdBucaB6n6elW5QBc_g8FA,4
+itk_fpfh-0.1.0.dist-info/RECORD,,
