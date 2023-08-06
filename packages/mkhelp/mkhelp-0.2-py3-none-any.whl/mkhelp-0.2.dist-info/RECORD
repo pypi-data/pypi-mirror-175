@@ -1,0 +1,12 @@
+mkhelp/__init__.py,sha256=thmqySmcIhwxmyR-ctWrdtIp3msgm4nzQxOf4oZnQmo,233
+mkhelp/__main__.py,sha256=ZQQQRP1F1b4Mz5IPA1mXuRMMhnRwm9rMMYYvu3QiWK0,254
+mkhelp/_base.py,sha256=e_D8Ub8hN2u7QuszuuIlqYcq_ZZWCm0AnW89LDtMrdQ,6427
+mkhelp/_extended.py,sha256=X1jF_M0XlT7XXy5cfas9AgJE6cgJ61L_tFadZ3JFpnc,2836
+mkhelp/_version.py,sha256=0-JtCJyVj1i20nXvIr-QsJZ-UgaBFIu9bdQTF7B9UP8,171
+mkhelp/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mkhelp-0.2.dist-info/LICENSE,sha256=OYamW9EEpeUV6xP518SCn-Y_9FdUehfoSkYY9YAnp3I,1069
+mkhelp-0.2.dist-info/METADATA,sha256=2w5LYbWUCo0Sy9ROtSiAixzZPAglQI4PFYrAc5b505Y,1934
+mkhelp-0.2.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+mkhelp-0.2.dist-info/entry_points.txt,sha256=4O15uO3RV0C5ehcKqL-k4EoyntwCna0rq1X8q0SPS94,48
+mkhelp-0.2.dist-info/top_level.txt,sha256=Nt9No0kEHvz7p4c1jncjQUe_cs_VBxBaPyiwTl2HYAY,7
+mkhelp-0.2.dist-info/RECORD,,
