@@ -1,0 +1,10 @@
+Change Log 
+==========
+
+0.0.3 (5/11/2022)
+-----------------
+- Sorting Algorithm updates
+
+0.0.4 (5/11/2022)
+-----------------
+- Coding Template Generator
