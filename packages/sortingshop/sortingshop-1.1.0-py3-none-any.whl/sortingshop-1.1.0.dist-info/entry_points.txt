@@ -1,0 +1,2 @@
+[console_scripts]
+sortingshop = sortingshop.sortingshop:main
