@@ -1,0 +1,8 @@
+click>=7.0
+sqlite_utils
+geopy
+requests
+
+[test]
+pytest
+geojson-to-sqlite
