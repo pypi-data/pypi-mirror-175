@@ -1,0 +1,9 @@
+-r requirements.txt
+-r requirements-doc.txt
+
+ansible-core
+pylint
+pytest
+pytest-cov
+pytest-html
+pytest-order
