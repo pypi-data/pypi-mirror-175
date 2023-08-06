@@ -1,0 +1,12 @@
+numpy
+
+[dev]
+pre-commit
+
+[lint]
+black
+flake8
+pylint
+
+[test]
+pytest
