@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+tox.ini
+src/helloworld.py
+src/bhawick.helloworld.egg-info/PKG-INFO
+src/bhawick.helloworld.egg-info/SOURCES.txt
+src/bhawick.helloworld.egg-info/dependency_links.txt
+src/bhawick.helloworld.egg-info/requires.txt
+src/bhawick.helloworld.egg-info/top_level.txt

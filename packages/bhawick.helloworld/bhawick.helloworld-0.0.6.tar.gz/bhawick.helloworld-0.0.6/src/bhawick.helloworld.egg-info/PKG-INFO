@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: bhawick.helloworld
+Version: 0.0.6
+Summary: Say hello!
+Home-page: https://github.com/bhawickjain
+Author: bhawick
+Author-email: 53153810+BhawickJain@users.noreply.github.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE.txt
+
+# Hello World
+
+This is an example project demonstrating how to publish a python module to PyPI.
+
+## Installation
+
+Run the following to install:
+
+```python
+pip install bhawick.helloworld
+```
+
+## Usage
+
+```python
+from helloworld import say_hello
+
+# Generate "Hello, World!"
+say_hello()
+
+# Generate "Hello, Everybody!"
+say_hello("Everybody")
+```
