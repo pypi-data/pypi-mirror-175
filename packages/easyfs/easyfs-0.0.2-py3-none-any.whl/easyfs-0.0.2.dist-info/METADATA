@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: easyfs
+Version: 0.0.2
+Description-Content-Type: text/x-rst
+Requires-Dist: pydantic
+Requires-Dist: fsspec
+Provides-Extra: cookiecutter
+Requires-Dist: cookiecutter ; extra == 'cookiecutter'
+
+The missing python filesystem high-level interface
