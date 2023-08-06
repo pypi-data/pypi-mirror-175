@@ -1,0 +1,8 @@
+setup.py
+bearingpgmdata/__init__.py
+bearingpgmdata/bearing.py
+bearingpgmdata.egg-info/PKG-INFO
+bearingpgmdata.egg-info/SOURCES.txt
+bearingpgmdata.egg-info/dependency_links.txt
+bearingpgmdata.egg-info/requires.txt
+bearingpgmdata.egg-info/top_level.txt
