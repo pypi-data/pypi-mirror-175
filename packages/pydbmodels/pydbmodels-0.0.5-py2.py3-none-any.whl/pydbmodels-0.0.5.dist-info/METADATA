@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pydbmodels
+Version: 0.0.5
+Summary: Creates database models from a database
+Author-email: Francesco Vertemati <verte.fra@gmail.com>
+License-File: LICENSE
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: dbmeta>=0.0.8
+Requires-Dist: jinja2>=3.1.2
+Description-Content-Type: text/markdown
+
+# PYDBModels
+## Database Models Generator
