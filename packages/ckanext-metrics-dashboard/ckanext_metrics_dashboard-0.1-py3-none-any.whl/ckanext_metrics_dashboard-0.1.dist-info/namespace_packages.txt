@@ -1,0 +1,2 @@
+ckanext
+ckanext.metrics_dashboard
