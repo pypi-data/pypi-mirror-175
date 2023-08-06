@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dsp-house-prices-muktar
+Version: 0.0.8
+Summary: A package to help load, preprocess, train, evaluate, and predict house prices based on features given in .csv file
+Home-page: 
+Author: Abubakar M. Muktar
+Author-email: sadiksmart0@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
