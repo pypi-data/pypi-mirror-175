@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+tox.ini
+looniplot/looniplot.py
+looniplot/bhawick.looniplot.egg-info/PKG-INFO
+looniplot/bhawick.looniplot.egg-info/SOURCES.txt
+looniplot/bhawick.looniplot.egg-info/dependency_links.txt
+looniplot/bhawick.looniplot.egg-info/requires.txt
+looniplot/bhawick.looniplot.egg-info/top_level.txt
