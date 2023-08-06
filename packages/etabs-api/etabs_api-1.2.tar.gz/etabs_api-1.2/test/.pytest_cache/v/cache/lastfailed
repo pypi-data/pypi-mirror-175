@@ -1,0 +1,12 @@
+{
+  "test_load_cases.py::test_get_load_cases": true,
+  "test_load_cases.py::test_get_spectral_with_angles": true,
+  "test_load_cases.py::test_reset_scales_for_response_spectrums": true,
+  "test_load_combinations.py": true,
+  "test_load_combinations.py::test_add_envelope_load_combinations": true,
+  "test_load_patterns.py": true,
+  "test_material.py::test_get_S400_S340_rebars": true,
+  "test_material.py::test_get_rebar_sizes": true,
+  "test_material.py::test_get_tie_main_rebar_sizes": true,
+  "test_material.py::test_get_tie_main_rebars": true
+}

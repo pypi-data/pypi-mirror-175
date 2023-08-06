@@ -1,0 +1,16 @@
+{
+  "test/etabs_api/safe/test_create_f2k.py": true,
+  "test/etabs_api/sections/test_sections.py": true,
+  "test/etabs_api/test_analyze.py": true,
+  "test/etabs_api/test_area.py": true,
+  "test/etabs_api/test_database.py": true,
+  "test/etabs_api/test_etabs_obj.py": true,
+  "test/etabs_api/test_frame_obj.py": true,
+  "test/etabs_api/test_group.py": true,
+  "test/etabs_api/test_load_cases.py": true,
+  "test/etabs_api/test_material.py": true,
+  "test/etabs_api/test_points.py": true,
+  "test/etabs_api/test_results.py": true,
+  "test/etabs_api/test_story.py": true,
+  "test/etabs_api/test_view.py": true
+}
