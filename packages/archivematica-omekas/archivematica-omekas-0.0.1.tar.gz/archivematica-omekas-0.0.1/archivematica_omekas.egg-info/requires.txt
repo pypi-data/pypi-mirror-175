@@ -1,0 +1,8 @@
+fastcore
+pandas
+omeka_s_tools2
+pandas
+bs4
+tqdm
+
+[dev]
