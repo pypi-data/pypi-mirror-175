@@ -1,0 +1,9 @@
+txl/__init__.py,sha256=4GZKi13lDTD25YBkGakhZyEQZWTER_OWQMNPoH_UM2c,22
+txl/app.py,sha256=QlN86e5B5NF63fRCfR8CdJZUgcbFtNIlYdvY4dqaML4,1748
+txl/base.py,sha256=f32FddUWYlMtbDW5la1bkY0nSmkk-t3WN9Ys3sVsSPI,1179
+txl/cli.py,sha256=U0raYHTylWT2dPBGbwPaM5znPJNnOUTCYS_3x2TTK4s,938
+txl/hooks.py,sha256=pheleh31a3ewqN15cjUvIZMEMJ49JGz5D8zhJcsDX3A,603
+txl-0.0.3.dist-info/METADATA,sha256=jRIbSXvHkfgm47Xz60xIUyqjJIqJjVQY0d9QKzlZ-_g,871
+txl-0.0.3.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+txl-0.0.3.dist-info/licenses/LICENSE.txt,sha256=su0IgzSHZ9tMFeCQ_IaCji5Q4VrZSOqDsEFi7lPduc8,1106
+txl-0.0.3.dist-info/RECORD,,
