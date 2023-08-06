@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: py-WechatPush
+Version: 0.1.5
+Summary: A Python WeChat official account push library
+Home-page: https://wechatpush.danke.ml
+Author: DanKe
+Author-email: danke1024@foxmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# WechatPush
+
+![Language](https://img.shields.io/badge/Language-Python-yellow)![LICENSE](https://img.shields.io/badge/LICENSE-MIT-red)![Author](https://img.shields.io/badge/Author-DanKe-blue)
+
+# 官方文档：http://wechatpush.danke.ml
+
+Python微信公众号/订阅号/测试号推送库
+
+功能目前还不完善，将逐步完善微信推送所有功能
+
