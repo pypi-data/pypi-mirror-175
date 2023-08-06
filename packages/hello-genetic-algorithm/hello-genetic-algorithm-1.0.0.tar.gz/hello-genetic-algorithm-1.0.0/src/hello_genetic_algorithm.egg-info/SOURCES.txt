@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/crossover.py
+src/environment.py
+src/fitness.py
+src/individual.py
+src/selector.py
+src/hello_genetic_algorithm.egg-info/PKG-INFO
+src/hello_genetic_algorithm.egg-info/SOURCES.txt
+src/hello_genetic_algorithm.egg-info/dependency_links.txt
+src/hello_genetic_algorithm.egg-info/top_level.txt
