@@ -1,0 +1,6 @@
+nix_shell_utils/__init__.py,sha256=BDdCeXaCwM7OlbPkRvTPf1sC-QWobPIbMXSlvGRm9TY,10759
+nix_shell_utils-0.0.4.dist-info/LICENSE,sha256=wEKS4Oz6iRslHuk4ZdiCyA4y6UTeez8O6NLsmdM0amI,1081
+nix_shell_utils-0.0.4.dist-info/METADATA,sha256=mDmrUab3tkzuMM3gZV5qnvofE984ulTUITwMgxhFPDY,3785
+nix_shell_utils-0.0.4.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+nix_shell_utils-0.0.4.dist-info/top_level.txt,sha256=pIPijsWj3irRV6gmSBcSEJl2FAWdWOyyRjULObJoa9c,16
+nix_shell_utils-0.0.4.dist-info/RECORD,,
