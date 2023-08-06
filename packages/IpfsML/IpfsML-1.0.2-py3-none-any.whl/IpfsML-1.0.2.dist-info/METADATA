@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: IpfsML
+Version: 1.0.2
+Summary: A python wrapper for the nft-storage
+Home-page: https://github.com/kbm9696/IpfsML
+Author: Balamurugan
+Author-email: kbala007.1996@gmail.com
+License: GNU General Public License v3.0
+Keywords: nft-storage,ipfs SDK
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# IpfsML
+Package for upload and retrieve datasets/models to nft-storage
+
+
