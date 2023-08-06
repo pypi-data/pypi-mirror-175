@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/azmdpub/__init__.py
+src/azmdpub/azmdpub.py
+src/azmdpub.egg-info/PKG-INFO
+src/azmdpub.egg-info/SOURCES.txt
+src/azmdpub.egg-info/dependency_links.txt
+src/azmdpub.egg-info/requires.txt
+src/azmdpub.egg-info/top_level.txt
