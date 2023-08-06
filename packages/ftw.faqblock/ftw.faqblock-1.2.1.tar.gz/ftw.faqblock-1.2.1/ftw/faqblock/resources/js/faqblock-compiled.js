@@ -1,0 +1,1 @@
+!function(n,e){"function"==typeof define&&define.amd?define("faqblock",["jquery"],e):e(n.jQuery)}("undefined"!=typeof self?self:this,function(n){n(function(){window.location.hash&&jQuery(".ftw-faqblock-faqblock #uid-"+window.location.hash.substring(1)).attr("checked",!0)})}),require(["faqblock"],function(n){}),define("main",function(){});
