@@ -1,0 +1,11 @@
+itk/itkRansacPython.py,sha256=yNQN_5L9RL425mjvp2nfQV_eyLhYKcFujoqqFhVdQtE,15632
+itk/_RansacPython.so,sha256=8Z93YyGMve1g-EHfND6QZI2FhuFu--gMMxBqcbXRFmU,5603552
+itk/RansacPython.py,sha256=iYGlUVEfVQ5gwMZtTH6jX8NiRMYZZEhvzvMcdBkMzd8,2551
+itk/Configuration/RansacConfig.py,sha256=Rcru0uUdyCslz8gFowqkksBxYaZO6hV5KDuMPHieZ_Y,680
+itk/Configuration/Ransac_snake_case.py,sha256=WRnLlen2jxLU1s5GGArPufZ1-DR4D7SdRd25VYoBFXE,26
+itk/.dylibs/libtbb.12.dylib,sha256=6Qd0XXW0_lmQGdDXu6Aqs3tfjwLGHNXA7gvmcdJV-M8,387664
+itk_ransac-0.1.0.dist-info/RECORD,,
+itk_ransac-0.1.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+itk_ransac-0.1.0.dist-info/WHEEL,sha256=z9qir6Vi_mkOsxGi50wLYU-N2ok_4rABw72J-twhmMA,102
+itk_ransac-0.1.0.dist-info/top_level.txt,sha256=K3Bo2NX2FvAd7ExrYg0rKrdBucaB6n6elW5QBc_g8FA,4
+itk_ransac-0.1.0.dist-info/METADATA,sha256=cyonWfxo1jF6QSCNZU9NARns_RZi2qqzQ5_VFRGipyM,1485
