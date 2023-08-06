@@ -1,0 +1,10 @@
+hxri/__init__.py,sha256=M074Fcb9hCilkDEuFEWLSRcRKfzNdZ4IQtptmZSvBsg,199
+hxri/detector.py,sha256=7YfjZAH3Bmz-zZYDnFFM_IR0YuPXBmPxCvV4z3_OAwY,25075
+hxri/math_helpers.py,sha256=uyC_2aY7CVn0XdSwiWKh7_-6WU80Aev7bNyP7kfk4S8,1998
+hxri/pepper.py,sha256=1h12lKaUNKR20euC6N81Umc9fqqx2t6hdyzvPBkFlKY,31637
+hxri/test.py,sha256=zCq8yhZRM7msRetVQ9aqn85e8oUQWCqFEsa73VbVeAc,36
+hxri-0.0.0.1.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+hxri-0.0.0.1.dist-info/METADATA,sha256=UmamWyjR8SCN-vaNkxKZsDdLRdOwjcQ00AbE27d7G3g,1013
+hxri-0.0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+hxri-0.0.0.1.dist-info/top_level.txt,sha256=l1jnuzGWACFPrLFZ3STQj25noLdlxYNI8U9EopHBKnU,5
+hxri-0.0.0.1.dist-info/RECORD,,
