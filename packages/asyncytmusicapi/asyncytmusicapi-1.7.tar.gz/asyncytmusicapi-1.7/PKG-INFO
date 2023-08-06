@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: asyncytmusicapi
+Version: 1.7
+Summary: Unofficial youtube music API
+Home-page: https://github.com/sheldygg/asyncytmusicapi
+Author: sheldy
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
