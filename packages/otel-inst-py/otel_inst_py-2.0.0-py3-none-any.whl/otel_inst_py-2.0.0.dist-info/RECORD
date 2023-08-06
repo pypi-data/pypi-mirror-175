@@ -1,0 +1,16 @@
+examples/__init__.py,sha256=pGNRKFbRPj_syfEUi7M_LsNEZ5cFmbwVPE4PsOjav7A,371
+examples/simple_trace_otlpgrpc.py,sha256=pYvz-aq6nTIOHgJpgriTl_73Fqt2zvAXcwKn31j6ILA,1437
+examples/simple_trace_otlpgrpc_env.py,sha256=RP2n5CUkFQY0q4iPD1_mJqEnDwZor8XUi7v2GVCymNA,1281
+examples/simple_trace_otlphttp_env.py,sha256=02cjXyvT-g6rDCioAurOGlm7uJK3rUyoT9JsF7DiFb8,1281
+examples/simple_trace_stdout.py,sha256=3egpAwC7d3mF7DHdjVXgY86rtTI5rwF8SCabC212LYE,1221
+examples/simple_trace_stdout_default_config.py,sha256=xodZWm4e-qVvguZE7GSA6jQmnKaxg-kBjfKmbwQzgME,732
+examples/simple_trace_stdout_env.py,sha256=whUNdyBTs4DC77n8zxrg6QIfYyTIL9Xtw61xCJCCxew,1055
+examples/simple_trace_stdout_wo_sdk.py,sha256=jwQvnUtKyAJAf04LlIxSDXC2OhqhhAWELXV9kC-ghk0,613
+oti/__init__.py,sha256=E6Mzgss5n8Ks9Q-gINC-Xr5lEgwjSL8dz7HoQZofmgw,247
+oti/config.py,sha256=rUdInWf__-MVanzXNgKTN0Xblpz3gm-rNAE3GTNVqB8,4694
+oti/oti.py,sha256=ckBltYMXRMHucnH5sjUEPEG8XCWAcGjMIlSX2guC60A,4927
+otel_inst_py-2.0.0.dist-info/LICENSE,sha256=Ay8fk_fG0zXWGd3HS4Fc3RyH9gHiG1S28M6iBFeQ32I,1089
+otel_inst_py-2.0.0.dist-info/METADATA,sha256=LPuGfmV5OutlyXstjv2aLPOpDwzM79QRxz8eN_j7MUo,1444
+otel_inst_py-2.0.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+otel_inst_py-2.0.0.dist-info/top_level.txt,sha256=_LXFjHhUwBlM8-YpP6GJE1MnEeozeEj-l30BBplhEmE,13
+otel_inst_py-2.0.0.dist-info/RECORD,,
