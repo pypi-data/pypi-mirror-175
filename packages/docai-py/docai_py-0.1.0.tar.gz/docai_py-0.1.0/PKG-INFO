@@ -1,0 +1,126 @@
+Metadata-Version: 2.1
+Name: docai-py
+Version: 0.1.0
+Summary: Butler Doc AI
+Home-page: https://butlerlabs.ai
+License: Apache-2.0
+Keywords: Document AI,Document Processing,OCR,LayoutLM
+Author: Butler Labs
+Author-email: support@butlerlabs.ai
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: attrs (>=21.3.0,<23.0.0)
+Requires-Dist: evaluate (>=0.3.0,<0.4.0)
+Requires-Dist: httpx (>=0.15.4,<0.24.0)
+Requires-Dist: numpy (>=1.17.0,<2.0.0)
+Requires-Dist: pdf2image (>=1.14.0,<2.0.0)
+Requires-Dist: pillow (>=8.0.0,<10.0.0)
+Requires-Dist: python-dateutil (>=2.8.1,<2.9.0)
+Requires-Dist: seqeval (>=1.2.2,<2.0.0)
+Requires-Dist: transformers (>=4.20.0,<5.0.0)
+Requires-Dist: typing-extensions (>=4.0.0,<5.0.0)
+Project-URL: Documentation, https://docs.butlerlabs.ai
+Description-Content-Type: text/markdown
+
+# Butler Doc AI
+Welcome to [Butler Doc AI](https://butlerlabs.ai)
+
+## Requirements
+Python >= 3.7
+
+## Installation & Usage
+To install Doc AI with pip:
+```sh
+pip install docai-py
+```
+
+### System Dependencies
+#### Mac
+- Install [poppler](http://macappstore.org/poppler/)
+
+#### Linux
+- Install poppler-utils via your package manager
+
+## Getting Started
+Please follow the [installation procedure](#installation--usage) and then run the following:
+
+```python
+
+from docai import PredictionClient
+
+# Get API Key from https://docs.butlerlabs.ai/reference/uploading-documents-to-the-rest-api#get-your-api-key
+api_key = '<api-key>'
+# Get Queue ID from https://docs.butlerlabs.ai/reference/uploading-documents-to-the-rest-api#go-to-the-model-details-page
+queue_id = '<queue_id>'
+# Path to a local JPEG, PNG, or PDF file
+local_file_path = 'example.pdf'
+
+extraction_results = PredictionClient(api_key).extract_document(queue_id, local_file_path)
+print(extraction_results)
+```
+
+## Maintain
+### Install Packages for Development
+Install [poetry](https://python-poetry.org/docs/#installation) on your host machine
+```sh
+poetry install
+```
+
+### Butler REST API Codegen
+To regenerate code updates to REST API:
+```sh
+openapi-python-client update --url https://app.butlerlabs.ai/api/docs-json --config codegen.yaml
+```
+
+### Running Unit Tests
+To run unit tests:
+```sh
+poetry run pytest
+```
+
+### Adding a New Dependency
+To add a new pip package dependency, see [poetry add](https://python-poetry.org/docs/cli/#add).
+For versioning, it is best to use the minimum version that works, combined with `^`, `~`, or `>=` and `<` checks.
+For example:
+- `poetry add my-package@^1.2.3` is a shorthand for `>=1.2.3,<2.0.0`
+- `poetry add my-package@~1.2.3` is a shorthand for `>=1.2.3,<1.3.0`
+- `poetry add "my-package>=1.2.3,<4.5.6"`
+
+For development only dependencies, make sure to include the `--dev` flag.
+
+### Build and Publish
+
+#### Build and Publish Setup
+```sh
+# setup for testpypi
+poetry config repositories.testpypi https://test.pypi.org/legacy/
+poetry config pypi-token.testpypi <testpypi token>
+
+# setup for pypi
+poetry config repositories.pypi https://pypi.org/legacy/
+poetry config pypi-token.pypi <pypi token>
+```
+
+#### Build and Publish Procedure
+Update `pyproject.toml` and `docai/__init__.py` to have a new version number
+
+```sh
+# build packages
+poetry build
+
+# upload to test pypi
+poetry publish -r testpypi
+
+# test install from test pypi
+pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple docai-py
+
+# upload to real pypi
+poetry publish -r pypi
+```
+
