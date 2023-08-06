@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: marcus-main
+Version: 0.1.0
+Summary: An assignment that refactors the main function from Max's code into its own library
+Home-page: 
+Author: Marcus Rapacioli
+Author-email: 
+License: MIT
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Marcus main
+
+An assignment that refactors the main function from Max's code into its own library
+
+### Installation
+
+```
+pip install marcus-main
+```
+
+### Get started
+
+How to run Max's code using the MarcusMain library
+
+```Python
+from marcus_main import MarcusMain
+
+# Instantiate a MarcusMain object and save it to a variable
+run = MarcusMain()
+
+# Call the main function. We have to pass the main function a number of arguments that are defined elsewhere in Max's code.
+run.main(
+    currency_pairs,
+    initialize_raw_data_tables,
+    initialize_aggregated_tables,
+    aggregate_raw_data_tables,
+    reset_raw_data_tables,
+    ts_to_datetime,
+)
+```
