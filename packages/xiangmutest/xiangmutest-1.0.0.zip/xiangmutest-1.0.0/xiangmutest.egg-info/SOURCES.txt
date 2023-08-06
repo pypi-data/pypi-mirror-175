@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+baopingjimokuai.py
+setup.py
+baotest/__init__.py
+baotest/baoneimokuai.py
+xiangmutest.egg-info/PKG-INFO
+xiangmutest.egg-info/SOURCES.txt
+xiangmutest.egg-info/dependency_links.txt
+xiangmutest.egg-info/top_level.txt
