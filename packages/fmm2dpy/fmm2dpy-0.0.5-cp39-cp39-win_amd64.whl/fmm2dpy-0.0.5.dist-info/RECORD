@@ -1,0 +1,14 @@
+fmm2dpy/__init__.py,sha256=gFB9obaZEVTeBze2NdyLLe6frkkXi3fj3Upnm5Crr0M,107
+fmm2dpy/bhfmm2d_fortran.cp39-win_amd64.pyd,sha256=ttsaWuRIXIPhV9UvyfLVx8iOgutfj0T4qQGX1x9ye7I,542120
+fmm2dpy/fmm2d.py,sha256=WQfdtwJQRhGVl36-6ZtZq2NaCoQmNr8P23mPwVCOWj0,85168
+fmm2dpy/hfmm2d_fortran.cp39-win_amd64.pyd,sha256=UCt1HrVS5pJSDiTIV32mhjX1_NCcfikt69JWr4YpydQ,1195431
+fmm2dpy/lfmm2d_fortran.cp39-win_amd64.pyd,sha256=RVVNQQ_zZVCvxuTiwzpg0gjj5jzjdndLhEyCfkO58l0,2417732
+fmm2dpy/libgcc_s_seh-1.dll,sha256=pnnVOD-MNxS4YQ75ODdhzfPvafaQKYnVwF9PkKYyX28,107187
+fmm2dpy/libgfortran-5.dll,sha256=6nkJQkP87oakMkEhUrgZHrguyyHdiTNe69VTAwm_XhM,3141748
+fmm2dpy/libgomp-1.dll,sha256=PA61SAqWUtyZy70dPqinSebBeLOiuicZnmtyLfdUhts,265726
+fmm2dpy/libquadmath-0.dll,sha256=1JVMAH26rvAMUPbLv5TWcsXHLmoniDrEBJezDs_gEv0,375251
+fmm2dpy/libwinpthread-1.dll,sha256=5J0I9S9M4q8LQ6QZJUF7vXqIxYdH9UsHhnUL2Z3ABQE,58109
+fmm2dpy-0.0.5.dist-info/METADATA,sha256=2GClo4tPEcePicsjYxY7HL2jqxLtgO2sI2LHWy84wHI,996
+fmm2dpy-0.0.5.dist-info/WHEEL,sha256=3wTfi0mVVC0orXdSVFkvrXoyMVYh_GVsLilWQKBG1x0,100
+fmm2dpy-0.0.5.dist-info/top_level.txt,sha256=2fkJGbN-Qx76hy_SEdjSfjWhK7zMo4KdMCj_o-HYbU0,8
+fmm2dpy-0.0.5.dist-info/RECORD,,
