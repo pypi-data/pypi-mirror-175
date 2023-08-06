@@ -1,0 +1,13 @@
+README.md
+setup.py
+maxlib/__init__.py
+maxlib/collect.py
+maxlib/currency.py
+maxlib/db.py
+maxlib/portfolio.py
+maxlib/utils.py
+maxlib_repackaged_MGGY8411_yy2205.egg-info/PKG-INFO
+maxlib_repackaged_MGGY8411_yy2205.egg-info/SOURCES.txt
+maxlib_repackaged_MGGY8411_yy2205.egg-info/dependency_links.txt
+maxlib_repackaged_MGGY8411_yy2205.egg-info/requires.txt
+maxlib_repackaged_MGGY8411_yy2205.egg-info/top_level.txt

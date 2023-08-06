@@ -1,0 +1,7 @@
+wheel
+pandas
+matplotlib
+numpy
+sqlalchemy
+jupyter
+polygon-api-client
