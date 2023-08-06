@@ -1,0 +1,7 @@
+MANIFEST.in
+README.md
+setup.py
+src/DrMarcko_first_hello.egg-info/PKG-INFO
+src/DrMarcko_first_hello.egg-info/SOURCES.txt
+src/DrMarcko_first_hello.egg-info/dependency_links.txt
+src/DrMarcko_first_hello.egg-info/top_level.txt
