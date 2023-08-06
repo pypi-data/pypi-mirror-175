@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: p9q4
+Version: 0.1.0
+Summary: Gets the rating of movies from imdb.com
+Author-email: Louis Gonzalez <gonza533@purdue.edu>
+License: MIT LICENCE (MIT)
+Keywords: example,imdb,tutorial,FILL IN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: FastAPI
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+I accidentally deleted my tdm folder, sadface
