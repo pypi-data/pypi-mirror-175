@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rcplus_alloy_common
+Version: 0.0.3
+Summary: RC+/Alloy helpers functions for Python
+Home-page: https://github.com/ringier-data/rcplus-alloy-lib-py-common
+Author: Ringier AG
+Author-email: info@rcplus.io
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# rcplus-alloy-lib-py-common
+
+**Current version: v0.0.0**
+
+Python utilities for RC+/Alloy
