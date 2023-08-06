@@ -1,0 +1,12 @@
+auth_cord/__init__.py,sha256=wHyP24aLhvb46PB0LgzH5MBLviN139D2RGpQ3ODNv7w,223
+auth_cord/authorization.py,sha256=TLzVNLeflXxLSKo02pgJC2i6Om_zmvDudBTJZmKRl1k,493
+auth_cord/client.py,sha256=u6aMMJC0icM5A6NjilqTDGsc1X6jK8yFgATZIDfyCFQ,3902
+auth_cord/connection.py,sha256=3PUVksMtyyXcMgyckd5JMeIFJwQCbi0ejvhdMehKVls,739
+auth_cord/guild.py,sha256=E1V9F1mUFNB3UmHQiVM3u-HEORLppBI6vzsSwovS74o,313
+auth_cord/token.py,sha256=kkG0ZxN-NF80Us6HJYY8DQpJv6NpyA5MhQ2K4OrB2TY,1420
+auth_cord/user.py,sha256=QkCQAjKA0AEY8JOvNMkihLRwmkRYfYflsRaPPtLZSyU,2003
+auth_cord-0.1.2.dist-info/LICENSE,sha256=rBM53FKW8sWoUJMIDLcuaYULNz3OWm6XaikLYvdEfBQ,1067
+auth_cord-0.1.2.dist-info/METADATA,sha256=biRrZt-k1XmNMJvLkl5i3XmXlg23_7K8satEqeMkt44,2716
+auth_cord-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+auth_cord-0.1.2.dist-info/top_level.txt,sha256=8XOPpcEe-8iTsGvDVWLuu-4k2D1c62ZIvqHbXW7gDUI,10
+auth_cord-0.1.2.dist-info/RECORD,,
