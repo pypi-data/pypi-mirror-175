@@ -1,0 +1,4 @@
+[console_scripts]
+masterful-evaluate = masterful.evaluate:main
+masterful-train = masterful.train.__main__:main
+
