@@ -1,0 +1,10 @@
+include better_template_matching/requirements.txt
+include better_template_matching/thirdparty.json
+include better_template_matching/README.MD
+include better_template_matching/LICENSE
+include better_template_matching/canvas.min.js
+include better_template_matching/filesaver.min.js
+include better_template_matching/jszip.min.js
+include better_template_matching/ybat.css
+include better_template_matching/ybat.html
+include better_template_matching/ybat.js
