@@ -1,0 +1,10 @@
+README.md
+setup.py
+calc_gabrielrs/__init__.py
+calc_gabrielrs.egg-info/PKG-INFO
+calc_gabrielrs.egg-info/SOURCES.txt
+calc_gabrielrs.egg-info/dependency_links.txt
+calc_gabrielrs.egg-info/top_level.txt
+calc_gabrielrs/operacoes/__init__.py
+calc_gabrielrs/operacoes/operacoes_avancadas.py
+calc_gabrielrs/operacoes/operacoes_basicas.py

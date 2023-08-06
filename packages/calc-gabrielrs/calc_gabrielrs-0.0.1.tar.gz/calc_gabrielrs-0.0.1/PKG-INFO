@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: calc_gabrielrs
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/gabrielrsh/criacao-pacotes-python
+Author: Gabriel R.S.
+Author-email: gabriel.shiota@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+The package calc_gabrielrs is used to:
+	Operacoes:
+		- Soma  
+		- Subtracao
+		- Multiplicacao
+		- Divisao
+
+## Installat
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install calc_gabrielrs
+```
+
+## Usage
+
+```python
+from calc_gabrielrs.operacoes import operacoes_basicas
+operacoes_basicas.somar(1,2)
+```
+
+## Author
+Gabriel R.S
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
