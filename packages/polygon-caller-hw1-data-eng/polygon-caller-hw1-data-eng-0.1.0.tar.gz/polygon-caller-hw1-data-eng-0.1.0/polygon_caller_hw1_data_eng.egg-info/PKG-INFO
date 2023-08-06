@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: polygon-caller-hw1-data-eng
+Version: 0.1.0
+Summary: Demo library
+Home-page: https://medium-multiply.readthedocs.io/
+Author: Ziren Xia
+Author-email: example@email.com
+License: MIT
+Description: #PolygonCaller for HW1
+        
+        ## Installation:
+        ``pip install polygon-caller-hw1-data-eng``
+        
+        ## Get started:
+        
+        how to use the polygon api caller:
+        
+        ```
+        from polygon_caller import PolygonCaller
+        PolygonCaller(currency_pairs).make_api_calls()
+        ```
+        
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
