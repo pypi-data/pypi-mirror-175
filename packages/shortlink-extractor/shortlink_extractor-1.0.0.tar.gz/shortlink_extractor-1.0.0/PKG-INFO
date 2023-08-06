@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: shortlink_extractor
+Version: 1.0.0
+Summary: extract shortlink
+Home-page: http://github.com/tsubasa652/python-shortlink-extractor
+Author: tsubasa652
+Author-email: mail@tsubasa.ml
+License: MIT
+Keywords: shorlink,extract
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Internet
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Pythno Short Link Extractor
+
+## Install
+
+```shell
+pip install -U shortlink-extractor
+```
+
+## Usage
+
+example
+
+```python
+from shortlink_extractor import extract_short_link
+
+originalURL = extract_short_link("https://bit.ly/******")
+```
+
+

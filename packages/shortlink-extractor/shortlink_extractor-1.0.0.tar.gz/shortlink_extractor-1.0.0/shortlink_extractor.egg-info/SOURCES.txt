@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+shortlink_extractor/__init__.py
+shortlink_extractor/main.py
+shortlink_extractor.egg-info/PKG-INFO
+shortlink_extractor.egg-info/SOURCES.txt
+shortlink_extractor.egg-info/dependency_links.txt
+shortlink_extractor.egg-info/top_level.txt
