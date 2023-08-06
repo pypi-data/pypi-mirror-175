@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-apex-api-query
+Version: 22.11.7
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: nonebot2
+
