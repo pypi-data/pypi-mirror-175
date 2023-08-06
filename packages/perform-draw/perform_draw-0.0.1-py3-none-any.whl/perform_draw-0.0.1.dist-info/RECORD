@@ -1,0 +1,9 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+perform_draw.py,sha256=QakHxwIHgOoHPdyVJc8VptyIqpDcp3DRGgSz-WBf0c8,1862
+modules/makedrawverify.py,sha256=i0ff8i1ZnbW2MBK0s9NVQZHvAXcLtRy3lm9vmwgq5yc,2803
+modules/selector.py,sha256=Pt_sboZeZ3tMvGyu_aNBh9bvkRba1VjQvkJmRSBHg9M,1606
+perform_draw-0.0.1.dist-info/LICENCE,sha256=1ulw3tCRTmxyv1AmUpCRijf4w0023_wWUz9KO2Sqj0Q,35150
+perform_draw-0.0.1.dist-info/METADATA,sha256=RiG3jcbgZqFu6zRYXzkbAWhc08VXfb9Vk-wdHF_c_Wo,2040
+perform_draw-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+perform_draw-0.0.1.dist-info/top_level.txt,sha256=RG1FuPwKhay87qfz8zb7XD7PYJ52lGm38oZ-oJ9YKgs,30
+perform_draw-0.0.1.dist-info/RECORD,,
