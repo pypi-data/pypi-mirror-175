@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: start-code
+Version: 0.0.1
+Summary: Boilerplate Python Code
+Author: Marcelino G. Veloso III
+Author-email: mars@veloso.one
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: python-dotenv (>=0.21,<0.22)
+Description-Content-Type: text/markdown
+
+# Name of Project Title Here
+
+Enter brief description.
+
+## Gotchas
+
+- When `poetry update` fails, search for libraries.
+- Upgrade pip: `pip3 install -U pip` inside the .venv, i.e. in `poetry shell`
+- Use `pip3` instead of `poetry add` or `poetry update` when third-party library install fails, e.g. `pip3 install -U virtualenv`.
+
+## Quickstart
+
+### Copy from source
+
+1. `gh repo clone justmars/start_code` _target_
+2. Rename `start_code` folder to _target_ or delete
+3. Add `.vscode` to `.gitignore`
+
+### Set python version
+
+1. Check [.python-version](./.python-version), default is 3.10.7
+2. Run `poetry env use $(pyenv which python)` if `.python-version` has been updated. See [ticket](https://github.com/python-poetry/poetry/issues/651#issuecomment-1073213937)
+3. Review created .venv folder's `pyvenv.cfg` this should show the version declared in `.python-version`
+
+## Configure package
+
+1. Open [pyproject.toml](./pyproject.toml)
+2. Change `name` from `start_code` to `desired-package-name` (not a duplicate in pypi)
+3. Add description
+4. Remove dependencies that aren't applicable, e.g. `tqdm`
+5. Create the virtual environment via `poetry install`
+
+## Setup git repo
+
+Note: can avoid this section if not creating a repository
+
+While virtual environment being installed, create new repo. Get repo `<url>`
+
+```zsh
+> `rm -rf .git` # remove cloned .git file
+> `git init -b main`
+> `git add .`
+> `git commit -m "first"`
+> `git remote add origin` <url> # from created repo
+> `pre-commit run -a`
+> `git push -u origin main`
+```
+
+## Cleanup
+
+1. Add license, repository, packages to [pyproject.toml](./pyproject.toml), when ready.
+2. Delete contents of this README from `Gotchas` going down.
+3. Update precommit [config](./pre-commit-config.yaml) version numbers to match [pyproject.toml](./pyproject.toml), in case these have been updated.
+
