@@ -1,0 +1,9 @@
+apojwt/ApoJWT.py,sha256=CFxm29xctoqzU2UL1Bbj2kzVk7uGJ8RRoYdEzOlfRXg,19626
+apojwt/__init__.py,sha256=E84gN7BQd3B8s3Gv7BaQnmUCv2_qztkYd8iJfBowznk,55
+apojwt/fastapi_template.py,sha256=DzBi7tEsnr_A95ISukdMXexbUY22hRnytXptfzIxem8,393
+apojwt/flask_template.py,sha256=rM-ED2fHAePvvQBFqp4ocXtKG7UgbYYqEuuPKZY4YgY,336
+apojwt-1.6.3.dist-info/LICENSE,sha256=nPyxb_WNbFD5mDDuHIme6fmnJegQH2dmoz4kuXZxkTA,1257
+apojwt-1.6.3.dist-info/METADATA,sha256=u62AuL5CGBmJnc5HuntkAUbmqv84RrjtiXmbiMAQgHk,12529
+apojwt-1.6.3.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+apojwt-1.6.3.dist-info/top_level.txt,sha256=y6RuA9gYVaY7u9FegdEF-cb6utJeFMla4oyiH-5yq5s,7
+apojwt-1.6.3.dist-info/RECORD,,
