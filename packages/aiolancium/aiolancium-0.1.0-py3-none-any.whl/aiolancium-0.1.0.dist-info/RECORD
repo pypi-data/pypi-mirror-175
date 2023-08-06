@@ -1,0 +1,16 @@
+aiolancium/__about__.py,sha256=l9Z4MR8sOhdNjgiOSoOgsCAVab-edflb5ax8KCLC2Wc,386
+aiolancium/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aiolancium/auth.py,sha256=-Cmnu3QGGV5B82r_a_EyxsIzmURT-EEJzT-scAhR0sI,1013
+aiolancium/client.py,sha256=x8s13wVjfPNSdTE0QIfyFW4PCZRerXPS8cwVLAo-2aU,835
+aiolancium/decorator.py,sha256=npX5yTXXzAXyPYN4MbsUCKDIPnD8Y39eZkE9BQFwRGg,713
+aiolancium/interfaces/__init__.py,sha256=1ntWMZUlKv0JGKva1dANAhuBVQwUH4gGFE_VhdTi6wA,104
+aiolancium/interfaces/_decorator.py,sha256=WT2lALheIlBHDof6dHvpepI8yeKJeyAOn8TPoPkorCc,490
+aiolancium/interfaces/_proxy.py,sha256=tq-mZHVN7Y6qTFaPSdfOag6X2voTisJv81q3GboGZsU,300
+aiolancium/proxy.py,sha256=YGm1tf8LKfchjOpUTTQfI8Jjn_8KSq-Ptlqzrs-9J_Q,3173
+aiolancium/resources/__init__.py,sha256=aHAfLMI4yvqSd2qNV1GuNoZmrhNcV3azg2I8PbObfyY,530
+aiolancium/resources/api.json,sha256=_zDnSxbhcwmiYgmZeuolbMC78w03oOrBIBqay0oGhEk,126225
+aiolancium/resources/openapi.py,sha256=YUPM6TsGLfmvfTnQMiM92NVA7RRbssz2ASQF84fCkXU,2188
+aiolancium-0.1.0.dist-info/LICENSE,sha256=fW73ejGK02wvYX3fl3rh_4lhcRfav6dzN8YcPE8RIdc,1071
+aiolancium-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+aiolancium-0.1.0.dist-info/METADATA,sha256=COpZkDLP2LXHcNpR2-HRQSMdQIw7z0U5a8vO2qQTgPc,3875
+aiolancium-0.1.0.dist-info/RECORD,,
