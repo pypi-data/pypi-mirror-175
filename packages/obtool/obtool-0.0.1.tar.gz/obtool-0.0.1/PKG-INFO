@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: obtool
+Version: 0.0.1
+Summary: Obsidian 辅助工具
+Author-email: davycloud <daweisi2006@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Utilities
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Project-URL: Home, https://github.com/davycloud/obtool
+
+# obtool
+ A command lint tool for Obsidian
+
