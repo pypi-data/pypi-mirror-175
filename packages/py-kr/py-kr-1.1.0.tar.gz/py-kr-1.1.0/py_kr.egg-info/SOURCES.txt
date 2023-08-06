@@ -1,0 +1,9 @@
+README.md
+setup.py
+기능.py
+랜덤.py
+함수.py
+py_kr.egg-info/PKG-INFO
+py_kr.egg-info/SOURCES.txt
+py_kr.egg-info/dependency_links.txt
+py_kr.egg-info/top_level.txt
