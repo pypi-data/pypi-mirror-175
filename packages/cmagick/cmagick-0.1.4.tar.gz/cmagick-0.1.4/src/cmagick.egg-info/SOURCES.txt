@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+src/cmagick/__init__.py
+src/cmagick/cmagick.py
+src/cmagick/main.py
+src/cmagick/test_cmagick.py
+src/cmagick.egg-info/PKG-INFO
+src/cmagick.egg-info/SOURCES.txt
+src/cmagick.egg-info/dependency_links.txt
+src/cmagick.egg-info/entry_points.txt
+src/cmagick.egg-info/top_level.txt
