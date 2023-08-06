@@ -1,0 +1,3 @@
+include LISENCE
+include README.rst
+recursive-include templates/django_admin_protect *
