@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+setup.py
+pypierrat.egg-info/PKG-INFO
+pypierrat.egg-info/SOURCES.txt
+pypierrat.egg-info/dependency_links.txt
+pypierrat.egg-info/top_level.txt
+src/__init__.py
+src/dfconverter.py
