@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: maxhk
+Version: 0.0.5
+Summary: Set of miscelaneous utils
+Author-email: Max HK <maxhk@noreply.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Package with miscelaneous utils
