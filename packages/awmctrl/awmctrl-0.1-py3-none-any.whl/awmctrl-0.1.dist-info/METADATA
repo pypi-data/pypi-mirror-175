@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: awmctrl
+Version: 0.1
+Summary: Automatically arrange windows based on desktop configuration
+Author-email: Christophe Kalt <ck@taranis.org>
+License: MIT
+Project-URL: Source, https://github.com/syrkuit/awmctrl
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Desktop Environment
+Classifier: Topic :: Utilities
+Requires-Python: <4,>=3.1
+License-File: LICENSE.txt
+Requires-Dist: PyYAML
+

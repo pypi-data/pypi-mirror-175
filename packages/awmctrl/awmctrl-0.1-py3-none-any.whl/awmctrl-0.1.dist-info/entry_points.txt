@@ -1,0 +1,2 @@
+[console_scripts]
+awmctrl = awmctrl:main
