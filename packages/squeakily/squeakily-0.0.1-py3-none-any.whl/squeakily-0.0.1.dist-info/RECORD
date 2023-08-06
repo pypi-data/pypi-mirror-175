@@ -1,0 +1,12 @@
+squeakily/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+squeakily/_modidx.py,sha256=QHdHM-Y1noGcIHfVrGTmSGOCc9mO93ysbP7T8suNAHw,1652
+squeakily/clean.py,sha256=iQtZHBBeo0MsAvDrYNYjA_Hjey8mm5EgAZ4DMF7DaJY,794
+squeakily/core.py,sha256=tE25mCOS6HoKTMTCOmttPM7ik8IIAREQjW0TaL9mUns,2016
+squeakily/filter.py,sha256=Dhaxn1cc-Dgi38GwNqAnszTFztW7KDYF_c-rmJoqZdU,3164
+squeakily/helpers.py,sha256=pP8_iRbGhdqmF0EHi-glYcAQGIdRuk0jCS0Fb50W1pE,11814
+squeakily-0.0.1.dist-info/LICENSE,sha256=ig80mp36zrPNB3CW57m8wipz4phNYoMmrXWaSXldi_8,11367
+squeakily-0.0.1.dist-info/METADATA,sha256=XsletHqCUzXy_4nyEHnu0Zq83i-20gNjklGQalW3e7c,3457
+squeakily-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+squeakily-0.0.1.dist-info/entry_points.txt,sha256=9LDBzaGID3teCCR54o3EC7H7JBFpYJN5ETrhS_QyA7k,40
+squeakily-0.0.1.dist-info/top_level.txt,sha256=M53GW1OIasEsveKxc5RWvshm33cqUOrevCANddfbh_M,10
+squeakily-0.0.1.dist-info/RECORD,,
