@@ -1,0 +1,9 @@
+README.md
+setup.py
+./LICENSE
+nvdllogger/__init__.py
+nvdllogger/logger.py
+nvdllogger.egg-info/PKG-INFO
+nvdllogger.egg-info/SOURCES.txt
+nvdllogger.egg-info/dependency_links.txt
+nvdllogger.egg-info/top_level.txt
