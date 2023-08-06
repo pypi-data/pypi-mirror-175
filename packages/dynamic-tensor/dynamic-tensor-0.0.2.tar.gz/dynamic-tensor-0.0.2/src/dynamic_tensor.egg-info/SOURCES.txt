@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/densor.py
+src/dynamic_tensor.egg-info/PKG-INFO
+src/dynamic_tensor.egg-info/SOURCES.txt
+src/dynamic_tensor.egg-info/dependency_links.txt
+src/dynamic_tensor.egg-info/requires.txt
+src/dynamic_tensor.egg-info/top_level.txt
