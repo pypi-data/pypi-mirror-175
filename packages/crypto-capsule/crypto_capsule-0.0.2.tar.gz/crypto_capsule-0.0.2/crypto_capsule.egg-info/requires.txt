@@ -1,0 +1,2 @@
+click>=8.0.0
+cryptography>=37.0.4

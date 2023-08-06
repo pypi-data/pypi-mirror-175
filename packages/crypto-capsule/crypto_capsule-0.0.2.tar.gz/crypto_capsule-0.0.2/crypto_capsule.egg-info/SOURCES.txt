@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+./__init__.py
+./cli.py
+./mnemonic.py
+./nuke.py
+crypto_capsule.egg-info/PKG-INFO
+crypto_capsule.egg-info/SOURCES.txt
+crypto_capsule.egg-info/dependency_links.txt
+crypto_capsule.egg-info/entry_points.txt
+crypto_capsule.egg-info/requires.txt
+crypto_capsule.egg-info/top_level.txt
+wordlist/english.txt
