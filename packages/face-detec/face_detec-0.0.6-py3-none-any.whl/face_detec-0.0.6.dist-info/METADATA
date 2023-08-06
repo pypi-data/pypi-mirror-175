@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: face-detec
+Version: 0.0.6
+Home-page: https://github.com/209sontung/NEU-ID
+Author: st
+Author-email: 209tungns@gmail.com
+Keywords: face_detection,face_alignment
+Requires-Dist: scikit-learn
+Requires-Dist: opencv-python
+Requires-Dist: mediapipe
+Requires-Dist: numpy
+
