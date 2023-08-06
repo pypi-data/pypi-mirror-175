@@ -1,0 +1,3 @@
+[console_scripts]
+fotools=fotool.main:main
+
