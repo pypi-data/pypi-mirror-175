@@ -1,0 +1,11 @@
+iocursor/__init__.py,sha256=LvKl0LrKhHc9J_LuFGCuqgkUlUEbM5Wuy1EqvL6zTXg,359
+iocursor/cursor.c,sha256=lPYdPno4OpX0mDQLjBzCE7h3Gz5VMhrKDy4yjv4ZfF8,35586
+iocursor/cursor.cp39-win_amd64.pyd,sha256=nzOWrm1pm1LUbMYmTjM9HAOB4uu7cHlHd7QiUh4jnF8,24064
+iocursor/cursor.h,sha256=eEGXMB0KKBMiKNPTNi9T7Bfv94UtRiqU5Ic8-8oZa3k,720
+iocursor/cursor.pyi,sha256=dxuHDB7YoOMxaBz7qIseiQLAgi4QP0y1fgdGfjfDmB4,1546
+iocursor/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+iocursor-0.1.4.dist-info/COPYING,sha256=XObb5Zdt5dXDBsYSJ0ftDg78RBgs5ScUhsc0KVRnaqE,1098
+iocursor-0.1.4.dist-info/METADATA,sha256=PP-3yE1qux_s3YRX-DPsgBqwTc6MlOio3ROetv4EFZA,7212
+iocursor-0.1.4.dist-info/WHEEL,sha256=kJHhvr8sA2IqgVrAj9GxGAftol4UiuXmwhSE5LfRITY,100
+iocursor-0.1.4.dist-info/top_level.txt,sha256=FdewTP3CTEdXkzMQuC7X15eORzZEwLbE6MzeAvrtgg0,9
+iocursor-0.1.4.dist-info/RECORD,,
