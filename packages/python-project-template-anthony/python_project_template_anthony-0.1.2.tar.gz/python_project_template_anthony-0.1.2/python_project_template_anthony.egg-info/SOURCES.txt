@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+python_project_template_anthony/__init__.py
+python_project_template_anthony/main.py
+python_project_template_anthony.egg-info/PKG-INFO
+python_project_template_anthony.egg-info/SOURCES.txt
+python_project_template_anthony.egg-info/dependency_links.txt
+python_project_template_anthony.egg-info/requires.txt
+python_project_template_anthony.egg-info/top_level.txt
