@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+esepdf/__init__.py
+esepdf/pdf2image.py
+esepdf/pdf2text.py
+esepdf.egg-info/PKG-INFO
+esepdf.egg-info/SOURCES.txt
+esepdf.egg-info/dependency_links.txt
+esepdf.egg-info/top_level.txt
