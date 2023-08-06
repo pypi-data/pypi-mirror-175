@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: testing_packing
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Han Zaw Nyein
+Author-email: hanzawnyineonline@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Here Tester
+
+```python
+print("Hello")
+```
+
