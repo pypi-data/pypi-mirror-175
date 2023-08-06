@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: chunksum
+Version: 0.1.0
+Summary: Print FastCDC rolling hash chunks and checksums.
+Home-page: https://github.com/xyb/chunksum
+License: MIT
+Author: Xie Yanbo
+Author-email: xieyanbo@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: fastcdc (>=1.4.2,<2.0.0)
+Requires-Dist: tqdm (>=4.64.1,<5.0.0)
+Project-URL: Bug Tracker, https://github.com/xyb/chunksum/issues
+Project-URL: Repository, https://github.com/xyb/chunksum
+Description-Content-Type: text/markdown
+
+# chunksum
+Print FastCDC rolling hash chunks and checksums.
+
