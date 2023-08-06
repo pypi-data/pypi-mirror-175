@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: eliud
+Version: 0.1.0
+Summary: Python Telegram bot Framework
+Home-page: https://github.com/ragnarok22/eliud
+License: GNU GPLv3
+Keywords: Telegram,Framework
+Author: Reinier Hernández
+Author-email: sasuke.reinier@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Framework :: Robot Framework
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: asgiref (>=3.5.2,<4.0.0)
+Requires-Dist: pytz (>=2022.6,<2023.0)
+Project-URL: Repository, https://github.com/ragnarok22/eliud
+Project-URL: issues, https://github.com/ragnarok22/eliud/issues
+Description-Content-Type: text/markdown
+
+# Eliud
+
+A simple Framework to create Telegram Bots (WIP)
+
+[![Tests](https://github.com/ragnarok22/eliud/actions/workflows/tests.yml/badge.svg)](https://github.com/ragnarok22/eliud/actions/workflows/tests.yml)
+[![Docs](https://github.com/ragnarok22/eliud/actions/workflows/publish-docs.yml/badge.svg)](https://github.com/ragnarok22/eliud/actions/workflows/publish-docs.yml)
+![GitHub](https://img.shields.io/github/license/ragnarok22/eliud)
+[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
+
+---
+
+**Documentation**: https://ragnarok22.github.io/eliud
+
+**Source Code**: https://github.com/ragnarok22/eliud
+
+---
+
+## Requirements
+Python 3.8+
+
+## Installation
+```shell
+$ pip install eliud
+```
+
