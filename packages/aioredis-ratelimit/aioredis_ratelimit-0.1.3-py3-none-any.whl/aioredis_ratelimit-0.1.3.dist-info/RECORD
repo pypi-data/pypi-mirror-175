@@ -1,0 +1,9 @@
+aioredis_ratelimit/__init__.py,sha256=0kZjeyMILbjup3qxReATe4L4U_dT37eRbXctk6Xp2-A,195
+aioredis_ratelimit/decorator.py,sha256=kbWepNk-D0NZmh37wfe9_dvV16sG4-1cAwWucaziH7g,2511
+aioredis_ratelimit/exceptions.py,sha256=yzDH5a2zS_bj6l7rQRCXxkHEpTCXUHrhXsLso14Xs_Y,44
+aioredis_ratelimit/redis.py,sha256=BJ4xmwHKkbeNs28O97ged6kmzSfJ8vJShnfhfdhcJwQ,346
+aioredis_ratelimit-0.1.3.dist-info/LICENSE,sha256=djME36OqYv3rnHrhx77q_ddke9QTn9ZOGuVz3nS_28M,1061
+aioredis_ratelimit-0.1.3.dist-info/METADATA,sha256=uWcppQHy4cUyeHuQ_U3Hgd_8nbkiB9gtkH550s4FT2Q,1707
+aioredis_ratelimit-0.1.3.dist-info/WHEEL,sha256=00yskusixUoUt5ob_CiUp6LsnN5lqzTJpoqOFg_FVIc,92
+aioredis_ratelimit-0.1.3.dist-info/top_level.txt,sha256=aOkcPMpP8bMaFsHJXZ2GAB4PV4h77-kJQ-hc4HBNX60,19
+aioredis_ratelimit-0.1.3.dist-info/RECORD,,
