@@ -1,0 +1,15 @@
+aiida_shell/__init__.py,sha256=fr7ZwQRDLsTAu3gFlX4Jq3rdBy0hAg3UhGPv7os1iFg,239
+aiida_shell/calculations/__init__.py,sha256=sbQYYAChsFt3J-qeM0oPzh-4Hj6wlI9rIH1OSkTv5tI,127
+aiida_shell/calculations/shell.py,sha256=Wqr6SRaQm4B0viWAVtqWC685OrVUolllfzegF5it-_Y,10337
+aiida_shell/data/__init__.py,sha256=qTKAi4G26kaS-3JiYgMUn82urN98I5iPv3tNwH_6C6I,120
+aiida_shell/data/code.py,sha256=GmYq3ZYuYekuF_eUicH1rRENzjutF-USk3voTTwLV9A,1624
+aiida_shell/engine/__init__.py,sha256=fy-Re-oLyAyGrrXLrZoRX1DS85N9mOcEJRG82Z3IA7g,141
+aiida_shell/engine/launchers/__init__.py,sha256=RkdiNeR-1mwXwqeuxZGhlQ9JjaSQtjw_XFI8D-CUQk4,151
+aiida_shell/engine/launchers/shell_job.py,sha256=_iJbMdqgY_93yz8NWNlg9oNurppYXgcH0kgKgaZiubk,7155
+aiida_shell/parsers/__init__.py,sha256=auaMXE_OMqF10C7e2RLx4pG229tZ1Kt8dTSQdaogY34,128
+aiida_shell/parsers/shell.py,sha256=L1QChlLjN6-iGeeL688L5QYQEPsIRy7lfvBe4Y3qD-M,4769
+aiida_shell-0.3.0.dist-info/entry_points.txt,sha256=iGQHhipYhXfebZLWeWqsYFyc3wDj_1vNo4iQmXviJY4,211
+aiida_shell-0.3.0.dist-info/LICENSE.txt,sha256=_m0RGWTMgBqsIoglUQ1D0LwyAv3NTfvuw29MYyRLQbE,1076
+aiida_shell-0.3.0.dist-info/WHEEL,sha256=rSgq_JpHF9fHR1lx53qwg_1-2LypZE_qmcuXbVUq948,81
+aiida_shell-0.3.0.dist-info/METADATA,sha256=S1txNecYeCfd2umEFVboaFCSQDNious_b4ySrqRKpok,9996
+aiida_shell-0.3.0.dist-info/RECORD,,
