@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: django-hide-admin
+Version: 1.0.0
+Summary: Hides Django admin from unauthorized users
+Home-page: https://github.com/catcombo/django-hide-admin
+Keywords: django,admin
+Author: Evgeniy Krysanov
+Author-email: evgeniy.krysanov@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: Django (>=2.2)
+Project-URL: Repository, https://github.com/catcombo/django-hide-admin
+Description-Content-Type: text/markdown
+
+# django-hide-admin
+
+Hides Django admin from users without staff level access. Anonymous users or users without staff level access will see `404 Not found` error if they try to open the Django admin login page or any other admin pages.
+
+Since the Django admin login page is not available, your project should have a login page for users and staff. Once staff are logged in, they can open `/admin/` (by default) to access admin interface.
+
+# Installation
+
+```
+pip install django-hide-admin
+```
+
+# Usage
+
+Replace `django.contrib.admin` with `hide_admin.apps.HideAdminConfig` in `INSTALLED_APPS`.
+
