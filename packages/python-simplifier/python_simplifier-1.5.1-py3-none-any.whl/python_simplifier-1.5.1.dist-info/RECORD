@@ -1,0 +1,16 @@
+Simplifier/FileHelper.py,sha256=EnYT37-eINWlt99c_kDGPl9SddD8I2YZO0e_WyxaGFE,1368
+Simplifier/Fraction.py,sha256=z9AG22ExsErLmaxwUlLfLTeF9heyIe0Z_fzvsrjsr_E,1095
+Simplifier/HashFile.py,sha256=IqJOlaKuXTMbbmKQTA2d5MrasEPMZLQei_wGo_x0CJc,1788
+Simplifier/Hasher.py,sha256=dLSookeXUuN-QNrANvWl0o74ntKIAkJMCxsZKIVWEbA,3269
+Simplifier/ImaginaryNumber.py,sha256=boa-FWlXXw1NA6HUUsLIEzsMidxn96hMYz6ZZ-FavPw,1013
+Simplifier/Monomial.py,sha256=ewHPSYskASu3X5U1lox8wImApdPpZUb0w_z_LHbpERw,966
+Simplifier/NumberSystems.py,sha256=xQXTujSqmVKZZ8-rimTj_HGkF84OF7gZxPJXlAPHebc,1729
+Simplifier/Polynomial.py,sha256=p5BxCd0ZWLIPQejyapvwAiJW_IwMLm5g7eNwYWM8PC4,1362
+Simplifier/Regex.py,sha256=V6_VuxNzrf4X_g1HxdDsJtD-xpM7gjS8fRRnXxVfKf0,772
+Simplifier/Simplifier.py,sha256=Ag2_oqrJhELL_W3fwx1MEgEPg4Vcf9-r9n6IvARLkik,2677
+Simplifier/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+python_simplifier-1.5.1.dist-info/LICENSE,sha256=JoTeFzAOCkNGhvHsf4r2BFIHpLRXo_4EsrnOZV58XVA,17098
+python_simplifier-1.5.1.dist-info/METADATA,sha256=1681m4vA54veI1k3Id3SBAcz7pZOXJANGhsysA59iZI,1080
+python_simplifier-1.5.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+python_simplifier-1.5.1.dist-info/top_level.txt,sha256=ATJzGrxpT1YtWMiqj2kLita9zAKp4UcYyspqiutp5fQ,11
+python_simplifier-1.5.1.dist-info/RECORD,,
