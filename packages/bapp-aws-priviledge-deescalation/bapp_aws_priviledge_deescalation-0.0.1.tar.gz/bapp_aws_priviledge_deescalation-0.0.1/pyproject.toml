@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "bapp_aws_priviledge_deescalation"
+version = "0.0.1"
+description = "balcony app for preventing IAM Role & User priviledge escalation by creating customized IAM Permission Boundaries for each of them "
+authors = ["Oguzhan Yilmaz <oguzhanylmz271@gmail.com>"]
+license = "Apache-2"
+readme = "README.md"
+packages = [{include = "aws_priviledge_deescalation"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
