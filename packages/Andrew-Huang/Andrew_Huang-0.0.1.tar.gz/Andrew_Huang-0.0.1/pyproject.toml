@@ -1,0 +1,21 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Andrew_Huang"
+version = "0.0.1"
+description = "Given a imdb id, scrapes the corresponding imdb page and returns the rating"
+readme = "README.md"
+authors = [{ name = "Andrew Huang", email = "huan1628@purdue.edu" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["example", "imdb", "tutorial", "FILL IN"]
+dependencies = [
+    "lxml >= 4.9.1",
+    "requests >= 2.28.1",
+]
