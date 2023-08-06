@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+mplcursors
+six
+scipy
+
+[test]
+pytest
+mock
