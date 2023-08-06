@@ -1,0 +1,47 @@
+[tool.poetry]
+name = "dooti"
+version = "0.2.0"
+description = "Manage default file and URI scheme handlers on macOS 12.0+"
+authors = ["jeanluc"]
+readme = "README.rst"
+repository = "https://github.com/lkubb/dooti"
+documentation = ""
+classifiers = [
+    "Operating System :: MacOS",
+    "Intended Audience :: End Users/Desktop",
+    "Topic :: System :: Systems Administration",
+    "Topic :: Utilities"
+]
+
+[tool.poetry.scripts]
+dooti = "dooti.cli:main"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyobjc-core = "^7.2"
+pyobjc-framework-UniformTypeIdentifiers = "^7.2"
+PyYAML = "^6.0"
+xdg = "^5.1.1"
+
+[tool.poetry.dev-dependencies]
+Sphinx = "^4.4.0"
+sphinx-rtd-theme = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+pylint = "^2.15.5"
+pre-commit = "^2.20.0"
+rstcheck = {extras = ["sphinx", "toml"], version = "^6.1.0"}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+
+[tool.rstcheck]
+ignore_directives = [
+    "automodule"
+]
