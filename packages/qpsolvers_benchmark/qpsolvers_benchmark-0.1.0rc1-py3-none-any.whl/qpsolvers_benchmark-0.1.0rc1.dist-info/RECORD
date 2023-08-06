@@ -1,0 +1,16 @@
+qpsolvers_benchmark/__init__.py,sha256=UogVviPFctuE-uTQxpJ39FneRMugK2edjUdMLRoAkC8,984
+qpsolvers_benchmark/problem.py,sha256=lBcfKOekS2fs2QHv6sJYSfJyp6gssBpguD2X8oQ4jrE,8844
+qpsolvers_benchmark/report.py,sha256=Rz2F9bC80ZwOR0VNnTFvi-MYRGRq_9U7YpRm0uEHe0c,4971
+qpsolvers_benchmark/results.py,sha256=ZRg2TN2QMor3CK0m8DdyHxexq9vm25LIdAGaa4ftbr0,6929
+qpsolvers_benchmark/solver_issues.py,sha256=ABjyZSpxlZo2TKfRYvEXsI8jis3IrB1l701kCf9YOa8,3942
+qpsolvers_benchmark/solver_settings.py,sha256=iGviBibG2d-mhMf6Q6R8lbXjOGCwyuYlGtg5b1QPstw,4163
+qpsolvers_benchmark/spdlog.py,sha256=ln6RipzDu7ZuDYkpf1kFbyKLBjB4_vocvuOw3xJVHfQ,1984
+qpsolvers_benchmark/test_set.py,sha256=IOZSYCXxhYaAVkVhS9EJjt9lNQZFJxo_u1uZHYtbl-U,5266
+qpsolvers_benchmark/utils.py,sha256=G9eB9uOaM6PhHW9fKFCBwH0g4bKTT7FONnBN8xNq230,2849
+qpsolvers_benchmark/test_sets/__init__.py,sha256=6h0sg1-HoVrZJDYXSdhTifwnuVupylUFqONivW0j7ZM,806
+qpsolvers_benchmark/test_sets/maros_meszaros.py,sha256=SUbZcBeG0gMMYG6JV4LhL7U23mSiCa5-JBit2SjwL4o,2081
+qpsolvers_benchmark/test_sets/maros_meszaros_dense.py,sha256=vM7uM8DWKLeKXqKkICn1fP6iUjE_ym1kxmyoAZxOD60,1506
+qpsolvers_benchmark-0.1.0rc1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+qpsolvers_benchmark-0.1.0rc1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+qpsolvers_benchmark-0.1.0rc1.dist-info/METADATA,sha256=Cp-zuL0un1gZiLAvXMKeZMTj4nUTM_O179q-wYhXJn0,5705
+qpsolvers_benchmark-0.1.0rc1.dist-info/RECORD,,
