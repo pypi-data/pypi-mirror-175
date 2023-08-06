@@ -1,0 +1,10 @@
+LICENSE
+README.md
+openstuder.py
+setup.cfg
+setup.py
+openstuder_client.egg-info/PKG-INFO
+openstuder_client.egg-info/SOURCES.txt
+openstuder_client.egg-info/dependency_links.txt
+openstuder_client.egg-info/requires.txt
+openstuder_client.egg-info/top_level.txt
