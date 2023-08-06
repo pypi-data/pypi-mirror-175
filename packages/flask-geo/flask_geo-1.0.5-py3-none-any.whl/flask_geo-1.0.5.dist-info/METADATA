@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: flask-geo
+Version: 1.0.5
+License-File: LICENSE
+Requires-Dist: Flask-WTF
+Requires-Dist: pytz
+Requires-Dist: pycountry
+
