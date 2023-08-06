@@ -1,0 +1,11 @@
+dbmeta/__init__.py,sha256=Ww-ZNASHdnIQvypI6gUMtJP9u-amOWco2_xxIZeWbs0,84
+dbmeta/dbmeta.py,sha256=HHBiU0Oahv6S_5Imgo4dQRdXbQgDER0YaIGraAuYLKo,1013
+dbmeta/settings.py,sha256=ajZI5mb6YmcLJx1urOl0SESnUwjWrFSja_N8JbhmP_Q,522
+dbmeta/connections/__init__.py,sha256=7jHyaxGt1KiC002c6J-hR_CJW_wQIXvO6VcDvN_PcFA,222
+dbmeta/connections/database.py,sha256=ZszSELDGpSIo2MkKuPyOsmD3kwHNrlDo6qERe-Ov8iM,2052
+dbmeta/connections/exclude.py,sha256=0A6ya2dXbx33-SJ8IILHQ_8KXKNmbUrn7785VoBDX0w,95
+dbmeta/connections/postgres.py,sha256=4X6CIr02FOTLPwBp0S4uijr135fb1iOD52Gz5jGfvvs,3160
+dbmeta-0.0.8.dist-info/METADATA,sha256=W7EJeyLQnEFwEkiLE6VVwJKtADwVOwu6NUR2fFbFR8U,479
+dbmeta-0.0.8.dist-info/WHEEL,sha256=cdcF4Fbd0FPtw2EMIOwH-3rSOTUdTCeOSXRMD1iLUb8,105
+dbmeta-0.0.8.dist-info/licenses/LICENSE,sha256=T0eTPzleHkBrtJvHkUXH-RR8DaI_ULFNjLC2aPeExM4,1073
+dbmeta-0.0.8.dist-info/RECORD,,
