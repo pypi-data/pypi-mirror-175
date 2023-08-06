@@ -1,0 +1,4 @@
+[console_scripts]
+LandsatGLAD = geoutils.LandsatGLAD:main
+modisAPI = geoutils.modisAPI:main
+
