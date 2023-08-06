@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Sloppy
+Version: 0.0.0.0.0.0.0.31
+Summary: Python module - Sloppy
+Home-page: https://github.com/Cheung-man/Sloppy.git
+Author: Chungman Kim
+Author-email: h2noda@gmail.com
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: beautifulsoup4
+Requires-Dist: openpyxl
+Requires-Dist: rich
+Requires-Dist: python-dateutil
+Requires-Dist: paramiko
+Requires-Dist: cryptography
+
+Module for personal use of Noda......
+Maybe.... Sloppy?

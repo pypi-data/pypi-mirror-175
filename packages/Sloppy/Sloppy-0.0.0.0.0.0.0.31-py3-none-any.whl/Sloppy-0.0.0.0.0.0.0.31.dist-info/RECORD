@@ -1,0 +1,16 @@
+Sloppy/api.py,sha256=QP7OyUExSOIjwLZoS2Dkhn1v5K4_A40K6gxUBLsgNlA,837
+Sloppy/common.py,sha256=uf3gi7s8bnxIOWHh0vG7NmGMegq_KcbFzmzRUEHoUWA,2241
+Sloppy/config.py,sha256=LcVfFwiBnJZKWerzXHskW1N7CgZQS42jiYOLfYGkJcI,856
+Sloppy/database.py,sha256=gOi5q_H93nDKV8eZmzrBml9Pj5CQ4mOTPlhPHRcjmG4,1020
+Sloppy/datetime.py,sha256=d3cA9mJUvPrLC37QKSbNAYRoLI-e2cP0cmUeFeUeVgk,885
+Sloppy/error.py,sha256=Krv8DPil1P45ScRos15r1sC3QcasTL6RGYEMn_Tw8E0,1123
+Sloppy/excel.py,sha256=y04rh8Ow3nILlIA5yJhOUS6GGkaSuJAw2Z_M6QVR0-k,4876
+Sloppy/json.py,sha256=W_L269XdS9JKp4f0Yaq5V5R62Gvfr00J5pT5RvguCfI,1423
+Sloppy/log.py,sha256=tFECji00CxoT38cWdlBWBskai45jxxdsOcNUgCk508k,368
+Sloppy/message.py,sha256=sFm3B6S4lDx1lV-fEvEYAO8ZS991hAxMq2YWWQrdc8Q,3108
+Sloppy/remote.py,sha256=X62aptyNhW-WZH8B8ARXyLnoRnhQTJW1ilrXKCmbN4Y,1268
+Sloppy/security.py,sha256=cpy1i9_c9A1It-n2YGIJC77EEREQ5AczgbPSXOkFP7E,2046
+Sloppy-0.0.0.0.0.0.0.31.dist-info/METADATA,sha256=Zmdo5jLask6pyX9jCIjpFifVv3ozMKyBAsz9QtaDcxs,474
+Sloppy-0.0.0.0.0.0.0.31.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+Sloppy-0.0.0.0.0.0.0.31.dist-info/top_level.txt,sha256=i33MgklgcqcJUIA3nMKqldMvUubk5GnWkCpTU_-u51c,149
+Sloppy-0.0.0.0.0.0.0.31.dist-info/RECORD,,
