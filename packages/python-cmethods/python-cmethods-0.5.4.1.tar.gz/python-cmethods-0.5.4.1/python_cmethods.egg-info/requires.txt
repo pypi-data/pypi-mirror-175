@@ -1,0 +1,7 @@
+xarray
+numpy
+tqdm
+netCDF4
+
+[working examples notebook]
+matplotlib
