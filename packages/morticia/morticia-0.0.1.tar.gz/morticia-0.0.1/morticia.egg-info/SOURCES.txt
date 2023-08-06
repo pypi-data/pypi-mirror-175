@@ -1,0 +1,14 @@
+AUTHORS.rst
+HISTORY.rst
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+morticia/__init__.py
+morticia/tests.py
+morticia.egg-info/PKG-INFO
+morticia.egg-info/SOURCES.txt
+morticia.egg-info/dependency_links.txt
+morticia.egg-info/requires.txt
+morticia.egg-info/top_level.txt
