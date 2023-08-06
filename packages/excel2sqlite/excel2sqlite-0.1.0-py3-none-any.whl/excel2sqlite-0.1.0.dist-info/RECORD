@@ -1,0 +1,7 @@
+excel2sqlite/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+excel2sqlite/cli.py,sha256=7ll2mIxc_kprIZy3pDPf0WtJItyejO2Z96f1zMQD5N8,336
+excel2sqlite/functions.py,sha256=zp-_BXvSYoNrc8W7DYdfvH3gYjItHWeRb8zqEQynXAk,550
+excel2sqlite-0.1.0.dist-info/entry_points.txt,sha256=72eVr0Hwymb91j8po5_qhYL-Q5HYHZqcysDER63yuYM,53
+excel2sqlite-0.1.0.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+excel2sqlite-0.1.0.dist-info/METADATA,sha256=kpZZJb1PCiL56XbMo3W47VjmiWPz3ZY09V3mu-WNyLc,564
+excel2sqlite-0.1.0.dist-info/RECORD,,
