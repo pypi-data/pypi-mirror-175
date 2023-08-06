@@ -1,0 +1,10 @@
+ols_py/__init__.py,sha256=fL5I7IbV_5JII8BmBgNpZF_jA5HB99rbSw36HFobaOk,55
+ols_py/client.py,sha256=mCy5GdfZuUEJcXBQPZQ_Tv8-UO6jpJcbx7z7gdw8KFk,9934
+ols_py/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ols_py/schemas/__init__.py,sha256=hRwqIFfIEM_U6Gcany2L9zKMmPRdZq-mZ13O-2tzuwM,89
+ols_py/schemas/common.py,sha256=mrT3bTtkBq_8NJUjv8ZFe9Ynrbpn6fK0r3beZraNDCs,408
+ols_py/schemas/requests.py,sha256=-d_uvxY6eTHTLonh30wBvFkFZaiDFqCM1FuSVVxxAN8,3907
+ols_py/schemas/responses.py,sha256=JuxEpdovKQ1zNJVzXsvk4mtl38zDSeRTEfA3Nak4eXM,3702
+ols_py-0.2.4.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+ols_py-0.2.4.dist-info/METADATA,sha256=U7dYcAgdOvluSe7vw6-s1XS4qOK751dBWcNlsEybb8o,4339
+ols_py-0.2.4.dist-info/RECORD,,
