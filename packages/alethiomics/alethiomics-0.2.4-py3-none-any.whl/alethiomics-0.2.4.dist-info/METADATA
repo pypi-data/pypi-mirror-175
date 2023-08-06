@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: alethiomics
+Version: 0.2.4
+Summary: Alethiomics data analysis utils
+Author: Alethiomics Ltd
+License: MIT
+License-File: LICENSE
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: pyranges
+Requires-Dist: anndata
+Requires-Dist: numpy
+Requires-Dist: fisher
+Requires-Dist: pykeen
+Requires-Dist: torch
+Requires-Dist: scvi-tools
+
