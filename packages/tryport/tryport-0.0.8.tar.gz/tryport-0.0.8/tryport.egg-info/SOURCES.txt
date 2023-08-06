@@ -1,0 +1,7 @@
+README.md
+setup.py
+tryport/__init__.py
+tryport.egg-info/PKG-INFO
+tryport.egg-info/SOURCES.txt
+tryport.egg-info/dependency_links.txt
+tryport.egg-info/top_level.txt
