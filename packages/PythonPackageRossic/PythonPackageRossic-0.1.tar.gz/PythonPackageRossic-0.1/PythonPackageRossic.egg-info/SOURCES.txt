@@ -1,0 +1,10 @@
+license.txt.txt
+setup.py
+PythonPackageRossic/CalculadoraPrincipal.py
+PythonPackageRossic/Final.py
+PythonPackageRossic/SumarFile.py
+PythonPackageRossic.egg-info/PKG-INFO
+PythonPackageRossic.egg-info/SOURCES.txt
+PythonPackageRossic.egg-info/dependency_links.txt
+PythonPackageRossic.egg-info/not-zip-safe
+PythonPackageRossic.egg-info/top_level.txt
