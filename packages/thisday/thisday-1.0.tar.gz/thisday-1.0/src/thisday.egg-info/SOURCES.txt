@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+Pipfile
+Pipfile.lock
+README.md
+pyproject.toml
+src/thisday/__init__.py
+src/thisday/__main__.py
+src/thisday/thisday.py
+src/thisday.egg-info/PKG-INFO
+src/thisday.egg-info/SOURCES.txt
+src/thisday.egg-info/dependency_links.txt
+src/thisday.egg-info/entry_points.txt
+src/thisday.egg-info/requires.txt
+src/thisday.egg-info/top_level.txt
+tests/__init__.py
+tests/test_thisday.py
