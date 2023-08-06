@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: inopaicli
+Version: 1.0.0.post0
+Summary: Cli interface to execute inopai related tasks
+Author-email: Daniel Rech <dr@netsyno.com>, Yassine Turki <yt@netsyno.com>, Ryan Arbai <ra@netsyno.com>, Dimitar Delchev <dd@netsyno.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: tablib ~=3.2.1
+Requires-Dist: openpyxl ~=3.0.10
+Requires-Dist: requests ~=2.24.0
+Requires-Dist: python-dotenv ~=0.14.0
+Requires-Dist: pylint ~=2.14.0 ; extra == "dev"
+Requires-Dist: toml ~=0.10.2 ; extra == "dev"
+Requires-Dist: yapf ~=0.32.0 ; extra == "dev"
+Requires-Dist: flit ~=3.7.1 ; extra == "dev"
+Requires-Dist: pytest ~=7.1.0 ; extra == "test"
+Requires-Dist: pytest-cov ~=4.0.0 ; extra == "test"
+Project-URL: Homepage, https://gitlab.netsyno.com/inopai/inopaicli
+Provides-Extra: dev
+Provides-Extra: doc
+Provides-Extra: test
+
+# Inopai CLI
+
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+
+### This package is intended to help with inopai related automation tasks
+
+It can be installed with
+
+```pip install inopaicli```
+
+## Commands
+
+There are a lot of commands in the package.
+
+For list and more details check the command [documentation](COMMANDS.md)
+
+## Plugins
+
+You can add plugins to your project that has the package installed, that act as package commands
+
+The plugins folder must be called `inopaicli-plugins` and it has to be in your current working directory
+
+## For developers
+
+Here are all the [instructions](DEVELOPMENT.md) a developer may need

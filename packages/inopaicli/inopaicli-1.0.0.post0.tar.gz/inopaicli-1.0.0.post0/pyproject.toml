@@ -1,0 +1,80 @@
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.7.1,<4"]
+
+[project]
+name = "inopaicli"
+version = "1.0.0.post"
+authors = [
+  { name="Daniel Rech", email="dr@netsyno.com" },
+  { name="Yassine Turki", email="yt@netsyno.com" },
+  { name="Ryan Arbai", email="ra@netsyno.com" },
+  { name="Dimitar Delchev", email="dd@netsyno.com" },
+]
+description = "Cli interface to execute inopai related tasks"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [
+    "tablib ~=3.2.1",
+    "openpyxl ~=3.0.10",
+    "requests ~=2.24.0",
+    "python-dotenv ~=0.14.0",
+]
+
+[project.scripts]
+inopaicli = "inopaicli.manage:init"
+
+[project.urls]
+"Homepage" = "https://gitlab.netsyno.com/inopai/inopaicli"
+
+[project.optional-dependencies]
+dev = [
+    "pylint ~=2.14.0",
+    "toml ~=0.10.2",
+    "yapf ~=0.32.0",
+    "flit ~=3.7.1",
+]
+test = [
+    "pytest ~=7.1.0",
+    "pytest-cov ~=4.0.0",
+]
+doc = []
+
+[tool.pytest.ini_options]
+addopts = "--cov=inopaicli --cov-report html --cov-report term-missing --cov-fail-under 95"
+
+[tool.coverage.run]
+source = ["src"]
+
+[tool.yapf]
+blank_line_before_nested_class_or_def = true
+column_limit = 88
+dedent_closing_brackets = true
+split_all_top_level_comma_separated_values = true
+split_penalty_import_names = 5
+
+[tool.pylint]
+max-line-length = 88
+ignore-long-lines = "^(import |from )"
+disable = [
+    "C0103", # (invalid-name)
+    "C0114", # (missing-module-docstring)
+    "C0115", # (missing-class-docstring)
+    "C0116", # (missing-function-docstring)
+    "C0301", # (line-too-long)
+    "R0903", # (too-few-public-methods)
+    "R0913", # (too-many-arguments)
+    "R0914", # (too-many-locals)
+    "W0105", # (pointless-string-statement)
+]

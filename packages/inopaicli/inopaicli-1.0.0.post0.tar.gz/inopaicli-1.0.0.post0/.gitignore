@@ -1,0 +1,11 @@
+.env
+.coverage
+.pytest_cache
+venv
+dist
+htmlcov
+inopaicli-plugins
+plugins
+.vscode
+__pycache__
+
