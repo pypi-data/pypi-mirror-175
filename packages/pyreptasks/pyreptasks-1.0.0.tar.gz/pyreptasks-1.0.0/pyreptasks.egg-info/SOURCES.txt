@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+versioneer.py
+pyreptasks/.DS_Store
+pyreptasks/__init__.py
+pyreptasks/_version.py
+pyreptasks/switch.py
+pyreptasks.egg-info/PKG-INFO
+pyreptasks.egg-info/SOURCES.txt
+pyreptasks.egg-info/dependency_links.txt
+pyreptasks.egg-info/top_level.txt
