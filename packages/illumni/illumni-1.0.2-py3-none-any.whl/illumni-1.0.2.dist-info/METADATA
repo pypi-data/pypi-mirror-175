@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: illumni
+Version: 1.0.2
+Summary: A web router built on top of flask.
+Author-email: Zenpai <zenpai@zenpaiang.tk>
+Project-URL: Github, https://github.com/ZenpaiAng/illumni
+Keywords: web,flask
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: beautifulsoup4 (==4.11.1)
+Requires-Dist: bs4 (==0.0.1)
+Requires-Dist: Flask (==2.2.2)
+Requires-Dist: itsdangerous (==2.1.2)
+Requires-Dist: Jinja2 (==3.1.2)
+Requires-Dist: MarkupSafe (==2.1.1)
+Requires-Dist: soupsieve (==2.3.2.post1)
+Requires-Dist: Werkzeug (==2.2.2)
+
