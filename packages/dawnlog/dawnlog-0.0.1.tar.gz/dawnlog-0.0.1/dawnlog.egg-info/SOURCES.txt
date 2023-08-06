@@ -1,0 +1,9 @@
+README.txt
+setup.py
+dawnlog/Logger.py
+dawnlog/__init__.py
+dawnlog.egg-info/PKG-INFO
+dawnlog.egg-info/SOURCES.txt
+dawnlog.egg-info/dependency_links.txt
+dawnlog.egg-info/requires.txt
+dawnlog.egg-info/top_level.txt

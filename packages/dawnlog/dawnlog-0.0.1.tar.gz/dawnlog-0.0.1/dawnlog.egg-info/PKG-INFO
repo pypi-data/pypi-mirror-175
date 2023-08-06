@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dawnlog
+Version: 0.0.1
+Summary: print console log and write logs to file
+Home-page: https://github.com/xxxxx
+Author: DawnYang
+Author-email: ylm1392010@qq.com
+License: MIT Licence
+Platform: any
+Requires-Python: >=3.6.5
+Description-Content-Type: text/markdown
+
+new log object afferent log path!!!
+
