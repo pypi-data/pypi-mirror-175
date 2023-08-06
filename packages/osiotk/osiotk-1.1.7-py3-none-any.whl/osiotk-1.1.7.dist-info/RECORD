@@ -1,0 +1,13 @@
+osiotk/__init__.py,sha256=zYAqhKhQVGoKmKEEquET_nREfitYlVQLhyNEeVqqbVE,3902
+osiotk/base.py,sha256=AK5-I2kzXRZAZXX5Ub_F8YcTRTyFdTC1-6I_BKioVvk,872
+osiotk/dir.py,sha256=n9bxwUdQAlCB5mLQUZMknQ72gU94LdYHdJjuvd6oyeI,1587
+osiotk/exists_.py,sha256=6hrd_C5ywyFhnSIsATcjowl72jWnhx8AaImBAU0rqU4,546
+osiotk/is_.py,sha256=FQ3pyZRVM7ry9sxDJ6K-dxxKL_w0UkH57azALq-QfWk,304
+osiotk/make.py,sha256=2qkK1DG3GKSLmJkkFWVYqAyQeF6XBq9SQEvvUG_HTHg,1531
+osiotk/path.py,sha256=41zp00in35DTs0z49zaqqwn3WSXPmeLXJsgoDAKrhKw,415
+osiotk/paths.py,sha256=FwbRbkFZlHI-ZhGytC7p5m7rd3OsahATIC4OncGYJBs,1160
+osiotk/read.py,sha256=cmzwmShtzacU7MUW8E28GuvNVmhmHmfjAvFTxtAlA94,1136
+osiotk/write_.py,sha256=Ck7vVrxcMkXiqQBm8NDembJMnJCgh_Sd8Q9yJNfDRGw,1682
+osiotk-1.1.7.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+osiotk-1.1.7.dist-info/METADATA,sha256=4xETJbV5Qb7CyQDNYPuOjUVtiVKeWqOjXXHugXgEbcU,1214
+osiotk-1.1.7.dist-info/RECORD,,
