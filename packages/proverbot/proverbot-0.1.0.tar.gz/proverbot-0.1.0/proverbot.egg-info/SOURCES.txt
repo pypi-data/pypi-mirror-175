@@ -1,0 +1,8 @@
+setup.py
+proverbot/__init__.py
+proverbot.egg-info/PKG-INFO
+proverbot.egg-info/SOURCES.txt
+proverbot.egg-info/dependency_links.txt
+proverbot.egg-info/top_level.txt
+proverbot/talk/__init__.py
+proverbot/talk/proverb.py
