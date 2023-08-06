@@ -1,0 +1,13 @@
+tinygrad/__init__.py,sha256=ryo3rfj5MFyODZ-3EV5vesH55VM2RcNWBR1cyuNflwc,46
+tinygrad/graph.py,sha256=yJOV18PiMH4lRR2an-aKxR9VW0E9lqYWFbjvzAKzgLw,2678
+tinygrad/helpers.py,sha256=vPsMw1cVwhpDeqVVqrm3KY51kxKwbLWH17TbDbfA9qA,3210
+tinygrad/lazy.py,sha256=Dy8V7_7fIC9xdF0SYmi4bOvatjDl7EPzPe7C7eHvzBw,14989
+tinygrad/mlops.py,sha256=LF9ASYG7soXyNM43gTaHcH2G5EBxpnQ6tn0rP6pWxFA,7713
+tinygrad/ops.py,sha256=BdhQfIc71r0qEpGmhTIGvQUMMXPvqk_9MDY0DyAnBK4,4462
+tinygrad/shapetracker.py,sha256=BahUABLE0F8OAx8pTmAPvTNcJ0vn3deqEmOsN2moOUE,6854
+tinygrad/tensor.py,sha256=tDZUXb7DXwKKm8_P5WmNMYeX_pgk5S0e6ZwEOPjbLow,16030
+tinygrad-0.4.0.dist-info/LICENSE,sha256=NLVz7I24B95p_sqhz9w-qvpSBdepsbHtJ5M-rNhHOlw,1055
+tinygrad-0.4.0.dist-info/METADATA,sha256=iNkKUfJamGQXEs7-3928NvHIrbpkac9c9MNBHsvmV54,7499
+tinygrad-0.4.0.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+tinygrad-0.4.0.dist-info/top_level.txt,sha256=vDABMCWBFQnx2kn9Azueu88FP-1klQdePoHikQhHymc,9
+tinygrad-0.4.0.dist-info/RECORD,,
