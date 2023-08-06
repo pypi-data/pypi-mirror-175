@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: alpinepkgs
+Version: 2.0.0
+Home-page: https://github.com/ludeeus/alpinepkgs
+Author: Joakim Sorensen
+Author-email: ludeeus@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+# alpinepkgs
+
+_Give you information about packages from pkgs.alpinelinux.org._
+
+**NOTE!: This package uses web scraping to gather the information.**
+
+## Install
+
+```bash
+pip install alpinepkgs
+```
+
+### Example
+
+```python
+from alpinepkgs.packages import get_package
+print(get_package('python3'))
+
+> {'package': 'python3', 'branch': 'v3.16', 'x86_64': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'x86': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'aarch64': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'armhf': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 's390x': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'armv7': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'ppc64le': {'version': '3.10.5-r0', 'date': '2022-07-25', 'licence': 'PSF-2.0', 'maintainer': 'Natanael Copa', 'url': 'https://www.python.org/'}, 'versions': ['3.10.5-r0']}
+```
+
