@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: drf-methods
+Version: 0.3
+Summary: Methods of  for Django Rest Framework
+Home-page: UNKNOWN
+Author: Albin Jo Alex
+Author-email: albinjo12345alex@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENCE.txt
+
+Basic methods of GET, POST, DELETE, and PATCH is available *postImages* a new method to upload and save images (multiple and single) using its parent foreign_key_name and image_filed_name
+
