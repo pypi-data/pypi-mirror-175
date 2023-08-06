@@ -1,0 +1,7 @@
+depsolve/__init__.py,sha256=naUUNvrs7RNOO4RfCgonMXcTMylF1aa4J2jXfzbLttc,58
+depsolve/depsolve.py,sha256=w8_zfhzhPNQ_Qu9gXvW6qJfvzPjPQNlQaHQae6DLRMc,2101
+depsolve/exceptions.py,sha256=XTZxiTJsvZhwzCbVb4UWbrAAXyZukmIGa3V9Yevkamk,181
+depsolve/models.py,sha256=3NgFPiLe-MCE32ZXf9YiIkg-SKYFN6u3lzGW8WI3uz8,385
+depsolve-0.1.1.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+depsolve-0.1.1.dist-info/METADATA,sha256=i54440d5F5rGALS2H0LMz-Cg4-ieWTOj_GH6hql1-MI,2336
+depsolve-0.1.1.dist-info/RECORD,,
