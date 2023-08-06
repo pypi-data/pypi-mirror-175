@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: sphinx-emf
+Version: 0.2.0
+Summary: Connect Sphinx-Needs to EMF models.
+Home-page: http://github.com/useblocks/sphinx-emf
+License: MIT
+Author: team useblocks
+Author-email: info@useblocks.com
+Requires-Python: >=3.7.2,<3.11
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Documentation
+Classifier: Topic :: Utilities
+Provides-Extra: docs
+Requires-Dist: Jinja2 (>=3.1.2,<4.0.0)
+Requires-Dist: Sphinx (>=4.0)
+Requires-Dist: click (>=8.1.3,<9.0.0)
+Requires-Dist: pydantic (>=1.8.2,<2.0.0)
+Requires-Dist: pyecore (>=0.13,<0.14)
+Requires-Dist: sphinx-needs (>=1.0.2,<2.0.0)
+Requires-Dist: sphinxcontrib-plantuml (>=0.24,<0.25)
+Requires-Dist: typing-extensions (>=4.4.0,<5.0.0)
+Project-URL: Documentation, https://sphinx-emf.readthedocs.io/
+Project-URL: Repository, http://github.com/useblocks/sphinx-emf
+Description-Content-Type: text/x-rst
+
+**Complete documentation**: https://sphinx-emf.useblocks.com/
+
+Introduction
+============
+
+Sphinx-EMF makes it possible to exchange data between
+`Eclipse EMF <https://www.eclipse.org/modeling/emf/>`_ ECore models and
+`Sphinx-Needs <https://github.com/useblocks/sphinx-needs>`_.
+
+This Sphinx extensions comes with 2 main features:
+
+* a CLI script ``sphinx-emf-cli`` that reads an XMI model and writes RST files contain needs objects
+* a Sphinx builder that reads a Sphinx project containing Sphinx-Needs objects and writes an XMI model from it 
+
+Both features require an EMF ECore metamodel.
+
