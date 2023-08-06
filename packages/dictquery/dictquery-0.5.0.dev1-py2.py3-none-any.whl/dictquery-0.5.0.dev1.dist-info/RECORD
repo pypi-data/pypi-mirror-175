@@ -1,0 +1,11 @@
+dictquery/__init__.py,sha256=jpa2yqaZUZysjMQ3WlQixv0Yd_-P-1ofmXdViamayqM,1975
+dictquery/datavalue.py,sha256=ebcLOGFjKTh_ACWtoxtf5LOWgThtf8SLuB5eYjwO2FE,4282
+dictquery/exceptions.py,sha256=XFLhHsFVoGk2hTAFmb2EUOUkA7tbkdC1PPYRxIi37M4,246
+dictquery/parsers.py,sha256=FnU-pZdJQLtDrjr_AR9jxsZHlI7khlTAwbJ6GnL-0UI,8264
+dictquery/tokenizer.py,sha256=UjbCI2WR2MWkMYuffPR3AOMSQSpRyXsOcMxgd5v0dZc,1816
+dictquery/visitors.py,sha256=oq5ldFXxxIC_o6cayUFqOkrBXdCijuEV0pRVZzcCSYo,11725
+dictquery-0.5.0.dev1.dist-info/LICENSE,sha256=UST0XHoZSK15Exe9t-XAevVhikDSrsatdW1fjKLIWZM,1073
+dictquery-0.5.0.dev1.dist-info/METADATA,sha256=sqxDKe-87cJ5FOm8ZvfL-gGtRYcBLYK0EzZJzJaaRgY,8932
+dictquery-0.5.0.dev1.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+dictquery-0.5.0.dev1.dist-info/top_level.txt,sha256=-6Sft_s1aOfIBHnIwdnuVVDXEpI9L7dcwQoWPv-LwHU,10
+dictquery-0.5.0.dev1.dist-info/RECORD,,
