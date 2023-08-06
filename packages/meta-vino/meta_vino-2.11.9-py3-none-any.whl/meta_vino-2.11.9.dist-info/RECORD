@@ -1,0 +1,14 @@
+metavino/__init__.py,sha256=k9b5bXpmoWJBpTjXabufIZmdHQERatMgZkuUvtR214c,95
+metavino/app/__init__.py,sha256=wQy5U955RuoE-FxpA3hCS12QoDBy5F_pZhgO6WNgwpo,211
+metavino/app/object_classification_vino.py,sha256=tlECuEDWqr6T5S2eZPiu6p2Tdhif1qpMN26HZZRu2kA,187
+metavino/app/object_detection_vino.py,sha256=aLms5lxA4uJgDNgjniJ_IrLXpsDpul4aNR89BmEEONc,275
+metavino/app/onnx_to_vino.py,sha256=3a09fRzzpJr9sUJRYhqJdQivydUcKRezaZnQhwUujE8,990
+metavino/app/saliency_segment_vino.py,sha256=-nBhNNNHZZ73Co_OCXlrpXiG2vB2s8lyS6EFxe0NkTQ,1889
+metavino/model_zoo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+metavino/utils/__init__.py,sha256=qZet64gMJNAAqzUdEqCV5WDk5D2Dbw1Kxlt9Jo6x3m4,23
+metavino/utils/general.py,sha256=S3l8PO-FxE76ilpJ5GvHWtzfCyhiJHkE0_pTygBXak8,5700
+meta_vino-2.11.9.dist-info/METADATA,sha256=wzaBXp4JSAmK6-Reglp-uhzGriVP9DokmLBr-cEW2PQ,407
+meta_vino-2.11.9.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+meta_vino-2.11.9.dist-info/top_level.txt,sha256=ajK0cdRK4irbXCgV8VgI91Z_AL0gZK602SAGRXuIbAI,9
+meta_vino-2.11.9.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+meta_vino-2.11.9.dist-info/RECORD,,
