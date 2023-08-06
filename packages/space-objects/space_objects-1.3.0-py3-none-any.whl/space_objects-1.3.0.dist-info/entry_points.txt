@@ -1,0 +1,7 @@
+[console_scripts]
+spo_load_tle=space_objects.scripts.load_tle:run
+spo_planet_position=space_objects.scripts.planet_position:run
+spo_planets_list=space_objects.scripts.planets_list:run
+spo_satelitte_position=space_objects.scripts.satelitte_position:run
+spo_satelittes_list=space_objects.scripts.satelittes_list:run
+
