@@ -1,0 +1,7 @@
+ssh_cmd/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ssh_cmd/settings.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ssh_cmd/version.py,sha256=9qOVvDFyV7XnDRnLUDmjB7jNR6W3OQM0jPjt7XLAOsY,19
+ssh_command-0.0.1.dist-info/METADATA,sha256=c76U4WUDDDM-eZGc2JCi-oHNF1qWJsmCB19JHOKgQNU,248
+ssh_command-0.0.1.dist-info/WHEEL,sha256=ZL1lC_LiPDNRgDnOl2taCMc83aPEUZgHHv2h-LDgdiM,92
+ssh_command-0.0.1.dist-info/top_level.txt,sha256=6hPjsz9LTyLyjKq19MHrRVpoZxXdmjm0YQKgNS-9Nnk,8
+ssh_command-0.0.1.dist-info/RECORD,,
