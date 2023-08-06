@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: rawhdr
+Version: 0.11.3
+Summary: A command-line image fuser for HDR exposure fusion, focus-stacking, etc.
+Author-email: Felix Thaler <felix.thaler@nummi.ch>
+License: GNU General Public License v2 or later (GPLv2+)
+Project-URL: Homepage, https://github.com/fthaler/rawhdr
+Project-URL: Bug Tracker, https://github.com/fthaler/rawhdr/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Multimedia :: Graphics :: Graphics Conversion
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: click
+Requires-Dist: imageio
+Requires-Dist: numpy
+Requires-Dist: PyWavelets
+Requires-Dist: rawpy
+Requires-Dist: scipy
+Requires-Dist: opencv-python
+Requires-Dist: importlib-metadata ; python_version < "3.8"
+
+# Rawhdr
+
+![Test](https://github.com/fthaler/rawhdr/workflows/Test/badge.svg)
+
+A simple HDR image fuser that converts multiple RAW files into a single HDR image.
+
+## Installation
+
+Installation via the [Python Package Index](https://pypi.org/):
+
+`$> pip install rawhdr`
+
+## Command-Line Usage
+
+### Merging HDR Images
+
+Use the command-line tool _rawhdr_ to fuse multiple RAW images into a single high-dynamic-range image.
+
+`$> rawhdr hdr-fuse -o fused-hdr.exr base-exposure.RAW under-exposed.RAW over-exposed.RAW`
+
+All common RAW file formats are supported.
+
+Note: if you want to save to OpenEXR format and get the error `ValueError: Could not find a format to write the specified file in mode 'i'` from _imageio_, you might need to install _freeimage_, as documented [here](https://imageio.readthedocs.io/en/stable/format_exr-fi.html#exr-fi).
+
+### Focus Stacking
+
+Focus-stacking works similar to HDR fusion:
+
+`$> rawhdr focus-stack --output result.exr image-1.NEF image-2.NEF image-3.NEF …`
+
+## Documentation
+
+See [fthaler.github.io/rawhdr](https://fthaler.github.io/rawhdr) for the full documentation, including Python API.
