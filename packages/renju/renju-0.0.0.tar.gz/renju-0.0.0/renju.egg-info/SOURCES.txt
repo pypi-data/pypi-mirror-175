@@ -1,0 +1,15 @@
+.gitignore
+LICENSE
+README.md
+setup.cfg
+setup.py
+renju/__init__.py
+renju/base.py
+renju/evaluate.py
+renju/game.py
+renju/player.py
+renju/player_day.py
+renju.egg-info/PKG-INFO
+renju.egg-info/SOURCES.txt
+renju.egg-info/dependency_links.txt
+renju.egg-info/top_level.txt
