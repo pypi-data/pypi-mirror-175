@@ -1,0 +1,11 @@
+color_operations/__init__.py,sha256=6jVMrR-fOhqWCv34w3SCjcOE5ZEVfc2OuwQQCnVc-J0,350
+color_operations/colorspace.c,sha256=Q0cq5cGfbWEvrkbZtO1eyyWSeriwfcZAEHKWI4N_DKE,474947
+color_operations/colorspace.cp38-win_amd64.pyd,sha256=4xUfNZ8G9LD32fhg5N3YRxVwoNKtPAG9okAj7z-ptAU,56320
+color_operations/colorspace.pyx,sha256=eb3WfCrr6KyiH0cDnrzMGDtZ37oR7WP5GPc89gsGTew,12629
+color_operations/operations.py,sha256=Do50Yua6ZkmAd4BnukzCLWQmEyMwt4eTFEg6Vw-zCnc,10022
+color_operations/utils.py,sha256=W1ncObAHYE-iznavTFSj21boTfHw3x-W0EtgDgBnPPI,3579
+color_operations-0.1.0.dist-info/LICENSE,sha256=A-qL2WHiIKmioKGcBi2RgEghUCbZ0n9tUYbxaUQRJoU,2247
+color_operations-0.1.0.dist-info/METADATA,sha256=KoCWgK-mrJWIlTNLaSPWOKv--Vn5LViW73i6jwTpMb4,5777
+color_operations-0.1.0.dist-info/WHEEL,sha256=oFcI7rm_Ko6ZTv3Ok7yhoIpT3hwmmmOdJJLMUWDsHP8,100
+color_operations-0.1.0.dist-info/top_level.txt,sha256=bRfVQKX5SoBAJplBIYY2ETyw8k3vvHGsLudv1BruCXs,17
+color_operations-0.1.0.dist-info/RECORD,,
