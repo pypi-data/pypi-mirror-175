@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+emoji_list_discord/Activities.py
+emoji_list_discord/Animals_and_nature.py
+emoji_list_discord/Food_and_drink.py
+emoji_list_discord/Objects.py
+emoji_list_discord/Smileys_and_people.py
+emoji_list_discord/Symbols.py
+emoji_list_discord/Travel_and_places.py
+emoji_list_discord/__init__.py
+emoji_list_discord.egg-info/PKG-INFO
+emoji_list_discord.egg-info/SOURCES.txt
+emoji_list_discord.egg-info/dependency_links.txt
+emoji_list_discord.egg-info/top_level.txt
