@@ -1,0 +1,23 @@
+.flake8
+.gitignore
+.gitlab-ci.yml
+.pre-commit-config.yaml
+LICENSE
+README.md
+pyproject.toml
+setup.py
+doc/FileFormats 2017.pdf
+doc/LEEM ImageHeader metadata field.txt
+examples/py4uview.ipynb
+py4uview/__init__.py
+py4uview/reader.py
+py4uview/uview.py
+py4uview.egg-info/PKG-INFO
+py4uview.egg-info/SOURCES.txt
+py4uview.egg-info/dependency_links.txt
+py4uview.egg-info/requires.txt
+py4uview.egg-info/top_level.txt
+testfiles/LEEM.dat
+testfiles/PES.dat
+testfiles/subfolder/LEED.dat
+testfiles/subfolder/PED.dat
