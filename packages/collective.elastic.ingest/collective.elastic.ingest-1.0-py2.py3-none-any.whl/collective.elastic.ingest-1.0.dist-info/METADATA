@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: collective.elastic.ingest
+Version: 1.0
+Project-URL: PyPI, https://pypi.python.org/pypi/collective.elastic.ingest
+Project-URL: Source, https://github.com/collective/collective.elastic.ingest
+Project-URL: Tracker, https://github.com/collective/collective.elastic.ingest/issues
+License-File: LICENSE.GPL
+License-File: LICENSE.rst
+Requires-Dist: CacheControl
+Requires-Dist: celery
+Requires-Dist: elasticsearch (>=7)
+Requires-Dist: requests
+Requires-Dist: setuptools
+Requires-Dist: six
+
