@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: stats-drug-test-patients
+Version: 1.0.0
+Summary: Calculates test drug patients good or not
+Home-page: UNKNOWN
+Author: PunGrumpy
+License: UNKNOWN
+Description: A package that calculates test drug patients good or not
+Keywords: python,statistics,education
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
