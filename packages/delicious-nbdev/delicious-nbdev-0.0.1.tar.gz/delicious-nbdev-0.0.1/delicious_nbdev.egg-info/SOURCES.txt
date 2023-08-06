@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+delicious_nbdev/Sandwich.py
+delicious_nbdev/__init__.py
+delicious_nbdev/_modidx.py
+delicious_nbdev.egg-info/PKG-INFO
+delicious_nbdev.egg-info/SOURCES.txt
+delicious_nbdev.egg-info/dependency_links.txt
+delicious_nbdev.egg-info/entry_points.txt
+delicious_nbdev.egg-info/not-zip-safe
+delicious_nbdev.egg-info/requires.txt
+delicious_nbdev.egg-info/top_level.txt
