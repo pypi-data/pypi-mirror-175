@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pibooking
+Version: 0.0.1
+Summary: A small example package
+Project-URL: Homepage, https://github.com/mathiazom/pibooking
+Project-URL: Bug Tracker, https://github.com/mathiazom/pibooking/issues
+Author: mathiazom
+License-File: LICENSE
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.10

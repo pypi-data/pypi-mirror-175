@@ -1,0 +1,25 @@
+[project]
+name = "pibooking"
+version = "0.0.1"
+authors = [
+    { name = "mathiazom" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/mathiazom/pibooking"
+"Bug Tracker" = "https://github.com/mathiazom/pibooking/issues"
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
