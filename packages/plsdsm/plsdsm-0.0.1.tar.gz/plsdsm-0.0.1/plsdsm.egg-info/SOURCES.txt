@@ -1,0 +1,9 @@
+README.md
+setup.py
+plsdsm/__init__.py
+plsdsm/plsds.py
+plsdsm.egg-info/PKG-INFO
+plsdsm.egg-info/SOURCES.txt
+plsdsm.egg-info/dependency_links.txt
+plsdsm.egg-info/requires.txt
+plsdsm.egg-info/top_level.txt

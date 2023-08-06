@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: plsdsm
+Version: 0.0.1
+Summary: A Python package for Partial Least Squares
+Home-page: UNKNOWN
+Author: Soulala Achraf, Souidi Yassine, Chafiqui Youssef, Eddamir Amine
+Author-email: <achrafs758@gmail.com>
+License: UNKNOWN
+Keywords: python,regression,PLS,classification,p-value,correlation
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+
+# dspls
+This is a Partial Least Squares (PLS) package based on Python.
+
+Partial least squares (PLS) is an extension of PCA in which both the  X and Y data are considered. In PCA, only the X data is considered. The goal of the PLS analysis is to build an equation that predicts Y values based on X data.
+
+# Update
+0.0.1 Finish the code of Basic PLS
+
+0.0.2 Update the KernelPLS
+
+
+# Download
+The requirements are listed in "requirements.txt"
+
+Use "pip install git+https://github.com/achrafs758/PLS-from-scratch.git" to install.
+
+
+
+
