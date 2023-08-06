@@ -1,0 +1,17 @@
+synadm/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+synadm/api.py,sha256=beIEsQNY-IGMvqYgLWsQ8hp54-F__LRieNebLKuhnuE,47109
+synadm/cli/__init__.py,sha256=c4GrH2sknfUInyWYIpumHpVSkhMY9raTWDZunculh6E,19091
+synadm/cli/group.py,sha256=0OpX6CQFud3CMwafI0hFoF6yHzRGpabn1XwdOAdTxVQ,1451
+synadm/cli/history.py,sha256=7japTmwyrjKejA6mYKILMwUnLRD1-qFQ04RXks99HVA,4896
+synadm/cli/matrix.py,sha256=Qff1ctUCBRocGpcZd6qEj-qCqU3eQcI1UQtWcWM6r44,5299
+synadm/cli/media.py,sha256=v0M_wRVIQwThI1erjrKD6u2AoSqvfy38H8iE94vWJAc,9011
+synadm/cli/notice.py,sha256=7GwZvg1BeyCxn5yLJFgCLl_Ufl2PYr-zI5u2KqullSA,5859
+synadm/cli/regtok.py,sha256=JXNVZH-nEbw2jSLUHW8weW2f9mROXL7mrbozwDm6K0U,5434
+synadm/cli/room.py,sha256=RBrizSLIp4cj_nqGJ0bwjS-1t0jQMcIoXGudYMdf9t8,11742
+synadm/cli/user.py,sha256=eLZXWnj0NcIQ-tRxnBvIYbn_6FJlWCp3h6nv1ZF-EW8,23844
+synadm-0.37.1.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+synadm-0.37.1.dist-info/METADATA,sha256=xdbBdNI_CI3m28Bo8yl1mSo0F4I9tz_iPrv3OqB3rQ4,17079
+synadm-0.37.1.dist-info/WHEEL,sha256=tIy8_2ZxPExwRKcXlg4jzESby3jB9aLsFLrFCKKh88M,92
+synadm-0.37.1.dist-info/entry_points.txt,sha256=fwJB1rhxLok6my67WVqXSZybGUql4W2tywDjS45tDwg,43
+synadm-0.37.1.dist-info/top_level.txt,sha256=8635RxDxze3-lhuyooNpi3DJ06kSXoO1EYCd1TYdkeY,7
+synadm-0.37.1.dist-info/RECORD,,
