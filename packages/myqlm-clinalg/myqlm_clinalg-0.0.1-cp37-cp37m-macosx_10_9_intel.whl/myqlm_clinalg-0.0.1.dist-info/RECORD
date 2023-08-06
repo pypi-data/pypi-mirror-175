@@ -1,0 +1,17 @@
+qat/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+qat/__init__.so,sha256=pTVDJ54b9gOoh5cWSkDhqx-xiTkn1eCcCp13MDKe_Go,28456
+qat/clinalg/__init__.so,sha256=bO7Nplf__P67okN8n05t7495FIVZJnqxG9xdsS7hy94,28656
+qat/clinalg/callback.so,sha256=x9YYDRLCsq-DKvqXWFCLT9ezJXgD77ysm_CZzBjIm8k,70568
+qat/clinalg/circuitcontext.so,sha256=J4EB7RA01LzOgkKgmKKI3UetCrswBrThA2kkFMXKoeE,385112
+qat/clinalg/libqatclinalg.so,sha256=kWBsY-9zQc8aw5TjPy5iRYVa6yES5AxvqEMBe78QIpM,172584
+qat/clinalg/libqatclinalg_gpu.so,sha256=dTKJymMXcT2uv5t-pKCCKYJjIkUid_PHzpOHFhwAtmQ,4232
+qat/clinalg/qpu.so,sha256=HwmgE8GSVT81-7Ozojz-xFofG9J3R8cTYgU6BKu0a0o,304280
+qat/clinalg/utils.so,sha256=PwnhDI2Diwur9RSpg0X0lSOyv2qA1x0RpsHmyMTxFlc,139168
+qat/clinalg/version.so,sha256=AMLpujOpakNrtGolBLqy9QB4OtFd03S2XB9bDaIngcI,23040
+qat/clinalg/wrapper.so,sha256=kPHjqeK-BFZ42nmLlgD1XpoGSo6WUSGJyPoztnEz9ac,411320
+qat/qpus/hook_clinalg.so,sha256=W-pqhohFUjQh88fa2RO4ac1SoukZ37xKgaLFVZTqZcg,27360
+myqlm_clinalg-0.0.1.dist-info/LICENSE.txt,sha256=Vl03FJBySK7FEYdw_Y0dV66UAVedEyIuqJTJxREyRgs,4752
+myqlm_clinalg-0.0.1.dist-info/METADATA,sha256=MQIBVTUQcute26D2WQdOSI9usaarFv3Ss28nmzpslLQ,778
+myqlm_clinalg-0.0.1.dist-info/WHEEL,sha256=-gR0LvNr9DCtw1tAn87ytiz3_H8ndKi_bigt39QCwQ4,108
+myqlm_clinalg-0.0.1.dist-info/top_level.txt,sha256=EtiE-lzXpV6tDPK3leIRADd9p6cOal7g6fxvqQ-u_yc,4
+myqlm_clinalg-0.0.1.dist-info/RECORD,,
