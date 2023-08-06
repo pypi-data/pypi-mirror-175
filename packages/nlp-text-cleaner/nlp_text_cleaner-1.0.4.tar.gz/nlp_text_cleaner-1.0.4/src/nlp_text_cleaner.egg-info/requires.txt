@@ -1,0 +1,11 @@
+langdetect
+nltk
+regex
+autocorrect
+
+[dev]
+black
+pylint
+isort
+pip-tools
+pytest
