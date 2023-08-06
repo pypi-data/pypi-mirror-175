@@ -1,0 +1,7 @@
+yolov4_cv/__init__.py,sha256=oha75yU6Dzh-eDQdBDn-Tv6p-DcdS9QpCHBdQm5zYQo,65
+yolov4_cv/datadefine.py,sha256=DnHUnloE-6lstlGbZXrJxXNdwgi87WBxNbQT92qMwvg,127
+yolov4_cv/model.py,sha256=38VR3M3mOgdo81P6p9XBknyawp5At7XLRaZNGC-1YYs,3780
+yolov4_cv-0.0.1.dist-info/METADATA,sha256=DQ9pEFtOHIXwIwE9DS4yqmirDWumO-gsRrUNBbq0vZI,3031
+yolov4_cv-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+yolov4_cv-0.0.1.dist-info/top_level.txt,sha256=FcQoLGdKTWTHaNi3jClwBxUXnQUe-AQNoY274_-2vWk,10
+yolov4_cv-0.0.1.dist-info/RECORD,,
