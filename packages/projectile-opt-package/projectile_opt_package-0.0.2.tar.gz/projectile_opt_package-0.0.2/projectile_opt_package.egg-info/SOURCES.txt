@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+projectile_opt_package/__init__.py
+projectile_opt_package/eb_solver.py
+projectile_opt_package/geometry.py
+projectile_opt_package/kontur_solver.py
+projectile_opt_package/mcc.py
+projectile_opt_package/mcdrag_solver.py
+projectile_opt_package/penetration.py
+projectile_opt_package/solvers_abc.py
+projectile_opt_package/strength.py
+projectile_opt_package.egg-info/PKG-INFO
+projectile_opt_package.egg-info/SOURCES.txt
+projectile_opt_package.egg-info/dependency_links.txt
+projectile_opt_package.egg-info/not-zip-safe
+projectile_opt_package.egg-info/top_level.txt
