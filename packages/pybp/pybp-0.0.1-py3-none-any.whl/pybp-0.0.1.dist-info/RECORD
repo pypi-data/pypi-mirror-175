@@ -1,0 +1,8 @@
+bp/__init__.py,sha256=6h-7HisYqQZLdPHJGsv8CDDXFX9rjHLPOSjkfyMBz-A,22
+bp/handle.py,sha256=8FZR21dDXBdrAVDIsT3HXdLR4suiboXpDoYKf6AIxOc,2241
+bp/jobs.py,sha256=FFSPBW3J0zh8nLdX9RY4hXK4r0NcHA4uLIA5y5JHjrk,1170
+bp/utility.py,sha256=fgGGi7oHQFzh36KooPorRWoJYgKVYnXeRbcHLZHHXUs,1235
+pybp-0.0.1.dist-info/METADATA,sha256=GijdfF2GBYf-PceXkpmFKxBdFPmfTHnIruPLMq2hOL0,1009
+pybp-0.0.1.dist-info/WHEEL,sha256=NaLmgHHW_f9jTvv_wRh9vcK7c7EK9o5fwsIXMOzoGgM,87
+pybp-0.0.1.dist-info/licenses/LICENSE,sha256=r6e-Ocl5j4unQkYhpdXKq9pz8MYUqggZkJyzPh_GBoU,1069
+pybp-0.0.1.dist-info/RECORD,,
