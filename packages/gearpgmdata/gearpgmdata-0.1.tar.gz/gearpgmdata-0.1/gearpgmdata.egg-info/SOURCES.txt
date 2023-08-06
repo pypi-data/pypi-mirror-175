@@ -1,0 +1,9 @@
+Licence.txt
+setup.py
+gearpgmdata/__init__.py
+gearpgmdata/gear.py
+gearpgmdata.egg-info/PKG-INFO
+gearpgmdata.egg-info/SOURCES.txt
+gearpgmdata.egg-info/dependency_links.txt
+gearpgmdata.egg-info/requires.txt
+gearpgmdata.egg-info/top_level.txt
