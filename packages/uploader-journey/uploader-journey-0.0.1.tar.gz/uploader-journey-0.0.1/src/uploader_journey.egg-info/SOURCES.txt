@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mypackage/__init__.py
+src/mypackage/uploader.py
+src/uploader_journey.egg-info/PKG-INFO
+src/uploader_journey.egg-info/SOURCES.txt
+src/uploader_journey.egg-info/dependency_links.txt
+src/uploader_journey.egg-info/top_level.txt
