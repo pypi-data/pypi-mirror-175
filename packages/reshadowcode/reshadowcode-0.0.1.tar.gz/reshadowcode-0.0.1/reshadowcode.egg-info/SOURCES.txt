@@ -1,0 +1,7 @@
+README.md
+setup.py
+reshadowcode.egg-info/PKG-INFO
+reshadowcode.egg-info/SOURCES.txt
+reshadowcode.egg-info/dependency_links.txt
+reshadowcode.egg-info/requires.txt
+reshadowcode.egg-info/top_level.txt
