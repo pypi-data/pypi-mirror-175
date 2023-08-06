@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: auto-ricer
+Version: 0.1.2.post3
+Summary: 
+Author: AbdelrhmanNile
+Author-email: abdelrhmannile@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: pywal (>=3.3.0,<4.0.0)
+Requires-Dist: typer (>=0.6.1,<0.7.0)
+Description-Content-Type: text/markdown
+
+## auto ricer
+A simple script to automatically rice bspwm, polybar, gtk, and more.
