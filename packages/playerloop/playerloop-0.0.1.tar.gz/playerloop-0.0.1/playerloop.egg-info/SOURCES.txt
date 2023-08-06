@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+Makefile
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+playerloop/__init__.py
+playerloop/playerloop.py
+playerloop.egg-info/PKG-INFO
+playerloop.egg-info/SOURCES.txt
+playerloop.egg-info/dependency_links.txt
+playerloop.egg-info/not-zip-safe
+playerloop.egg-info/requires.txt
+playerloop.egg-info/top_level.txt
+test/test.py

@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: playerloop
+Version: 0.0.1
+Summary: Get bug reports from your users, fast. Improve your Python application, reward the community.
+Home-page: https://github.com/DaelonSuzuka/playerloop-python
+Author: David Kincaid
+Author-email: dlkincaid0@gmail.com
+License: MIT
+Project-URL: Documentation, https://github.com/DaelonSuzuka/playerloop-python
+Project-URL: Source, https://github.com/DaelonSuzuka/playerloop-python
+Project-URL: Tracker, https://github.com/DaelonSuzuka/playerloop-python/issues
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Bug Tracking
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: Topic :: System :: Logging
+Classifier: Topic :: System :: Monitoring
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown; charset=UTF-8
+License-File: LICENSE
+
+# playerloop-python
+
+[![license](https://img.shields.io/pypi/l/playerloop.svg)](./LICENSE)
+[![pypi version](https://img.shields.io/pypi/v/playerloop.svg)](https://pypi.org/project/playerloop/)
+[![PyPI status](https://img.shields.io/pypi/status/playerloop.svg)](https://github.com/daelonsuzuka/playerloop-python)
+
+Get bug reports from your users, fast. Improve your Python application, reward the community. 
+
+# Installation
+
+```sh 
+pip install playerloop
+```
+
+# Usage
+
+```py
+from playerloop import PlayerLoop
+
+key = '<your api key>'
+
+pl = PlayerLoop(key, 'test_app')
+pl.send_report('test report please ignore')
+```
