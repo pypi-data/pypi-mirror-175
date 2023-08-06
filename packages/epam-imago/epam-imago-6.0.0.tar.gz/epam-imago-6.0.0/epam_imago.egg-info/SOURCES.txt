@@ -1,0 +1,8 @@
+setup.py
+epam/__init__.py
+epam/imago/__init__.py
+epam_imago.egg-info/PKG-INFO
+epam_imago.egg-info/SOURCES.txt
+epam_imago.egg-info/dependency_links.txt
+epam_imago.egg-info/requires.txt
+epam_imago.egg-info/top_level.txt
