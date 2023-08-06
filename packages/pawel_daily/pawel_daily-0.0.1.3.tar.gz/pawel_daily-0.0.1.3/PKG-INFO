@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pawel_daily
+Version: 0.0.1.3
+Summary: docstring
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: pandas
+Requires-Dist: pawel-forecasting
+Requires-Dist: pawel-replenishment
