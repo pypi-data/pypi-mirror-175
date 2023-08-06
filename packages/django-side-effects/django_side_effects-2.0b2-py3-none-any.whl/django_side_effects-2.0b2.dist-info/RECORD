@@ -1,0 +1,13 @@
+side_effects/__init__.py,sha256=AsRw41K0alLTf5jaqRUbT9ThQTVVNYE08sSZdIbaaBc,59
+side_effects/apps.py,sha256=lvJERQfR6Bp-rhABqTBSJVzU5_EwKgJhnmEWjG5uMuk,466
+side_effects/checks.py,sha256=rg_4lmaSK-ATN9Y1wqKa0TdJlDe14OvDdu6D0Wa1ILk,1706
+side_effects/decorators.py,sha256=cZ78jPbdIxRHEewMindAnTMDvTw-Qt0IajAmeoknzVQ,3437
+side_effects/management/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+side_effects/management/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+side_effects/management/commands/display_side_effects.py,sha256=_eqLMmedcjtQq4GcXDpPjg9TGc1R9hghgAWrZEFw6Vs,4826
+side_effects/registry.py,sha256=H2m6L_zIkj6S6eCxris-BUgXABiYkkMAP3tuOb9g1Zk,8219
+side_effects/settings.py,sha256=Iu4hlrCt0tTa93qZsGPDWHrIpzypPRzA9OQ-WOrhl4c,802
+django_side_effects-2.0b2.dist-info/LICENSE,sha256=gAHpQTF-zRBXsvn_AJvAT9MaDRw51q3fyzNSC91kPAc,1079
+django_side_effects-2.0b2.dist-info/WHEEL,sha256=vxFmldFsRN_Hx10GDvsdv1wroKq8r5Lzvjp6GZ4OO8c,88
+django_side_effects-2.0b2.dist-info/METADATA,sha256=8o-jtgjWbrXr9RlNZn64673WSWZXY3-gSd9LWcoW6MY,12665
+django_side_effects-2.0b2.dist-info/RECORD,,
