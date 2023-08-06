@@ -1,0 +1,129 @@
+\section{Logging in to LADOK}
+
+Here we provide the module [[weblogin.ladok]], which serves as an example of 
+how to use [[weblogin]].
+
+We need a class for KTH that detects logins at KTH.
+Then we implement the missing methods in the [[weblogin.AutologinSession]] 
+class.
+<<ladok.py>>=
+from lxml import html
+import re
+import requests
+import urllib.parse
+import weblogin
+from weblogin import seamlessaccess
+
+LOGIN_URL = "https://www.start.ladok.se/gui/loggain"
+
+class AutologinSession(weblogin.AutologinSession):
+  """
+  requests.Session replacement to ensure all requests are automatically logged 
+  in at KTH.
+  """
+  
+  def __init__(self, /, *kwargs):
+    """
+    Creates a requests.Session that automatically logs into LADOK.
+    Requires one of the following keyword arguments:
+    - `id` is a SeamlessAccess.org ID,
+    - `name` is a name used to search SeamlessAccess.org for an institution by 
+      name.
+    """
+    super().__init__()
+
+    self.__id = kwargs.pop("id", None)
+    self.__name = kwargs.pop("name", None)
+
+    if not (self.__id or self.__name):
+      raise ValueError("neither id, nor name keyword argument provided")
+
+  def need_login(self, response):
+    """
+    Checks a response to determine if logging in is needed,
+    returns True if needed
+    """
+    <<check if we're redirected to login server>>
+
+  def login(self, response, args=None, kwargs=None):
+    """
+    Performs a login based on the response from a request
+    args and kwargs are the options from the request triggering the login 
+    procedure, this is so that we can redo that request after loggin in.
+
+    Raises an AuthenticationError exception if authentication fails.
+    """
+    <<log in to login server>>
+@
+
+\subsection{Check if we need to log in}
+
+For LADOK, we always get redirected to the login page if we need to log in.
+<<check if we're redirected to login server>>=
+return response.url.find(LOGIN_URL) == 0
+@
+
+\subsection{Log in to LADOK}
+
+When we want to log in, we start by submitting a particular request.
+<<log in to login server>>=
+response = self.get("https://www.start.ladok.se/Shibboleth.sso/Login?target=https://www.start.ladok.se/gui/shiblogin")
+@
+
+This request redirects us to the SeamlessAccess service.
+We don't need to use this service, we will use its API in 
+\cref{SeamlessAccessAPI} instead.
+What we need is to extract is the target session identifier.
+<<log in to login server>>=
+return_url = urllib.parse.unquote(
+  re.search(r"return=(.*)$", response.url).group(1))
+@
+
+Now that we have the return URL, we can start the actual authentication at the 
+chosen identify provider, \ie the institution.
+We do this by appending an [[entityID]] argument to the URL.
+The values is the URL to the IDP server, which we get from SeamlessAccess.
+<<log in to login server>>=
+if self.__id:
+  entity_data = seamlessaccess.get_entity_data_by_id(self.__id)
+else:
+  entity_data = seamlessaccess.find_entity_data_by_name(self.__name)[0]
+
+response = self.get(f"{return_url}&entityID={entity_data['entityID']}")
+return response
+@
+
+
+\section{Tests}
+
+It's hard to test the functionality.
+We basically want to test if the API on the other side still works.
+We can use the [[app.kth.se/ug-gruppeditor]] to test the two different 
+behaviours.
+The first requests the UI, which redirects automatically.
+The second tests the API, which doesn't redirect the request, but we must do 
+the redirect ourselves using the [[login_trigger_url]].
+
+The two tests follow.
+<<test kth.py>>=
+from weblogin.kth import AutologinSession
+import os
+import requests
+
+def test_get_ui():
+  ug = AutologinSession(os.environ["KTH_LOGIN"],
+                        os.environ["KTH_PASSWD"],
+                        "https://app.kth.se/ug-gruppeditor/")
+  response = ug.get("https://app.kth.se/ug-gruppeditor/")
+  assert response.status_code == requests.codes.ok and \
+    response.url.find("https://app.kth.se") == 0
+
+def test_get_api():
+  ug = AutologinSession(os.environ["KTH_LOGIN"],
+                        os.environ["KTH_PASSWD"],
+                        "https://app.kth.se/ug-gruppeditor/")
+  response = ug.get("https://app.kth.se/ug-gruppeditor/api/ug/groups"
+                    "?editableBySelf=true")
+  assert response.status_code == requests.codes.ok and response.json()
+@
+
