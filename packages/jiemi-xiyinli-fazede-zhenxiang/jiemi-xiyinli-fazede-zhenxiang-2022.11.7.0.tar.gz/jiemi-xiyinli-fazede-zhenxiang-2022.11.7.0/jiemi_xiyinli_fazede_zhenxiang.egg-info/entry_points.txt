@@ -1,0 +1,4 @@
+[console_scripts]
+JiemiXiyinliFazedeZhenxiang = JiemiXiyinliFazedeZhenxiang.__main__:main
+jiemi-xiyinli-fazede-zhenxiang = JiemiXiyinliFazedeZhenxiang.__main__:main
+
